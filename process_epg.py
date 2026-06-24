@@ -63,7 +63,7 @@ def format_episode_num(season, episode):
 
 
 def process_epg(input_path, output_path):
-    """Process EPG XML file to add episode-num elements."""
+    """Process EPG XML file to add episode-num elements and clean titles."""
     tree = ET.parse(input_path)
     root = tree.getroot()
     processed = 0
@@ -74,7 +74,7 @@ def process_epg(input_path, output_path):
             continue
 
         title = title_elem.text.strip()
-        _, season, episode = extract_episode_info(title)
+        clean_title, season, episode = extract_episode_info(title)
 
         if episode and programme.find('episode-num') is None:
             # Add episode-num element after title
@@ -86,6 +86,10 @@ def process_epg(input_path, output_path):
             # Insert after title
             idx = list(programme).index(title_elem)
             programme.insert(idx + 1, ep_elem)
+            
+            # Update title with clean version (remove episode suffix)
+            title_elem.text = clean_title
+            
             processed += 1
 
     # Write output with pretty printing

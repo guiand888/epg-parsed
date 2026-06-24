@@ -166,3 +166,10 @@ class TestExtractEpisodeInfo:
         assert title == "Show"
         assert season == "3"
         assert episode == "1"
+
+    def test_clean_title_no_trailing_spaces(self):
+        """Test that clean titles don't have trailing spaces."""
+        title, season, episode = extract_episode_info("Headline News - EP 288")
+        assert title == "Headline News"
+        assert not title.endswith(" ")
+        assert episode == "288"

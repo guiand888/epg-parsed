@@ -224,3 +224,86 @@ class TestProcessEpg:
         content = output_path.read_text()
         assert content.startswith('<?xml version=')
         assert 'encoding=' in content
+
+    def test_process_clean_title(self, temp_dir, create_xml_file):
+        """Test that episode numbers are removed from titles."""
+        xml_content = '''<?xml version="1.0"?>
+<tv>
+  <programme>
+    <title>Headline News - EP 288</title>
+    <desc>Test description</desc>
+  </programme>
+</tv>'''
+        
+        input_path = create_xml_file(xml_content)
+        output_path = temp_dir / "output.xml"
+        
+        process_epg(str(input_path), str(output_path))
+        
+        # Parse and verify title was cleaned
+        tree = ET.parse(str(output_path))
+        programme = tree.find('.//programme')
+        title_elem = programme.find('title')
+        
+        # Title should be cleaned (no EP suffix)
+        assert title_elem.text == "Headline News"
+        
+        # Episode-num should still be present
+        ep_elem = programme.find('episode-num')
+        assert ep_elem is not None
+        assert ep_elem.text == ".287"
+
+    def test_process_clean_title_with_season(self, temp_dir, create_xml_file):
+        """Test that titles with season and episode are cleaned."""
+        xml_content = '''<?xml version="1.0"?>
+<tv>
+  <programme>
+    <title>My Show S3 - EP 5</title>
+    <desc>Test description</desc>
+  </programme>
+</tv>'''
+        
+        input_path = create_xml_file(xml_content)
+        output_path = temp_dir / "output.xml"
+        
+        process_epg(str(input_path), str(output_path))
+        
+        # Parse and verify
+        tree = ET.parse(str(output_path))
+        programme = tree.find('.//programme')
+        title_elem = programme.find('title')
+        
+        # Title should be cleaned
+        assert title_elem.text == "My Show"
+        
+        # Episode-num should be present with season
+        ep_elem = programme.find('episode-num')
+        assert ep_elem is not None
+        assert ep_elem.text == "2.4"
+
+    def test_process_title_without_episode_unchanged(self, temp_dir, create_xml_file):
+        """Test that titles without episode numbers remain unchanged."""
+        xml_content = '''<?xml version="1.0"?>
+<tv>
+  <programme>
+    <title>Show without EP</title>
+    <desc>Test description</desc>
+  </programme>
+</tv>'''
+        
+        input_path = create_xml_file(xml_content)
+        output_path = temp_dir / "output.xml"
+        
+        process_epg(str(input_path), str(output_path))
+        
+        # Parse and verify title is unchanged
+        tree = ET.parse(str(output_path))
+        programme = tree.find('.//programme')
+        title_elem = programme.find('title')
+        
+        # Title should remain unchanged
+        assert title_elem.text == "Show without EP"
+        
+        # No episode-num should be added
+        ep_elem = programme.find('episode-num')
+        assert ep_elem is None
