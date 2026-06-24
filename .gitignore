@@ -1,0 +1,5 @@
+# Output directory for processed EPG files
+processed/
+
+# Temporary files
+*_raw.xml
