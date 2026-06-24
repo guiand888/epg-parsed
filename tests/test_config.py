@@ -148,7 +148,24 @@ class TestLoadConfig:
             "sources": []
         }
         config_path.write_text(json.dumps(config_content))
-        
+
         result = load_config(str(config_path))
         assert result == config_content
         assert result['sources'] == []
+
+    def test_duplicate_source_names(self, temp_dir, capsys):
+        """Test loading config with duplicate source names."""
+        config_path = temp_dir / "config.json"
+        config_content = {
+            "output_dir": "processed",
+            "sources": [
+                {"name": "dupe", "url": "http://example.com/1", "output": "out1.xml"},
+                {"name": "dupe", "url": "http://example.com/2", "output": "out2.xml"}
+            ]
+        }
+        config_path.write_text(json.dumps(config_content))
+
+        with pytest.raises(SystemExit):
+            load_config(str(config_path))
+        captured = capsys.readouterr()
+        assert "Duplicate source name" in captured.out

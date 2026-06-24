@@ -53,10 +53,11 @@ def extract_episode_info(title):
 
 
 def format_episode_num(season, episode):
-    """Format episode number for xmltv_ns system."""
+    """Format episode number for xmltv_ns system (0-indexed per spec)."""
+    ep = max(0, int(episode) - 1)
     if season:
-        return f"{season}.{int(episode):02d}"
-    return episode
+        return f"{max(0, int(season) - 1)}.{ep}"
+    return f".{ep}"
 
 
 def process_epg(input_path, output_path):
@@ -73,7 +74,7 @@ def process_epg(input_path, output_path):
         title = title_elem.text.strip()
         _, season, episode = extract_episode_info(title)
 
-        if episode:
+        if episode and programme.find('episode-num') is None:
             # Add episode-num element after title
             ep_num = format_episode_num(season, episode)
             ep_elem = ET.Element('episode-num')
@@ -144,7 +145,14 @@ def load_config(config_path):
         if 'output' not in source:
             print(f"Error: Source {i} ({source.get('name', '?')}) missing 'output' field")
             sys.exit(1)
-    
+
+    seen = set()
+    for source in config['sources']:
+        if source['name'] in seen:
+            print(f"Error: Duplicate source name: '{source['name']}'")
+            sys.exit(1)
+        seen.add(source['name'])
+
     return config
 
 
@@ -219,7 +227,12 @@ def main():
         else:
             print(f"  Failed: {name}: {result.get('error', 'unknown error')}")
     
+    all_failed = bool(results['sources']) and all(
+        r['status'] == 'failed' for r in results['sources'].values()
+    )
     print("\nDone!")
+    if all_failed:
+        sys.exit(1)
 
 
 if __name__ == '__main__':

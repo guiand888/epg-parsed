@@ -30,7 +30,7 @@ class TestProcessEpg:
         tree = ET.parse(str(output_path))
         episode_elem = tree.find('.//episode-num')
         assert episode_elem is not None
-        assert episode_elem.text == "1.05"
+        assert episode_elem.text == "0.4"
         assert episode_elem.get('system') == 'xmltv_ns'
 
     def test_process_multiple_programmes(self, temp_dir, create_xml_file):
@@ -62,9 +62,9 @@ class TestProcessEpg:
         tree = ET.parse(str(output_path))
         episodes = tree.findall('.//episode-num')
         assert len(episodes) == 3
-        assert episodes[0].text == "3.01"
-        assert episodes[1].text == "02.07"
-        assert episodes[2].text == "42"
+        assert episodes[0].text == "2.0"
+        assert episodes[1].text == "1.6"
+        assert episodes[2].text == ".41"
 
     def test_process_with_non_episode_programmes(self, temp_dir, create_xml_file):
         """Test processing XML with mixed programmes (some with episodes, some without)."""
