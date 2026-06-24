@@ -7,6 +7,8 @@
     devShells.x86_64-linux.default = nixpkgs.legacyPackages.x86_64-linux.mkShell {
       buildInputs = [
         nixpkgs.legacyPackages.x86_64-linux.python3
+        nixpkgs.legacyPackages.x86_64-linux.python3Packages.pytest
+        nixpkgs.legacyPackages.x86_64-linux.python3Packages.pytest-mock
         nixpkgs.legacyPackages.x86_64-linux.curl
         nixpkgs.legacyPackages.x86_64-linux.git
       ];

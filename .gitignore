@@ -3,3 +3,10 @@ processed/
 
 # Temporary files
 *_raw.xml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
