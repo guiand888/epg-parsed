@@ -4,7 +4,7 @@
     {
       "name": "starhub",
       "url": "https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml",
-      "output": "Dispatcharr.xml"
+      "output": "starhub.xml"
     }
   ]
 }
