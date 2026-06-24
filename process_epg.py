@@ -18,6 +18,8 @@ import sys
 import urllib.request
 from pathlib import Path
 import xml.etree.ElementTree as ET
+from xml.dom import minidom
+import re as re_module
 
 # Episode number patterns (most specific first)
 # Note: Patterns must handle colons, spaces, and other punctuation in titles
@@ -86,8 +88,17 @@ def process_epg(input_path, output_path):
             programme.insert(idx + 1, ep_elem)
             processed += 1
 
-    # Write output with proper XML declaration
-    tree.write(output_path, encoding='UTF-8', xml_declaration=True)
+    # Write output with pretty printing
+    rough_string = ET.tostring(root, encoding='UTF-8')
+    reparsed = minidom.parseString(rough_string)
+    pretty_xml = reparsed.toprettyxml(indent='\t', encoding='UTF-8').decode('UTF-8')
+    # Remove duplicate XML declaration if present
+    pretty_xml = pretty_xml.replace('<?xml version="1.0" encoding="UTF-8"?>\n', '', 1)
+    # Clean up formatting: reduce multiple blank lines to single
+    pretty_xml = re_module.sub(r'\n[ \t]*\n[ \t]*\n+', '\n\n', pretty_xml)
+    with open(output_path, 'w', encoding='UTF-8') as f:
+        f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
+        f.write(pretty_xml)
     return processed
 
 
