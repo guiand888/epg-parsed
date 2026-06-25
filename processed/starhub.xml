@@ -2081,7 +2081,7 @@
 		<title>On The Red Dot</title>
 
 		<episode-num system="xmltv_ns">.7</episode-num>
-		<desc>On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+		<desc>Three fathers and their children embark on bonding getaways, using rare one-on-one time to strengthen their relationships and reconnect through honest conversations.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -12424,23 +12424,13 @@
 
 	</programme>
 
-	<programme channel="133" start="20260626000000 +0000" stop="20260626010000 +0000">
+	<programme channel="133" start="20260626000000 +0000" stop="20260626020000 +0000">
 
-		<title>Ramayanam</title>
+		<title>Movie-  Minsarakanna</title>
 
-		<desc>An ancient Indian epic following Prince Rama of Ayodhya, a righteous avatar of Vishnu, who is exiled to the forest for 14 years with his wife Sita and brother Lakshmana.</desc>
+		<desc>Indira hates men and only employs women in her company and personal staff. Kasi enters her life as a driver and soon, one by one, his entire family starts working in the same household.</desc>
 
-		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="133" start="20260626010000 +0000" stop="20260626020000 +0000">
-
-		<title>Singapenne</title>
-
-		<desc>Born into a humble &amp; rustic background troubled by familial &amp; financial concerns, Anandhi takes it upon herself to leave home &amp; fearlessly pursue a better life for her family. Watch her bravely face the odds of life with unwavering spirit.</desc>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -12456,11 +12446,11 @@
 
 	<programme channel="133" start="20260626023000 +0000" stop="20260626033000 +0000">
 
-		<title>Ethirneehcal</title>
+		<title>Movie-  Minsarakanna</title>
 
-		<desc>Urged by her father, Janani is always a high achiever. But her marriage into a patriarchal family dashes her dream of a career. Thus begins Janani's arduous journey towards empowering her family's oppressed women to unleash their</desc>
+		<desc>Indira hates men and only employs women in her company and personal staff. Kasi enters her life as a driver and soon, one by one, his entire family starts working in the same household.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch25_ethirneechal.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -12546,9 +12536,9 @@
 
 	<programme channel="133" start="20260626073000 +0000" stop="20260626080000 +0000">
 
-		<title>Movie-  CHOKKA THANGAM</title>
+		<title>Movie-  MASSU ENGIRA MASILAMANI</title>
 
-		<desc>After Muthu gets his sister married, he is caught in a fix when the groom's parents force him to marry their daughter. However, Muthu is in love with another woman, Pavazham.</desc>
+		<desc>A con artist starts interacting with ghosts when his partner in crime dies in an accident. During one such encounter, he stumbles upon a ghost who wants to seeks revenge against his family's killers.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341&amp;h=192"/>
 
@@ -12566,9 +12556,9 @@
 
 	<programme channel="133" start="20260626083000 +0000" stop="20260626103000 +0000">
 
-		<title>Movie contd -  CHOKKA THANGAM</title>
+		<title>Movie contd -  MASSU ENGIRA MASILAMANI</title>
 
-		<desc>After Muthu gets his sister married, he is caught in a fix when the groom's parents force him to marry their daughter. However, Muthu is in love with another woman, Pavazham.</desc>
+		<desc>A con artist starts interacting with ghosts when his partner in crime dies in an accident. During one such encounter, he stumbles upon a ghost who wants to seeks revenge against his family's killers.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341&amp;h=192"/>
 
@@ -19549,7 +19539,7 @@
 
 		<title>Focus on Europe</title>
 
-		<desc>Why women in Turkey are dying in suspicious falls. +++ How Belgium is reckoning with its colonial past.</desc>
+		<desc>Why are women in Turkey dying under suspicious circumstances? +++ Belgium is is coming to terms with its colonial past.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -19577,9 +19567,9 @@
 
 	<programme channel="153" start="20260625003000 +0000" stop="20260625010000 +0000">
 
-		<title>Arts Unveiled</title>
+		<title>Global Media Forum</title>
 
-		<desc>250 years of the US Declaration of Independence; a look at its history. And: Looksmaxxing - a dangerous social media trend that's promising young men success through extreme appearance optimization.</desc>
+		<desc>The detained Hong Kong publisher Jimmy Lai was honored at the Global Media Forum 2026 in Bonn. Accepting the award, his daughter Claire Lai said his imprisonment reflects the cost of speaking truth to power.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -19739,7 +19729,7 @@
 
 		<title>Focus on Europe</title>
 
-		<desc>Why women in Turkey are dying in suspicious falls. +++ How Belgium is reckoning with its colonial past.</desc>
+		<desc>Why are women in Turkey dying under suspicious circumstances? +++ Belgium is is coming to terms with its colonial past.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -19829,7 +19819,7 @@
 
 		<title>Focus on Europe</title>
 
-		<desc>Why women in Turkey are dying in suspicious falls. +++ How Belgium is reckoning with its colonial past.</desc>
+		<desc>Why are women in Turkey dying under suspicious circumstances? +++ Belgium is is coming to terms with its colonial past.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -19929,7 +19919,7 @@
 
 		<title>Focus on Europe</title>
 
-		<desc>Why women in Turkey are dying in suspicious falls. +++ How Belgium is reckoning with its colonial past.</desc>
+		<desc>Why are women in Turkey dying under suspicious circumstances? +++ Belgium is is coming to terms with its colonial past.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -19977,9 +19967,9 @@
 
 	<programme channel="153" start="20260625131500 +0000" stop="20260625133000 +0000">
 
-		<title>Freaks No More!</title>
+		<title>Interview</title>
 
-		<desc>In this episode of Freaks No More!, photographer Lucy Szulinska shares what flares and remissions feel like when you have lupus and how her mindset became her greatest strength.</desc>
+		<desc>In a conversation with Liz Shoo, Irene Khan shares her view on the status of freedom of opinion and expression around the world. The UN Special Rapporteur talks about where this right is under pressure and where there are signs of improvement. The discussion looks also at how recent political escalations as well as new technologies affect these vital freedoms and how they can be strengthened.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -20059,7 +20049,7 @@
 
 		<title>Focus on Europe</title>
 
-		<desc>Why women in Turkey are dying in suspicious falls. +++ How Belgium is reckoning with its colonial past.</desc>
+		<desc>Why are women in Turkey dying under suspicious circumstances? +++ Belgium is is coming to terms with its colonial past.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -20077,9 +20067,9 @@
 
 	<programme channel="153" start="20260625171500 +0000" stop="20260625173000 +0000">
 
-		<title>Freaks No More!</title>
+		<title>Interview</title>
 
-		<desc>In this episode of Freaks No More!, photographer Lucy Szulinska shares what flares and remissions feel like when you have lupus and how her mindset became her greatest strength.</desc>
+		<desc>In a conversation with Liz Shoo, Irene Khan shares her view on the status of freedom of opinion and expression around the world. The UN Special Rapporteur talks about where this right is under pressure and where there are signs of improvement. The discussion looks also at how recent political escalations as well as new technologies affect these vital freedoms and how they can be strengthened.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -20137,9 +20127,9 @@
 
 	<programme channel="153" start="20260625191500 +0000" stop="20260625193000 +0000">
 
-		<title>Freaks No More!</title>
+		<title>Interview</title>
 
-		<desc>In this episode of Freaks No More!, photographer Lucy Szulinska shares what flares and remissions feel like when you have lupus and how her mindset became her greatest strength.</desc>
+		<desc>In a conversation with Liz Shoo, Irene Khan shares her view on the status of freedom of opinion and expression around the world. The UN Special Rapporteur talks about where this right is under pressure and where there are signs of improvement. The discussion looks also at how recent political escalations as well as new technologies affect these vital freedoms and how they can be strengthened.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -20149,7 +20139,9 @@
 
 		<title>To the Point</title>
 
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Donald Trump negotiates a peace deal with Iran, leaving Benjamin Netanyahu on the sidelines. What would a potential agreement mean for Israel’s security and the future of its alliance with the US? 
+
+Our guests: Richard C. Schneider (Middle East expert), Emily Gordine (DW, Jerusalem), Hans-Jakob Schindler (security expert)</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -20229,7 +20221,9 @@
 
 		<title>To the Point</title>
 
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Donald Trump negotiates a peace deal with Iran, leaving Benjamin Netanyahu on the sidelines. What would a potential agreement mean for Israel’s security and the future of its alliance with the US? 
+
+Our guests: Richard C. Schneider (Middle East expert), Emily Gordine (DW, Jerusalem), Hans-Jakob Schindler (security expert)</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -20257,9 +20251,9 @@
 
 	<programme channel="153" start="20260625231500 +0000" stop="20260625233000 +0000">
 
-		<title>Freaks No More!</title>
+		<title>Interview</title>
 
-		<desc>In this episode of Freaks No More!, photographer Lucy Szulinska shares what flares and remissions feel like when you have lupus and how her mindset became her greatest strength.</desc>
+		<desc>In a conversation with Liz Shoo, Irene Khan shares her view on the status of freedom of opinion and expression around the world. The UN Special Rapporteur talks about where this right is under pressure and where there are signs of improvement. The discussion looks also at how recent political escalations as well as new technologies affect these vital freedoms and how they can be strengthened.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -20299,7 +20293,9 @@
 
 		<title>To the Point</title>
 
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Donald Trump negotiates a peace deal with Iran, leaving Benjamin Netanyahu on the sidelines. What would a potential agreement mean for Israel’s security and the future of its alliance with the US? 
+
+Our guests: Richard C. Schneider (Middle East expert), Emily Gordine (DW, Jerusalem), Hans-Jakob Schindler (security expert)</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -20359,7 +20355,7 @@
 
 		<title>Focus on Europe</title>
 
-		<desc>Why women in Turkey are dying in suspicious falls. +++ How Belgium is reckoning with its colonial past.</desc>
+		<desc>Why are women in Turkey dying under suspicious circumstances? +++ Belgium is is coming to terms with its colonial past.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -20387,9 +20383,9 @@
 
 	<programme channel="153" start="20260626031500 +0000" stop="20260626033000 +0000">
 
-		<title>Freaks No More!</title>
+		<title>Interview</title>
 
-		<desc>In this episode of Freaks No More!, photographer Lucy Szulinska shares what flares and remissions feel like when you have lupus and how her mindset became her greatest strength.</desc>
+		<desc>In a conversation with Liz Shoo, Irene Khan shares her view on the status of freedom of opinion and expression around the world. The UN Special Rapporteur talks about where this right is under pressure and where there are signs of improvement. The discussion looks also at how recent political escalations as well as new technologies affect these vital freedoms and how they can be strengthened.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -20487,9 +20483,9 @@
 
 	<programme channel="153" start="20260626061500 +0000" stop="20260626063000 +0000">
 
-		<title>Freaks No More!</title>
+		<title>Interview</title>
 
-		<desc>In this episode of Freaks No More!, photographer Lucy Szulinska shares what flares and remissions feel like when you have lupus and how her mindset became her greatest strength.</desc>
+		<desc>In a conversation with Liz Shoo, Irene Khan shares her view on the status of freedom of opinion and expression around the world. The UN Special Rapporteur talks about where this right is under pressure and where there are signs of improvement. The discussion looks also at how recent political escalations as well as new technologies affect these vital freedoms and how they can be strengthened.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -20549,7 +20545,9 @@
 
 		<title>To the Point</title>
 
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Donald Trump negotiates a peace deal with Iran, leaving Benjamin Netanyahu on the sidelines. What would a potential agreement mean for Israel’s security and the future of its alliance with the US? 
+
+Our guests: Richard C. Schneider (Middle East expert), Emily Gordine (DW, Jerusalem), Hans-Jakob Schindler (security expert)</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -20639,7 +20637,9 @@
 
 		<title>To the Point</title>
 
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Donald Trump negotiates a peace deal with Iran, leaving Benjamin Netanyahu on the sidelines. What would a potential agreement mean for Israel’s security and the future of its alliance with the US? 
+
+Our guests: Richard C. Schneider (Middle East expert), Emily Gordine (DW, Jerusalem), Hans-Jakob Schindler (security expert)</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -20769,7 +20769,9 @@
 
 		<title>To the Point</title>
 
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Donald Trump negotiates a peace deal with Iran, leaving Benjamin Netanyahu on the sidelines. What would a potential agreement mean for Israel’s security and the future of its alliance with the US? 
+
+Our guests: Richard C. Schneider (Middle East expert), Emily Gordine (DW, Jerusalem), Hans-Jakob Schindler (security expert)</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -27821,6 +27823,26 @@
 
 	</programme>
 
+	<programme channel="254" start="20260624220000 +0000" stop="20260624230000 +0000">
+
+		<title>End of Transmission</title>
+
+		<desc/>
+
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="254" start="20260624230000 +0000" stop="20260624231500 +0000">
+
+		<title>End of Transmission</title>
+
+		<desc/>
+
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
 	<programme channel="254" start="20260624231500 +0000" stop="20260625020000 +0000">
 
 		<title>End of Transmission</title>
@@ -27881,21 +27903,11 @@
 
 	</programme>
 
-	<programme channel="254" start="20260626040000 +0000" stop="20260626100000 +0000">
+	<programme channel="254" start="20260626040000 +0000" stop="20260626160000 +0000">
 
-		<title>End of Transmission</title>
+		<title>No programmes streaming LIVE at this moment</title>
 
-		<desc/>
-
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="254" start="20260626100000 +0000" stop="20260626160000 +0000">
-
-		<title>End of Transmission</title>
-
-		<desc/>
+		<desc>There are currently no programmes on this channel.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -63791,7 +63803,7 @@
 
 	</programme>
 
-	<programme channel="811" start="20260624220000 +0000" stop="20260624230000 +0000">
+	<programme channel="811" start="20260624220000 +0000" stop="20260624223200 +0000">
 
 		<title>News: Good Morning, Japan</title>
 
@@ -63801,101 +63813,21 @@
 
 	</programme>
 
-	<programme channel="811" start="20260624230000 +0000" stop="20260624231500 +0000">
+	<programme channel="811" start="20260624223200 +0000" stop="20260625015300 +0000">
 
-		<title>Drama Serial &quot;The Scent of the Wind&quot; Ep. 64</title>
+		<title>News</title>
 
-		<desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="811" start="20260624231500 +0000" stop="20260625004500 +0000">
-
-		<title>asaichi</title>
-
-		<desc>Looking into topical information ranging from social issues to entertainment news through the eyes of the general public.</desc>
+		<desc>The latest up-to-date news from Tokyo.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
 
 	</programme>
 
-	<programme channel="811" start="20260625004500 +0000" stop="20260625005000 +0000">
-
-		<title>News &amp; Weather</title>
-
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="811" start="20260625005000 +0000" stop="20260625005400 +0000">
-
-		<title>Mini Program</title>
-
-		<desc/>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="811" start="20260625005400 +0000" stop="20260625005500 +0000">
-
-		<title>World Weather</title>
-
-		<desc>Weather information of the different areas around the world.</desc>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="811" start="20260625005500 +0000" stop="20260625010000 +0000">
-
-		<title>Exercise for Everyone</title>
-
-		<desc>An easy-to-do exercise program for everyone from children to the elderly.</desc>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="811" start="20260625010000 +0000" stop="20260625010500 +0000">
-
-		<title>Natural Grandeur of the East Mini</title>
-
-		<desc/>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="811" start="20260625010500 +0000" stop="20260625015000 +0000">
-
-		<title>Rokkaku Seiji's Nomitetsu Railroad Trip: Hisatsu Orange Railway, Misumi Line(R)</title>
-
-		<desc>Actor Rokkaku Seiji, a lover of both trains and good drinks, sets out on a rail journey around the world. At each stop, he wanders through the towns and explores whatever catches his eye. Sit back and enjoy this fun-filled railroad trip, accompanied by the music he personally selects!</desc>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="811" start="20260625015000 +0000" stop="20260625021700 +0000">
+	<programme channel="811" start="20260625015300 +0000" stop="20260625022000 +0000">
 
 		<title>Today's Close-up (R)</title>
 
 		<desc>The program flexibly probes into a wide range of topics from the NHK’s unique point of view.</desc>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="811" start="20260625021700 +0000" stop="20260625022000 +0000">
-
-		<title>Mini Program</title>
-
-		<desc/>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -63931,31 +63863,11 @@
 
 	</programme>
 
-	<programme channel="811" start="20260625030000 +0000" stop="20260625032000 +0000">
+	<programme channel="811" start="20260625030000 +0000" stop="20260625033000 +0000">
 
 		<title>News</title>
 
 		<desc>The latest up-to-date news from Tokyo.</desc>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="811" start="20260625032000 +0000" stop="20260625032800 +0000">
-
-		<title>Information Worth Knowing from the News Commentator Bureau</title>
-
-		<desc>The commentators present trending news, its background, and engaging information related to daily life in an easy-to –understand manner.</desc>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="811" start="20260625032800 +0000" stop="20260625033000 +0000">
-
-		<title>Mini Program</title>
-
-		<desc/>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -63973,7 +63885,7 @@
 
 	<programme channel="811" start="20260625034500 +0000" stop="20260625040000 +0000">
 
-		<title>Drama Serial &quot;The Scent of the Wind&quot; Ep. 64 (R)</title>
+		<title>Drama Serial &quot;The Scent of the Wind&quot; Ep. 64</title>
 
 		<desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
 
@@ -64063,9 +63975,9 @@
 
 	<programme channel="811" start="20260625062500 +0000" stop="20260625064000 +0000">
 
-		<title>Night Drama Serial &quot;Midnight Taxi&quot; (R)</title>
+		<title>Night Drama Serial &quot;Midnight Taxi&quot; Ep. 15 (R)</title>
 
-		<desc/>
+		<desc>A series of drama with casts in the spotlight, for the end of your day.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -64131,11 +64043,31 @@
 
 	</programme>
 
-	<programme channel="811" start="20260625083500 +0000" stop="20260625085900 +0000">
+	<programme channel="811" start="20260625083500 +0000" stop="20260625085000 +0000">
 
-		<title>With Mother</title>
+		<title>Magnificent Sight!--Mountain Lodges in Europe</title>
 
-		<desc>This children's program includes a puppet show, cartoon, music, and gymnastics in which children can participate.</desc>
+		<desc/>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="811" start="20260625085000 +0000" stop="20260625085800 +0000">
+
+		<title>Train Driver's Cab View Mini</title>
+
+		<desc/>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="811" start="20260625085800 +0000" stop="20260625085900 +0000">
+
+		<title>Mini Program</title>
+
+		<desc/>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -64263,9 +64195,9 @@
 
 	<programme channel="811" start="20260625134500 +0000" stop="20260625140000 +0000">
 
-		<title>Night Drama Serial &quot;Midnight Taxi&quot;</title>
+		<title>Night Drama Serial &quot;Midnight Taxi&quot; Ep. 16</title>
 
-		<desc/>
+		<desc>A series of drama with casts in the spotlight, for the end of your day.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -64413,7 +64345,7 @@
 
 	<programme channel="811" start="20260625180000 +0000" stop="20260625182500 +0000">
 
-		<title>With Mother (R)</title>
+		<title>With Mother</title>
 
 		<desc>This children's program includes a puppet show, cartoon, music, and gymnastics in which children can participate.</desc>
 
@@ -64563,7 +64495,7 @@
 
 	<programme channel="811" start="20260625235500 +0000" stop="20260626000000 +0000">
 
-		<title>Mini Program</title>
+		<title>Super Rare! Railroad Treasure Films</title>
 
 		<desc/>
 
@@ -64803,9 +64735,9 @@
 
 	<programme channel="811" start="20260626062500 +0000" stop="20260626064000 +0000">
 
-		<title>Night Drama Serial &quot;Midnight Taxi&quot; (R)</title>
+		<title>Night Drama Serial &quot;Midnight Taxi&quot; Ep. 16 (R)</title>
 
-		<desc/>
+		<desc>A series of drama with casts in the spotlight, for the end of your day.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -65071,7 +65003,7 @@
 
 	</programme>
 
-	<programme channel="811" start="20260626153000 +0000" stop="20260626161300 +0000">
+	<programme channel="811" start="20260626153000 +0000" stop="20260626161500 +0000">
 
 		<title>Samurai Drama Selections &quot;Crossing of Heat Haze&quot; Ep. 9 (R)</title>
 
@@ -67656,9 +67588,9 @@
 
 	<programme channel="817" start="20260626020000 +0000" stop="20260626030000 +0000">
 
-		<title>CULTURE CRUNCH [L]</title>
+		<title>CULTURE CRUNCH [R]</title>
 
-		<episode-num system="xmltv_ns">.0</episode-num>
+		<episode-num system="xmltv_ns">.4</episode-num>
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192"/>
@@ -67854,9 +67786,9 @@
 
 	<programme channel="817" start="20260626113000 +0000" stop="20260626120000 +0000">
 
-		<title>WITHIN THE FRAME [L]</title>
+		<title>WITHIN THE FRAME [R]</title>
 
-		<episode-num system="xmltv_ns">.0</episode-num>
+		<episode-num system="xmltv_ns">.4</episode-num>
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192"/>
@@ -67964,9 +67896,9 @@
 
 	<programme channel="817" start="20260626153000 +0000" stop="20260626160000 +0000">
 
-		<title>BEAUTY ON AND OFF</title>
+		<title>ARIRANG SPECIAL</title>
 
-		<episode-num system="xmltv_ns">.10</episode-num>
+		<episode-num system="xmltv_ns">.162</episode-num>
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192"/>
