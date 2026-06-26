@@ -15905,9 +15905,9 @@
 
 	<programme channel="141" start="20260627023000 +0000" stop="20260627043000 +0000">
 
-		<title>MOVIE - SEMMA (U)</title>
+		<title>MOVIE - PEI MAMA (U/A)</title>
 
-		<desc>MOVIE - SEMMA (U) Starring GV Prakash Kumar, Arthana Binu</desc>
+		<desc>MOVIE - PEI MAMA (U/A) Starring Yogi Babu, Malavika Menon</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960&amp;h=540"/>
 
@@ -15915,9 +15915,9 @@
 
 	<programme channel="141" start="20260627043000 +0000" stop="20260627073000 +0000">
 
-		<title>MOVIE - PASANGA (U)</title>
+		<title>MOVIE - BOSS ENGIRA BASKARAN (U)</title>
 
-		<desc>MOVIE - PASANGA (U) Starring Kishore, Sriram, Vemal, Vega Tamotia</desc>
+		<desc>MOVIE - BOSS ENGIRA BASKARAN (U) Starring Arya, Nayanthara, Santhanam</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960&amp;h=540"/>
 
@@ -15935,9 +15935,9 @@
 
 	<programme channel="141" start="20260627080000 +0000" stop="20260627110000 +0000">
 
-		<title>MOVIE - MARUTHAMALAI (U)</title>
+		<title>MOVIE - GARUDAN (U/A)</title>
 
-		<desc>MOVIE - MARUTHAMALAI (U) Starring Arjun, Meera Chopra, Vadivelu, Lal, Raghuvaran, Nassar</desc>
+		<desc>MOVIE - GARUDAN (U/A) Starring Soori, Sasikumar, Unni Mukundan, Shivada</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960&amp;h=540"/>
 
@@ -15967,7 +15967,7 @@
 
 		<title>Katrathu Samayal</title>
 
-		<episode-num system="xmltv_ns">7.61</episode-num>
+		<episode-num system="xmltv_ns">7.67</episode-num>
 		<desc>Katrathu Samayal is focused on village-style cooking, real time and different foods acorss places, which includes food preparation and food challenges.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960&amp;h=540"/>
@@ -15978,7 +15978,7 @@
 
 		<title>Ramanujar</title>
 
-		<episode-num system="xmltv_ns">.15</episode-num>
+		<episode-num system="xmltv_ns">.21</episode-num>
 		<desc>The life of theologian and philosopher Ramanujar and his contributions to the Vaishnavism tradition within Hinduism.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960&amp;h=540"/>
@@ -15989,7 +15989,7 @@
 
 		<title>Priyamanaval</title>
 
-		<episode-num system="xmltv_ns">.75</episode-num>
+		<episode-num system="xmltv_ns">.81</episode-num>
 		<desc>A devoted wife, misunderstood by her family, rises with strength to reclaim her dignity and rebuild her life.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960&amp;h=540"/>
@@ -16000,7 +16000,7 @@
 
 		<title>Gauri</title>
 
-		<episode-num system="xmltv_ns">.744</episode-num>
+		<episode-num system="xmltv_ns">.750</episode-num>
 		<desc>A devotional mega series of Gauri is a child blessed by Goddess masani in maraiyanur village, two zameens of that village plans to kill gauri for their development, Finally what happened to guari and thet zameen is story</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960&amp;h=540"/>
@@ -16011,7 +16011,7 @@
 
 		<title>Chella Kutties</title>
 
-		<episode-num system="xmltv_ns">.14</episode-num>
+		<episode-num system="xmltv_ns">.15</episode-num>
 		<desc>The host Imman Annachi invites little children and interacts with them about their favourite things to do and other likes and dislikes in a funny manner.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960&amp;h=540"/>
@@ -20849,7 +20849,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="159" start="20260626170000 +0000" stop="20260626220000 +0000">
+	<programme channel="159" start="20260626170000 +0000" stop="20260626200000 +0000">
 
 		<title>Movie - Aasal</title>
 
@@ -20859,31 +20859,81 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="159" start="20260626220000 +0000" stop="20260627040000 +0000">
+	<programme channel="159" start="20260626200000 +0000" stop="20260626223000 +0000">
 
-		<title>Information Not Available</title>
+		<title>Movie - Sevarkodi</title>
 
-		<desc>Information Not Available</desc>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="159" start="20260627040000 +0000" stop="20260627100000 +0000">
-
-		<title>Information Not Available</title>
-
-		<desc>Information Not Available</desc>
+		<desc>Kali agrees to get his sister Valli married to the rich but old Annachi for his money. However, Valli elopes with Bala, her lover. Infuriated, Kali swears revenge.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192"/>
 
 	</programme>
 
-	<programme channel="159" start="20260627100000 +0000" stop="20260627160000 +0000">
+	<programme channel="159" start="20260626223000 +0000" stop="20260627010000 +0000">
 
-		<title>Information Not Available</title>
+		<title>Movie - Sindanai Sei</title>
 
-		<desc>Information Not Available</desc>
+		<desc>Aadhi meets his childhood friends in the city who too struggle to make both ends meet. Together, they successfully execute a bank robbery. But they get killed one after the other after the robbery.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="159" start="20260627010000 +0000" stop="20260627013000 +0000">
+
+		<title>Fillers</title>
+
+		<desc>Fillers</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="159" start="20260627013000 +0000" stop="20260627043000 +0000">
+
+		<title>Movie - Pongalo Pongal</title>
+
+		<desc>Subbu and his four friends are jobless and loathed by their fathers. After losing money in a scam, they start a business with their college mate Chitra's help. But her rich father has different plans.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="159" start="20260627043000 +0000" stop="20260627073000 +0000">
+
+		<title>Movie - Aanai</title>
+
+		<desc>A police officer is suspended despite his honesty. Now, he serves as bodyguard to the daughter of a singer. When the girl is kidnapped, the bodyguard is suspected, lest he proves his innocence.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="159" start="20260627073000 +0000" stop="20260627103000 +0000">
+
+		<title>Movie - MR.Bharath</title>
+
+		<desc>Businessman Gopinath abandons Shanti, his first love, to marry a rich heiress. Later, Bharath, Gopinath and Shanti's illegitimate son, seeks revenge from him for the injustice meted out to his mother.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="159" start="20260627103000 +0000" stop="20260627133000 +0000">
+
+		<title>Movie - Ambasamuthiram Ambani</title>
+
+		<desc>A poor guy meets a girl who falls for him but he is more focused on achieving his dreams. He buys a plot that is under construction, for his supermarket. However, before he can take it over, the owner dies and things take a turn.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="159" start="20260627133000 +0000" stop="20260627170000 +0000">
+
+		<title>Movie - Surya Vamsam</title>
+
+		<desc>Sakthivel, an influential man, is upset with his son Chinnarasu's careless attitude. He is further infuriated when Chinnarasu suddenly refuses to marry his cousin, Gowri.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -23183,7 +23233,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Ferrari Challenge Japan 2026: Trofeo Pirelli Race 1, Fuji</title>
 
-		<desc>The Japanese series is a canâ€™t miss part of the equation, offering Ferrari Challenge racing with an unmistakable Japanese flavor, bringing together the true Japanese motorsport heritage and Maranelloâ€™s finest in a vintage display of grace and determination.</desc>
+		<desc>The Japanese series is a canâ€™t miss part of the equation, offering Ferrari Challenge racing with an unmistakable Japanese flavor, bringing together the true Japanese motorsport heritage and Maranello's finest in a vintage display of grace and determination.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch211_FerrariChallengeJapan2026.jpg?w=960&amp;h=540"/>
 
@@ -23213,7 +23263,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Premier Padel 2026: Valladolid P2 Day 5 SF1 - Women</title>
 
-		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192"/>
 
@@ -23675,7 +23725,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<desc>beIN Sports brings you live and exclusive coverage of the 2026 Formula 1 World Championship.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch213_formula_1_generic.jpg?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -23755,7 +23805,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<desc>beIN Sports brings you live and exclusive coverage of the 2026 Formula 1 World Championship.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch213_formula_1_generic.jpg?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -23765,7 +23815,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<desc>beIN Sports brings you live and exclusive coverage of the 2026 Formula 1 World Championship.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch213_formula_1_generic.jpg?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -23815,7 +23865,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<desc>beIN Sports brings you live and exclusive coverage of the 2026 Formula 1 World Championship.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch213_formula_1_generic.jpg?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -23865,7 +23915,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<desc>Join us as we preview every F1 Qualifying race.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch213_formula_1_generic.jpg?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -23875,7 +23925,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<desc>beIN Sports brings you live and exclusive coverage of the 2026 Formula 1 World Championship.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch213_formula_1_generic.jpg?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -23885,7 +23935,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<desc>Join us for all the reaction and analysis after every qualifying race.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch213_formula_1_generic.jpg?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -50287,7 +50337,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260625230000 +0000" stop="20260625233000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -50307,7 +50357,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260626000000 +0000" stop="20260626003000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -50417,7 +50467,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260626040000 +0000" stop="20260626043000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -50437,7 +50487,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260626050000 +0000" stop="20260626053000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -50457,7 +50507,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260626060000 +0000" stop="20260626063000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -50477,7 +50527,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260626070000 +0000" stop="20260626073000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -50487,7 +50537,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260626073000 +0000" stop="20260626080000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -50497,7 +50547,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260626080000 +0000" stop="20260626083000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -50507,7 +50557,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260626083000 +0000" stop="20260626090000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -50517,7 +50567,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260626090000 +0000" stop="20260626093000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -50527,7 +50577,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260626093000 +0000" stop="20260626100000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -50537,7 +50587,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260626100000 +0000" stop="20260626103000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -50557,7 +50607,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260626104500 +0000" stop="20260626110000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -50707,19 +50757,29 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260626173000 +0000" stop="20260626180000 +0000">
 
-		<title>The Iran War This Week</title>
+		<title>The World Today with Maryam Moshiri</title>
 
-		<desc>A briefing from BBC News on the latest developments on Israel-US war in Iran.</desc>
+		<desc>Watch the best of the BBC's journalism from around the world.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
-	<programme channel="701" start="20260626180000 +0000" stop="20260626190000 +0000">
+	<programme channel="701" start="20260626180000 +0000" stop="20260626183000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>The World Today with Maryam Moshiri</title>
 
-		<desc>As a heatwave hits the UK and Western Europe, Christian Fraser has live coverage, analysis from BBC editors, expert forecasters and we answer your questions.</desc>
+		<desc>Watch the best of the BBC's journalism from around the world.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="701" start="20260626183000 +0000" stop="20260626190000 +0000">
+
+		<title>The World Today with Maryam Moshiri</title>
+
+		<desc>Watch the best of the BBC's journalism from around the world.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192"/>
 
@@ -50807,7 +50867,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260626230000 +0000" stop="20260626233000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -50827,7 +50887,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260627000000 +0000" stop="20260627003000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -50847,7 +50907,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260627010000 +0000" stop="20260627013000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -50867,7 +50927,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260627020000 +0000" stop="20260627023000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -50887,7 +50947,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260627030000 +0000" stop="20260627033000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -50899,7 +50959,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>The Media Show</title>
 
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>Shop workers and social media; Andy Burnham's approach to the media; romance scammers; the closure of Radio 4 Long Wave. With Joshi Herrmann, Jayne Allport, Carlos Barragán and Jeffrey Borinsky.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192"/>
 
@@ -50907,7 +50967,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260627040000 +0000" stop="20260627043000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -50927,7 +50987,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260627050000 +0000" stop="20260627053000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -50947,7 +51007,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260627060000 +0000" stop="20260627063000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -50967,7 +51027,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260627070000 +0000" stop="20260627073000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -50987,7 +51047,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260627080000 +0000" stop="20260627090000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -50997,7 +51057,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260627090000 +0000" stop="20260627093000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -51017,7 +51077,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260627100000 +0000" stop="20260627103000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -51037,7 +51097,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260627110000 +0000" stop="20260627113000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -51057,7 +51117,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260627120000 +0000" stop="20260627123000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -51077,7 +51137,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260627130000 +0000" stop="20260627133000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -51089,7 +51149,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>AI Decoded</title>
 
-		<desc>Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+		<desc>As governments and businesses confront their reliance on US tech giants, AI Decoded explores whether Britain can build its own AI future - and how quickly it must act.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192"/>
 
@@ -51097,7 +51157,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260627140000 +0000" stop="20260627143000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -51109,7 +51169,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>The Media Show</title>
 
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>Shop workers and social media; Andy Burnham's approach to the media; romance scammers; the closure of Radio 4 Long Wave. With Joshi Herrmann, Jayne Allport, Carlos Barragán and Jeffrey Borinsky.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192"/>
 
@@ -51117,7 +51177,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260627150000 +0000" stop="20260627153000 +0000">
 
-		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+		<title>BBC News</title>
 
 		<desc>The latest news from the BBC.</desc>
 
@@ -58473,7 +58533,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>World Cup 2026</title>
 
-		<desc>World Cup 2026</desc>
+		<desc>All the news, all the results, and behind-the-scenes coverage with our correspondents on the ground and our consultants in the studio, analyzing the tournament from every angle.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch724_world_cup_2026.jpg?w=341&amp;h=192"/>
 
@@ -58813,7 +58873,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>World Cup 2026</title>
 
-		<desc>World Cup 2026</desc>
+		<desc>All the news, all the results, and behind-the-scenes coverage with our correspondents on the ground and our consultants in the studio, analyzing the tournament from every angle.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch724_world_cup_2026.jpg?w=341&amp;h=192"/>
 
@@ -59583,7 +59643,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>World Cup 2026</title>
 
-		<desc>World Cup 2026</desc>
+		<desc>All the news, all the results, and behind-the-scenes coverage with our correspondents on the ground and our consultants in the studio, analyzing the tournament from every angle.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch724_world_cup_2026.jpg?w=341&amp;h=192"/>
 
@@ -59863,7 +59923,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>World Cup 2026</title>
 
-		<desc>World Cup 2026</desc>
+		<desc>All the news, all the results, and behind-the-scenes coverage with our correspondents on the ground and our consultants in the studio, analyzing the tournament from every angle.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch724_world_cup_2026.jpg?w=341&amp;h=192"/>
 
@@ -63198,21 +63258,11 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="811" start="20260625160000 +0000" stop="20260625160500 +0000">
+	<programme channel="811" start="20260625154000 +0000" stop="20260625161000 +0000">
 
-		<title>Child-Rearing Hints &amp; Tips mini</title>
+		<title>Familiarization with Japanese Traditional Performing Arts</title>
 
-		<desc>A program offering helpful tips on child-rearing.</desc>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="811" start="20260625160500 +0000" stop="20260625161000 +0000">
-
-		<title>Child-Rearing Hints &amp; Tips mini</title>
-
-		<desc>A program offering helpful tips on child-rearing.</desc>
+		<desc>The program introduces Japanese Traditional Performing Arts at a polite yet good pace to those who find them hard to approach. Familiarize yourself with the finest Japanese performing arts through talks from a beginner point of view while explaining a theme in an easy-to-understand way each time.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -63220,15 +63270,25 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="811" start="20260625161000 +0000" stop="20260625161500 +0000">
 
-		<title>Ukiyoe EDO-LIFE (R)</title>
+		<title>Child-Rearing Hints &amp; Tips mini</title>
 
-		<desc>Let’s look into the world of Ukiyoe to learn how people lived in Edo period!</desc>
+		<desc>A program offering helpful tips on child-rearing.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
 
 	</programme>
 
-	<programme channel="811" start="20260625161500 +0000" stop="20260625164000 +0000">
+	<programme channel="811" start="20260625161500 +0000" stop="20260625162000 +0000">
+
+		<title>Child-Rearing Hints &amp; Tips mini</title>
+
+		<desc>A program offering helpful tips on child-rearing.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="811" start="20260625162000 +0000" stop="20260625164500 +0000">
 
 		<title>Today's Cooking</title>
 
@@ -63238,7 +63298,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="811" start="20260625164000 +0000" stop="20260625171000 +0000">
+	<programme channel="811" start="20260625164500 +0000" stop="20260625171500 +0000">
 
 		<title>Shogi Focus</title>
 
@@ -63248,21 +63308,11 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="811" start="20260625171000 +0000" stop="20260625174000 +0000">
+	<programme channel="811" start="20260625171500 +0000" stop="20260625174500 +0000">
 
 		<title>asaichi on ETV</title>
 
 		<desc>This program brings you popular segments from the morning information show 'asaichi' at night, thoughtfully focusing on lifestyle for grown-up generations and their future lives.</desc>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="811" start="20260625174000 +0000" stop="20260625174500 +0000">
-
-		<title>World Weather</title>
-
-		<desc>Weather information of the different areas around the world.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -63528,7 +63578,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="811" start="20260626030000 +0000" stop="20260626032000 +0000">
+	<programme channel="811" start="20260626030000 +0000" stop="20260626032500 +0000">
 
 		<title>News</title>
 
@@ -63538,21 +63588,11 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="811" start="20260626032000 +0000" stop="20260626032500 +0000">
+	<programme channel="811" start="20260626032500 +0000" stop="20260626033000 +0000">
 
 		<title>Hello! NHK WORLD-JAPAN (R)</title>
 
 		<desc>Showcasing various programs and activities of NHK WORLD-JAPAN which provides the latest information on Japan and Asia to the global audience.</desc>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="811" start="20260626032500 +0000" stop="20260626033000 +0000">
-
-		<title>Mini Program</title>
-
-		<desc/>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -63910,9 +63950,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="811" start="20260626144000 +0000" stop="20260626144500 +0000">
 
-		<title>News &amp; Weather</title>
+		<title>Cruising from the Sky Mini</title>
 
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
+		<desc/>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -64210,7 +64250,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="811" start="20260627010500 +0000" stop="20260627013400 +0000">
 
-		<title>Win the Regular Program Slot &quot;Ichibanmori: The People Behind Japan's Best&quot;(R)</title>
+		<title>Win the Regular Program Slot &quot;Ichibanmori: The People Behind Japan's Best&quot; (R)</title>
 
 		<desc>TV producers from all over Japan compete to entertain you!  Popular &quot;products&quot; will be selected for future regular time slot.  Refresh yourself watching their best works!</desc>
 
@@ -64390,9 +64430,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="811" start="20260627073000 +0000" stop="20260627081500 +0000">
 
-		<title>Drama Serial &quot;The Scent of the Wind&quot; Highlights</title>
+		<title>Drama Serial &quot;The Scent of the Wind&quot; Highlights Part 1</title>
 
-		<desc/>
+		<desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -64400,9 +64440,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="811" start="20260627081500 +0000" stop="20260627085900 +0000">
 
-		<title>Drama Serial &quot;The Scent of the Wind&quot; Highlights</title>
+		<title>Drama Serial &quot;The Scent of the Wind&quot; Highlights Part 2</title>
 
-		<desc/>
+		<desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -64550,9 +64590,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="811" start="20260627134900 +0000" stop="20260627135500 +0000">
 
-		<title>Mini Program</title>
+		<title>Ukiyoe EDO-LIFE (R)</title>
 
-		<desc/>
+		<desc>Let’s look into the world of Ukiyoe to learn how people lived in Edo period!</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -64722,7 +64762,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Japan Railway Journal</title>
 
-		<desc>Go behind the scenes of Japan's amazing railways with interesting facts, new technologies, expert tips, where to go, how to get there and more!</desc>
+		<desc>Every year, the Blue Ribbon and Laurel Prizes honour the finest newly built and redesigned trains. Meet the winners for 2026!</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch374_JapanRailwayJournal.jpg?w=341&amp;h=192"/>
 
@@ -64850,11 +64890,11 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="812" start="20260626023000 +0000" stop="20260626030000 +0000">
 
-		<title>Special Programme</title>
+		<title>Catch Japan</title>
 
-		<desc>A wide range of topics featuring Japanese culture and society are introduced.</desc>
+		<desc>We explore a circular approach to giving new life to unwanted items, the evolution of modern wagashi, a material that preserves history, and innovative sweets balancing taste and nutrition.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch374_NHKWorldTVSpecialProgramme.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch374_catch_japan.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -64872,7 +64912,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Japan Railway Journal</title>
 
-		<desc>Go behind the scenes of Japan's amazing railways with interesting facts, new technologies, expert tips, where to go, how to get there and more!</desc>
+		<desc>Every year, the Blue Ribbon and Laurel Prizes honour the finest newly built and redesigned trains. Meet the winners for 2026!</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch374_JapanRailwayJournal.jpg?w=341&amp;h=192"/>
 
@@ -64950,11 +64990,11 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="812" start="20260626073000 +0000" stop="20260626080000 +0000">
 
-		<title>Special Programme</title>
+		<title>Catch Japan</title>
 
-		<desc>A wide range of topics featuring Japanese culture and society are introduced.</desc>
+		<desc>We explore a circular approach to giving new life to unwanted items, the evolution of modern wagashi, a material that preserves history, and innovative sweets balancing taste and nutrition.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch374_NHKWorldTVSpecialProgramme.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch374_catch_japan.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -64992,7 +65032,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Japan Railway Journal</title>
 
-		<desc>Go behind the scenes of Japan's amazing railways with interesting facts, new technologies, expert tips, where to go, how to get there and more!</desc>
+		<desc>Every year, the Blue Ribbon and Laurel Prizes honour the finest newly built and redesigned trains. Meet the winners for 2026!</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch374_JapanRailwayJournal.jpg?w=341&amp;h=192"/>
 
@@ -65042,7 +65082,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Impacts: Climates Change the World</title>
 
-		<desc>The entire Earth is affected by climate change occurring with a greater speed and scale than ever before - this programme uses scientific data and the latest findings to raise awareness on its impact.</desc>
+		<desc>The US-Iran conflict led to what the IEA called the worst-ever energy crisis, and more power demand was predicted with the summer heat. How do the crisis and a surge in coal use affect climate change?</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch374_ImpactsClimates.jpg?w=341&amp;h=192"/>
 
@@ -65090,11 +65130,11 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="812" start="20260626133000 +0000" stop="20260626140000 +0000">
 
-		<title>Special Programme</title>
+		<title>Catch Japan</title>
 
-		<desc>A wide range of topics featuring Japanese culture and society are introduced.</desc>
+		<desc>We explore a circular approach to giving new life to unwanted items, the evolution of modern wagashi, a material that preserves history, and innovative sweets balancing taste and nutrition.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch374_NHKWorldTVSpecialProgramme.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch374_catch_japan.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -65152,7 +65192,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Frontrunners</title>
 
-		<desc>This show highlights professionals at the very forefront of their fields - we showcase their amazing work, discover their motivations, and learn about the challenges they face in the future.</desc>
+		<desc>Yabusame is traditional horseback archery. It's preserved as a Shinto ritual, but is not accessible to all. Kamimura Ayuko runs competitions open to women and international participants.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch374_Frontrunners.jpg?w=341&amp;h=192"/>
 
@@ -65202,7 +65242,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Impacts: Climates Change the World</title>
 
-		<desc>The entire Earth is affected by climate change occurring with a greater speed and scale than ever before - this programme uses scientific data and the latest findings to raise awareness on its impact.</desc>
+		<desc>The US-Iran conflict led to what the IEA called the worst-ever energy crisis, and more power demand was predicted with the summer heat. How do the crisis and a surge in coal use affect climate change?</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch374_ImpactsClimates.jpg?w=341&amp;h=192"/>
 
@@ -65230,11 +65270,11 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="812" start="20260626193000 +0000" stop="20260626200000 +0000">
 
-		<title>Special Programme</title>
+		<title>Catch Japan</title>
 
-		<desc>A wide range of topics featuring Japanese culture and society are introduced.</desc>
+		<desc>We explore a circular approach to giving new life to unwanted items, the evolution of modern wagashi, a material that preserves history, and innovative sweets balancing taste and nutrition.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch374_NHKWorldTVSpecialProgramme.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch374_catch_japan.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -65470,11 +65510,11 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="812" start="20260627041000 +0000" stop="20260627044000 +0000">
 
-		<title>Time and Tide</title>
+		<title>Juni-Hitoe: Japan's Color Revoluti</title>
 
-		<desc>This programme transcends time to detail extraordinary historical events in Japan and the world - join NHK World-Japan on a journey that reveals the truth behind some of the turning points of history.</desc>
+		<desc>Japan boasts a thousand colour names, unmatched worldwide. Uncover the colour revolution sparked by women in the 11th century as seen through the elegant kimono known as the &quot;juni-hitoe&quot;.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch374_TimeandTide.jpg?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -65600,11 +65640,11 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="812" start="20260627081000 +0000" stop="20260627084000 +0000">
 
-		<title>Time and Tide</title>
+		<title>Juni-Hitoe: Japan's Color Revoluti</title>
 
-		<desc>This programme transcends time to detail extraordinary historical events in Japan and the world - join NHK World-Japan on a journey that reveals the truth behind some of the turning points of history.</desc>
+		<desc>Japan boasts a thousand colour names, unmatched worldwide. Uncover the colour revolution sparked by women in the 11th century as seen through the elegant kimono known as the &quot;juni-hitoe&quot;.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch374_TimeandTide.jpg?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192"/>
 
 	</programme>
 
