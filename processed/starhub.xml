@@ -13857,7 +13857,7 @@
 
 	</programme>
 
-	<programme channel="138" start="20260628153000 +0000" stop="20260628170000 +0000">
+	<programme channel="138" start="20260628153000 +0000" stop="20260628160000 +0000">
 
 		<title>Zee Flix</title>
 
@@ -14478,7 +14478,7 @@
 
 	</programme>
 
-	<programme channel="140" start="20260626163000 +0000" stop="20260626191000 +0000">
+	<programme channel="140" start="20260626163000 +0000" stop="20260626193000 +0000">
 
 		<title>Love Action Drama</title>
 
@@ -14488,7 +14488,7 @@
 
 	</programme>
 
-	<programme channel="140" start="20260626191000 +0000" stop="20260626212000 +0000">
+	<programme channel="140" start="20260626193000 +0000" stop="20260626213000 +0000">
 
 		<title>Liger</title>
 
@@ -14498,7 +14498,7 @@
 
 	</programme>
 
-	<programme channel="140" start="20260626212000 +0000" stop="20260626230500 +0000">
+	<programme channel="140" start="20260626213000 +0000" stop="20260626233000 +0000">
 
 		<title>Cheriya Kallnum Valiya Polisum</title>
 
@@ -17810,9 +17810,11 @@
 
 	<programme channel="153" start="20260626183000 +0000" stop="20260626190000 +0000">
 
-		<title>Best of DW Podcasts</title>
+		<title>Berlin Briefing</title>
 
-		<desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+		<desc>Germany is facing a dilemma: its alliances are weakening and its dependence is growing. NATO is under pressure, US leadership is less predictable, and Europe is struggling to act as one. At the same time, power is shifting beyond the military: toward AI, digital infrastructure, and technological control. 
+
+So where does Germany really stand and how much influence does it still have?</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -18778,7 +18780,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Reporter</title>
 
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Iran's World Cup appearance has been overshadowed by the military conflict with the U.S., as politics takes center stage at the football tournament.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -18788,7 +18790,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Euromaxx</title>
 
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>What can Bulgarian parents teach us about how to raise kids? What’s a day like in a chocolate taster’s life? And: What‘s the secret behind Swabian dumplings?</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -18850,7 +18852,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Reporter</title>
 
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Iran's World Cup appearance has been overshadowed by the military conflict with the U.S., as politics takes center stage at the football tournament.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -18922,7 +18924,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Reporter</title>
 
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Iran's World Cup appearance has been overshadowed by the military conflict with the U.S., as politics takes center stage at the football tournament.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -18932,7 +18934,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Euromaxx</title>
 
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>What can Bulgarian parents teach us about how to raise kids? What’s a day like in a chocolate taster’s life? And: What‘s the secret behind Swabian dumplings?</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -19094,7 +19096,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Euromaxx</title>
 
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>What can Bulgarian parents teach us about how to raise kids? What’s a day like in a chocolate taster’s life? And: What‘s the secret behind Swabian dumplings?</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -19134,7 +19136,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Reporter</title>
 
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Iran's World Cup appearance has been overshadowed by the military conflict with the U.S., as politics takes center stage at the football tournament.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -19204,9 +19206,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="153" start="20260628143000 +0000" stop="20260628150000 +0000">
 
-		<title>Best of DW Podcasts</title>
+		<title>Under The Baobab</title>
 
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>He bled with Gen Z on the streets of Nairobi. Now he wants their votes. Live from Bonn's historic World Conference Center, Mimi and George put Kenya's loudest activist-turned-politician in the hot seat.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -19932,7 +19934,17 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="201" start="20260626160000 +0000" stop="20260626190000 +0000">
+	<programme channel="201" start="20260626130000 +0000" stop="20260626163200 +0000">
+
+		<title>WTA Tour 2026</title>
+
+		<desc>The Bad Homburg Open is a women's professional tennis tournament held on outdoor grass courts at the Bad Homburg Tennis Club in Bad Homburg, Germany. Players compete for over $1.1 million in total prize money. The champion receives a unique, custom-crafted brass Elephant Trophy with a silver tennis ball in its trunk.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch201_WTA_Tour_500_Generic.jpg?w=960&amp;h=540"/>
+
+	</programme>
+
+	<programme channel="201" start="20260626163200 +0000" stop="20260626190000 +0000">
 
 		<title>European Championships 2026</title>
 
@@ -20252,7 +20264,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="202" start="20260626153000 +0000" stop="20260626173000 +0000">
+	<programme channel="202" start="20260626153000 +0000" stop="20260626174500 +0000">
 
 		<title>ATP Tour 2026 Mallorca Championships (250) SF 2</title>
 
@@ -20262,7 +20274,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="202" start="20260626173000 +0000" stop="20260626190000 +0000">
+	<programme channel="202" start="20260626174500 +0000" stop="20260626190000 +0000">
 
 		<title>ATP Tour 2026</title>
 
@@ -21062,7 +21074,17 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="206" start="20260626160000 +0000" stop="20260626220000 +0000">
+	<programme channel="206" start="20260626133000 +0000" stop="20260626173000 +0000">
+
+		<title>ATP Tour 2026 Lexus Eastbourne Open (250) SF 1 &amp; 2</title>
+
+		<desc>The Eastbourne Open is an elite professional tennis tournament held annually at the historic Devonshire Park Lawn Tennis Club in Eastbourne, United Kingdom. It is a crucial, historic tune-up event held during the week immediately preceding the Wimbledon Championships.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch201_ATP_250_Eastbourne_Open.jpg?w=960&amp;h=540"/>
+
+	</programme>
+
+	<programme channel="206" start="20260626173000 +0000" stop="20260626220000 +0000">
 
 		<title>End of Transmission</title>
 
@@ -21092,7 +21114,47 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="206" start="20260627100000 +0000" stop="20260627160000 +0000">
+	<programme channel="206" start="20260627100000 +0000" stop="20260627110000 +0000">
+
+		<title>End of Transmission</title>
+
+		<desc>End of Transmission</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960&amp;h=540"/>
+
+	</programme>
+
+	<programme channel="206" start="20260627110000 +0000" stop="20260627130000 +0000">
+
+		<title>WTA Tour 2026</title>
+
+		<desc>The Eastbourne Open is a tennis tournament held annually at the historic Devonshire Park Lawn Tennis Club in Eastbourne, UK. Held since 1974, Devonshire Park is one of the oldest tennis venues in the world, renowned for having some of the finest grass courts on the tour.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch201_WTA250Generic.jpg?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="206" start="20260627130000 +0000" stop="20260627133000 +0000">
+
+		<title>WTA Tour 2026 Highlights</title>
+
+		<desc>Catch all the exciting moments from the clay courts at the Foro Italico in Rome, Italy.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch201_WTA250Generic.jpg?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="206" start="20260627133000 +0000" stop="20260627153000 +0000">
+
+		<title>ATP Tour 2026 Lexus Eastbourne Open (250) Final</title>
+
+		<desc>The Eastbourne Open is an elite professional tennis tournament held annually at the historic Devonshire Park Lawn Tennis Club in Eastbourne, United Kingdom. It is a crucial, historic tune-up event held during the week immediately preceding the Wimbledon Championships.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch201_ATP_250_Eastbourne_Open.jpg?w=960&amp;h=540"/>
+
+	</programme>
+
+	<programme channel="206" start="20260627153000 +0000" stop="20260627160000 +0000">
 
 		<title>End of Transmission</title>
 
@@ -49182,7 +49244,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>The President's Path</title>
 
-		<desc>Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
+		<desc>This year marks a big milestone in the history of the US - its 250th anniversary. It's a chance for the country to reflect and celebrate, but there are questions about just who is throwing the party.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192"/>
 
@@ -49678,6 +49740,16 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
+	<programme channel="701" start="20260628013000 +0000" stop="20260628020000 +0000">
+
+		<title>Unspun World with John Simpson</title>
+
+		<desc>The factors behind the latest resignation of a British prime minister, US politics and society on the eve of the country's 250th birthday and the results of the Colombian presidential election.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch701_unspun_world_with_john_simpson.jpg?w=960&amp;h=540"/>
+
+	</programme>
+
 	<programme channel="701" start="20260628020000 +0000" stop="20260628023000 +0000">
 
 		<title>BBC News</title>
@@ -49842,7 +49914,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>The President's Path</title>
 
-		<desc>Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
+		<desc>This year marks a big milestone in the history of the US - its 250th anniversary. It's a chance for the country to reflect and celebrate, but there are questions about just who is throwing the party.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192"/>
 
