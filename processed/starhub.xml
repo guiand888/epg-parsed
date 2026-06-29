@@ -15691,7 +15691,7 @@
 
 	</programme>
 
-	<programme channel="140" start="20260629163000 +0000" stop="20260629193000 +0000">
+	<programme channel="140" start="20260629163000 +0000" stop="20260629193500 +0000">
 
 		<title>Marakkar-Arabikkadalinte Simham</title>
 
@@ -15701,9 +15701,9 @@
 
 	</programme>
 
-	<programme channel="140" start="20260629193000 +0000" stop="20260629213000 +0000">
+	<programme channel="140" start="20260629193500 +0000" stop="20260629213500 +0000">
 
-		<title>Aug-15</title>
+		<title>'Aug-15</title>
 
 		<desc>Perumal investigates an assassination attempt on the Chief Minister of Kerala on 15th August. Release Year: 2011 Director: Shaji Kailas</desc>
 
@@ -15711,7 +15711,7 @@
 
 	</programme>
 
-	<programme channel="140" start="20260629213000 +0000" stop="20260629233000 +0000">
+	<programme channel="140" start="20260629213500 +0000" stop="20260629232500 +0000">
 
 		<title>Cheriya Kallnum Valiya Polisum</title>
 
@@ -15721,7 +15721,7 @@
 
 	</programme>
 
-	<programme channel="140" start="20260629233000 +0000" stop="20260630013000 +0000">
+	<programme channel="140" start="20260629232500 +0000" stop="20260630013000 +0000">
 
 		<title>Mohabbath</title>
 
@@ -23218,7 +23218,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="213" start="20260629130000 +0000" stop="20260629141500 +0000">
+	<programme channel="213" start="20260629130000 +0000" stop="20260629150000 +0000">
 
 		<title>LFCTV Classic 2025/26: Southampton vs Liverpool PL 2024/25</title>
 
@@ -23228,7 +23228,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="213" start="20260629141500 +0000" stop="20260629144500 +0000">
+	<programme channel="213" start="20260629150000 +0000" stop="20260629153500 +0000">
 
 		<title>LFC Trending 2025/26</title>
 
@@ -23238,23 +23238,13 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="213" start="20260629144500 +0000" stop="20260629160000 +0000">
+	<programme channel="213" start="20260629153500 +0000" stop="20260629163500 +0000">
 
 		<title>LFCTV Classic 2025/26: Tottenham vs Liverpool PL 2024/25</title>
 
 		<desc>Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch213_lfctv_generic.jpg?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="213" start="20260629160000 +0000" stop="20260629163500 +0000">
-
-		<title>Formula 1 Highlights 2026</title>
-
-		<desc>Catch up with all the best bits from the weekend's race.</desc>
-
-		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -23638,13 +23628,23 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="214" start="20260629060000 +0000" stop="20260629100000 +0000">
+	<programme channel="214" start="20260629060000 +0000" stop="20260629093000 +0000">
 
 		<title>ONE Fight Night 2026: OFN 44: Jarvis vs Rungrawee II</title>
 
 		<desc>A monthly series of live martial arts events showcasing MMA, Muay Thai, Kickboxing and Submission Grappling with major World Title fights and global stars</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch214_Fight_Night.jpg?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="214" start="20260629093000 +0000" stop="20260629100000 +0000">
+
+		<title>Racing On The Edge S6</title>
+
+		<desc>This premium storytelling series provides an all-access look into sailingâ€™s greatest personalities, their stories, inner-battles and all the drama that converges at the Sail Grand Prix start line.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch214_Racing_on_the_edge.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -26837,7 +26837,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<title>FIFA World Cup 2026 - Pre-Show</title>
 
 		<episode-num system="xmltv_ns">.61</episode-num>
-		<desc>(Live) Pre-Show for FIFA World Cup 2026. The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
+		<desc>(Live) Germany face Paraguay in a clash between European pedigree and South American resilience. Germany will be looking to take another step towards the trophy, while Paraguay hope to continue their memorable campaign. The reward for the winner is a place in the Round of 16.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/30Jun_GER-PRA.jpg?w=960&amp;h=540"/>
 
@@ -26845,10 +26845,10 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="251" start="20260629203000 +0000" stop="20260629223000 +0000">
 
-		<title>FIFA World Cup 2026 Round of 32: Germany v Third Place Group A/B/C/D/F</title>
+		<title>FIFA World Cup 2026 Round of 32: Germany vs Paraguay</title>
 
 		<episode-num system="xmltv_ns">.73</episode-num>
-		<desc>(Live) The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
+		<desc>(Live) Germany face Paraguay in a clash between European pedigree and South American resilience. Germany will be looking to take another step towards the trophy, while Paraguay hope to continue their memorable campaign. The reward for the winner is a place in the Round of 16.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/30Jun_GER-PRA.jpg?w=960&amp;h=540"/>
 
@@ -26859,7 +26859,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<title>FIFA World Cup 2026 - Post-Show</title>
 
 		<episode-num system="xmltv_ns">.61</episode-num>
-		<desc>(Live) Post-Show for FIFA World Cup 2026. The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
+		<desc>(Live) Germany face Paraguay in a clash between European pedigree and South American resilience. Germany will be looking to take another step towards the trophy, while Paraguay hope to continue their memorable campaign. The reward for the winner is a place in the Round of 16.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/30Jun_GER-PRA.jpg?w=960&amp;h=540"/>
 
