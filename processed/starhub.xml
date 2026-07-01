@@ -977,6 +977,86 @@
 
 	</channel>
 
+	<programme channel="101" start="20260630160000 +0000" stop="20260630220000 +0000">
+
+		<title>Preview Channel</title>
+
+		<desc/>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png?w=960&amp;h=540"/>
+
+	</programme>
+
+	<programme channel="101" start="20260630220000 +0000" stop="20260701040000 +0000">
+
+		<title>Preview Channel</title>
+
+		<desc/>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png?w=960&amp;h=540"/>
+
+	</programme>
+
+	<programme channel="101" start="20260701040000 +0000" stop="20260701100000 +0000">
+
+		<title>Preview Channel</title>
+
+		<desc/>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png?w=960&amp;h=540"/>
+
+	</programme>
+
+	<programme channel="101" start="20260701100000 +0000" stop="20260701160000 +0000">
+
+		<title>Preview Channel</title>
+
+		<desc/>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png?w=960&amp;h=540"/>
+
+	</programme>
+
+	<programme channel="101" start="20260701160000 +0000" stop="20260701220000 +0000">
+
+		<title>Preview Channel</title>
+
+		<desc/>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png?w=960&amp;h=540"/>
+
+	</programme>
+
+	<programme channel="101" start="20260701220000 +0000" stop="20260702040000 +0000">
+
+		<title>Preview Channel</title>
+
+		<desc/>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png?w=960&amp;h=540"/>
+
+	</programme>
+
+	<programme channel="101" start="20260702040000 +0000" stop="20260702100000 +0000">
+
+		<title>Preview Channel</title>
+
+		<desc/>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png?w=960&amp;h=540"/>
+
+	</programme>
+
+	<programme channel="101" start="20260702100000 +0000" stop="20260702160000 +0000">
+
+		<title>Preview Channel</title>
+
+		<desc/>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png?w=960&amp;h=540"/>
+
+	</programme>
+
 	<programme channel="102" start="20260630160000 +0000" stop="20260630163000 +0000">
 
 		<title>Aunty Lee's Deadly Delights</title>
@@ -3941,23 +4021,12 @@
 
 	</programme>
 
-	<programme channel="106" start="20260630230000 +0000" stop="20260701020000 +0000">
+	<programme channel="106" start="20260630230000 +0000" stop="20260701030000 +0000">
 
 		<title>Asia First</title>
 
 		<episode-num system="xmltv_ns">.65</episode-num>
 		<desc>(Live) Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="106" start="20260701020000 +0000" stop="20260701030000 +0000">
-
-		<title>This Way Up</title>
-
-		<episode-num system="xmltv_ns">.0</episode-num>
-		<desc>In Xinjiang, Guo Quan embarks on a trucking journey to Khunjerab, reaching an altitude of 4,733 metres while female trucker Yogita battles the heatwave on highways in Central India.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -4353,7 +4422,7 @@
 		<title>Insight</title>
 
 		<episode-num system="xmltv_ns">.6</episode-num>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>Malaysia is racing to become Southeast Asia's next AI powerhouse, attracting billions of dollars in data-centre investments. Can it become a true centre of AI innovation?</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -4361,7 +4430,7 @@
 
 	<programme channel="106" start="20260702140000 +0000" stop="20260702150000 +0000">
 
-		<title>Singapore Tonight 2026/2027</title>
+		<title>Singapore Tonight</title>
 
 		<episode-num system="xmltv_ns">.92</episode-num>
 		<desc>(Live) From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
@@ -13154,7 +13223,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<episode-num system="xmltv_ns">.2</episode-num>
 		<desc>Onna Irukka Kaththukkanum</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch135_onna_irukka_kaththukkanum.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -13231,7 +13300,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<episode-num system="xmltv_ns">.2</episode-num>
 		<desc>Onna Irukka Kaththukkanum</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch135_onna_irukka_kaththukkanum.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -13374,7 +13443,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<episode-num system="xmltv_ns">.3</episode-num>
 		<desc>Onna Irukka Kaththukkanum</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch135_onna_irukka_kaththukkanum.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -13451,7 +13520,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<episode-num system="xmltv_ns">.3</episode-num>
 		<desc>Onna Irukka Kaththukkanum</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch135_onna_irukka_kaththukkanum.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -21252,7 +21321,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 		<title>Singapore Premier League 2025/26 Young Lions vs BG Tampines Rovers FC</title>
 
-		<desc>Catch the 2025/26 Singapore Premier League as top football clubs battle for glory in Singapore’s premier competition. Defending champions Lion City Sailors return to defend their title in the league’s 8th season since its 2018 rebranding.</desc>
+		<desc>Catch the 2025/26 Singapore Premier League as top football clubs battle for glory in Singapore's premier competition. Defending champions Lion City Sailors return to defend their title in the league's 8th season since its 2018 rebranding.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_premier_league.jpg?w=960&amp;h=540"/>
 
@@ -21312,7 +21381,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 		<title>ASO Motorsport Programming 2026</title>
 
-		<desc>The Desafío Ruta 40 is one of South America’s most iconic rally-raid events, and is Round 3 of the FIA-FIM World Rally-Raid Championship. The 2026 edition follows a San Juan – San Rafael – San Juan loop in Argentina.</desc>
+		<desc>The Desafío Ruta 40 is one of South America's most iconic rally-raid events, and is Round 3 of the FIA-FIM World Rally-Raid Championship. The 2026 edition follows a San Juan – San Rafael – San Juan loop in Argentina.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch202_aso.jpg?w=341&amp;h=192"/>
 
@@ -21340,7 +21409,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	<programme channel="202" start="20260701160000 +0000" stop="20260701210000 +0000">
 
-		<title>BANK OF NINGBO Badminton Asia C'ships 2026</title>
+		<title>BANK OF NINGBO Badminton Asia C'ships 2026 QF Session 2</title>
 
 		<desc>The Badminton Asia Championships is a tournament organized by governing body Badminton Asia to crown the best badminton players in Asia. It features competitions to determine the top badminton athletes across Asia in men's singles, women's singles, men's doubles, women's doubles, and mixed doubles.</desc>
 
@@ -21944,7 +22013,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 		<desc>Top women amateur golfers compete for one of the sport's most prestigious amateur titles, showcasing emerging talent, precision, and championship ambition.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch209_The_Womens_Amateur_Championship.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch209_The_Amateur_Championship.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -22024,7 +22093,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 		<desc>Top women amateur golfers compete for one of the sport's most prestigious amateur titles, showcasing emerging talent, precision, and championship ambition.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch209_The_Womens_Amateur_Championship.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch209_The_Amateur_Championship.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -22058,7 +22127,17 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="209" start="20260702033000 +0000" stop="20260702113000 +0000">
+	<programme channel="209" start="20260702033000 +0000" stop="20260702043000 +0000">
+
+		<title>2026 WSL Inside Pro Surfing</title>
+
+		<desc>Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour &amp; Challenger Series.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch209_WSL.jpg?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="209" start="20260702043000 +0000" stop="20260702113000 +0000">
 
 		<title>The Championships, Wimbledon 2026</title>
 
@@ -22138,17 +22217,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="210" start="20260701050000 +0000" stop="20260701053000 +0000">
-
-		<title>2026 Global Champions League, Paris</title>
-
-		<desc>The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
-
-		<icon src="https://poster.starhubgo.com/poster/ch210_global_champions_league.jpg?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="210" start="20260701053000 +0000" stop="20260701115500 +0000">
+	<programme channel="210" start="20260701050000 +0000" stop="20260701115500 +0000">
 
 		<title>The Championships, Wimbledon 2026</title>
 
@@ -26215,18 +26284,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="251" start="20260701000000 +0000" stop="20260701003000 +0000">
-
-		<title>Football's Greatest Stage</title>
-
-		<episode-num system="xmltv_ns">.21</episode-num>
-		<desc>To have remained England’s leading scorer for 45 years after his retirement, as a midfielder, was a truly remarkable achievement.</desc>
-
-		<icon src="https://poster.starhubgo.com/poster/ch251_footballs_greatest_stage.jpg?w=960&amp;h=540"/>
-
-	</programme>
-
-	<programme channel="251" start="20260701003000 +0000" stop="20260701010000 +0000">
+	<programme channel="251" start="20260701000000 +0000" stop="20260701020000 +0000">
 
 		<title>FIFA World Cup 2026 - Pre-Show</title>
 
@@ -26237,7 +26295,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="251" start="20260701010000 +0000" stop="20260701040000 +0000">
+	<programme channel="251" start="20260701020000 +0000" stop="20260701050000 +0000">
 
 		<title>FIFA World Cup 2026 Round of 32: Mexico vs Ecuador</title>
 
@@ -26248,7 +26306,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="251" start="20260701040000 +0000" stop="20260701071500 +0000">
+	<programme channel="251" start="20260701050000 +0000" stop="20260701081500 +0000">
 
 		<title>FIFA World Cup 2026 Round of 32: Netherlands vs Morocco</title>
 
@@ -26259,7 +26317,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="251" start="20260701071500 +0000" stop="20260701093000 +0000">
+	<programme channel="251" start="20260701081500 +0000" stop="20260701103000 +0000">
 
 		<title>FIFA World Cup 2026 Round of 32: Ivory Coast vs Norway</title>
 
@@ -26267,28 +26325,6 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<desc>Ivory Coast and Norway both have the opportunity to reach the Round of 16 for the first time in this tournament. With confidence growing after the group stage, both teams will be eager to seize the moment and continue their World Cup journey.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/1Jul_CIV-NOR.jpg?w=960&amp;h=540"/>
-
-	</programme>
-
-	<programme channel="251" start="20260701093000 +0000" stop="20260701100000 +0000">
-
-		<title>FIFA World Cup 2026 - Match Highlights</title>
-
-		<episode-num system="xmltv_ns">.73</episode-num>
-		<desc>Five-time champions Brazil take on an exciting Japan side in a compelling Round of 32 encounter. Brazil will look to showcase their attacking flair and knockout experience, while Japan aim to continue their impressive campaign with their trademark speed, discipline and relentless work rate in a bid to pull off a memorable upset.</desc>
-
-		<icon src="https://poster.starhubgo.com/poster/Rd_32_BRA_v_JPN_match_hls.jpg?w=960&amp;h=540"/>
-
-	</programme>
-
-	<programme channel="251" start="20260701100000 +0000" stop="20260701103000 +0000">
-
-		<title>FIFA World Cup 2026 - Match Highlights</title>
-
-		<episode-num system="xmltv_ns">.74</episode-num>
-		<desc>Germany face Paraguay in a clash between European pedigree and South American resilience. Germany will be looking to take another step towards the trophy, while Paraguay hope to continue their memorable campaign. The reward for the winner is a place in the Round of 16.</desc>
-
-		<icon src="https://poster.starhubgo.com/poster/Rd_32_GER_v_PAR_match_hls.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -26380,22 +26416,11 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="251" start="20260701200000 +0000" stop="20260701220000 +0000">
+	<programme channel="251" start="20260701200000 +0000" stop="20260701230000 +0000">
 
 		<title>FIFA World Cup 2026 Round of 32: Belgium vs Senegal</title>
 
 		<episode-num system="xmltv_ns">.81</episode-num>
-		<desc>(Live) Belgium and Senegal meet in one of the standout Round of 32 ties. Both sides possess the quality to make a deep run, with the winner earning a place in the Round of 16 and another opportunity to challenge for the title.</desc>
-
-		<icon src="https://poster.starhubgo.com/poster/2Jul_BEL-SEN.jpg?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="251" start="20260701220000 +0000" stop="20260701230000 +0000">
-
-		<title>FIFA World Cup 2026 - Post-Show</title>
-
-		<episode-num system="xmltv_ns">.69</episode-num>
 		<desc>(Live) Belgium and Senegal meet in one of the standout Round of 32 ties. Both sides possess the quality to make a deep run, with the winner earning a place in the Round of 16 and another opportunity to challenge for the title.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/2Jul_BEL-SEN.jpg?w=341&amp;h=192"/>
@@ -32094,7 +32119,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<episode-num system="xmltv_ns">0.12</episode-num>
 		<desc>Jim must surrender to Bular and unlock the Killahead Bridge to save kidnapped Blinky and promises Claire that he will get her brother back.</desc>
 
-		<icon src="https://poster.starhubgo.com/Linear_channels2/606_1920x1080_HTV.png?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch307_trollhunters.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -32105,7 +32130,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<episode-num system="xmltv_ns">0.13</episode-num>
 		<desc>Jim yearns to save Claires brother Meanwhile Strickler takes a field trip to find help in his quest for power</desc>
 
-		<icon src="https://poster.starhubgo.com/Linear_channels2/606_1920x1080_HTV.png?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch307_trollhunters.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -32721,7 +32746,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<episode-num system="xmltv_ns">0.14</episode-num>
 		<desc>Jim is nominated for Spring Fling King Meanwhile Strickler brings Angor Rot to Arcadia so the Troll assassin can meet his prey.</desc>
 
-		<icon src="https://poster.starhubgo.com/Linear_channels2/606_1920x1080_HTV.png?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch307_trollhunters.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -32732,7 +32757,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<episode-num system="xmltv_ns">0.15</episode-num>
 		<desc>Jims quest for Gunmars birthstone sends the gang deep into the heart of a volcano that is not what it seems and Strickler seeks to protect himself.</desc>
 
-		<icon src="https://poster.starhubgo.com/Linear_channels2/606_1920x1080_HTV.png?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch307_trollhunters.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -32743,7 +32768,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<episode-num system="xmltv_ns">0.16</episode-num>
 		<desc>After the events at Gattos Keep Blinky is transformed into a human being and Jim discovers the assassin that is hunting him.</desc>
 
-		<icon src="https://poster.starhubgo.com/Linear_channels2/606_1920x1080_HTV.png?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch307_trollhunters.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -33359,7 +33384,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<episode-num system="xmltv_ns">0.17</episode-num>
 		<desc>While Jim and Toby search for dates to the Spring Dance the team searches for the Second Triumbric Stone in the marshlands of the Quagawumps.</desc>
 
-		<icon src="https://poster.starhubgo.com/Linear_channels2/606_1920x1080_HTV.png?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch307_trollhunters.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -33370,7 +33395,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<episode-num system="xmltv_ns">0.18</episode-num>
 		<desc>When Jim is unavailable to do a simple Trollhunter task Toby and Claire take on the responsibility to prove they can carry their weight... literally.</desc>
 
-		<icon src="https://poster.starhubgo.com/Linear_channels2/606_1920x1080_HTV.png?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch307_trollhunters.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -42832,7 +42857,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<title>Four Corners</title>
 
 		<episode-num system="xmltv_ns">.19</episode-num>
-		<desc>The multi-award winning Four Corners returns for another year of powerhouse investigative journalism - fearless and forensic, exposing scandals, triggering inquiries, leading debate and holding power to account for 65 years.</desc>
+		<desc>As the AFL pushes for growth, we uncover new evidence of brain disease in younger players. Families of players diagnosed with CTE speak about the risks of repeated head trauma. Has the AFL been transparent about the risks?</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
 
@@ -42843,7 +42868,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<title>Media Watch</title>
 
 		<episode-num system="xmltv_ns">.20</episode-num>
-		<desc>Australia's leading forum for media analysis and comment. Walkley award-winning investigative reporter and former foreign correspondent Linton Besser brings you a fearless critique of the week's journalism.</desc>
+		<desc>Karl Stefanovic loses his job after embracing a controversial anti-Islam activist. ABC rejects an opinion piece by business woman Sall Grover. CCP propaganda finds its way into regional newspapers, in a branded opinion piece.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
 
@@ -42854,7 +42879,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<title>Compass</title>
 
 		<episode-num system="xmltv_ns">39.14</episode-num>
-		<desc>Media entrepreneur and author, Hannah Ferguson, heads back to rural NSW to visit her mum, and while they don't always see eye to eye to politically, both now find themselves working towards demystifying taboos facing women.</desc>
+		<desc>New media entrepreneur Hannah Ferguson is on the rise but back home in Orange with her mum Philippa, a different Hannah emerges. Despite their political differences, both are dedicated to empowering women in their own ways.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
 
@@ -42876,7 +42901,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<title>News Breakfast</title>
 
 		<episode-num system="xmltv_ns">.130</episode-num>
-		<desc>As each day begins get the facts you need to stay informed. James Glenday and Emma Rebellato present the latest news, overnight developments and today's top stories, joined by Catherine Murphy, Nate Byrne and Lillian Rangiah.</desc>
+		<desc>Emma Rebellato and Catherine Murphy bring you the latest news, overnight developments, interviews and new details on the top stories this morning, plus sport and Lillian Rangiah with your weather.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
 
@@ -42898,7 +42923,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<title>ABC News Mornings</title>
 
 		<episode-num system="xmltv_ns">.130</episode-num>
-		<desc>Stay in the know with what's going on this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Kathryn Robinson.</desc>
+		<desc>Stay in the know with what's happening this morning. Lorna Dunkley brings you the day's top stories and the latest news, with live crosses to reporters and guests, plus sport with Catherine Murphy and weather with Nate Byrne.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
 
@@ -42953,7 +42978,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<title>Planet America</title>
 
 		<episode-num system="xmltv_ns">.21</episode-num>
-		<desc>Planet America celebrates our 600th episode. Since 2012, John Barron and Chas Licciardello have unpacked the issues, events, people and politics from the US - in their own inimitable way. (Midseason Final)</desc>
+		<desc>The Supreme Court clears the way for mass deportations as Trump's White House declares America is closed. Plus the 'Green-Watergate' disaster continues as Americans prepare to celebrate their 250th birthday. (Midseason Final)</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
 
@@ -42964,7 +42989,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<title>Media Watch</title>
 
 		<episode-num system="xmltv_ns">.20</episode-num>
-		<desc>Australia's leading forum for media analysis and comment. Walkley award-winning investigative reporter and former foreign correspondent Linton Besser brings you a fearless critique of the week's journalism.</desc>
+		<desc>Karl Stefanovic loses his job after embracing a controversial anti-Islam activist. ABC rejects an opinion piece by business woman Sall Grover. CCP propaganda finds its way into regional newspapers, in a branded opinion piece.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
 
@@ -42992,12 +43017,23 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="447" start="20260702080000 +0000" stop="20260702085000 +0000">
+	<programme channel="447" start="20260702080000 +0000" stop="20260702082500 +0000">
 
 		<title>The Cook Up With Adam Liaw</title>
 
 		<episode-num system="xmltv_ns">4.5</episode-num>
 		<desc>NAIDOC Week host Nornie Bero is joined by presenter Matty Mills and visual artist Gail Mabo to make memorable beach dinners.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="447" start="20260702082500 +0000" stop="20260702085000 +0000">
+
+		<title>The Chef's Garden</title>
+
+		<episode-num system="xmltv_ns">0.1</episode-num>
+		<desc>Massimo unravels the secrets behind Tasmanian cheeses, olives and the freshest produce as he serves up three tasty appetisers to irresistible pasta.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
 
@@ -43063,7 +43099,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<title>ABC Late News</title>
 
 		<episode-num system="xmltv_ns">.130</episode-num>
-		<desc>End your day with the latest on the day's top stories. ABC News has reporters across Australia and around the globe to uncover what's happening and why it matters. Presented by Michael Tetlow in Perth.</desc>
+		<desc>End your day with the latest on the day's top stories. ABC News has reporters across Australia and around the globe to uncover what's happening and why it matters. Presented by Pip Waller in Perth.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
 
@@ -55750,13 +55786,23 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="711" start="20260701200000 +0000" stop="20260701210000 +0000">
+	<programme channel="711" start="20260701200000 +0000" stop="20260701204500 +0000">
 
 		<title>Quest Means Business</title>
 
 		<desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch711_quest_means_business.jpg?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="711" start="20260701204500 +0000" stop="20260701210000 +0000">
+
+		<title>Marketplace Europe</title>
+
+		<desc>Money 20/20 is one of the world’s most influential gatherings of financial leaders, fintech disruptors and global investors.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch711_marketplace_europe.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
