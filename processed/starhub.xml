@@ -15240,7 +15240,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="140" start="20260703170000 +0000" stop="20260703193000 +0000">
+	<programme channel="140" start="20260703170000 +0000" stop="20260703192000 +0000">
 
 		<title>Sunday Holiday</title>
 
@@ -15250,7 +15250,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="140" start="20260703193000 +0000" stop="20260703213000 +0000">
+	<programme channel="140" start="20260703192000 +0000" stop="20260703213000 +0000">
 
 		<title>Colours</title>
 
@@ -15260,7 +15260,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="140" start="20260703213000 +0000" stop="20260703233000 +0000">
+	<programme channel="140" start="20260703213000 +0000" stop="20260703230500 +0000">
 
 		<title>Seelabathi</title>
 
@@ -15270,7 +15270,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="140" start="20260703233000 +0000" stop="20260704013000 +0000">
+	<programme channel="140" start="20260703230500 +0000" stop="20260704013000 +0000">
 
 		<title>Positive</title>
 
@@ -16924,43 +16924,303 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="144" start="20260703164500 +0000" stop="20260703220000 +0000">
+	<programme channel="144" start="20260703161500 +0000" stop="20260703165500 +0000">
 
-		<title>Information Not Available</title>
+		<title>Sigabo</title>
 
-		<desc/>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="144" start="20260703220000 +0000" stop="20260704040000 +0000">
-
-		<title>Information Not Available</title>
-
-		<desc/>
+		<desc>After eight years in prison, Gabo gets parole but must join a covert government programme for dangerous missions. He meets lawyer Sam, also an investigative agent, sparking a complex love-hate relationship.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192"/>
 
 	</programme>
 
-	<programme channel="144" start="20260704040000 +0000" stop="20260704100000 +0000">
+	<programme channel="144" start="20260703165500 +0000" stop="20260703173500 +0000">
 
-		<title>Information Not Available</title>
+		<title>Blood VS. Duty</title>
 
-		<desc/>
+		<desc>This action drama series pits government agents against a tight-knit fishing community in a high-stakes battle over illegal firearms.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch144_blood_vs_duty.jpg?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="144" start="20260703173500 +0000" stop="20260703181500 +0000">
+
+		<title>The Alibi</title>
+
+		<desc>Vincent is accused of killing his rival, Walter. To protect his reputation, he hires Stella, an escort with her own haunted past, to pose as his alibi. What begins as a transactional arrangement soon becomes dangerously real.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch144_the_alibi.jpg?w=960&amp;h=540"/>
+
+	</programme>
+
+	<programme channel="144" start="20260703181500 +0000" stop="20260703185000 +0000">
+
+		<title>Incognito</title>
+
+		<desc>A group of disgraced yet highly-skilled operatives hope to seek redemption as they take on dangerous covert missions and fight against the enemy they unwittingly uncovered.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch144_incognito.jpg?w=960&amp;h=540"/>
+
+	</programme>
+
+	<programme channel="144" start="20260703185000 +0000" stop="20260703192500 +0000">
+
+		<title>Iron Heart</title>
+
+		<desc>An undercover agent goes on a dangerous mission to bring down a crime ring. Fuelled by a bitter and painful past, he along with his allies face the gruelling task that will challenge his resolve and strength.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch144_iron_heart.jpg?w=960&amp;h=540"/>
+
+	</programme>
+
+	<programme channel="144" start="20260703192500 +0000" stop="20260703200000 +0000">
+
+		<title>Linlang</title>
+
+		<desc>This mystery-thriller series revolves around an alluring woman named Juliana and her illicit affair with Alex, a lawyer who also happens to be the brother of Juliana's husband, Victor, a washed-up boxer. What is the story behind Juliana's betrayal and infidelity?</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch144_linlang.jpg?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="144" start="20260703200000 +0000" stop="20260703213000 +0000">
+
+		<title>TV Patrol Weekday Global Edition</title>
+
+		<desc>Comprehensive and incisive, TV Patrol is the benchmark in Philippines news journalism, bringing you the most relevant news delivered by the country's best news anchors.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch144_tv_patrol_weekend.jpg?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="144" start="20260703213000 +0000" stop="20260703223000 +0000">
+
+		<title>Tabing Ilog</title>
+
+		<desc>Eight teenagers struggle to find themselves and their true purpose. All things build them up to form friendship and love which will transform them for the rest of their lives.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192"/>
 
 	</programme>
 
-	<programme channel="144" start="20260704100000 +0000" stop="20260704160000 +0000">
+	<programme channel="144" start="20260703223000 +0000" stop="20260703230000 +0000">
 
-		<title>Information Not Available</title>
+		<title>Juan Big Bite</title>
 
-		<desc/>
+		<desc>Follow the culinary adventures, mouthwatering recipes and explorations of diverse cuisines across the Philippines with host Miguel.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="144" start="20260703230000 +0000" stop="20260703233000 +0000">
+
+		<title>Wow</title>
+
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="144" start="20260703233000 +0000" stop="20260704000000 +0000">
+
+		<title>Tubig To Handle (Sat)</title>
+
+		<desc>Tubig to Handle is an action-packed, water-based obstacle game show led by Yassi Pressman. The splash-filled programme features larger-than-life challenges, wild obstacles and entertaining wipeouts!</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="144" start="20260704000000 +0000" stop="20260704003000 +0000">
+
+		<title>Tubig To Handle (Sun)</title>
+
+		<desc>Tubig to Handle is an action-packed, water-based obstacle game show led by Yassi Pressman. The splash-filled programme features larger-than-life challenges, wild obstacles and entertaining wipeouts!</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="144" start="20260704003000 +0000" stop="20260704010000 +0000">
+
+		<title>Astig Vegan S4</title>
+
+		<desc>Find out how to prepare some of the best vegan Filipino dishes on this show.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="144" start="20260704010000 +0000" stop="20260704020000 +0000">
+
+		<title>Tulong Ko, Pasa Mo</title>
+
+		<desc>Fill your weekends with joy and inspiration on this public service programme.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch144_tulong_ko_pasa_mo.jpg?w=960&amp;h=540"/>
+
+	</programme>
+
+	<programme channel="144" start="20260704020000 +0000" stop="20260704023000 +0000">
+
+		<title>Ano Na Bev S6</title>
+
+		<desc>Bringing you thought-provoking conversations from a wide range of fascinating and interesting people, enjoy the best expressed views with award-winning journalist Bev Llorente.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="144" start="20260704023000 +0000" stop="20260704030000 +0000">
+
+		<title>Kapamilya Daily Mass</title>
+
+		<desc>A daily celebration of the Liturgy of the Lord.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch144_kapamilya_daily_mass.jpg?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="144" start="20260704030000 +0000" stop="20260704040000 +0000">
+
+		<title>Darna</title>
+
+		<desc>Narda, an emergency medical technician and a loving breadwinner to the Custodio family, is destined to become the next protector of the powerful stone that enables her to transform into a superhero who has special abilities to help those in danger.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch144_darna.jpg?w=960&amp;h=540"/>
+
+	</programme>
+
+	<programme channel="144" start="20260704040000 +0000" stop="20260704063000 +0000">
+
+		<title>It's Showtime</title>
+
+		<desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch144_showtime.jpg?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="144" start="20260704063000 +0000" stop="20260704071500 +0000">
+
+		<title>Tubig To Handle</title>
+
+		<desc>Tubig to Handle is an action-packed, water-based obstacle game show led by Yassi Pressman. The splash-filled programme features larger-than-life challenges, wild obstacles and entertaining wipeouts!</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="144" start="20260704071500 +0000" stop="20260704074500 +0000">
+
+		<title>Pamilya Talk With Tita Jing S7</title>
+
+		<desc>Jing Castaneda dishes out advice regarding matters close to the heart.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="144" start="20260704074500 +0000" stop="20260704084500 +0000">
+
+		<title>Tulong Ko, Pasa Mo</title>
+
+		<desc>Fill your weekends with joy and inspiration on this public service programme.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch144_tulong_ko_pasa_mo.jpg?w=960&amp;h=540"/>
+
+	</programme>
+
+	<programme channel="144" start="20260704084500 +0000" stop="20260704091500 +0000">
+
+		<title>Home Away From Home S6</title>
+
+		<desc>This lifestyle programme celebrates Filipino stories abroad as it chronicles Filipino communities all over the world and explores cultural exchanges of Filipinos in their home away from home.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="144" start="20260704091500 +0000" stop="20260704094500 +0000">
+
+		<title>Juan Conversations with Rose Eclarinal S3</title>
+
+		<desc>Global achievers and everyday heroes reveal the triumphs, struggles and inspiring journeys of overseas Filipinos across Europe.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch144_juan_conversations_with_rose_eclarinal.jpg?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="144" start="20260704094500 +0000" stop="20260704104500 +0000">
+
+		<title>TV Patrol Sabado Live</title>
+
+		<desc>Comprehensive and incisive, TV Patrol is the benchmark in Philippines news journalism, bringing you the most relevant news delivered by the country's best news anchors.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch144_tv_patrol_weekend.jpg?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="144" start="20260704104500 +0000" stop="20260704113000 +0000">
+
+		<title>Tao Po</title>
+
+		<desc>This programme features short narratives spanning a wide range of compelling topics from hot issues, inspiring human interest pieces, popular trends, profiles and entertainment.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch144_tao_po.jpg?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="144" start="20260704113000 +0000" stop="20260704123000 +0000">
+
+		<title>Kapamilya Deal Or No Deal</title>
+
+		<desc>Don't miss this gameshow where participants are given a chance to make a deal of a lifetime.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch144_kapamilya_deal_or_no_deal.jpg?w=960&amp;h=540"/>
+
+	</programme>
+
+	<programme channel="144" start="20260704123000 +0000" stop="20260704134500 +0000">
+
+		<title>Everybody Sing</title>
+
+		<desc>Everybody Sing is a sing-a-long community game show where 100 people work and play music-related challenges for a chance to win cash prizes together!</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch144_everybody_sings.jpg?w=960&amp;h=540"/>
+
+	</programme>
+
+	<programme channel="144" start="20260704134500 +0000" stop="20260704145500 +0000">
+
+		<title>The Crossings: Finding Our Way Home Through Stories</title>
+
+		<desc>Across 24 themed collections, experience powerful stories from Filipino filmmakers and Filipino stories exploring culture, family, love, resilience, self-discovery and belonging.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="144" start="20260704145500 +0000" stop="20260704154500 +0000">
+
+		<title>The B Side S2</title>
+
+		<desc>The B Side is back, and it's realer, deeper and more unfiltered than ever. This season, Bianca Gonzalez dives into the untold stories of your favourite artists.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch144_the_b_side.jpg?w=960&amp;h=540"/>
+
+	</programme>
+
+	<programme channel="144" start="20260704154500 +0000" stop="20260704173000 +0000">
+
+		<title>It's Showtime</title>
+
+		<desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch144_showtime.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -18611,7 +18871,7 @@ Our guests: Julia Hahn, DW Studio Istanbul; Aylin Matlé, German Council on Fore
 
 		<title>DW News Focus</title>
 
-		<desc/>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -18671,7 +18931,7 @@ Our guests: Julia Hahn, DW Studio Istanbul; Aylin Matlé, German Council on Fore
 
 		<title>DW News Focus</title>
 
-		<desc/>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -18689,9 +18949,9 @@ Our guests: Julia Hahn, DW Studio Istanbul; Aylin Matlé, German Council on Fore
 
 	<programme channel="153" start="20260703033000 +0000" stop="20260703040000 +0000">
 
-		<title>Made in Germany</title>
+		<title>DW News Focus</title>
 
-		<desc>Migration-driven growth, AI disruption and ageing societies reshape labor markets. The program explores who benefits—and who is left behind.</desc>
+		<desc>Canada is joining the Eurovision Song Contest, Europe's wildly popular song contest that mixes pop music, kitsch, glitter and national pride. The move has been championed by Prime Minister Mark Carney and comes at a time when Canada faces a difficult moment in its relationship with Washington, and Eurovision deals with a boycott over Israel’s participation.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -18711,7 +18971,7 @@ Our guests: Julia Hahn, DW Studio Istanbul; Aylin Matlé, German Council on Fore
 
 		<title>DW News Focus</title>
 
-		<desc/>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -18771,7 +19031,7 @@ Our guests: Julia Hahn, DW Studio Istanbul; Aylin Matlé, German Council on Fore
 
 		<title>DW News Focus</title>
 
-		<desc/>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -18811,7 +19071,7 @@ Our guests: Julia Hahn, DW Studio Istanbul; Aylin Matlé, German Council on Fore
 
 		<title>DW News Focus</title>
 
-		<desc/>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -18873,7 +19133,7 @@ Our guests: Julia Hahn, DW Studio Istanbul; Aylin Matlé, German Council on Fore
 
 		<title>DW News Focus</title>
 
-		<desc/>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -18903,7 +19163,7 @@ Our guests: Julia Hahn, DW Studio Istanbul; Aylin Matlé, German Council on Fore
 
 		<title>DW News Focus</title>
 
-		<desc/>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -24993,7 +25253,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>End of Transmission</title>
 
-		<desc/>
+		<desc>End of Transmission</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -25003,7 +25263,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>End of Transmission</title>
 
-		<desc/>
+		<desc>End of Transmission</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -25119,7 +25379,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>End of Transmission</title>
 
-		<desc/>
+		<desc>End of Transmission</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -25129,7 +25389,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>End of Transmission</title>
 
-		<desc/>
+		<desc>End of Transmission</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -25811,7 +26071,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="247" start="20260702225000 +0000" stop="20260703012000 +0000">
+	<programme channel="247" start="20260702232000 +0000" stop="20260703014000 +0000">
 
 		<title>AFL Collingwood v Richmond</title>
 
@@ -25821,7 +26081,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="247" start="20260703012000 +0000" stop="20260703035000 +0000">
+	<programme channel="247" start="20260703014000 +0000" stop="20260703035000 +0000">
 
 		<title>AFL Fremantle v Gold Coast</title>
 
@@ -26041,7 +26301,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="247" start="20260703230000 +0000" stop="20260704005000 +0000">
+	<programme channel="247" start="20260703230000 +0000" stop="20260704010000 +0000">
 
 		<title>URC Leinster v Bulls</title>
 
@@ -26489,7 +26749,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="251" start="20260703220000 +0000" stop="20260704000000 +0000">
+	<programme channel="251" start="20260703220000 +0000" stop="20260704010000 +0000">
 
 		<title>FIFA World Cup 2026 Round of 32: Argentina vs Cape Verde</title>
 
@@ -26497,28 +26757,6 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>(Live) Argentina begin the knockout rounds against tournament surprise package Cape Verde. The defending champions will be keen to stay on course, while Cape Verde dream of another historic result and a place in the Round of 16.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/4Jul_ARG-CPV.jpg?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="251" start="20260704000000 +0000" stop="20260704003000 +0000">
-
-		<title>FIFA World Cup 2026 - Post-Show</title>
-
-		<episode-num system="xmltv_ns">.73</episode-num>
-		<desc>(Live) Argentina begin the knockout rounds against tournament surprise package Cape Verde. The defending champions will be keen to stay on course, while Cape Verde dream of another historic result and a place in the Round of 16.</desc>
-
-		<icon src="https://poster.starhubgo.com/poster/4Jul_ARG-CPV.jpg?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="251" start="20260704003000 +0000" stop="20260704010000 +0000">
-
-		<title>FIFA World Cup 2026 - Match Highlights</title>
-
-		<episode-num system="xmltv_ns">.79</episode-num>
-		<desc>England begin the knockout phase against DR Congo, who have enjoyed a memorable tournament so far. England will aim to keep their title hopes on track, while DR Congo seek another famous result to reach the next round.</desc>
-
-		<icon src="https://poster.starhubgo.com/poster/Rd_32_ENG_v_COD_match_hls.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -26533,22 +26771,11 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="251" start="20260704013000 +0000" stop="20260704033000 +0000">
+	<programme channel="251" start="20260704013000 +0000" stop="20260704043000 +0000">
 
 		<title>FIFA World Cup 2026 Round of 32: Colombia vs Ghana</title>
 
 		<episode-num system="xmltv_ns">.86</episode-num>
-		<desc>(Live) Colombia and Ghana clash in a winner-takes-all FIFA World Cup 2026 Round of 32 encounter. Colombia's attacking flair meets Ghana's pace and resilience as both teams battle for a coveted place in the Round of 16. Expect an intense knockout showdown where every opportunity could prove decisive.</desc>
-
-		<icon src="https://poster.starhubgo.com/poster/4Jul_COL-GHA.jpg?w=960&amp;h=540"/>
-
-	</programme>
-
-	<programme channel="251" start="20260704033000 +0000" stop="20260704043000 +0000">
-
-		<title>FIFA World Cup 2026 - Post-Show</title>
-
-		<episode-num system="xmltv_ns">.74</episode-num>
 		<desc>(Live) Colombia and Ghana clash in a winner-takes-all FIFA World Cup 2026 Round of 32 encounter. Colombia's attacking flair meets Ghana's pace and resilience as both teams battle for a coveted place in the Round of 16. Expect an intense knockout showdown where every opportunity could prove decisive.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/4Jul_COL-GHA.jpg?w=960&amp;h=540"/>
@@ -50127,7 +50354,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Talking Business</title>
 
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>With billions being invested by retailers into artficial intelligence Ben Thompson looks at how the technology is changing shopping and whether customers want and trust the technology.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch701_talking_business.jpg?w=960&amp;h=540"/>
 
@@ -50147,7 +50374,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Tech Now</title>
 
-		<desc>Shiona McCallum has a round-up of the key innovations and trends on show at VivaTech in Paris. Adrienne Murray meets the team using tech to preserve a historic warship in Sweden.</desc>
+		<desc>Adrienne Murray meets the team using technology to preserve a historic warship in Sweden. Shiona McCallum has a round-up of the key innovations and trends on show at VivaTech in Paris.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192"/>
 
@@ -50267,7 +50494,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Tech Now</title>
 
-		<desc>Shiona McCallum has a round-up of the key innovations and trends on show at VivaTech in Paris. Adrienne Murray meets the team using tech to preserve a historic warship in Sweden.</desc>
+		<desc>Adrienne Murray meets the team using technology to preserve a historic warship in Sweden. Shiona McCallum has a round-up of the key innovations and trends on show at VivaTech in Paris.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192"/>
 
@@ -50337,7 +50564,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Talking Business</title>
 
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>With billions being invested by retailers into artficial intelligence Ben Thompson looks at how the technology is changing shopping and whether customers want and trust the technology.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch701_talking_business.jpg?w=960&amp;h=540"/>
 
@@ -50375,9 +50602,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="701" start="20260704123000 +0000" stop="20260704130000 +0000">
 
-		<title>This Cultural Life</title>
+		<title>Rachel Khoo's Kitchen Notebook</title>
 
-		<desc>Violinist Nicola Benedetti reveals the influences and experiences that have led her to become one of the world's greatest classical musicians.</desc>
+		<desc>Cook and food writer Rachel Khoo visits the cool of Sweden's capital city. Rachel visits one of Stockholm's hippest restaurants where rump of deer is on the menu.: Cosmopolitan Cook: Stockholm</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192"/>
 
@@ -56063,7 +56290,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Independence Eve Live with Anderson &amp; Andy: Celebrating 250</title>
 
-		<desc>Stay tuned to CNN for the most up-to-date news, interviews, business reports, sports results and weather.</desc>
+		<desc>Anderson Cooper and Andy Cohen count down to America’s 250th birthday live from Times Square, featuring guests and New York’s midnight ball drop.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnni_placeholder.jpg?w=960&amp;h=540"/>
 
@@ -56073,7 +56300,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Independence Eve Live with Anderson &amp; Andy: Celebrating 250</title>
 
-		<desc>Stay tuned to CNN for the most up-to-date news, interviews, business reports, sports results and weather.</desc>
+		<desc>Anderson Cooper and Andy Cohen count down to America's 250th birthday live from Times Square, featuring special guests and New York's ball drop.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnni_placeholder.jpg?w=960&amp;h=540"/>
 
@@ -56083,7 +56310,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Independence Eve Live with Anderson &amp; Andy: Celebrating 250</title>
 
-		<desc>Stay tuned to CNN for the most up-to-date news, interviews, business reports, sports results and weather.</desc>
+		<desc>Anderson Cooper and Andy Cohen count down to America's 250th birthday live from Times Square, featuring special guests and New York's ball drop.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnni_placeholder.jpg?w=960&amp;h=540"/>
 
@@ -56093,7 +56320,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Independence Eve Live with Anderson &amp; Andy: Celebrating 250</title>
 
-		<desc>Stay tuned to CNN for the most up-to-date news, interviews, business reports, sports results and weather.</desc>
+		<desc>Anderson Cooper and Andy Cohen count down to America’s 250th birthday live from Times Square, featuring special guests and New York’s ball drop.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnni_placeholder.jpg?w=960&amp;h=540"/>
 
@@ -56103,7 +56330,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Independence Eve Live with Anderson &amp; Andy: Celebrating 250</title>
 
-		<desc>Stay tuned to CNN for the most up-to-date news, interviews, business reports, sports results and weather.</desc>
+		<desc>Anderson Cooper and Andy Cohen count down to America’s 250th birthday live from Times Square, featuring special guests and New York’s ball drop.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnni_placeholder.jpg?w=960&amp;h=540"/>
 
@@ -56133,7 +56360,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Seasons</title>
 
-		<desc>A brand-new global series on CNN that explores the shifting trends shaping global culture—across fashion, travel, food, technology, design, and art.</desc>
+		<desc>Stay tuned to CNN for the most up-to-date news, interviews, business reports, sports results and weather.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnni_placeholder.jpg?w=960&amp;h=540"/>
 
@@ -56183,7 +56410,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>CNN Creators</title>
 
-		<desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+		<desc>The Creators explore why global patterns in content consumption are changing so rapidly this year.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_creators.jpg?w=960&amp;h=540"/>
 
@@ -56223,7 +56450,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Seasons</title>
 
-		<desc>A brand-new global series on CNN that explores the shifting trends shaping global culture—across fashion, travel, food, technology, design, and art.</desc>
+		<desc>Stay tuned to CNN for the most up-to-date news, interviews, business reports, sports results and weather.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnni_placeholder.jpg?w=960&amp;h=540"/>
 
@@ -56253,7 +56480,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>CNN Creators</title>
 
-		<desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+		<desc>The Creators explore why global patterns in content consumption are changing so rapidly this year.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_creators.jpg?w=960&amp;h=540"/>
 
@@ -65604,7 +65831,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<title>Got The Spot</title>
 
 		<episode-num system="xmltv_ns">.0</episode-num>
-		<desc>This program highlights locations that are truly exceptional, blending traditional elements with modern trends. Through the eyes of foreign influencers who thrive on social media, we aim to showcase the unique charm of different regions and generate a wealth of engaging content in this groundbreaking travel initiative!</desc>
+		<desc>This groundbreaking travel initiative highlights locations that are truly exceptional, blending traditional elements with modern trends. Through the eyes of foreign influencers who thrive on social media, we aim to showcase the unique charm of different regions!</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch815_got_the_spot.jpg?w=341&amp;h=192"/>
 
@@ -65637,7 +65864,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<title>Hwarang: The Poet Warrior Youth</title>
 
 		<episode-num system="xmltv_ns">.1</episode-num>
-		<desc>Not many people these days know about Hwarang in depth. How did these young men become central to unifying old Korea's Three Kingdoms? Imagine how life must have been for Silla Hwarang in the 6th century.</desc>
+		<desc>Not many people these days know about Hwarang in depth. How did these young men become central to unifying old Korea's Three Kingdoms? Imagine how life must have been for Silla Hwarang in the sixth century.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch815_hwarang.jpg?w=960&amp;h=540"/>
 
@@ -65757,7 +65984,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<title>Hwarang: The Poet Warrior Youth</title>
 
 		<episode-num system="xmltv_ns">.1</episode-num>
-		<desc>Not many people these days know about Hwarang in depth. How did these young men become central to unifying old Korea's Three Kingdoms? Imagine how life must have been for Silla Hwarang in the 6th century.</desc>
+		<desc>Not many people these days know about Hwarang in depth. How did these young men become central to unifying old Korea's Three Kingdoms? Imagine how life must have been for Silla Hwarang in the sixth century.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch815_hwarang.jpg?w=960&amp;h=540"/>
 
@@ -65789,7 +66016,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<title>Hometown Heroes : Baseball</title>
 
 		<episode-num system="xmltv_ns">.0</episode-num>
-		<desc>Four legendary Korean professional baseball players take on a new challenge as coaches of U-10 youth baseball teams. They may be masters of the game, but as coaches, they are complete rookies starting from zero. As each legend leads a team representing his former club's home region, a fierce battle for local pride begins.</desc>
+		<desc>Four legendary Korean professional baseball players take on a new challenge as coaches of U-10 youth baseball teams. They may be masters of the game, but as coaches, they are complete rookies. A fierce battle for local pride begins.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch815_hometown_heroes_baseball.jpg?w=960&amp;h=540"/>
 
