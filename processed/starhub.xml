@@ -18675,7 +18675,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 		<title>DW News Focus</title>
 
-		<desc/>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -18737,7 +18737,7 @@ Our guests: Julia Hahn, DW Studio Istanbul; Aylin Matlé, German Council on Fore
 
 		<title>DW News Focus</title>
 
-		<desc/>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -18799,7 +18799,7 @@ Our guests: Julia Hahn, DW Studio Istanbul; Aylin Matlé, German Council on Fore
 
 		<title>DW News Focus</title>
 
-		<desc/>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -22933,7 +22933,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<desc>beIN Sports brings you live and exclusive coverage of the 2026 Formula 1 World Championship.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch213_formula_1_generic.jpg?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -23003,7 +23003,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<desc>A fast-paced knockout session deciding the Sprint race grid.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch213_formula_1_generic.jpg?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -23013,7 +23013,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<desc>Join us for all the reaction and analysis after every sprint qualifying.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch213_formula_1_generic.jpg?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -26071,6 +26071,16 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
+	<programme channel="247" start="20260702225000 +0000" stop="20260702232000 +0000">
+
+		<title>AFL Collingwood v Richmond</title>
+
+		<desc>All the action from the 2026 season of the Toyota Australian Football League.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192"/>
+
+	</programme>
+
 	<programme channel="247" start="20260702232000 +0000" stop="20260703014000 +0000">
 
 		<title>AFL Collingwood v Richmond</title>
@@ -26311,7 +26321,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="247" start="20260704005000 +0000" stop="20260704025000 +0000">
+	<programme channel="247" start="20260704010000 +0000" stop="20260704030000 +0000">
 
 		<title>Premiership Rugby Northampton v Exeter</title>
 
@@ -26321,17 +26331,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="247" start="20260704025000 +0000" stop="20260704044000 +0000">
-
-		<title>NRL Panthers v Rabbitohs</title>
-
-		<desc>Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
-
-		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="247" start="20260704044000 +0000" stop="20260704051000 +0000">
+	<programme channel="247" start="20260704030000 +0000" stop="20260704033000 +0000">
 
 		<title>5 and 6 Nations Classics 2004 - Italy v England</title>
 
@@ -26341,11 +26341,21 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="247" start="20260704051000 +0000" stop="20260704070000 +0000">
+	<programme channel="247" start="20260704033000 +0000" stop="20260704063000 +0000">
 
-		<title>Super Rugby Hurricanes v Chiefs</title>
+		<title>LIVE AFL LIVE GWS Giants v Fremantle</title>
 
-		<desc>it's a fourth-straight Grand Final appearance for the Chiefs, who are desperate for a change of fortune after falling short in the last three deciders.</desc>
+		<desc>All the action from the 2026 season of the Toyota Australian Football League.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="247" start="20260704063000 +0000" stop="20260704070000 +0000">
+
+		<title>5 and 6 Nations Classics 2012 - France v England</title>
+
+		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192"/>
 
@@ -26353,7 +26363,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="247" start="20260704070000 +0000" stop="20260704091000 +0000">
 
-		<title>LIVE Nations Championship LIVE New Zealand v France</title>
+		<title>LIVE International Rugby LIVE New Zealand v France</title>
 
 		<desc>Coverage of the International Rugby season for 2026.</desc>
 
@@ -26383,7 +26393,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="247" start="20260704100000 +0000" stop="20260704121000 +0000">
 
-		<title>LIVE Nations Championship LIVE Australia v Ireland</title>
+		<title>LIVE International Rugby LIVE Australia v Ireland</title>
 
 		<desc>Coverage of the International Rugby season for 2026.</desc>
 
@@ -26413,7 +26423,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="247" start="20260704130000 +0000" stop="20260704151000 +0000">
 
-		<title>LIVE Nations Championship LIVE Fiji v Wales</title>
+		<title>LIVE International Rugby LIVE Fiji v Wales</title>
 
 		<desc>Coverage of the International Rugby season for 2026.</desc>
 
@@ -26433,7 +26443,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="247" start="20260704153000 +0000" stop="20260704174000 +0000">
 
-		<title>LIVE Nations Championship LIVE South Africa v England</title>
+		<title>LIVE International Rugby LIVE South Africa v England</title>
 
 		<desc>Coverage of the International Rugby season for 2026.</desc>
 
@@ -56360,7 +56370,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Seasons</title>
 
-		<desc>Stay tuned to CNN for the most up-to-date news, interviews, business reports, sports results and weather.</desc>
+		<desc>Laura Jackson meets the female creatives redefining luxury through creativity, sustainability, and cultural relevance.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnni_placeholder.jpg?w=960&amp;h=540"/>
 
@@ -56450,7 +56460,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>Seasons</title>
 
-		<desc>Stay tuned to CNN for the most up-to-date news, interviews, business reports, sports results and weather.</desc>
+		<desc>Laura Jackson meets the female creatives redefining luxury through creativity, sustainability, and cultural relevance.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnni_placeholder.jpg?w=960&amp;h=540"/>
 
@@ -56486,13 +56496,23 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="711" start="20260704143000 +0000" stop="20260704160000 +0000">
+	<programme channel="711" start="20260704143000 +0000" stop="20260704150000 +0000">
 
 		<title>Inside Africa</title>
 
-		<desc>Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.</desc>
+		<desc>Across Africa, creators are challenging old narratives and reshaping how the continent is seen. Meet the people at center of the story.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch711_inside_africa.jpg?w=960&amp;h=540"/>
+
+	</programme>
+
+	<programme channel="711" start="20260704150000 +0000" stop="20260704160000 +0000">
+
+		<title>CNN This Morning Weekend</title>
+
+		<desc>Start your day with Victor Blackwell bringing you the latest headlines and analysis.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_this_morning_weekend.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -62650,16 +62670,6 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<title>1700 Afternoon News</title>
 
 		<desc>Catch the latest news update on TVBS-News.</desc>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="808" start="20260704100000 +0000" stop="20260704110000 +0000">
-
-		<title>1800/1900 Evening News</title>
-
-		<desc>A round-up of the day's local, international and entertainment news and sports reports.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341&amp;h=192"/>
 
