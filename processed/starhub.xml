@@ -2903,7 +2903,7 @@
 		<title>Frontline</title>
 
 		<episode-num system="xmltv_ns">.13</episode-num>
-		<desc>Frontline is a weekly investigative current affairs programme that aims to address issues closest to the hearts of Singaporeans.</desc>
+		<desc>Nearly 30 years after disappearing from Singapore, pork blood curd is back. One month on, has the excitement lasted? We look at consumer demand, supply shortages, food safety, and what it took to bring this traditional ingredient back to the table.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -14796,9 +14796,9 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	<programme channel="140" start="20260705043000 +0000" stop="20260705073000 +0000">
 
-		<title>Ravana Prabhu</title>
+		<title>Oru Marubhoomikkadha</title>
 
-		<desc>Karthikeyan's ancestral house, usurped by Shekharan, so he abducts his daughter.</desc>
+		<desc>Madhavan's life gets crazy when he's caught in a girl's fake kidnapping. Release Year: 2011 Director: Priyadarshan</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -21240,7 +21240,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="209" start="20260703213000 +0000" stop="20260703233000 +0000">
+	<programme channel="209" start="20260703213000 +0000" stop="20260703235000 +0000">
 
 		<title>2026 U.S. Senior Open Championship</title>
 
@@ -21390,7 +21390,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="209" start="20260705013000 +0000" stop="20260705023000 +0000">
+	<programme channel="209" start="20260705020000 +0000" stop="20260705030000 +0000">
 
 		<title>2026 Wimbledon Highlights</title>
 
@@ -21400,27 +21400,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="209" start="20260705041500 +0000" stop="20260705050000 +0000">
-
-		<title>2026 WSL Inside Pro Surfing</title>
-
-		<desc>Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour &amp; Challenger Series.</desc>
-
-		<icon src="https://poster.starhubgo.com/poster/ch209_WSL.jpg?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="209" start="20260705050000 +0000" stop="20260705053000 +0000">
-
-		<title>2026 Sokin T100 San Francisco</title>
-
-		<desc>Elite male triathletes compete through the streets and waterfront of San Francisco, pushing the limits of endurance in a world-class swim, bike, and run challenge.</desc>
-
-		<icon src="https://poster.starhubgo.com/poster/ch209_T100_Triathlon_World_Tour.jpg?w=960&amp;h=540"/>
-
-	</programme>
-
-	<programme channel="209" start="20260705053000 +0000" stop="20260705060000 +0000">
+	<programme channel="209" start="20260705030000 +0000" stop="20260705053000 +0000">
 
 		<title>Formula E S12: Rd 12 Shanghai E-Prix</title>
 
@@ -21430,13 +21410,43 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="209" start="20260705060000 +0000" stop="20260705083000 +0000">
+	<programme channel="209" start="20260705053000 +0000" stop="20260705063000 +0000">
+
+		<title>Formula E S12: Rd 13 Shanghai E-Prix</title>
+
+		<desc>The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch209_Formula_E.jpg?w=960&amp;h=540"/>
+
+	</programme>
+
+	<programme channel="209" start="20260705063000 +0000" stop="20260705070000 +0000">
+
+		<title>Champions of the Water 2026</title>
+
+		<desc>A magazine show following the fortunes of an individual team at each round, featuring the conflict and camaraderie as pilots and owners bid to become Champions of the Water.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch209_ChampionsoftheWater2026.jpg?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="209" start="20260705070000 +0000" stop="20260705073000 +0000">
 
 		<title>Formula E S12: Rd 12 Shanghai E-Prix</title>
 
 		<desc>The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch209_Formula_E.jpg?w=960&amp;h=540"/>
+
+	</programme>
+
+	<programme channel="209" start="20260705073000 +0000" stop="20260705083000 +0000">
+
+		<title>2026 Wimbledon Highlights</title>
+
+		<desc>Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch209_wimbledon.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -26031,7 +26041,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<title>FIFA World Cup 2026 - Match Highlights</title>
 
 		<episode-num system="xmltv_ns">.81</episode-num>
-		<desc>Mini-Stories for FIFA World Cup 2026. The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
+		<desc>he United States take on Bosnia and Herzegovina hoping to make home advantage count. Bosnia will be chasing another milestone in their World Cup journey, with a Round of 16 berth awaiting the winner.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/Rd_32_USA_v_BIH_match_hls.jpg?w=341&amp;h=192"/>
 
@@ -26136,29 +26146,18 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="251" start="20260704113500 +0000" stop="20260704140000 +0000">
+	<programme channel="251" start="20260704113500 +0000" stop="20260704143500 +0000">
 
 		<title>FIFA World Cup 2026 Round of 32: Australia vs Egypt</title>
 
 		<episode-num system="xmltv_ns">.87</episode-num>
 		<desc>Australia and Egypt meet in a tightly balanced encounter with progression on the line. Both teams have exceeded expectations to reach this stage and will be eager to continue their journey into the Round of 16.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/4Jul_ARG-CPV.jpg?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/4Jul_AUS-EGY.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
-	<programme channel="251" start="20260704140000 +0000" stop="20260704143000 +0000">
-
-		<title>FIFA World Cup 2026 - Match Highlights</title>
-
-		<episode-num system="xmltv_ns">.81</episode-num>
-		<desc>Mini-Stories for FIFA World Cup 2026. The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
-
-		<icon src="https://poster.starhubgo.com/poster/Rd_32_USA_v_BIH_match_hls.jpg?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="251" start="20260704143000 +0000" stop="20260704150000 +0000">
+	<programme channel="251" start="20260704143500 +0000" stop="20260704150000 +0000">
 
 		<title>FIFA World Cup 2026 - Match Highlights</title>
 
