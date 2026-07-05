@@ -2640,7 +2640,7 @@
 		<title>Frontline</title>
 
 		<episode-num system="xmltv_ns">.13</episode-num>
-		<desc>Frontline is a weekly investigative current affairs programme that aims to address issues closest to the hearts of Singaporeans.</desc>
+		<desc>Nearly 30 years after disappearing from Singapore, pork blood curd is back. One month on, has the excitement lasted? We look at consumer demand, supply shortages, food safety, and what it took to bring this traditional ingredient back to the table.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -14889,7 +14889,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="140" start="20260705193000 +0000" stop="20260705213000 +0000">
+	<programme channel="140" start="20260705193000 +0000" stop="20260705220000 +0000">
 
 		<title>Ulsaha Committee</title>
 
@@ -14899,7 +14899,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="140" start="20260705213000 +0000" stop="20260705233000 +0000">
+	<programme channel="140" start="20260705220000 +0000" stop="20260705234500 +0000">
 
 		<title>Cheriya Kallnum Valiya Polisum</title>
 
@@ -14909,7 +14909,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="140" start="20260705233000 +0000" stop="20260706013000 +0000">
+	<programme channel="140" start="20260705234500 +0000" stop="20260706013000 +0000">
 
 		<title>Aayudham</title>
 
@@ -20868,23 +20868,33 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="203" start="20260705070000 +0000" stop="20260705110000 +0000">
+	<programme channel="203" start="20260705070000 +0000" stop="20260705080000 +0000">
 
-		<title>PGA Tour 2026</title>
+		<title>PGA Tour Champions 2026 Highlights</title>
 
-		<desc>The John Deere Classic is a professional golf tournament on the PGA Tour. It is played annually in July, usually the week before The Open Championship, at TPC Deere Run in the Quad Cities community of Silvis, Illinois. The tournament began as the Quad Cities Open in 1971 as a &quot;satellite event&quot; on the PGA Tour, and became an official tour event in 1972.</desc>
+		<desc>Relive all the best moment from the Wakonda Club in the heart of Des Moines, Iowa.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_TOUR.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch203_pga_tour_cship.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
-	<programme channel="203" start="20260705110000 +0000" stop="20260705160000 +0000">
+	<programme channel="203" start="20260705080000 +0000" stop="20260705130000 +0000">
 
 		<title>DP World Tour 2026</title>
 
 		<desc>The BMW International Open is an annual men's professional golf tournament on the European Tour held in Germany. It is the country's only DP World Tour tournament and will be played at the Golfclub München Eichenried. The tournament is founded in 1989 and golfers will compete for the prize purse of USD$2.5 million.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch203_dp_world_tour.jpg?w=960&amp;h=540"/>
+
+	</programme>
+
+	<programme channel="203" start="20260705130000 +0000" stop="20260705160000 +0000">
+
+		<title>PGA Tour 2026</title>
+
+		<desc>The John Deere Classic is a professional golf tournament on the PGA Tour. It is played annually in July, usually the week before The Open Championship, at TPC Deere Run in the Quad Cities community of Silvis, Illinois. The tournament began as the Quad Cities Open in 1971 as a &quot;satellite event&quot; on the PGA Tour, and became an official tour event in 1972.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_TOUR.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -25740,10 +25750,10 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>FIFA World Cup 2026 - Match Highlights</title>
 
-		<episode-num system="xmltv_ns">.85</episode-num>
-		<desc>Australia and Egypt meet in a tightly balanced encounter with progression on the line. Both teams have exceeded expectations to reach this stage and will be eager to continue their journey into the Round of 16.</desc>
+		<episode-num system="xmltv_ns">.81</episode-num>
+		<desc>he United States take on Bosnia and Herzegovina hoping to make home advantage count. Bosnia will be chasing another milestone in their World Cup journey, with a Round of 16 berth awaiting the winner.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/Rd_32_AUS_v_EGY_match_hls.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/Rd_32_USA_v_BIH_match_hls.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -25751,14 +25761,14 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>FIFA World Cup 2026 - Match Highlights</title>
 
-		<episode-num system="xmltv_ns">.86</episode-num>
-		<desc>Argentina begin the knockout rounds against tournament surprise package Cape Verde. The defending champions will be keen to stay on course, while Cape Verde dream of another historic result and a place in the Round of 16.</desc>
+		<episode-num system="xmltv_ns">.82</episode-num>
+		<desc>Spain face Austria in a contest between two sides that impressed during the group stage. Spain hope to continue their push for another world title, while Austria are looking to reach the Round of 16 with another strong performance.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/Rd_32_ARG_v_CPV_match_hls.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/Rd_32_SPA_v_AUT_match_hls.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
-	<programme channel="251" start="20260705010000 +0000" stop="20260705031400 +0000">
+	<programme channel="251" start="20260705010000 +0000" stop="20260705035000 +0000">
 
 		<title>FIFA World Cup 2026 Round of 32: Argentina vs Cape Verde</title>
 
@@ -25769,18 +25779,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="251" start="20260705031400 +0000" stop="20260705034400 +0000">
-
-		<title>FIFA World Cup 2026 - Match Highlights</title>
-
-		<episode-num system="xmltv_ns">.87</episode-num>
-		<desc>Colombia and Ghana clash in a winner-takes-all FIFA World Cup 2026 Round of 32 encounter. Colombia's attacking flair meets Ghana's pace and resilience as both teams battle for a coveted place in the Round of 16. Expect an intense knockout showdown where every opportunity could prove decisive.</desc>
-
-		<icon src="https://poster.starhubgo.com/poster/Rd_32_COL_v_GHA_match_hls.jpg?w=960&amp;h=540"/>
-
-	</programme>
-
-	<programme channel="251" start="20260705034400 +0000" stop="20260705041500 +0000">
+	<programme channel="251" start="20260705035000 +0000" stop="20260705041500 +0000">
 
 		<title>FIFA World Cup 2026 - Match Highlights</title>
 
@@ -25906,7 +25905,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<title>FIFA World Cup 2026 - Match Highlights</title>
 
 		<episode-num system="xmltv_ns">.81</episode-num>
-		<desc>Mini-Stories for FIFA World Cup 2026. The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
+		<desc>he United States take on Bosnia and Herzegovina hoping to make home advantage count. Bosnia will be chasing another milestone in their World Cup journey, with a Round of 16 berth awaiting the winner.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/Rd_32_USA_v_BIH_match_hls.jpg?w=341&amp;h=192"/>
 
