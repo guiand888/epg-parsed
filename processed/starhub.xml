@@ -22883,7 +22883,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="213" start="20260706130000 +0000" stop="20260706141500 +0000">
+	<programme channel="213" start="20260706130000 +0000" stop="20260706142500 +0000">
 
 		<title>LFCTV Classic 2025/26: Liverpool vs Man City PL 2021/22</title>
 
@@ -22893,7 +22893,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="213" start="20260706141500 +0000" stop="20260706144500 +0000">
+	<programme channel="213" start="20260706142500 +0000" stop="20260706150000 +0000">
 
 		<title>LFC Trending 2025/26</title>
 
@@ -22903,7 +22903,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="213" start="20260706144500 +0000" stop="20260706160000 +0000">
+	<programme channel="213" start="20260706150000 +0000" stop="20260706161500 +0000">
 
 		<title>LFCTV Classic 2025/26: Everton vs Liverpool PL 2021/22</title>
 
@@ -22913,7 +22913,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="213" start="20260706160000 +0000" stop="20260706175000 +0000">
+	<programme channel="213" start="20260706161500 +0000" stop="20260706175000 +0000">
 
 		<title>LaLiga 2025/26: Villarreal vs Real Betis</title>
 
@@ -26250,7 +26250,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="251" start="20260705230000 +0000" stop="20260706000000 +0000">
+	<programme channel="251" start="20260705230000 +0000" stop="20260706010000 +0000">
 
 		<title>FIFA World Cup 2026 - Pre-Show</title>
 
@@ -26261,25 +26261,14 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="251" start="20260706000000 +0000" stop="20260706030000 +0000">
+	<programme channel="251" start="20260706010000 +0000" stop="20260706033000 +0000">
 
 		<title>FIFA World Cup 2026 Round of 16: Mexico vs England</title>
 
 		<episode-num system="xmltv_ns">.91</episode-num>
-		<desc>(Live) Mexico and England will meet in a blockbuster Round of 16 clash. With Mexico looking to harness home support and England aiming to continue their pursuit of World Cup glory, expect a high-intensity encounter between two proud footballing nations where the smallest moments could decide who advances.</desc>
+		<desc>Mexico and England will meet in a blockbuster Round of 16 clash. With Mexico looking to harness home support and England aiming to continue their pursuit of World Cup glory, expect a high-intensity encounter between two proud footballing nations where the smallest moments could decide who advances.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/6Jul_MEX-ENG.jpg?w=960&amp;h=540"/>
-
-	</programme>
-
-	<programme channel="251" start="20260706030000 +0000" stop="20260706033000 +0000">
-
-		<title>FIFA World Cup 2026 - Match Highlights</title>
-
-		<episode-num system="xmltv_ns">.77</episode-num>
-		<desc>France take on Sweden looking to continue their pursuit of another World Cup title. Sweden have shown they can compete with the best and will be determined to stand in France's way. The winner advances to the Round of 16.</desc>
-
-		<icon src="https://poster.starhubgo.com/poster/Rd_32_FRA_v_SWE_match_hls.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -26343,7 +26332,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<title>FIFA World Cup 2026 - Match Highlights</title>
 
 		<episode-num system="xmltv_ns">.81</episode-num>
-		<desc>Mini-Stories for FIFA World Cup 2026. The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
+		<desc>he United States take on Bosnia and Herzegovina hoping to make home advantage count. Bosnia will be chasing another milestone in their World Cup journey, with a Round of 16 berth awaiting the winner.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/Rd_32_USA_v_BIH_match_hls.jpg?w=341&amp;h=192"/>
 
@@ -26441,10 +26430,10 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>FIFA World Cup 2026 - Match Highlights</title>
 
-		<episode-num system="xmltv_ns">.89</episode-num>
-		<desc>Paraguay's remarkable World Cup journey faces its biggest challenge yet as they take on tournament favourites France for a place in the quarter-finals. Paraguay will rely on their resilience and disciplined defence to keep their dream run alive, while France look to their attacking stars and tournament pedigree to secure a place in the quarter-finals.</desc>
+		<episode-num system="xmltv_ns">.88</episode-num>
+		<desc>History beckons as Canada and Morocco collide in the FIFA World Cup Round of 16. It's a clash of contrasting styles—Canada's speed and attacking intent against Morocco's defensive discipline and tactical patience..</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/Rd_16_PAR-FRA_match_hls.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/Rd_16_CAN-MAR_match_hls.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -26452,10 +26441,10 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>FIFA World Cup 2026 - Match Highlights</title>
 
-		<episode-num system="xmltv_ns">.88</episode-num>
-		<desc>History beckons as Canada and Morocco collide in the FIFA World Cup Round of 16. It's a clash of contrasting styles—Canada's speed and attacking intent against Morocco's defensive discipline and tactical patience..</desc>
+		<episode-num system="xmltv_ns">.89</episode-num>
+		<desc>Paraguay's remarkable World Cup journey faces its biggest challenge yet as they take on tournament favourites France for a place in the quarter-finals. Paraguay will rely on their resilience and disciplined defence to keep their dream run alive, while France look to their attacking stars and tournament pedigree to secure a place in the quarter-finals.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/Rd_16_CAN-MAR_match_hls.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/Rd_16_PAR-FRA_match_hls.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
