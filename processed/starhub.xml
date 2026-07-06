@@ -14379,7 +14379,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 		<title>Paarijatham</title>
 
-		<episode-num system="xmltv_ns">.58</episode-num>
+		<episode-num system="xmltv_ns">.57</episode-num>
 		<desc>After losing her parents and hearing in a tragic accident, Isai is forced to marry Vishal when her aunt Rukmini manipulates her horoscope to meet Subadra's strict astrological beliefs.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192"/>
@@ -14390,7 +14390,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 		<title>Salangai Oli</title>
 
-		<episode-num system="xmltv_ns">.495</episode-num>
+		<episode-num system="xmltv_ns">.493</episode-num>
 		<desc>A tragedy separates Bhoomi and Gagan from their fathers, but Bhoomi hopes to find her roots, while Gagan despises his father. As fate entwines them, will truth bridge the chasm between hope and hate?</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch656_SalangaiOli.jpg?w=341&amp;h=192"/>
@@ -14401,7 +14401,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 		<title>Salangai Oli</title>
 
-		<episode-num system="xmltv_ns">.496</episode-num>
+		<episode-num system="xmltv_ns">.494</episode-num>
 		<desc>A tragedy separates Bhoomi and Gagan from their fathers, but Bhoomi hopes to find her roots, while Gagan despises his father. As fate entwines them, will truth bridge the chasm between hope and hate?</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch656_SalangaiOli.jpg?w=341&amp;h=192"/>
@@ -14412,7 +14412,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 		<title>Aval Varuvala</title>
 
-		<episode-num system="xmltv_ns">.344</episode-num>
+		<episode-num system="xmltv_ns">.342</episode-num>
 		<desc>Divya rejects Jeeva's love due to her traumatic past, revealing her psycho husband. Just as she agrees to marry Jeeva, her husband resurfaces, complicating her life.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192"/>
@@ -14423,7 +14423,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 		<title>Aval Varuvala</title>
 
-		<episode-num system="xmltv_ns">.345</episode-num>
+		<episode-num system="xmltv_ns">.343</episode-num>
 		<desc>Divya rejects Jeeva's love due to her traumatic past, revealing her psycho husband. Just as she agrees to marry Jeeva, her husband resurfaces, complicating her life.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192"/>
@@ -14434,7 +14434,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 		<title>Vaagai Sooda Vaa</title>
 
-		<episode-num system="xmltv_ns">.140</episode-num>
+		<episode-num system="xmltv_ns">.66</episode-num>
 		<desc>Veluthambi dreams of a government job but ends up teaching poor village kids. When he discovers they're being forced into bonded labour, he resolves to fight for their freedom.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192"/>
@@ -14452,17 +14452,28 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="138" start="20260707060000 +0000" stop="20260707083000 +0000">
+	<programme channel="138" start="20260707060000 +0000" stop="20260707090000 +0000">
 
-		<title>Movie</title>
+		<title>777 Charlie</title>
 
-		<desc>The movie name is yet to be announced by the channel.</desc>
+		<desc>Dharma's life is falling apart until Charlie, a wounded pup, enters his world. Their bond brings healing, hope, and a reason to live again.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
 	<programme channel="138" start="20260707090000 +0000" stop="20260707093000 +0000">
+
+		<title>KCKC - Thiruttu Raja</title>
+
+		<episode-num system="xmltv_ns">.223</episode-num>
+		<desc>KCKC - Thiruttu Raja</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="138" start="20260707093000 +0000" stop="20260707100000 +0000">
 
 		<title>Varisu</title>
 
@@ -14473,14 +14484,14 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="138" start="20260707093000 +0000" stop="20260707100000 +0000">
+	<programme channel="138" start="20260707100000 +0000" stop="20260707103000 +0000">
 
-		<title>Gettimelam</title>
+		<title>Veera</title>
 
-		<episode-num system="xmltv_ns">.442</episode-num>
-		<desc>After facing humiliation from her family, Lakshmi vows to build a new house. Sivaraman joins her in this mission. But as they take on family responsibilities, will their dream be left behind?</desc>
+		<episode-num system="xmltv_ns">.683</episode-num>
+		<desc>Rannvijay raises his half-sister Veera as his own child, while their mother Ratan, though showing contempt towards Veera, secretly supports her son in raising her.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch656_Veera.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -14488,7 +14499,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 		<title>Veera</title>
 
-		<episode-num system="xmltv_ns">.683</episode-num>
+		<episode-num system="xmltv_ns">.684</episode-num>
 		<desc>Rannvijay raises his half-sister Veera as his own child, while their mother Ratan, though showing contempt towards Veera, secretly supports her son in raising her.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch656_Veera.jpg?w=960&amp;h=540"/>
@@ -14543,7 +14554,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 		<title>Karthigai Deepam</title>
 
-		<episode-num system="xmltv_ns">.1250</episode-num>
+		<episode-num system="xmltv_ns">.1254</episode-num>
 		<desc>A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch656_KarthigaiDeepam.jpg?w=341&amp;h=192"/>
@@ -14568,7 +14579,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<episode-num system="xmltv_ns">.917</episode-num>
 		<desc>Aadhya, after losing her mother, is cared for by her aunt Janaki, who must balance Aadhya's urban lifestyle with her family's disapproval. Can Janaki provide the life Aadhya deserves?</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch656_SandhyaRagam.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -14598,7 +14609,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 		<title>Varisu</title>
 
-		<episode-num system="xmltv_ns">.318</episode-num>
+		<episode-num system="xmltv_ns">.306</episode-num>
 		<desc>Janakambal, a successful entrepreneur, wants her reckless grandson Cibi to succeed her. She brings in Tamil to set him straight, but can he really change?</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192"/>
@@ -21898,7 +21909,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<desc>Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch209_wimbledon.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch209_Wimbledon_highlight.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -21908,7 +21919,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<desc>Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch209_wimbledon.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch209_Wimbledon_highlight.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -21934,7 +21945,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="209" start="20260706010000 +0000" stop="20260706020000 +0000">
 
-		<title>2026 Wimbledon Highlights</title>
+		<title>2026 Wimbledon Highlights Day 6</title>
 
 		<desc>Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail</desc>
 
@@ -21944,7 +21955,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	<programme channel="209" start="20260706020000 +0000" stop="20260706030000 +0000">
 
-		<title>2026 Wimbledon Highlights</title>
+		<title>2026 Wimbledon Highlights Day 7</title>
 
 		<desc>Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail</desc>
 
@@ -22028,17 +22039,17 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<desc>Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch209_wimbledon.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch209_Wimbledon_highlight.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
 	<programme channel="209" start="20260707020000 +0000" stop="20260707030000 +0000">
 
-		<title>2026 Wimbledon Highlights</title>
+		<title>2026 Wimbledon Highlights Day 8</title>
 
 		<desc>Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch209_wimbledon.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch209_Wimbledon_highlight.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -22068,7 +22079,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<desc>Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch209_wimbledon.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch209_Wimbledon_highlight.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -22078,7 +22089,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<desc>Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch209_wimbledon.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch209_Wimbledon_highlight.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -22088,7 +22099,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<desc>Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch209_wimbledon.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch209_Wimbledon_highlight.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -22668,7 +22679,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<desc>Highlights of the eleventh season of the premier European endurance support series, featuring a record 45-car grid across LMP3 and GT3 classes</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch213_le_mans_cup_highlights.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch213_le_mans_cup.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -69731,21 +69742,201 @@ Futuristic program scenes with video game clearing concept, where challengers en
 
 	</programme>
 
-	<programme channel="832" start="20260707040000 +0000" stop="20260707100000 +0000">
+	<programme channel="832" start="20260707010000 +0000" stop="20260707014500 +0000">
 
-		<title>Information Not Available</title>
+		<title>A Green Trip</title>
 
-		<desc/>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy &quot;built by news, strengthened by films and series and vitalized by entertainment programs&quot;, Dragon TV has become a window into the city of Shanghai.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192"/>
 
 	</programme>
 
-	<programme channel="832" start="20260707100000 +0000" stop="20260707160000 +0000">
+	<programme channel="832" start="20260707014500 +0000" stop="20260707033400 +0000">
 
-		<title>Information Not Available</title>
+		<title>THE CITY OF MUSICALS</title>
 
-		<desc/>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy &quot;built by news, strengthened by films and series and vitalized by entertainment programs&quot;, Dragon TV has become a window into the city of Shanghai.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="832" start="20260707033400 +0000" stop="20260707040000 +0000">
+
+		<title>CARE ON THE WAY</title>
+
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy &quot;built by news, strengthened by films and series and vitalized by entertainment programs&quot;, Dragon TV has become a window into the city of Shanghai.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="832" start="20260707040000 +0000" stop="20260707043000 +0000">
+
+		<title>MIDDAY NEWS</title>
+
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy &quot;built by news, strengthened by films and series and vitalized by entertainment programs&quot;, Dragon TV has become a window into the city of Shanghai.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="832" start="20260707043000 +0000" stop="20260707043200 +0000">
+
+		<title>ShanghaiEye</title>
+
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy &quot;built by news, strengthened by films and series and vitalized by entertainment programs&quot;, Dragon TV has become a window into the city of Shanghai.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="832" start="20260707043200 +0000" stop="20260707063000 +0000">
+
+		<title>Future China</title>
+
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy &quot;built by news, strengthened by films and series and vitalized by entertainment programs&quot;, Dragon TV has become a window into the city of Shanghai.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="832" start="20260707063000 +0000" stop="20260707070300 +0000">
+
+		<title>CHINA Now</title>
+
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy &quot;built by news, strengthened by films and series and vitalized by entertainment programs&quot;, Dragon TV has become a window into the city of Shanghai.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="832" start="20260707070300 +0000" stop="20260707072800 +0000">
+
+		<title>Next Station</title>
+
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy &quot;built by news, strengthened by films and series and vitalized by entertainment programs&quot;, Dragon TV has become a window into the city of Shanghai.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="832" start="20260707072800 +0000" stop="20260707090900 +0000">
+
+		<title>THE CITY OF MUSICALS</title>
+
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy &quot;built by news, strengthened by films and series and vitalized by entertainment programs&quot;, Dragon TV has become a window into the city of Shanghai.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="832" start="20260707090900 +0000" stop="20260707093400 +0000">
+
+		<title>New Entertainment</title>
+
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy &quot;built by news, strengthened by films and series and vitalized by entertainment programs&quot;, Dragon TV has become a window into the city of Shanghai.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="832" start="20260707093400 +0000" stop="20260707100000 +0000">
+
+		<title>CARE ON THE WAY</title>
+
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy &quot;built by news, strengthened by films and series and vitalized by entertainment programs&quot;, Dragon TV has become a window into the city of Shanghai.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="832" start="20260707100000 +0000" stop="20260707105800 +0000">
+
+		<title>Dragon TV Primetime News</title>
+
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy &quot;built by news, strengthened by films and series and vitalized by entertainment programs&quot;, Dragon TV has become a window into the city of Shanghai.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="832" start="20260707105800 +0000" stop="20260707111000 +0000">
+
+		<title>ShanghaiEye</title>
+
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy &quot;built by news, strengthened by films and series and vitalized by entertainment programs&quot;, Dragon TV has become a window into the city of Shanghai.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="832" start="20260707111000 +0000" stop="20260707114400 +0000">
+
+		<title>CHINA Now</title>
+
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy &quot;built by news, strengthened by films and series and vitalized by entertainment programs&quot;, Dragon TV has become a window into the city of Shanghai.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="832" start="20260707114400 +0000" stop="20260707120900 +0000">
+
+		<title>Next Station</title>
+
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy &quot;built by news, strengthened by films and series and vitalized by entertainment programs&quot;, Dragon TV has become a window into the city of Shanghai.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="832" start="20260707120900 +0000" stop="20260707125500 +0000">
+
+		<title>A Green Trip</title>
+
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy &quot;built by news, strengthened by films and series and vitalized by entertainment programs&quot;, Dragon TV has become a window into the city of Shanghai.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="832" start="20260707125500 +0000" stop="20260707143500 +0000">
+
+		<title>Future China</title>
+
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy &quot;built by news, strengthened by films and series and vitalized by entertainment programs&quot;, Dragon TV has become a window into the city of Shanghai.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="832" start="20260707143500 +0000" stop="20260707150000 +0000">
+
+		<title>New Entertainment</title>
+
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy &quot;built by news, strengthened by films and series and vitalized by entertainment programs&quot;, Dragon TV has become a window into the city of Shanghai.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="832" start="20260707150000 +0000" stop="20260707152500 +0000">
+
+		<title>CARE ON THE WAY</title>
+
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy &quot;built by news, strengthened by films and series and vitalized by entertainment programs&quot;, Dragon TV has become a window into the city of Shanghai.</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="832" start="20260707152500 +0000" stop="20260707160000 +0000">
+
+		<title>THE CITY OF MUSICALS</title>
+
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy &quot;built by news, strengthened by films and series and vitalized by entertainment programs&quot;, Dragon TV has become a window into the city of Shanghai.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192"/>
 
