@@ -1590,7 +1590,7 @@
 		<title>Talking Point</title>
 
 		<episode-num system="xmltv_ns">.9</episode-num>
-		<desc>With a fresh approach to tackling the issues of the day, Talking Point investigates a current issue or event, offering different perspectives to local stories and reveals how it all affects you.</desc>
+		<desc>AI is reshaping work, but is it replacing workers? Retrenched workers, AI and industry experts confront the fears, myths and opportunities behind the biggest workplace shift in decades.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -2523,7 +2523,7 @@
 		<title>Focus</title>
 
 		<episode-num system="xmltv_ns">.14</episode-num>
-		<desc>Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+		<desc>Dear You evokes memories of home. Over 800 Qiaopi reveal the hopes and sacrifices of migrants who helped shape Singapore’s founding years. The Strait of Hormuz has reopened, but underwater mines remain a threat, turning mine clearance into a test of security and diplomacy.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -10904,7 +10904,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 		<desc>A devoted grandson embarks on a complicated and comic journey to fulfill his ailing grandmother's last wish.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch618_sardar_ka_grandson.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch618_sony_max_logo.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -10960,7 +10960,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	<programme channel="131" start="20260709143300 +0000" stop="20260709171200 +0000">
 
-		<title>Jaane Tu... Ya Jaane</title>
+		<title>Jaane Tuâ¦ Ya Jaane Na</title>
 
 		<desc>Best friends Jai and Aditi make for a perfect couple but refuse to consider a romantic relationship. However, when they start dating other people, they realise that they are actually in love.</desc>
 
@@ -15574,7 +15574,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="140" start="20260708163000 +0000" stop="20260708193000 +0000">
+	<programme channel="140" start="20260708163000 +0000" stop="20260708163500 +0000">
 
 		<title>Pappi Appacha</title>
 
@@ -15584,7 +15584,17 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="140" start="20260708193000 +0000" stop="20260708213000 +0000">
+	<programme channel="140" start="20260708163500 +0000" stop="20260708193000 +0000">
+
+		<title>Pappi Appacha</title>
+
+		<desc>Paappi's playful love for Annie strains his relationship with his father. Release Year: 2010 Director: Mamas K. Chandran</desc>
+
+		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="140" start="20260708193000 +0000" stop="20260708220000 +0000">
 
 		<title>Kanaka Simhasanam</title>
 
@@ -15594,7 +15604,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="140" start="20260708213000 +0000" stop="20260708233000 +0000">
+	<programme channel="140" start="20260708220000 +0000" stop="20260708234500 +0000">
 
 		<title>Thaskara Lahala</title>
 
@@ -15604,7 +15614,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="140" start="20260708233000 +0000" stop="20260709013000 +0000">
+	<programme channel="140" start="20260708234500 +0000" stop="20260709013000 +0000">
 
 		<title>Monayi Angane Aanaayi</title>
 
@@ -15664,7 +15674,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="140" start="20260709170000 +0000" stop="20260709193000 +0000">
+	<programme channel="140" start="20260709170000 +0000" stop="20260709192500 +0000">
 
 		<title>Chunkzz</title>
 
@@ -15674,7 +15684,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="140" start="20260709193000 +0000" stop="20260709213000 +0000">
+	<programme channel="140" start="20260709192500 +0000" stop="20260709213000 +0000">
 
 		<title>Traffic</title>
 
@@ -15684,7 +15694,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="140" start="20260709213000 +0000" stop="20260709233000 +0000">
+	<programme channel="140" start="20260709213000 +0000" stop="20260709232000 +0000">
 
 		<title>Advocate Lakshmanan - Ladies Only</title>
 
@@ -15694,7 +15704,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="140" start="20260709233000 +0000" stop="20260710013000 +0000">
+	<programme channel="140" start="20260709232000 +0000" stop="20260710013000 +0000">
 
 		<title>Vairam</title>
 
@@ -22195,7 +22205,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 		<desc>Leading adaptive golfers compete for one of the sport's most prestigious titles, demonstrating exceptional skill, determination, and championship spirit.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch209_US_Open.jpg?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch209_US_Adaptive_Open_Championship.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -22209,27 +22219,17 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="209" start="20260709220000 +0000" stop="20260709230000 +0000">
+	<programme channel="209" start="20260709220000 +0000" stop="20260710000500 +0000">
 
-		<title>Formula E S12: Rd 12 Shanghai E-Prix</title>
+		<title>Wanda Diamond League 2026</title>
 
-		<desc>The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
+		<desc>The world's top athletes compete across premier international meets, delivering world-class performances, record-breaking moments, and elite track and field action.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch209_Formula_E.jpg?w=960&amp;h=540"/>
-
-	</programme>
-
-	<programme channel="209" start="20260709230000 +0000" stop="20260710000000 +0000">
-
-		<title>Formula E S12: Rd 12 Shanghai E-Prix</title>
-
-		<desc>The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
-
-		<icon src="https://poster.starhubgo.com/poster/ch209_Formula_E.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch209_Wanda_Diamond_League.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
-	<programme channel="209" start="20260710000000 +0000" stop="20260710020000 +0000">
+	<programme channel="209" start="20260710000500 +0000" stop="20260710020000 +0000">
 
 		<title>Formula E S12: Rd 12 Shanghai E-Prix</title>
 
@@ -22259,7 +22259,17 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="209" start="20260710053500 +0000" stop="20260710070000 +0000">
+	<programme channel="209" start="20260710053500 +0000" stop="20260710061000 +0000">
+
+		<title>Champions of the Water 2026</title>
+
+		<desc>A magazine show following the fortunes of an individual team at each round, featuring the conflict and camaraderie as pilots and owners bid to become Champions of the Water.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch209_ChampionsoftheWater2026.jpg?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="209" start="20260710061000 +0000" stop="20260710073500 +0000">
 
 		<title>2026 Supercars: NTI Townsville 500</title>
 
@@ -22269,9 +22279,9 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="209" start="20260710070000 +0000" stop="20260710080000 +0000">
+	<programme channel="209" start="20260710073500 +0000" stop="20260710081500 +0000">
 
-		<title>2026 Wimbledon Highlights</title>
+		<title>2026 Wimbledon Highlights Day 10</title>
 
 		<desc>Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail</desc>
 
@@ -22279,9 +22289,9 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="209" start="20260710080000 +0000" stop="20260710091500 +0000">
+	<programme channel="209" start="20260710081500 +0000" stop="20260710091500 +0000">
 
-		<title>2026 Wimbledon Highlights</title>
+		<title>2026 Wimbledon Highlights Day 11</title>
 
 		<desc>Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail</desc>
 
@@ -22311,7 +22321,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	<programme channel="209" start="20260710113000 +0000" stop="20260710122500 +0000">
 
-		<title>2026 Wimbledon Highlights</title>
+		<title>2026 Wimbledon Highlights Day 11</title>
 
 		<desc>Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail</desc>
 
@@ -26721,7 +26731,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	<programme channel="251" start="20260709200000 +0000" stop="20260709230000 +0000">
 
-		<title>FIFA World Cup 2026 Quarter-Finals: /France vs Morocco</title>
+		<title>FIFA World Cup 2026 Quarter-Finals: France vs Morocco</title>
 
 		<episode-num system="xmltv_ns">.96</episode-num>
 		<desc>(Live) France brings championship pedigree, attacking quality and big-match experience, while Morocco looks to build on its fearless campaign with resilience, tactical discipline and swift counterattacks. Expect an intense contest where every moment could prove decisive as two ambitious sides battle for a place among the world's final four.</desc>
@@ -26864,7 +26874,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	<programme channel="251" start="20260710113500 +0000" stop="20260710140000 +0000">
 
-		<title>FIFA World Cup 2026 Quarter-Finals: /France vs Morocco</title>
+		<title>FIFA World Cup 2026 Quarter-Finals: France vs Morocco</title>
 
 		<episode-num system="xmltv_ns">.96</episode-num>
 		<desc>France brings championship pedigree, attacking quality and big-match experience, while Morocco looks to build on its fearless campaign with resilience, tactical discipline and swift counterattacks. Expect an intense contest where every moment could prove decisive as two ambitious sides battle for a place among the world's final four.</desc>
