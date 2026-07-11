@@ -9184,7 +9184,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<title>Juhi Mui</title>
 
 		<episode-num system="xmltv_ns">.8</episode-num>
-		<desc>Juhi Mui</desc>
+		<desc>Juhi and Mui's touching journey celebrates friendship, family values and resilience as they overcome life's challenges with love and hope.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch128_juhi_mui.jpg?w=341&amp;h=192"/>
 
@@ -9249,7 +9249,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 		<title>Dr. Aarambhi</title>
 
-		<episode-num system="xmltv_ns">.119</episode-num>
+		<episode-num system="xmltv_ns">.121</episode-num>
 		<desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a long-lost dream. Will she get a second chance?</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch128_dr_aarambhi.jpg?w=960&amp;h=540"/>
@@ -9311,12 +9311,23 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
+	<programme channel="128" start="20260710220000 +0000" stop="20260710223000 +0000">
+
+		<title>Seher Hone Ko Hai</title>
+
+		<episode-num system="xmltv_ns">.156</episode-num>
+		<desc>A man confronts another for misbehaving with a woman. Later, questions reveal hidden abuse, and the woman finally expresses her true hopes for her future.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch128_seher_hone_ko_hai.jpg?w=341&amp;h=192"/>
+
+	</programme>
+
 	<programme channel="128" start="20260710223000 +0000" stop="20260710230000 +0000">
 
 		<title>Juhi Mui</title>
 
 		<episode-num system="xmltv_ns">.7</episode-num>
-		<desc>Juhi Mui</desc>
+		<desc>Juhi and Mui's touching journey celebrates friendship, family values and resilience as they overcome life's challenges with love and hope.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch128_juhi_mui.jpg?w=341&amp;h=192"/>
 
@@ -9821,7 +9832,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 		<title>Dr. Aarambhi</title>
 
-		<episode-num system="xmltv_ns">.119</episode-num>
+		<episode-num system="xmltv_ns">.122</episode-num>
 		<desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a long-lost dream. Will she get a second chance?</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch128_dr_aarambhi.jpg?w=960&amp;h=540"/>
@@ -9896,12 +9907,12 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	<programme channel="128" start="20260712060000 +0000" stop="20260712063000 +0000">
 
-		<title>Bareilly Ki Bacchan</title>
+		<title>Dr. Aarambhi</title>
 
-		<episode-num system="xmltv_ns">.23</episode-num>
-		<desc>Ambitious Sangam marries the carefree Krishna Bacchan and enters a household of men unaccustomed to living with a woman. Can the new bahu win over the eccentric Bacchan family?</desc>
+		<episode-num system="xmltv_ns">.123</episode-num>
+		<desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a long-lost dream. Will she get a second chance?</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch128_bareilly_ki_bacchan.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch128_dr_aarambhi.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -9910,7 +9921,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<title>Juhi Mui</title>
 
 		<episode-num system="xmltv_ns">.8</episode-num>
-		<desc>Juhi Mui</desc>
+		<desc>Juhi and Mui's touching journey celebrates friendship, family values and resilience as they overcome life's challenges with love and hope.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch128_juhi_mui.jpg?w=341&amp;h=192"/>
 
@@ -9931,7 +9942,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 		<title>Dr. Aarambhi</title>
 
-		<episode-num system="xmltv_ns">.119</episode-num>
+		<episode-num system="xmltv_ns">.123</episode-num>
 		<desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a long-lost dream. Will she get a second chance?</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch128_dr_aarambhi.jpg?w=960&amp;h=540"/>
@@ -10006,12 +10017,12 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	<programme channel="128" start="20260712120000 +0000" stop="20260712123000 +0000">
 
-		<title>Bareilly Ki Bacchan</title>
+		<title>Dr. Aarambhi</title>
 
-		<episode-num system="xmltv_ns">.23</episode-num>
-		<desc>Ambitious Sangam marries the carefree Krishna Bacchan and enters a household of men unaccustomed to living with a woman. Can the new bahu win over the eccentric Bacchan family?</desc>
+		<episode-num system="xmltv_ns">.123</episode-num>
+		<desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a long-lost dream. Will she get a second chance?</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch128_bareilly_ki_bacchan.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch128_dr_aarambhi.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -10020,7 +10031,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<title>Juhi Mui</title>
 
 		<episode-num system="xmltv_ns">.8</episode-num>
-		<desc>Juhi Mui</desc>
+		<desc>Juhi and Mui's touching journey celebrates friendship, family values and resilience as they overcome life's challenges with love and hope.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch128_juhi_mui.jpg?w=341&amp;h=192"/>
 
