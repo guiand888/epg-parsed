@@ -26336,21 +26336,21 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 		<title>FIFA World Cup 2026 - Match Highlights</title>
 
-		<episode-num system="xmltv_ns">.88</episode-num>
-		<desc>History beckons as Canada and Morocco collide in the FIFA World Cup Round of 16. It's a clash of contrasting styles—Canada's speed and attacking intent against Morocco's defensive discipline and tactical patience..</desc>
+		<episode-num system="xmltv_ns">.89</episode-num>
+		<desc>Paraguay's remarkable World Cup journey faces its biggest challenge yet as they take on tournament favourites France for a place in the quarter-finals. Paraguay will rely on their resilience and disciplined defence to keep their dream run alive, while France look to their attacking stars and tournament pedigree to secure a place in the quarter-finals.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/Rd_16_CAN-MAR_match_hls.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/Rd_16_PAR-FRA_match_hls.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
 	<programme channel="251" start="20260713190000 +0000" stop="20260713193000 +0000">
 
-		<title>FIFA World Cup 2026 - Match Highlights</title>
+		<title>FIFA World Cup 2026 Round of 16: Switzerland vs Colombia</title>
 
-		<episode-num system="xmltv_ns">.89</episode-num>
-		<desc>Paraguay's remarkable World Cup journey faces its biggest challenge yet as they take on tournament favourites France for a place in the quarter-finals. Paraguay will rely on their resilience and disciplined defence to keep their dream run alive, while France look to their attacking stars and tournament pedigree to secure a place in the quarter-finals.</desc>
+		<episode-num system="xmltv_ns">.95</episode-num>
+		<desc>Switzerland's disciplined, organized approach meets Colombia's dynamic attacking flair in what promises to be a fiercely contested knockout encounter. With both sides determined to keep their World Cup dreams alive, expect high drama and decisive moments.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/Rd_16_PAR-FRA_match_hls.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/8Jul_SUI-COL.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -26387,7 +26387,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="251" start="20260713230000 +0000" stop="20260714013000 +0000">
+	<programme channel="251" start="20260713230000 +0000" stop="20260714020000 +0000">
 
 		<title>FIFA World Cup 2026 Quarter-Finals: Norway vs England</title>
 
@@ -26395,17 +26395,6 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>England faces tournament surprise Norway in a thrilling 2026 World Cup Quarter-Final in Miami. This high-stakes clash features an elite goalscoring battle between Harry Kane and Erling Haaland as both nations fight for a coveted semi-final spot.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/12Jul_NOR-ENG.jpg?w=960&amp;h=540"/>
-
-	</programme>
-
-	<programme channel="251" start="20260714013000 +0000" stop="20260714020000 +0000">
-
-		<title>FIFA World Cup 2026 - Match Highlights</title>
-
-		<episode-num system="xmltv_ns">.92</episode-num>
-		<desc>One of international football's fiercest rivalries takes centre stage as Iberian neighbours Portugal and Spain clash in the FIFA World Cup Round of 16. With world-class talent on both sides,, this promises to be a tactical battle packed with technical quality, attacking flair and plenty of history.</desc>
-
-		<icon src="https://poster.starhubgo.com/poster/Rd_16_POR-SPA_match_hls.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -26420,7 +26409,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="251" start="20260714023000 +0000" stop="20260714050000 +0000">
+	<programme channel="251" start="20260714023000 +0000" stop="20260714053000 +0000">
 
 		<title>FIFA World Cup 2026 Quarter-Final: Argentina v Switzerland</title>
 
@@ -26431,7 +26420,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="251" start="20260714050000 +0000" stop="20260714053000 +0000">
+	<programme channel="251" start="20260714053000 +0000" stop="20260714060000 +0000">
 
 		<title>FIFA World Cup 2026 - Match Highlights</title>
 
@@ -26439,17 +26428,6 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>Reigning champions Argentina continue their FIFA World Cup title defence with a Round of 16 showdown against an inspired Egypt side that has already made history. Expect a fiercely contested battle between a tournament favourite seeking another step towards glory and an Egyptian side eager to continue its remarkable World Cup run.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/Rd_16_ARG-EGY_match_hls.jpg?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="251" start="20260714053000 +0000" stop="20260714060000 +0000">
-
-		<title>FIFA World Cup 2026 - Match Highlights</title>
-
-		<episode-num system="xmltv_ns">.95</episode-num>
-		<desc>Switzerland's disciplined, organized approach meets Colombia's dynamic attacking flair in what promises to be a fiercely contested knockout encounter. With both sides determined to keep their World Cup dreams alive, expect high drama and decisive moments.</desc>
-
-		<icon src="https://poster.starhubgo.com/poster/Rd_16_SUI-COL_match_hls.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -26519,7 +26497,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 
 	</programme>
 
-	<programme channel="251" start="20260714130000 +0000" stop="20260714153000 +0000">
+	<programme channel="251" start="20260714130000 +0000" stop="20260714160000 +0000">
 
 		<title>FIFA World Cup 2026 Quarter-Finals: Norway vs England</title>
 
@@ -26527,17 +26505,6 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>England faces tournament surprise Norway in a thrilling 2026 World Cup Quarter-Final in Miami. This high-stakes clash features an elite goalscoring battle between Harry Kane and Erling Haaland as both nations fight for a coveted semi-final spot.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/12Jul_NOR-ENG.jpg?w=960&amp;h=540"/>
-
-	</programme>
-
-	<programme channel="251" start="20260714153000 +0000" stop="20260714160000 +0000">
-
-		<title>FIFA World Cup 2026 - Match Highlights</title>
-
-		<episode-num system="xmltv_ns">.88</episode-num>
-		<desc>History beckons as Canada and Morocco collide in the FIFA World Cup Round of 16. It's a clash of contrasting styles—Canada's speed and attacking intent against Morocco's defensive discipline and tactical patience..</desc>
-
-		<icon src="https://poster.starhubgo.com/poster/Rd_16_CAN-MAR_match_hls.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
