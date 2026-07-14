@@ -97,14 +97,6 @@
 
 	</channel>
 
-	<channel id="124">
-
-		<display-name>ONE (Malay)</display-name>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/124_1920x1080_HTV.png?w=272"/>
-
-	</channel>
-
 	<channel id="125">
 
 		<display-name>Zee TV HD</display-name>
@@ -830,14 +822,6 @@
 		<display-name>ETTV ASIA HD</display-name>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/820_1920x1080_HTV.png?w=272"/>
-
-	</channel>
-
-	<channel id="823">
-
-		<display-name>ONE HD</display-name>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/823_1920x1080_HTV.png?w=272"/>
 
 	</channel>
 
@@ -7978,86 +7962,6 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<desc>Ketika seorang pelajar perubatan yang berduka menghadapi realiti, seorang jurugambar cuba membuka hatinya untuk mencintai sambil menyembunyikan kebenarannya tentang dirinya.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch123_Diary_of_Fireflies.jpg?w=960&amp;h=540"/>
-
-	</programme>
-
-	<programme channel="124" start="20260713160000 +0000" stop="20260713220000 +0000">
-
-		<title>End Of Transmission</title>
-
-		<desc/>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/124_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="124" start="20260713220000 +0000" stop="20260714040000 +0000">
-
-		<title>End Of Transmission</title>
-
-		<desc/>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/124_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="124" start="20260714040000 +0000" stop="20260714100000 +0000">
-
-		<title>End Of Transmission</title>
-
-		<desc/>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/124_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="124" start="20260714100000 +0000" stop="20260714160000 +0000">
-
-		<title>End Of Transmission</title>
-
-		<desc/>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/124_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="124" start="20260714160000 +0000" stop="20260714220000 +0000">
-
-		<title>End Of Transmission</title>
-
-		<desc/>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/124_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="124" start="20260714220000 +0000" stop="20260715040000 +0000">
-
-		<title>End Of Transmission</title>
-
-		<desc/>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/124_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="124" start="20260715040000 +0000" stop="20260715100000 +0000">
-
-		<title>End Of Transmission</title>
-
-		<desc/>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/124_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="124" start="20260715100000 +0000" stop="20260715110000 +0000">
-
-		<title>End Of Transmission</title>
-
-		<desc/>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/124_1920x1080_HTV.png?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -67514,86 +67418,6 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<desc>Hosted by Dee Hsu, the most queenly artist in the entertainment industry, and partnered with the humorous assistant host Patrick, each episode invites many of the most popular and topical artists and Internet celebrities to appear on the show. Through Dee Hsu Her profound and spicy hosting skills stirred up unparalleled &quot;laughter&quot; with the guests.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch820_dee_girls_talk.jpg?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="823" start="20260713160000 +0000" stop="20260713220000 +0000">
-
-		<title>End Of Transmission</title>
-
-		<desc/>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/823_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="823" start="20260713220000 +0000" stop="20260714040000 +0000">
-
-		<title>End Of Transmission</title>
-
-		<desc/>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/823_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="823" start="20260714040000 +0000" stop="20260714100000 +0000">
-
-		<title>End Of Transmission</title>
-
-		<desc/>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/823_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="823" start="20260714100000 +0000" stop="20260714160000 +0000">
-
-		<title>End Of Transmission</title>
-
-		<desc/>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/823_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="823" start="20260714160000 +0000" stop="20260714220000 +0000">
-
-		<title>End Of Transmission</title>
-
-		<desc/>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/823_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="823" start="20260714220000 +0000" stop="20260715040000 +0000">
-
-		<title>End Of Transmission</title>
-
-		<desc/>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/823_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="823" start="20260715040000 +0000" stop="20260715100000 +0000">
-
-		<title>End Of Transmission</title>
-
-		<desc/>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/823_1920x1080_HTV.png?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="823" start="20260715100000 +0000" stop="20260715110000 +0000">
-
-		<title>End Of Transmission</title>
-
-		<desc/>
-
-		<icon src="https://poster.starhubgo.com/Linear_channels2/823_1920x1080_HTV.png?w=341&amp;h=192"/>
 
 	</programme>
 
