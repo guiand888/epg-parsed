@@ -1558,18 +1558,18 @@
 
 	</programme>
 
-	<programme channel="102" start="20260715170600 +0000" stop="20260715180000 +0000">
+	<programme channel="102" start="20260715170600 +0000" stop="20260715173000 +0000">
 
-		<title>FBI</title>
+		<title>The Contenders 26</title>
 
-		<episode-num system="xmltv_ns">5.4</episode-num>
-		<desc>When the director of a Brooklyn migrant center is abducted and held hostage along with his wife, the team must work quickly to meet the demands of their kidnapper. Also, Maggie picks Jessica's brain about motherhood</desc>
+		<episode-num system="xmltv_ns">.0</episode-num>
+		<desc>Lionel Messi is set to break records in 2026, Japan are aiming to reach the QF for the first time, and we look at the successful CONCACAF bid.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192"/>
 
 	</programme>
 
-	<programme channel="102" start="20260715180000 +0000" stop="20260715190000 +0000">
+	<programme channel="102" start="20260715173000 +0000" stop="20260715190000 +0000">
 
 		<title>FIFA World Cup 2026 - Pre-Show</title>
 
@@ -4350,7 +4350,7 @@
 		<title>Insight</title>
 
 		<episode-num system="xmltv_ns">.8</episode-num>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>Despite its culinary fame, Japan imports 60% of its food. As soaring prices and an aging farm sector trigger a quiet crisis, can the nation reform decades of restrictive policy to feed itself?</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -50048,9 +50048,9 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	<programme channel="701" start="20260715213000 +0000" stop="20260715220000 +0000">
 
-		<title>Newsnight</title>
+		<title>BBC News</title>
 
-		<desc>Insights and global interviews on the crucial news stories of the day.</desc>
+		<desc>The latest news from the BBC.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192"/>
 
