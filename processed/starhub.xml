@@ -1530,7 +1530,7 @@
 		<title>Talking Point</title>
 
 		<episode-num system="xmltv_ns">.10</episode-num>
-		<desc>With a fresh approach to tackling the issues of the day, Talking Point investigates a current issue or event, offering different perspectives to local stories and reveals how it all affects you.</desc>
+		<desc>It only takes a split second for a loved one with dementia to vanish. In this two-part special, Munah Bagharib investigates why people with dementia go missing and what can be done to keep them safe.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -2002,7 +2002,7 @@
 		<title>On The Red Dot</title>
 
 		<episode-num system="xmltv_ns">.10</episode-num>
-		<desc>On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+		<desc>Choir Conductor, Lim Huimin and trauma cleaner Rahman Razali reimagine what the last 24 hours of their life would look like.</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -2804,7 +2804,7 @@
 		<title>Frontline</title>
 
 		<episode-num system="xmltv_ns">.15</episode-num>
-		<desc>Frontline is a weekly investigative current affairs programme that aims to address issues closest to the hearts of Singaporeans.</desc>
+		<desc>Lightning strikes have been making headlines. A lightning strike survivor recounts the terrifying moment it happened. With El Niño here, could thunderstorms become less frequent? Meanwhile, authorities are stepping up rodent control with the help of artificial intelligence, and the number of rat burrows has fallen by about 40%. But is that enough to solve the problem once and for all?</desc>
 
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192"/>
 
@@ -26442,17 +26442,6 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 
 	</programme>
 
-	<programme channel="251" start="20260717003000 +0000" stop="20260717010000 +0000">
-
-		<title>FIFA World Cup 2026 - Match Highlights</title>
-
-		<episode-num system="xmltv_ns">.95</episode-num>
-		<desc>Switzerland's disciplined, organized approach meets Colombia's dynamic attacking flair in what promises to be a fiercely contested knockout encounter. With both sides determined to keep their World Cup dreams alive, expect high drama and decisive moments.</desc>
-
-		<icon src="https://poster.starhubgo.com/poster/Rd_16_SUI-COL_match_hls.jpg?w=341&amp;h=192"/>
-
-	</programme>
-
 	<programme channel="251" start="20260717010000 +0000" stop="20260717013000 +0000">
 
 		<title>FIFA World Cup 2026 - Match Highlights</title>
@@ -37733,9 +37722,9 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<title>Xplore Ireland</title>
 
 		<episode-num system="xmltv_ns">.0</episode-num>
-		<desc>Pubs in Ireland are more than a place to drink; they’re centers of cultural gatherings and the nucleus of Irish ‘craic’.</desc>
+		<desc>Pubs in Ireland are more than a place to drink; they're centers of cultural gatherings and the nucleus of Irish ‘craic'.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch427_xplore.jpg?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch427_XploreIRELAND.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -37744,7 +37733,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<title>10 Days Korea</title>
 
 		<episode-num system="xmltv_ns">.0</episode-num>
-		<desc>From markets and temples to a palace that was the headquarters of one of Medieval Asia’s biggest empires, Andrew explores the iconic sights of Seoul.</desc>
+		<desc>From markets and temples to a palace that was the headquarters of one of Medieval Asia's biggest empires, Andrew explores the iconic sights of Seoul.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch427_10DaysKorea.jpg?w=341&amp;h=192"/>
 
@@ -37810,9 +37799,9 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<title>Xplore Ireland</title>
 
 		<episode-num system="xmltv_ns">.2</episode-num>
-		<desc>Olivia embarks on a journey along Ireland’s Wild Atlantic Way, the craggy coastline of dramatic landscapes and haunting beauty.</desc>
+		<desc>Olivia embarks on a journey along Ireland's Wild Atlantic Way, the craggy coastline of dramatic landscapes and haunting beauty.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch427_xplore.jpg?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch427_XploreIRELAND.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -37832,7 +37821,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<title>Indonesia's Romantic Getaway</title>
 
 		<episode-num system="xmltv_ns">.2</episode-num>
-		<desc>Amidst ancient temples and misty morning hills, Sangeeta and Manish step into Borobudur’s timeless embrace, where history and serenity intertwine.</desc>
+		<desc>Amidst ancient temples and misty morning hills, Sangeeta and Manish step into Borobudur's timeless embrace, where history and serenity intertwine.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch427_IndonesiasRomanticGetaway.jpg?w=341&amp;h=192"/>
 
@@ -37876,9 +37865,9 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<title>Xplore Ireland</title>
 
 		<episode-num system="xmltv_ns">.3</episode-num>
-		<desc>Olivia visits the Titanic Belfast, a multimedia extravaganza that makes the story of the world’s most famous ocean liner come alive for her.</desc>
+		<desc>Olivia visits the Titanic Belfast, a multimedia extravaganza that makes the story of the world's most famous ocean liner come alive for her.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch427_xplore.jpg?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch427_XploreIRELAND.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -37887,7 +37876,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<title>Kissed By The Sea</title>
 
 		<episode-num system="xmltv_ns">.3</episode-num>
-		<desc>Alex visits Taiwan’s Penghu island, popular for its tropical weather and sun kissed beaches, bundled with a host of water adventures.</desc>
+		<desc>Alex visits Taiwan's Penghu island, popular for its tropical weather and sun kissed beaches, bundled with a host of water adventures.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch427_kissed_by_the_sea.jpg?w=960&amp;h=540"/>
 
@@ -38448,7 +38437,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<title>Costa Rica Calling</title>
 
 		<episode-num system="xmltv_ns">.8</episode-num>
-		<desc>In the Manuel Antonio region of Costa Rica, Genevieve’s quest for wildlife leads her from rainforest to ocean.</desc>
+		<desc>In the Manuel Antonio region of Costa Rica, Genevieve's quest for wildlife leads her from rainforest to ocean.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch427_CostaRicaCalling.jpg?w=341&amp;h=192"/>
 
@@ -38494,7 +38483,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<episode-num system="xmltv_ns">.1</episode-num>
 		<desc>On visiting the historic town of Nessebar, which is over 3000 years old, Catriona sees that there is much more to Sunny beach than meets the eye.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch427_xplore.jpg?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch427_XploreBulgaria.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -38536,7 +38525,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<title>The Savvy Nomad Philippines</title>
 
 		<episode-num system="xmltv_ns">.1</episode-num>
-		<desc>Emeline’s island-hopping escapade in the Philippines unfolds at the Caramoan islands, where she discovers a world of adrenaline-fueled adventures.</desc>
+		<desc>Emeline's island-hopping escapade in the Philippines unfolds at the Caramoan islands, where she discovers a world of adrenaline-fueled adventures.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch427_TheSavvyNomad.jpg?w=960&amp;h=540"/>
 
@@ -38560,7 +38549,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<episode-num system="xmltv_ns">.2</episode-num>
 		<desc>From Perperikon Fort to Boyana church, the monuments of Sofia are portals to different periods of its rich history.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch427_xplore.jpg?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch427_XploreBulgaria.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -38591,7 +38580,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<title>10 Days Korea</title>
 
 		<episode-num system="xmltv_ns">.0</episode-num>
-		<desc>From markets and temples to a palace that was the headquarters of one of Medieval Asia’s biggest empires, Andrew explores the iconic sights of Seoul.</desc>
+		<desc>From markets and temples to a palace that was the headquarters of one of Medieval Asia's biggest empires, Andrew explores the iconic sights of Seoul.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch427_10DaysKorea.jpg?w=341&amp;h=192"/>
 
@@ -38624,9 +38613,9 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<title>Xplore Ireland</title>
 
 		<episode-num system="xmltv_ns">.0</episode-num>
-		<desc>Pubs in Ireland are more than a place to drink; they’re centers of cultural gatherings and the nucleus of Irish ‘craic’.</desc>
+		<desc>Pubs in Ireland are more than a place to drink; they're centers of cultural gatherings and the nucleus of Irish ‘craic'.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch427_xplore.jpg?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch427_XploreIRELAND.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -38646,7 +38635,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<title>Indonesia's Romantic Getaway</title>
 
 		<episode-num system="xmltv_ns">.1</episode-num>
-		<desc>In Labuan Bajo, Sangeeta and Manish embark on a classic adventure aboard a traditional Phinisi, island-hopping through Indonesia’s wild beauty.</desc>
+		<desc>In Labuan Bajo, Sangeeta and Manish embark on a classic adventure aboard a traditional Phinisi, island-hopping through Indonesia's wild beauty.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch427_IndonesiasRomanticGetaway.jpg?w=341&amp;h=192"/>
 
@@ -38657,7 +38646,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<title>10 Days Korea</title>
 
 		<episode-num system="xmltv_ns">.1</episode-num>
-		<desc>Andrew Maciver dives headlong into deeply traditional South Korean experiences at Busan, the country’s favourite seaside escape.</desc>
+		<desc>Andrew Maciver dives headlong into deeply traditional South Korean experiences at Busan, the country's favourite seaside escape.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch427_10DaysKorea.jpg?w=341&amp;h=192"/>
 
@@ -38690,9 +38679,9 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<title>Xplore Ireland</title>
 
 		<episode-num system="xmltv_ns">.1</episode-num>
-		<desc>From Ballynahinch castle to Kylemore Abbey, Olivia explores some of the postcard-perfect castles of Connemara, one of Ireland’s most romantic regions.</desc>
+		<desc>From Ballynahinch castle to Kylemore Abbey, Olivia explores some of the postcard-perfect castles of Connemara, one of Ireland's most romantic regions.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch427_xplore.jpg?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch427_XploreIRELAND.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -38701,7 +38690,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<title>World Heritage</title>
 
 		<episode-num system="xmltv_ns">.7</episode-num>
-		<desc>The stupendous architecture of Portugal’s monuments reveals the various stages of the country’s evolution.</desc>
+		<desc>The stupendous architecture of Portugal's monuments reveals the various stages of the country's evolution.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch427_world_heritage.jpg?w=341&amp;h=192"/>
 
@@ -38712,7 +38701,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<title>Indonesia's Romantic Getaway</title>
 
 		<episode-num system="xmltv_ns">.2</episode-num>
-		<desc>Amidst ancient temples and misty morning hills, Sangeeta and Manish step into Borobudur’s timeless embrace, where history and serenity intertwine.</desc>
+		<desc>Amidst ancient temples and misty morning hills, Sangeeta and Manish step into Borobudur's timeless embrace, where history and serenity intertwine.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch427_IndonesiasRomanticGetaway.jpg?w=341&amp;h=192"/>
 
@@ -38723,9 +38712,9 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<title>Xplore Ireland</title>
 
 		<episode-num system="xmltv_ns">.2</episode-num>
-		<desc>Olivia embarks on a journey along Ireland’s Wild Atlantic Way, the craggy coastline of dramatic landscapes and haunting beauty.</desc>
+		<desc>Olivia embarks on a journey along Ireland's Wild Atlantic Way, the craggy coastline of dramatic landscapes and haunting beauty.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch427_xplore.jpg?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch427_XploreIRELAND.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -38778,7 +38767,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<title>Indonesia's Romantic Getaway</title>
 
 		<episode-num system="xmltv_ns">.2</episode-num>
-		<desc>Amidst ancient temples and misty morning hills, Sangeeta and Manish step into Borobudur’s timeless embrace, where history and serenity intertwine.</desc>
+		<desc>Amidst ancient temples and misty morning hills, Sangeeta and Manish step into Borobudur's timeless embrace, where history and serenity intertwine.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch427_IndonesiasRomanticGetaway.jpg?w=341&amp;h=192"/>
 
@@ -42178,7 +42167,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<title>Four Corners</title>
 
 		<episode-num system="xmltv_ns">.21</episode-num>
-		<desc>The multi-award winning Four Corners returns for another year of powerhouse investigative journalism - fearless and forensic, exposing scandals, triggering inquiries, leading debate and holding power to account for 65 years.</desc>
+		<desc>Australia has been promised a solution to the housing crisis: affordable rentals delivered with private developers, public money and big investors. Four Corners investigates whether affordable housing is really affordable.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
 
@@ -42189,7 +42178,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<title>Media Watch</title>
 
 		<episode-num system="xmltv_ns">.22</episode-num>
-		<desc>Australia's leading forum for media analysis and comment. Walkley award-winning investigative reporter and former foreign correspondent Linton Besser brings you a fearless critique of the week's journalism.</desc>
+		<desc>The spectacle of an Iranian state funeral, covered by international reporters. ABC takes the stand at the Antisemitism Royal Commission, answering claims of antisemitic bias. Plus a glossy magazine's AI mishap.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
 
@@ -42211,7 +42200,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<title>The World</title>
 
 		<episode-num system="xmltv_ns">.110</episode-num>
-		<desc>Now more than ever, we need to stay in touch with what's happening in our world. Manny Tsigas brings you the latest international news from ABC News correspondents around the globe, plus interviews with experts and guests.</desc>
+		<desc>Manny Tsigas brings you the latest news from around the globe. Tonight: Japan's investment in defence hopes to combat China's growing influence, and a dinosaur fossil sets a new record at auction.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
 
@@ -42222,7 +42211,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<title>News Breakfast</title>
 
 		<episode-num system="xmltv_ns">.140</episode-num>
-		<desc>As each day begins get the facts you need to stay informed. James Glenday and Emma Rebellato present the latest news, overnight developments and today's top stories, joined by Catherine Murphy, Nate Byrne and Lillian Rangiah.</desc>
+		<desc>News Breakfast gives you the morning advantage. James Glenday and Emma Rebellato bring you the latest news from Australia's most trusted source. Plus sport with Catherine Murphy and weather with Nate Byrne.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
 
@@ -42272,7 +42261,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 	</programme>
 
-	<programme channel="447" start="20260716032500 +0000" stop="20260716041000 +0000">
+	<programme channel="447" start="20260716032500 +0000" stop="20260716040500 +0000">
 
 		<title>Ambulance Australia</title>
 
@@ -42283,7 +42272,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 	</programme>
 
-	<programme channel="447" start="20260716041000 +0000" stop="20260716050000 +0000">
+	<programme channel="447" start="20260716040500 +0000" stop="20260716045500 +0000">
 
 		<title>Judgment: Cases That Changed Australia</title>
 
@@ -42294,7 +42283,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 	</programme>
 
-	<programme channel="447" start="20260716050000 +0000" stop="20260716055500 +0000">
+	<programme channel="447" start="20260716045500 +0000" stop="20260716054500 +0000">
 
 		<title>Shaun Micallef's Origin Odyssey</title>
 
@@ -42305,7 +42294,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 	</programme>
 
-	<programme channel="447" start="20260716055500 +0000" stop="20260716070000 +0000">
+	<programme channel="447" start="20260716054500 +0000" stop="20260716070000 +0000">
 
 		<title>National Press Club Address</title>
 
@@ -42371,7 +42360,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 	</programme>
 
-	<programme channel="447" start="20260716121500 +0000" stop="20260716130000 +0000">
+	<programme channel="447" start="20260716121500 +0000" stop="20260716131000 +0000">
 
 		<title>Judgment: Cases That Changed Australia</title>
 
@@ -42382,7 +42371,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 	</programme>
 
-	<programme channel="447" start="20260716130000 +0000" stop="20260716133500 +0000">
+	<programme channel="447" start="20260716131000 +0000" stop="20260716134500 +0000">
 
 		<title>I Was Actually There</title>
 
@@ -42393,7 +42382,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 	</programme>
 
-	<programme channel="447" start="20260716133500 +0000" stop="20260716142000 +0000">
+	<programme channel="447" start="20260716134500 +0000" stop="20260716143000 +0000">
 
 		<title>Ambulance Australia</title>
 
@@ -42404,7 +42393,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 	</programme>
 
-	<programme channel="447" start="20260716142000 +0000" stop="20260716143500 +0000">
+	<programme channel="447" start="20260716143000 +0000" stop="20260716144500 +0000">
 
 		<title>ABC Late News</title>
 
@@ -42415,18 +42404,18 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 	</programme>
 
-	<programme channel="447" start="20260716143500 +0000" stop="20260716145000 +0000">
+	<programme channel="447" start="20260716144500 +0000" stop="20260716150000 +0000">
 
 		<title>The Business</title>
 
 		<episode-num system="xmltv_ns">.95</episode-num>
-		<desc>Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, investors, employees and businesses big and small. Presented by Alicia Barry.</desc>
+		<desc>The $110-billion price tag for Donald Trump's illegal tariffs - Australian businesses now picking up six figure refunds. Plus hope of a speedy resolution between the US and Iran fade as the oil price spike 10% in just days.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
-	<programme channel="447" start="20260716145000 +0000" stop="20260716152500 +0000">
+	<programme channel="447" start="20260716150000 +0000" stop="20260716153500 +0000">
 
 		<title>7.30</title>
 
@@ -42437,18 +42426,18 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 	</programme>
 
-	<programme channel="447" start="20260716152500 +0000" stop="20260716162500 +0000">
+	<programme channel="447" start="20260716153500 +0000" stop="20260716163000 +0000">
 
 		<title>The World</title>
 
 		<episode-num system="xmltv_ns">.111</episode-num>
-		<desc>Now more than ever, we need to stay in touch with what's happening in our world. Manny Tsigas brings you the latest international news from ABC News correspondents around the globe, plus interviews with experts and guests.</desc>
+		<desc>Manny Tsigas brings you the latest news from around the globe. Tonight: ICE lifts pause on vehicle stops after Trump's criticism, H5N1 bird flu detected in New Zealand, and Greece reacts to the new adaptation of The Odyssey.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
-	<programme channel="447" start="20260716162500 +0000" stop="20260716171000 +0000">
+	<programme channel="447" start="20260716163000 +0000" stop="20260716172000 +0000">
 
 		<title>Judgment: Cases That Changed Australia</title>
 
@@ -42459,18 +42448,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 	</programme>
 
-	<programme channel="447" start="20260716171000 +0000" stop="20260716173000 +0000">
-
-		<title>Media Watch</title>
-
-		<episode-num system="xmltv_ns">.22</episode-num>
-		<desc>Australia's leading forum for media analysis and comment. Walkley award-winning investigative reporter and former foreign correspondent Linton Besser brings you a fearless critique of the week's journalism.</desc>
-
-		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
-
-	</programme>
-
-	<programme channel="447" start="20260716173000 +0000" stop="20260716183500 +0000">
+	<programme channel="447" start="20260716172000 +0000" stop="20260716183500 +0000">
 
 		<title>National Press Club Address</title>
 
@@ -42497,7 +42475,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<title>The World</title>
 
 		<episode-num system="xmltv_ns">.111</episode-num>
-		<desc>Now more than ever, we need to stay in touch with what's happening in our world. Manny Tsigas brings you the latest international news from ABC News correspondents around the globe, plus interviews with experts and guests.</desc>
+		<desc>Manny Tsigas brings you the latest news from around the globe. Tonight: ICE lifts pause on vehicle stops after Trump's criticism, H5N1 bird flu detected in New Zealand, and Greece reacts to the new adaptation of The Odyssey.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
 
@@ -42508,7 +42486,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<title>News Breakfast</title>
 
 		<episode-num system="xmltv_ns">.141</episode-num>
-		<desc>As each day begins get the facts you need to stay informed. James Glenday and Emma Rebellato present the latest news, overnight developments and today's top stories, joined by Catherine Murphy, Nate Byrne and Lillian Rangiah.</desc>
+		<desc>News Breakfast gives you the morning advantage. James Glenday and Emma Rebellato bring you the latest news from Australia's most trusted source. Plus Catherine Murphy and Nate Byrne are in Brisbane with sport and weather.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
 
@@ -42558,17 +42536,29 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 	</programme>
 
-	<programme channel="447" start="20260717040000 +0000" stop="20260717042500 +0000">
+	<programme channel="447" start="20260717040000 +0000" stop="20260717041500 +0000">
 
-		<title>TBA</title>
+		<title>Chopsticks Or Fork?</title>
 
-		<desc>ABC Australia delivers a mix of programmes including news and current affairs, sports, comedies, drama, documentaries, education and award-winning children's programmes.</desc>
+		<episode-num system="xmltv_ns">0.4</episode-num>
+		<desc>You don't need to be Chinese to run a successful Chinese restaurant, as proven by the Chiems, a Vietnamese family at Gawler Palace Chinese Restaurant in South Australia where their honey chicken reigns supreme.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
-	<programme channel="447" start="20260717042500 +0000" stop="20260717050500 +0000">
+	<programme channel="447" start="20260717041500 +0000" stop="20260717043000 +0000">
+
+		<title>Chopsticks Or Fork?</title>
+
+		<episode-num system="xmltv_ns">0.5</episode-num>
+		<desc>Since the 1980s, Happy Garden has been feeding Darwin Chinese food with Hakka, East Timorese and Portuguese influences, reflecting the Lee family's refugee journey to Australia. Sweet and sour barramundi, anyone? (Final)</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
+
+	</programme>
+
+	<programme channel="447" start="20260717043000 +0000" stop="20260717050000 +0000">
 
 		<title>Loving Gluten Free</title>
 
@@ -42579,7 +42569,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 	</programme>
 
-	<programme channel="447" start="20260717050500 +0000" stop="20260717052500 +0000">
+	<programme channel="447" start="20260717050000 +0000" stop="20260717052500 +0000">
 
 		<title>Extraordinary Animals</title>
 
@@ -42595,13 +42585,13 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<title>That Pacific Sports Show</title>
 
 		<episode-num system="xmltv_ns">.22</episode-num>
-		<desc>Join Tiana Penitani Gray and Sam Wykes for your weekly hit of Pacific joy, as they share inspiring stories and incredible sporting prowess of athletes with Pacific Island heritage, from Australia and around the world.</desc>
+		<desc>Tiana Penitani Gray and Sam Wykes hear from NHL trailblazer Noa Ta'amu and Socceroo legend Archie Thompson, before chatting with basketballers Mili Koyamainavure and Kalita Maelasi about the rise of 3x3 in the Pacific.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
-	<programme channel="447" start="20260717055500 +0000" stop="20260717063000 +0000">
+	<programme channel="447" start="20260717055500 +0000" stop="20260717062500 +0000">
 
 		<title>Australian Story</title>
 
@@ -42612,7 +42602,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 	</programme>
 
-	<programme channel="447" start="20260717063000 +0000" stop="20260717070000 +0000">
+	<programme channel="447" start="20260717062500 +0000" stop="20260717070000 +0000">
 
 		<title>Australian Story</title>
 
@@ -42628,7 +42618,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<title>ABC News with Joe O'Brien</title>
 
 		<episode-num system="xmltv_ns">.141</episode-num>
-		<desc>Celina Edmonds brings you a comprehensive summary of the day's events, with the latest breaking news, in depth coverage of the top stories, live crosses, interviews and explainers to bring you up to speed on what's going on.</desc>
+		<desc>Melissa Mackay brings you a comprehensive summary of the day's events, with the latest breaking news, in depth coverage of the top stories, live crosses, interviews and explainers to bring you up to speed on what's going on.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
 
@@ -42645,18 +42635,18 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 	</programme>
 
-	<programme channel="447" start="20260717090000 +0000" stop="20260717093000 +0000">
+	<programme channel="447" start="20260717090000 +0000" stop="20260717092500 +0000">
 
-		<title>ABC National News</title>
+		<title>If You're Listening</title>
 
-		<episode-num system="xmltv_ns">.197</episode-num>
-		<desc>There's never been a more important time for transparency and trust. ABC News brings you the day's top stories and latest news, with more reporters to tell you what's going on and why it matters. Presented by Celina Edmonds.</desc>
+		<episode-num system="xmltv_ns">.26</episode-num>
+		<desc>Every president renovates the White House, Trump's ballroom should be no different. But after years of encouraging distrust in Washington, even a building project has become the latest conspiracy.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
-	<programme channel="447" start="20260717093000 +0000" stop="20260717123000 +0000">
+	<programme channel="447" start="20260717092500 +0000" stop="20260717122500 +0000">
 
 		<title>AFL Premiership Season</title>
 
@@ -42667,7 +42657,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 	</programme>
 
-	<programme channel="447" start="20260717123000 +0000" stop="20260717130000 +0000">
+	<programme channel="447" start="20260717122500 +0000" stop="20260717125500 +0000">
 
 		<title>Australian Story</title>
 
@@ -42678,7 +42668,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 	</programme>
 
-	<programme channel="447" start="20260717130000 +0000" stop="20260717133500 +0000">
+	<programme channel="447" start="20260717125500 +0000" stop="20260717133000 +0000">
 
 		<title>Australian Story</title>
 
@@ -42689,18 +42679,18 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 	</programme>
 
-	<programme channel="447" start="20260717133500 +0000" stop="20260717140500 +0000">
+	<programme channel="447" start="20260717133000 +0000" stop="20260717140500 +0000">
 
 		<title>Australian Story</title>
 
 		<episode-num system="xmltv_ns">.18</episode-num>
-		<desc>In 2026, Logie-award-winning documentary program Australian Story celebrates 30 years sharing compelling stories about real people that illuminate, entertain and inspire. The power of the personal. Presented by Leigh Sales.</desc>
+		<desc>Play School is celebrating 60 years on air, but what's the secret to its enduring success? With rare behind-the-scenes access, Australian Story examines its creative process with insights from past and present cast and crew.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
-	<programme channel="447" start="20260717140500 +0000" stop="20260717143000 +0000">
+	<programme channel="447" start="20260717140500 +0000" stop="20260717142000 +0000">
 
 		<title>ABC Late News</title>
 
@@ -42711,12 +42701,23 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 	</programme>
 
+	<programme channel="447" start="20260717142000 +0000" stop="20260717143000 +0000">
+
+		<title>Common Cause</title>
+
+		<episode-num system="xmltv_ns">0.4</episode-num>
+		<desc>In his final years, Australian eye surgeon Fred Hollows trained Vietnamese doctors in modern cataract surgery. Decades on, they and their students continue his mission, restoring sight to those who might otherwise go without.</desc>
+
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
+
+	</programme>
+
 	<programme channel="447" start="20260717143000 +0000" stop="20260717150000 +0000">
 
 		<title>Asia News Week</title>
 
 		<episode-num system="xmltv_ns">.25</episode-num>
-		<desc>Yvonne Yong brings you a weekly roundup of the stories making news across the Asia region, plus what's trending on social media and making an impact on the culture and the way people live.</desc>
+		<desc>Join Yvonne Yong for the week's news from Asia: Families demand answers after dozens killed in a Bangkok pub fire, South Koreans find love as a temple hosts a blind date retreat, plus what's behind Japan's defence boost.</desc>
 
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192"/>
 
@@ -63419,7 +63420,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 		<desc>Yagisawa Satoshi's novel, &quot;Days at the Morisaki Bookshop,&quot; has been translated into 50 languages. He talks about the inspiration behind a heartwarming story that captivated readers around the globe.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch374_DirectTalk.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch374_direct_talk.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -63449,7 +63450,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 		<desc>Kosaka Kunpei holds multiple world records in spearfishing, a sport in which competitors hunt underwater and see who can catch the biggest fish. He talks about freediving and using a hand spear.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch374_DirectTalk.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch374_direct_talk.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -63469,7 +63470,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 		<desc>1 in 36 people in Japan are foreign residents. As its population declines, we look at Japanese society in a new era of foreign workers, through an IT startup where 90% of staff are foreigners.</desc>
 
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch374_nhk_world_tv_generic.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -63539,7 +63540,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 		<desc>We trace the ongoing evolution of the Daiba waterfront district which began as defensive fortifications and transformed over time into a tourist destination, residential area, and innovation hub.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch374_DiveINTokyo.jpg?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch374_dive_in_tokyo.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -63559,7 +63560,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 		<desc>Yagisawa Satoshi's novel, &quot;Days at the Morisaki Bookshop,&quot; has been translated into 50 languages. He talks about the inspiration behind a heartwarming story that captivated readers around the globe.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch374_DirectTalk.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch374_direct_talk.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -63859,7 +63860,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 		<desc>In March 2026, photographer Hamamoto Kanade won a prestigious award for work themed on the underwater suicide squads organized near the end of the Second World War. She tells us about the project.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch374_DirectTalk.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch374_direct_talk.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -63879,7 +63880,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 		<desc>1 in 2500 people started farming in 2022 - as we talk to new farmers who've come from totally different industries, we examine the values they have found in this labour-intense yet rewarding field.</desc>
 
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192"/>
+		<icon src="https://poster.starhubgo.com/poster/ch374_nhk_world_tv_generic.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -64039,7 +64040,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 		<desc>In March 2026, photographer Hamamoto Kanade won a prestigious award for work themed on the underwater suicide squads organized near the end of the Second World War. She tells us about the project.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch374_DirectTalk.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch374_direct_talk.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -64449,7 +64450,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 		<desc>Highly respected sports trainer Kitani Masashi works with world-class soccer players, relieving fatigue, pain, and conditioning the body to be less prone to injury. He talks about his unique methods.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch374_DirectTalk.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch374_direct_talk.jpg?w=960&amp;h=540"/>
 
 	</programme>
 
@@ -64559,7 +64560,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 
 		<desc>This exciting street‑dance festival and competition showcases international and Korean crews and solo dancers across various styles, mixing judged showcases, one‑on‑one battles and performance segments.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch815_kbs_world_generic.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch815_2026_battle_lineup_xi_in_gwangju.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
@@ -65287,7 +65288,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<episode-num system="xmltv_ns">.24</episode-num>
 		<desc>Embark on a pilgrimage-style journey that explores Korea's national heritage, culture and historic sites.</desc>
 
-		<icon src="https://poster.starhubgo.com/poster/ch815_kbs_logo.jpg?w=960&amp;h=540"/>
+		<icon src="https://poster.starhubgo.com/poster/ch815_national_heritage_pilgrimage_de_o.jpg?w=341&amp;h=192"/>
 
 	</programme>
 
