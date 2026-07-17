@@ -18,10 +18,11 @@ Output-format notes (why the serialiser is the way it is):
     every child element and produced ~35k blank lines in a 7k-programme feed;
     Emby then failed to read the file entirely (showed nothing). The current
     pipeline therefore (1) emits a compact document with no blank lines and no
-    stray whitespace text nodes, (2) keeps the original episode suffix in the
-    title so the human-readable name is preserved for every consumer, and
-    (3) carries the structured metadata in a full 3-part xmltv_ns
-    <episode-num> element (season.episode.part), which is what Emby expects.
+    stray whitespace text nodes, (2) strips the " - EP N" suffix from titles so
+    Emby groups every episode under a single stable series name (the structured
+    episode data is carried in <episode-num> instead), and (3) carries that
+    metadata in a full 3-part xmltv_ns <episode-num> element
+    (season.episode.part), which is what Emby expects.
 """
 
 import argparse
@@ -116,9 +117,11 @@ def process_epg(input_path, output_path, indexing="zero"):
 
     Key behaviour (chosen to keep Emby Live TV happy while not breaking other
     consumers such as Dispatcharr):
-      * The episode suffix in the title is PRESERVED (we no longer strip
-        "S6 - EP 5" down to "FBI"). Both Emby and Dispatcharr then keep the
-        readable name; the structured data lives in <episode-num> only.
+      * The episode suffix in the title is STRIPPED (e.g. "FBI - EP 5" ->
+        "FBI"). Emby groups episodes into a series by matching the exact title,
+        so a stable title with no " - EP N" suffix is required to avoid each
+        episode being treated as a separate series. The structured episode data
+        lives in <episode-num> only.
       * Empty <desc/> elements are removed: Emby is sensitive to them and they
         carry no information.
       * Output is serialised with no blank lines and no whitespace-only text
@@ -141,10 +144,6 @@ def process_epg(input_path, output_path, indexing="zero"):
             continue
 
         title = title_elem.text.strip()
-        # extract_episode_info returns a cleaned title too, but we intentionally
-        # KEEP the original title text (with its episode suffix) for consumers
-        # that read the title directly. The suffix is only used to derive
-        # <episode-num> below.
         clean_title, season, episode = extract_episode_info(title)
 
         if episode and programme.find('episode-num') is None:
@@ -158,6 +157,12 @@ def process_epg(input_path, output_path, indexing="zero"):
             # child, which is the conventional XMLTV ordering).
             idx = list(programme).index(title_elem)
             programme.insert(idx + 1, ep_elem)
+
+            # Update title with clean version (remove episode suffix). Emby
+            # groups episodes into a series by matching the exact title, so a
+            # stable title (no " - EP N" suffix) is required; the structured
+            # episode data lives in <episode-num> below.
+            title_elem.text = clean_title
 
             processed += 1
 

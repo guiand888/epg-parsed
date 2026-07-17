@@ -226,7 +226,7 @@ class TestProcessEpg:
         assert 'encoding=' in content
 
     def test_process_clean_title(self, temp_dir, create_xml_file):
-        """Test that episode numbers are preserved in titles (suffix kept)."""
+        """Test that episode numbers are removed from titles."""
         xml_content = '''<?xml version="1.0"?>
 <tv>
   <programme>
@@ -240,21 +240,21 @@ class TestProcessEpg:
 
         process_epg(str(input_path), str(output_path))
 
-        # Parse and verify title retains the EP suffix
+        # Parse and verify title was cleaned
         tree = ET.parse(str(output_path))
         programme = tree.find('.//programme')
         title_elem = programme.find('title')
 
-        # Title should keep its suffix
-        assert title_elem.text == "Headline News - EP 288"
+        # Title should be cleaned (no EP suffix)
+        assert title_elem.text == "Headline News"
 
-        # Episode-num should still be present (3-part xmltv_ns)
+        # Episode-num should still be present
         ep_elem = programme.find('episode-num')
         assert ep_elem is not None
         assert ep_elem.text == ".287.0"
 
     def test_process_clean_title_with_season(self, temp_dir, create_xml_file):
-        """Test that titles with season and episode keep their suffix."""
+        """Test that titles with season and episode are cleaned."""
         xml_content = '''<?xml version="1.0"?>
 <tv>
   <programme>
@@ -273,8 +273,8 @@ class TestProcessEpg:
         programme = tree.find('.//programme')
         title_elem = programme.find('title')
 
-        # Title should keep its suffix
-        assert title_elem.text == "My Show S3 - EP 5"
+        # Title should be cleaned
+        assert title_elem.text == "My Show"
 
         # Episode-num should be present with season (3-part xmltv_ns)
         ep_elem = programme.find('episode-num')
