@@ -30,7 +30,7 @@ class TestProcessEpg:
         tree = ET.parse(str(output_path))
         episode_elem = tree.find('.//episode-num')
         assert episode_elem is not None
-        assert episode_elem.text == "0.4"
+        assert episode_elem.text == "0.4.0"
         assert episode_elem.get('system') == 'xmltv_ns'
 
     def test_process_multiple_programmes(self, temp_dir, create_xml_file):
@@ -62,9 +62,9 @@ class TestProcessEpg:
         tree = ET.parse(str(output_path))
         episodes = tree.findall('.//episode-num')
         assert len(episodes) == 3
-        assert episodes[0].text == "2.0"
-        assert episodes[1].text == "1.6"
-        assert episodes[2].text == ".41"
+        assert episodes[0].text == "2.0.0"
+        assert episodes[1].text == "1.6.0"
+        assert episodes[2].text == ".41.0"
 
     def test_process_with_non_episode_programmes(self, temp_dir, create_xml_file):
         """Test processing XML with mixed programmes (some with episodes, some without)."""
@@ -226,7 +226,7 @@ class TestProcessEpg:
         assert 'encoding=' in content
 
     def test_process_clean_title(self, temp_dir, create_xml_file):
-        """Test that episode numbers are removed from titles."""
+        """Test that episode numbers are preserved in titles (suffix kept)."""
         xml_content = '''<?xml version="1.0"?>
 <tv>
   <programme>
@@ -234,27 +234,27 @@ class TestProcessEpg:
     <desc>Test description</desc>
   </programme>
 </tv>'''
-        
+
         input_path = create_xml_file(xml_content)
         output_path = temp_dir / "output.xml"
-        
+
         process_epg(str(input_path), str(output_path))
-        
-        # Parse and verify title was cleaned
+
+        # Parse and verify title retains the EP suffix
         tree = ET.parse(str(output_path))
         programme = tree.find('.//programme')
         title_elem = programme.find('title')
-        
-        # Title should be cleaned (no EP suffix)
-        assert title_elem.text == "Headline News"
-        
-        # Episode-num should still be present
+
+        # Title should keep its suffix
+        assert title_elem.text == "Headline News - EP 288"
+
+        # Episode-num should still be present (3-part xmltv_ns)
         ep_elem = programme.find('episode-num')
         assert ep_elem is not None
-        assert ep_elem.text == ".287"
+        assert ep_elem.text == ".287.0"
 
     def test_process_clean_title_with_season(self, temp_dir, create_xml_file):
-        """Test that titles with season and episode are cleaned."""
+        """Test that titles with season and episode keep their suffix."""
         xml_content = '''<?xml version="1.0"?>
 <tv>
   <programme>
@@ -262,24 +262,24 @@ class TestProcessEpg:
     <desc>Test description</desc>
   </programme>
 </tv>'''
-        
+
         input_path = create_xml_file(xml_content)
         output_path = temp_dir / "output.xml"
-        
+
         process_epg(str(input_path), str(output_path))
-        
+
         # Parse and verify
         tree = ET.parse(str(output_path))
         programme = tree.find('.//programme')
         title_elem = programme.find('title')
-        
-        # Title should be cleaned
-        assert title_elem.text == "My Show"
-        
-        # Episode-num should be present with season
+
+        # Title should keep its suffix
+        assert title_elem.text == "My Show S3 - EP 5"
+
+        # Episode-num should be present with season (3-part xmltv_ns)
         ep_elem = programme.find('episode-num')
         assert ep_elem is not None
-        assert ep_elem.text == "2.4"
+        assert ep_elem.text == "2.4.0"
 
     def test_process_title_without_episode_unchanged(self, temp_dir, create_xml_file):
         """Test that titles without episode numbers remain unchanged."""
@@ -307,3 +307,49 @@ class TestProcessEpg:
         # No episode-num should be added
         ep_elem = programme.find('episode-num')
         assert ep_elem is None
+
+    def test_process_output_has_no_blank_lines(self, temp_dir, create_xml_file):
+        """Test that output contains no blank lines (Emby-safe formatting)."""
+        xml_content = '''<?xml version="1.0"?>
+<tv>
+  <programme>
+    <title>Show S1 - EP 5</title>
+    <desc>Description</desc>
+  </programme>
+  <programme>
+    <title>Another - EP 9</title>
+    <desc></desc>
+  </programme>
+</tv>'''
+
+        input_path = create_xml_file(xml_content)
+        output_path = temp_dir / "output.xml"
+
+        process_epg(str(input_path), str(output_path))
+
+        content = output_path.read_text()
+        # No completely empty lines anywhere in the output
+        assert "\n\n" not in content
+        # No whitespace-only text nodes between elements
+        for line in content.splitlines():
+            assert line.strip() != "" or line == ""
+
+    def test_process_removes_empty_desc(self, temp_dir, create_xml_file):
+        """Test that empty <desc> elements are removed from output."""
+        xml_content = '''<?xml version="1.0"?>
+<tv>
+  <programme>
+    <title>Show - EP 9</title>
+    <desc></desc>
+  </programme>
+</tv>'''
+
+        input_path = create_xml_file(xml_content)
+        output_path = temp_dir / "output.xml"
+
+        process_epg(str(input_path), str(output_path))
+
+        tree = ET.parse(str(output_path))
+        programme = tree.find('.//programme')
+        assert programme.find('desc') is None
+        assert programme.find('episode-num') is not None

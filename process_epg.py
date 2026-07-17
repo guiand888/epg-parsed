@@ -9,6 +9,19 @@ Usage:
 
 Configuration:
     See config.json for source definitions and output directory.
+
+Output-format notes (why the serialiser is the way it is):
+    The processed feed is consumed by Emby Live TV, which uses a strict XMLTV
+    parser that rejects whitespace-only text nodes sitting between elements and
+    chokes on empty <desc/> elements. An earlier version used
+    xml.dom.minidom.toprettyxml, which injected a whitespace text node between
+    every child element and produced ~35k blank lines in a 7k-programme feed;
+    Emby then failed to read the file entirely (showed nothing). The current
+    pipeline therefore (1) emits a compact document with no blank lines and no
+    stray whitespace text nodes, (2) keeps the original episode suffix in the
+    title so the human-readable name is preserved for every consumer, and
+    (3) carries the structured metadata in a full 3-part xmltv_ns
+    <episode-num> element (season.episode.part), which is what Emby expects.
 """
 
 import argparse
@@ -18,8 +31,6 @@ import sys
 import urllib.request
 from pathlib import Path
 import xml.etree.ElementTree as ET
-from xml.dom import minidom
-import re as re_module
 
 # Episode number patterns (most specific first)
 # Note: Patterns must handle colons, spaces, and other punctuation in titles
@@ -54,55 +65,117 @@ def extract_episode_info(title):
     return title, None, None
 
 
-def format_episode_num(season, episode):
-    """Format episode number for xmltv_ns system (0-indexed per spec)."""
-    ep = max(0, int(episode) - 1)
-    if season:
-        return f"{max(0, int(season) - 1)}.{ep}"
-    return f".{ep}"
+def format_episode_num(season, episode, indexing="zero"):
+    """Format episode number for the xmltv_ns system.
+
+    Returns the FULL 3-part 'season.episode.part' form (e.g. "5.4.0" or
+    ".101.0"). The third component (part) is always "0" because the source
+    feed has no part information. Emby expects the complete 3-part form; the
+    earlier 2-part output (e.g. "5.4") was rejected/misread by Emby.
+
+    Indexing: the xmltv_ns spec defines season/episode as 0-based, so the
+    default `indexing="zero"` subtracts 1 from the 1-based numbers found in
+    the source titles (e.g. "S6 - EP 5" -> "5.4.0"). Use "one" only if a
+    particular consumer expects 1-based values.
+
+    `indexing` is 'zero' (default, spec-correct) or 'one' (1-indexed).
+    """
+    if indexing == "one":
+        s = int(season) if season else None
+        e = int(episode)
+    else:
+        s = max(0, int(season) - 1) if season else None
+        e = max(0, int(episode) - 1)
+
+    if s is not None:
+        return f"{s}.{e}.0"
+    return f".{e}.0"
 
 
-def process_epg(input_path, output_path):
-    """Process EPG XML file to add episode-num elements and clean titles."""
+def _clean_whitespace(elem):
+    """Recursively clear whitespace-only .text/.tail on every element.
+
+    ElementTree only writes a child's .tail *after* the child closes, so any
+    whitespace we leave there becomes a whitespace text node between siblings.
+    Emby's strict XMLTV parser rejects those nodes, so we null them out before
+    serialising. (The remaining top-level blank lines are stripped separately
+    in process_epg after ET.indent.)
+    """
+    for child in elem:
+        if child.text is not None and child.text.strip() == "":
+            child.text = None
+        if child.tail is not None and child.tail.strip() == "":
+            child.tail = None
+        _clean_whitespace(child)
+    if elem.tail is not None and elem.tail.strip() == "":
+        elem.tail = None
+
+
+def process_epg(input_path, output_path, indexing="zero"):
+    """Process an EPG XML file: add xmltv_ns <episode-num> metadata.
+
+    Key behaviour (chosen to keep Emby Live TV happy while not breaking other
+    consumers such as Dispatcharr):
+      * The episode suffix in the title is PRESERVED (we no longer strip
+        "S6 - EP 5" down to "FBI"). Both Emby and Dispatcharr then keep the
+        readable name; the structured data lives in <episode-num> only.
+      * Empty <desc/> elements are removed: Emby is sensitive to them and they
+        carry no information.
+      * Output is serialised with no blank lines and no whitespace-only text
+        nodes between elements (see _clean_whitespace + the blank-line strip
+        below). This is the fix for Emby failing to parse the feed at all.
+    """
     tree = ET.parse(input_path)
     root = tree.getroot()
     processed = 0
 
     for programme in root.findall('.//programme'):
+        # Drop empty <desc> elements: Emby is sensitive to empty elements and
+        # they carry no useful information.
+        for desc in programme.findall('desc'):
+            if desc.text is None or desc.text.strip() == "":
+                programme.remove(desc)
+
         title_elem = programme.find('title')
         if title_elem is None or title_elem.text is None:
             continue
 
         title = title_elem.text.strip()
+        # extract_episode_info returns a cleaned title too, but we intentionally
+        # KEEP the original title text (with its episode suffix) for consumers
+        # that read the title directly. The suffix is only used to derive
+        # <episode-num> below.
         clean_title, season, episode = extract_episode_info(title)
 
         if episode and programme.find('episode-num') is None:
-            # Add episode-num element after title
-            ep_num = format_episode_num(season, episode)
+            # Add a full 3-part xmltv_ns episode-num right after the title.
+            ep_num = format_episode_num(season, episode, indexing=indexing)
             ep_elem = ET.Element('episode-num')
             ep_elem.set('system', 'xmltv_ns')
             ep_elem.text = ep_num
 
-            # Insert after title
+            # Insert immediately after title (keeps the title as the first
+            # child, which is the conventional XMLTV ordering).
             idx = list(programme).index(title_elem)
             programme.insert(idx + 1, ep_elem)
-            
-            # Update title with clean version (remove episode suffix)
-            title_elem.text = clean_title
-            
+
             processed += 1
 
-    # Write output with pretty printing
-    rough_string = ET.tostring(root, encoding='UTF-8')
-    reparsed = minidom.parseString(rough_string)
-    pretty_xml = reparsed.toprettyxml(indent='\t', encoding='UTF-8').decode('UTF-8')
-    # Remove duplicate XML declaration if present
-    pretty_xml = pretty_xml.replace('<?xml version="1.0" encoding="UTF-8"?>\n', '', 1)
-    # Clean up formatting: reduce multiple blank lines to single
-    pretty_xml = re_module.sub(r'\n[ \t]*\n[ \t]*\n+', '\n\n', pretty_xml)
+    # Remove any whitespace-only text/tail so the serialised output has no
+    # stray whitespace text nodes between elements (these break Emby's parser).
+    _clean_whitespace(root)
+
+    # Serialise with indentation for readability, but then strip every blank
+    # line: ET.indent leaves whitespace-only tail text between top-level
+    # elements (e.g. between </channel> and the next <channel>), which would
+    # otherwise produce empty lines that some strict parsers dislike.
+    ET.indent(root, space='  ')
+    body = ET.tostring(root, encoding='unicode')
+    body = "\n".join(line for line in body.splitlines() if line.strip() != "")
+
     with open(output_path, 'w', encoding='UTF-8') as f:
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
-        f.write(pretty_xml)
+        f.write(body)
     return processed
 
 
@@ -174,36 +247,45 @@ def load_config(config_path):
 def process_all_sources(config):
     """
     Process all sources defined in config.
-    
+
     Returns: dict with total processed count and per-source results
     """
     output_dir = Path(config['output_dir'])
-    
+
+    # episode_indexing selects how season/episode numbers are written into
+    # <episode-num> (see format_episode_num). "zero" (default) is the xmltv_ns
+    # 0-based convention Emby expects; "one" keeps the raw 1-based numbers.
+    # Fall back to "zero" on anything unexpected so we never emit garbage.
+    indexing = config.get('episode_indexing', 'zero')
+    if indexing not in ('zero', 'one'):
+        print(f"Warning: invalid episode_indexing '{indexing}', defaulting to 'zero'")
+        indexing = 'zero'
+
     # Create output directory if it doesn't exist
     output_dir.mkdir(parents=True, exist_ok=True)
-    
+
     total_processed = 0
     results = {}
-    
+
     for source in config['sources']:
         name = source['name']
         url = source['url']
         output_file = source['output']
-        
+
         # Download to temporary file
         temp_file = f"{name}_raw.xml"
         print(f"Downloading {name} from {url}...")
-        
+
         if not download_file(url, temp_file):
             results[name] = {'status': 'failed', 'error': 'download failed'}
             continue
-        
+
         # Process the file
         output_path = output_dir / output_file
         print(f"Processing {name}...")
-        
+
         try:
-            count = process_epg(temp_file, str(output_path))
+            count = process_epg(temp_file, str(output_path), indexing=indexing)
             total_processed += count
             results[name] = {'status': 'success', 'processed': count, 'output': str(output_path)}
             print(f"  -> {count} programmes processed, saved to {output_path}")

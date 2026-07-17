@@ -1,5 +1,6 @@
 {
   "output_dir": "processed",
+  "episode_indexing": "zero",
   "sources": [
     {
       "name": "starhub",
