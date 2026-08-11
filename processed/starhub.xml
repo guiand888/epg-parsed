@@ -1953,7 +1953,7 @@
     <icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
   </programme>
   <programme channel="105" start="20260812023000 +0000" stop="20260812030000 +0000">
-    <title>Ketta Payyan, Sir!</title>
+    <title>Ketta Paiyan, Sir!</title>
     <episode-num system="xmltv_ns">.2.0</episode-num>
     <desc>Kavin, a mischievous and endlessly energetic 10-year-old boy, has a knack for turning every classroom into a stage for chaos. Labelled a troublemaker by his teachers, dismissed as lazy by his father, and threatened with expulsion by the school’s stern principal, Ravi, Kavin decides to prove everyone wrong by setting an ambitious goal: winning the prestigious Best Student Award.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -2047,7 +2047,7 @@
     <icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
   </programme>
   <programme channel="105" start="20260812130000 +0000" stop="20260812133000 +0000">
-    <title>Ketta Payyan, Sir!</title>
+    <title>Ketta Paiyan, Sir!</title>
     <episode-num system="xmltv_ns">.3.0</episode-num>
     <desc>Kavin, a mischievous and endlessly energetic 10-year-old boy, has a knack for turning every classroom into a stage for chaos. Labelled a troublemaker by his teachers, dismissed as lazy by his father, and threatened with expulsion by the school’s stern principal, Ravi, Kavin decides to prove everyone wrong by setting an ambitious goal: winning the prestigious Best Student Award.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -2349,7 +2349,7 @@
   <programme channel="106" start="20260812130000 +0000" stop="20260812133000 +0000">
     <title>Money Mind</title>
     <episode-num system="xmltv_ns">.15.0</episode-num>
-    <desc>Money Mind is a weekly magazine programme centering on personal finance. Every week, the programme offers tips on how to grow, save and spend your money wisely.</desc>
+    <desc>Why he left college early and became a cleaner. The move home that helped one South Korean woman save more. How a 15-year-old built a barber side hustle.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
   </programme>
   <programme channel="106" start="20260812133000 +0000" stop="20260812140000 +0000">
@@ -7867,7 +7867,7 @@
     <icon src="https://poster.starhubgo.com/poster/ch656_Annamalai_Kudumbam.jpg?w=960&amp;h=540" />
   </programme>
   <programme channel="138" start="20260812060000 +0000" stop="20260812090000 +0000">
-    <title>Virus</title>
+    <title>Virus (120826)</title>
     <desc>Tamil medical thriller Film, Starring, Aashiq Abu, Parvathy Thiruvothu, Tovino Thomas, Rima Kallingal, Revathi and Others</desc>
     <icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
   </programme>
@@ -11107,15 +11107,20 @@
     <desc>A look back at the 58th edition of the Washington Open from the William H.G. FitzGerald Tennis Center in Rock Creek Park, Washington, D.C.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch201_ATPTourReviewShow2025.jpg?w=341&amp;h=192" />
   </programme>
-  <programme channel="201" start="20260811130000 +0000" stop="20260811160000 +0000">
+  <programme channel="201" start="20260811130000 +0000" stop="20260811163000 +0000">
+    <title>HSBC BWF World Tour 2026</title>
+    <desc>The Korea Masters is an annual international badminton tournament sanctioned by the BWF. Established in 2007, the Korea Masters has grown into one of the notable stops on the tour, attracting top-tier global and domestic talent.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch201_BWF_VICTOR_Korea_Masters_2026.jpg?w=341&amp;h=192" />
+  </programme>
+  <programme channel="201" start="20260811163000 +0000" stop="20260811203000 +0000">
     <title>ATP Tour 2026 National Bank Open (1000) QF 1 &amp; 2</title>
     <desc>The National Bank Open is a prestigious professional tennis tournament. Also known as the Canadian Open, it is the third-oldest active tennis tournament in the world, preceded only by Wimbledon and the US Open.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch201_ATP_Tour_2026_National_Bank_Open.jpg?w=960&amp;h=540" />
   </programme>
-  <programme channel="201" start="20260811160000 +0000" stop="20260811210000 +0000">
-    <title>HSBC BWF World Tour 2026</title>
-    <desc>The Macau Open is an annual international badminton tournament held in Macau, China. The event was first held as the Macau Satellite in 2002 and in 2018, it was officially designated as a BWF World Tour Super 300 event.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch201_bwf_world_tour_2026_sands_china_ltd_macau_open.jpg?w=960&amp;h=540" />
+  <programme channel="201" start="20260811203000 +0000" stop="20260811210000 +0000">
+    <title>ATP Tour: This Week 2026</title>
+    <desc>This programme tells the story of the ATP tour, its tournaments, personalities behind the tennis, funny feature content and much more.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch201_ATPTourThisWeek.jpg?w=341&amp;h=192" />
   </programme>
   <programme channel="201" start="20260811210000 +0000" stop="20260811220000 +0000">
     <title>Billie Jean King Cup by Gainbridge Qualifiers 2026</title>
@@ -11157,23 +11162,13 @@
     <desc>The Livesport Prague Open is a WTA 250 tournament where 32 singles players compete on outdoor hard courts. The event officially transitioned from clay to hard courts in 2021. Ostrov Stvanice is the setting for the Prague Open.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch201_WTA_Tour_250_Generic.jpg?w=960&amp;h=540" />
   </programme>
-  <programme channel="201" start="20260812100000 +0000" stop="20260812113000 +0000">
-    <title>WTA Tour 2026</title>
-    <desc>The Livesport Prague Open is a WTA 250 tournament where 32 singles players compete on outdoor hard courts. The event officially transitioned from clay to hard courts in 2021. Ostrov Stvanice is the setting for the Prague Open.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch201_WTA_Tour_250_Generic.jpg?w=960&amp;h=540" />
-  </programme>
-  <programme channel="201" start="20260812113000 +0000" stop="20260812120000 +0000">
-    <title>ATP Tour: This Week 2026</title>
-    <desc>This programme tells the story of the ATP tour, its tournaments, personalities behind the tennis, funny feature content and much more.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch201_ATPTourThisWeek.jpg?w=341&amp;h=192" />
-  </programme>
-  <programme channel="201" start="20260812120000 +0000" stop="20260812130000 +0000">
-    <title>ASO Cycling Programming 2026</title>
-    <desc>The Presidential Cycling Tour of Turkey is an annual professional road bicycle racing stage race. It is the only intercontinental cycling tour in the world, often spanning both Europe and Asia. The race typically consists of 8 stages covering diverse terrains.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch201_aso.jpg?w=341&amp;h=192" />
+  <programme channel="201" start="20260812100000 +0000" stop="20260812130000 +0000">
+    <title>ATP Tour 2026 National Bank Open (1000) QF 1 &amp; 2 (120826)</title>
+    <desc>The National Bank Open is a prestigious professional tennis tournament. Also known as the Canadian Open, it is the third-oldest active tennis tournament in the world, preceded only by Wimbledon and the US Open.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch201_ATP_Tour_2026_National_Bank_Open.jpg?w=960&amp;h=540" />
   </programme>
   <programme channel="201" start="20260812130000 +0000" stop="20260812160000 +0000">
-    <title>ATP Tour 2026 National Bank Open (1000) QF 3 &amp; 4</title>
+    <title>ATP Tour 2026 National Bank Open (1000) QF 3 &amp; 4 (120826)</title>
     <desc>The National Bank Open is a prestigious professional tennis tournament. Also known as the Canadian Open, it is the third-oldest active tennis tournament in the world, preceded only by Wimbledon and the US Open.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch201_ATP_Tour_2026_National_Bank_Open.jpg?w=960&amp;h=540" />
   </programme>
@@ -11189,7 +11184,7 @@
   </programme>
   <programme channel="202" start="20260810200000 +0000" stop="20260810220000 +0000">
     <title>Singapore Premier League 2025/26 Albirex Niigata FC (S) vs BG Tampines Rovers FC</title>
-    <desc>Catch the 2025/26 Singapore Premier League as top football clubs battle for glory in Singapore's premier competition. Defending champions Lion City Sailors return to defend their title in the league's 8th season since its 2018 rebranding.</desc>
+    <desc>Catch the 2025/26 Singapore Premier League as top football clubs battle for glory in Singapore’s premier competition. Defending champions Lion City Sailors return to defend their title in the league’s 8th season since its 2018 rebranding.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch202_singapore_premier_league.jpg?w=960&amp;h=540" />
   </programme>
   <programme channel="202" start="20260810220000 +0000" stop="20260810230000 +0000">
@@ -11199,7 +11194,7 @@
   </programme>
   <programme channel="202" start="20260810230000 +0000" stop="20260811030000 +0000">
     <title>WTA Tour 2026</title>
-    <desc>The Canadian Open is one of the world's oldest tennis tournaments and is a WTA 1000 event played on outdoor hard courts. The main draw features 96 singles players and is held at the Sobeys Stadium in Toronto, Ontario.</desc>
+    <desc>The Canadian Open is one of the world’s oldest tennis tournaments and is a WTA 1000 event played on outdoor hard courts. The main draw features 96 singles players and is held at the Sobeys Stadium in Toronto, Ontario.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch202_WTA_ATP_Tour_1000_Generic.jpg?w=960&amp;h=540" />
   </programme>
   <programme channel="202" start="20260811030000 +0000" stop="20260811040000 +0000">
@@ -11214,12 +11209,12 @@
   </programme>
   <programme channel="202" start="20260811070000 +0000" stop="20260811080000 +0000">
     <title>ASO Motorsport Programming 2026</title>
-    <desc>The Desafío Ruta 40 is one of South America's most iconic rally-raid events, and is Round 3 of the FIA-FIM World Rally-Raid Championship. The 2026 edition follows a San Juan – San Rafael – San Juan loop in Argentina.</desc>
+    <desc>The Desafío Ruta 40 is one of South America’s most iconic rally-raid events, and is Round 3 of the FIA-FIM World Rally-Raid Championship. The 2026 edition follows a San Juan – San Rafael – San Juan loop in Argentina.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch202_aso.jpg?w=341&amp;h=192" />
   </programme>
   <programme channel="202" start="20260811080000 +0000" stop="20260811095500 +0000">
-    <title>Asian University Basketball League 2026</title>
-    <desc>The AUBL is a pioneering pan-regional intercollegiate competition featuring Asia's most prestigious university basketball programs, anchored by top teams from Greater China, Japan, and Korea.</desc>
+    <title>Asian University Basketball Lge 2026 SF 1: Tsinghua University vs Shanghai Jiao Tong University</title>
+    <desc>The AUBL is a pioneering pan-regional intercollegiate competition featuring Asia’s most prestigious university basketball programs, anchored by top teams from Greater China, Japan, and Korea.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch202_aubl_2026.jpg?w=341&amp;h=192" />
   </programme>
   <programme channel="202" start="20260811095500 +0000" stop="20260811120000 +0000">
@@ -11239,7 +11234,7 @@
   </programme>
   <programme channel="202" start="20260811130000 +0000" stop="20260811160000 +0000">
     <title>WTA Tour 2026</title>
-    <desc>The Canadian Open is one of the world's oldest tennis tournaments and is a WTA 1000 event played on outdoor hard courts. The main draw features 96 singles players and is held at the Sobeys Stadium in Toronto, Ontario.</desc>
+    <desc>The Canadian Open is one of the world’s oldest tennis tournaments and is a WTA 1000 event played on outdoor hard courts. The main draw features 96 singles players and is held at the Sobeys Stadium in Toronto, Ontario.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch202_WTA_ATP_Tour_1000_Generic.jpg?w=960&amp;h=540" />
   </programme>
   <programme channel="202" start="20260811160000 +0000" stop="20260811190000 +0000">
@@ -11264,7 +11259,7 @@
   </programme>
   <programme channel="202" start="20260811200000 +0000" stop="20260811220000 +0000">
     <title>Singapore Premier League 2025/26 Geylang International FC vs Balestier Khalsa FC</title>
-    <desc>Catch the 2025/26 Singapore Premier League as top football clubs battle for glory in Singapore's premier competition. Defending champions Lion City Sailors return to defend their title in the league's 8th season since its 2018 rebranding.</desc>
+    <desc>Catch the 2025/26 Singapore Premier League as top football clubs battle for glory in Singapore’s premier competition. Defending champions Lion City Sailors return to defend their title in the league’s 8th season since its 2018 rebranding.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch202_singapore_premier_league.jpg?w=960&amp;h=540" />
   </programme>
   <programme channel="202" start="20260811220000 +0000" stop="20260811223000 +0000">
@@ -11279,7 +11274,7 @@
   </programme>
   <programme channel="202" start="20260811230000 +0000" stop="20260812030000 +0000">
     <title>WTA Tour 2026</title>
-    <desc>The Canadian Open is one of the world's oldest tennis tournaments and is a WTA 1000 event played on outdoor hard courts. The main draw features 96 singles players and is held at the Sobeys Stadium in Toronto, Ontario.</desc>
+    <desc>The Canadian Open is one of the world’s oldest tennis tournaments and is a WTA 1000 event played on outdoor hard courts. The main draw features 96 singles players and is held at the Sobeys Stadium in Toronto, Ontario.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch202_WTA_ATP_Tour_1000_Generic.jpg?w=960&amp;h=540" />
   </programme>
   <programme channel="202" start="20260812030000 +0000" stop="20260812033000 +0000">
@@ -11303,8 +11298,8 @@
     <icon src="https://poster.starhubgo.com/poster/ch202_football_pre_season_friendlies2026.jpg?w=341&amp;h=192" />
   </programme>
   <programme channel="202" start="20260812080000 +0000" stop="20260812100000 +0000">
-    <title>Asian University Basketball League 2026</title>
-    <desc>The AUBL is a pioneering pan-regional intercollegiate competition featuring Asia's most prestigious university basketball programs, anchored by top teams from Greater China, Japan, and Korea.</desc>
+    <title>Asian University Basketball Lge 2026 SF 2: Waseda University vs NCCU</title>
+    <desc>The AUBL is a pioneering pan-regional intercollegiate competition featuring Asia’s most prestigious university basketball programs, anchored by top teams from Greater China, Japan, and Korea.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch202_aubl_2026.jpg?w=341&amp;h=192" />
   </programme>
   <programme channel="202" start="20260812100000 +0000" stop="20260812110000 +0000">
@@ -11319,7 +11314,7 @@
   </programme>
   <programme channel="202" start="20260812130000 +0000" stop="20260812160000 +0000">
     <title>WTA Tour 2026</title>
-    <desc>The Canadian Open is one of the world's oldest tennis tournaments and is a WTA 1000 event played on outdoor hard courts. The main draw features 96 singles players and is held at the Sobeys Stadium in Toronto, Ontario.</desc>
+    <desc>The Canadian Open is one of the world’s oldest tennis tournaments and is a WTA 1000 event played on outdoor hard courts. The main draw features 96 singles players and is held at the Sobeys Stadium in Toronto, Ontario.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch202_WTA_ATP_Tour_1000_Generic.jpg?w=960&amp;h=540" />
   </programme>
   <programme channel="203" start="20260810160000 +0000" stop="20260810220000 +0000">
@@ -12844,7 +12839,7 @@
     <title>PL STORIES</title>
     <episode-num system="xmltv_ns">.8.0</episode-num>
     <desc>From fearless forward to one of English football's most inspirational figures, this is the story of Kevin Keegan. We chart his remarkable playing career with Liverpool, Hamburg and England before exploring his impact as a manager, where he inspired Newcastle United to become one of the Premier League's most captivating teams. Through triumphs, setbacks and an unwavering passion for the game, we celebrate the life and legacy of a true football icon.</desc>
-    <icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+    <icon src="https://poster.starhubgo.com/poster/pl_stories_2026_27_ep9.jpg?w=341&amp;h=192" />
   </programme>
   <programme channel="221" start="20260811003000 +0000" stop="20260811010000 +0000">
     <title>PL STORIES</title>
@@ -12884,7 +12879,7 @@
     <title>PL STORIES</title>
     <episode-num system="xmltv_ns">.9.0</episode-num>
     <desc>From the trailblazing success of Sir Alf Ramsey's league champions to Sir Bobby Robson's unforgettable FA Cup and UEFA Cup triumphs, this is the story of one of English football's most cherished clubs. We celebrate the remarkable highs, the resilience through changing times, and George Burley's extraordinary achievement in guiding Ipswich Town to a fifth-place finish in their first Premier League season. As a new chapter begins with Gary O'Neil following the successful reign of Kieran McKenna, w</desc>
-    <icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+    <icon src="https://poster.starhubgo.com/poster/pl_stories_2026_27_ep10.jpg?w=960&amp;h=540" />
   </programme>
   <programme channel="221" start="20260811070000 +0000" stop="20260811080000 +0000">
     <title>GOALS OF THE SEASON - 2025/2026 (HAALAND)</title>
@@ -12924,7 +12919,7 @@
     <title>PL STORIES</title>
     <episode-num system="xmltv_ns">.9.0</episode-num>
     <desc>From the trailblazing success of Sir Alf Ramsey's league champions to Sir Bobby Robson's unforgettable FA Cup and UEFA Cup triumphs, this is the story of one of English football's most cherished clubs. We celebrate the remarkable highs, the resilience through changing times, and George Burley's extraordinary achievement in guiding Ipswich Town to a fifth-place finish in their first Premier League season. As a new chapter begins with Gary O'Neil following the successful reign of Kieran McKenna, w</desc>
-    <icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+    <icon src="https://poster.starhubgo.com/poster/pl_stories_2026_27_ep10.jpg?w=960&amp;h=540" />
   </programme>
   <programme channel="221" start="20260811123000 +0000" stop="20260811133000 +0000">
     <title>PL MASTERCLASS</title>
@@ -12963,7 +12958,7 @@
     <title>PL STORIES</title>
     <episode-num system="xmltv_ns">.9.0</episode-num>
     <desc>From the trailblazing success of Sir Alf Ramsey's league champions to Sir Bobby Robson's unforgettable FA Cup and UEFA Cup triumphs, this is the story of one of English football's most cherished clubs. We celebrate the remarkable highs, the resilience through changing times, and George Burley's extraordinary achievement in guiding Ipswich Town to a fifth-place finish in their first Premier League season. As a new chapter begins with Gary O'Neil following the successful reign of Kieran McKenna, w</desc>
-    <icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+    <icon src="https://poster.starhubgo.com/poster/pl_stories_2026_27_ep10.jpg?w=960&amp;h=540" />
   </programme>
   <programme channel="221" start="20260811190000 +0000" stop="20260811200000 +0000">
     <title>REVIEW - TUE 20 JAN</title>
@@ -13128,6 +13123,11 @@
     <title>End of Transmission</title>
     <icon src="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=341&amp;h=192" />
   </programme>
+  <programme channel="223" start="20260810160000 +0000" stop="20260810220000 +0000">
+    <title>End of Transmission</title>
+    <desc>End of Transmission</desc>
+    <icon src="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192" />
+  </programme>
   <programme channel="223" start="20260810220000 +0000" stop="20260811040000 +0000">
     <title>End of Transmission</title>
     <desc>End of Transmission</desc>
@@ -13152,6 +13152,21 @@
     <title>End of Transmission</title>
     <desc>End of Transmission</desc>
     <icon src="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192" />
+  </programme>
+  <programme channel="223" start="20260812040000 +0000" stop="20260812100000 +0000">
+    <title>End of Transmission</title>
+    <desc>End of Transmission</desc>
+    <icon src="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192" />
+  </programme>
+  <programme channel="223" start="20260812100000 +0000" stop="20260812160000 +0000">
+    <title>End of Transmission</title>
+    <desc>End of Transmission</desc>
+    <icon src="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192" />
+  </programme>
+  <programme channel="224" start="20260810160000 +0000" stop="20260810220000 +0000">
+    <title>End of Transmission</title>
+    <desc>End of Transmission</desc>
+    <icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341&amp;h=192" />
   </programme>
   <programme channel="224" start="20260810220000 +0000" stop="20260811040000 +0000">
     <title>End of Transmission</title>
@@ -13178,6 +13193,21 @@
     <desc>End of Transmission</desc>
     <icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341&amp;h=192" />
   </programme>
+  <programme channel="224" start="20260812040000 +0000" stop="20260812100000 +0000">
+    <title>End of Transmission</title>
+    <desc>End of Transmission</desc>
+    <icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341&amp;h=192" />
+  </programme>
+  <programme channel="224" start="20260812100000 +0000" stop="20260812160000 +0000">
+    <title>End of Transmission</title>
+    <desc>End of Transmission</desc>
+    <icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341&amp;h=192" />
+  </programme>
+  <programme channel="225" start="20260810160000 +0000" stop="20260810220000 +0000">
+    <title>End of Transmission</title>
+    <desc>End of Transmission</desc>
+    <icon src="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png?w=341&amp;h=192" />
+  </programme>
   <programme channel="225" start="20260810220000 +0000" stop="20260811040000 +0000">
     <title>End of Transmission</title>
     <desc>End of Transmission</desc>
@@ -13203,6 +13233,21 @@
     <desc>End of Transmission</desc>
     <icon src="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png?w=341&amp;h=192" />
   </programme>
+  <programme channel="225" start="20260812040000 +0000" stop="20260812100000 +0000">
+    <title>End of Transmission</title>
+    <desc>End of Transmission</desc>
+    <icon src="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png?w=341&amp;h=192" />
+  </programme>
+  <programme channel="225" start="20260812100000 +0000" stop="20260812160000 +0000">
+    <title>End of Transmission</title>
+    <desc>End of Transmission</desc>
+    <icon src="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png?w=341&amp;h=192" />
+  </programme>
+  <programme channel="226" start="20260810160000 +0000" stop="20260810220000 +0000">
+    <title>End of Transmission</title>
+    <desc>End of Transmission</desc>
+    <icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540" />
+  </programme>
   <programme channel="226" start="20260810220000 +0000" stop="20260811040000 +0000">
     <title>End of Transmission</title>
     <desc>End of Transmission</desc>
@@ -13224,6 +13269,16 @@
     <icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540" />
   </programme>
   <programme channel="226" start="20260811220000 +0000" stop="20260812040000 +0000">
+    <title>End of Transmission</title>
+    <desc>End of Transmission</desc>
+    <icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540" />
+  </programme>
+  <programme channel="226" start="20260812040000 +0000" stop="20260812100000 +0000">
+    <title>End of Transmission</title>
+    <desc>End of Transmission</desc>
+    <icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540" />
+  </programme>
+  <programme channel="226" start="20260812100000 +0000" stop="20260812160000 +0000">
     <title>End of Transmission</title>
     <desc>End of Transmission</desc>
     <icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -32449,7 +32504,6 @@
   </programme>
   <programme channel="811" start="20260810210000 +0000" stop="20260810211000 +0000">
     <title>News</title>
-    <desc>The latest up-to-date news from Tokyo.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
   </programme>
   <programme channel="811" start="20260810211000 +0000" stop="20260810213500 +0000">
@@ -32490,7 +32544,8 @@
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
   </programme>
   <programme channel="811" start="20260810230000 +0000" stop="20260810231500 +0000">
-    <title>Drama Serial "The Scent of the Wind"</title>
+    <title>Drama Serial "The Scent of the Wind" Ep. 97</title>
+    <desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
   </programme>
   <programme channel="811" start="20260810231500 +0000" stop="20260811004500 +0000">
@@ -32855,7 +32910,7 @@
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
   </programme>
   <programme channel="811" start="20260812010000 +0000" stop="20260812011000 +0000">
-    <title>Mini Program</title>
+    <title>Natural Grandeur of the East Mini</title>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
   </programme>
   <programme channel="811" start="20260812011000 +0000" stop="20260812015500 +0000">
@@ -32907,7 +32962,8 @@
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
   </programme>
   <programme channel="811" start="20260812034500 +0000" stop="20260812040000 +0000">
-    <title>Drama Serial "The Scent of the Wind" (R)</title>
+    <title>Drama Serial "The Scent of the Wind" Ep. 98 (R)</title>
+    <desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
   </programme>
   <programme channel="811" start="20260812040000 +0000" stop="20260812040500 +0000">
@@ -32967,7 +33023,7 @@
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
   </programme>
   <programme channel="811" start="20260812072000 +0000" stop="20260812082000 +0000">
-    <title>History Detective Collaboration Special: Historical Drama "BROTHERS IN ARMS" (R)</title>
+    <title>History Detective Collaboration Special:Historical Drama"BROTHERS IN ARMS"(R</title>
     <desc>A historical documentary program starring an actor Sato Jiro as a boss of a history detective agency. Conducting on-site investigations and scientific simulations, Jiro and his detective team dig into and uncover the truth from historic mystery.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
   </programme>
@@ -33052,8 +33108,12 @@
     <desc>Tokyo, 1973. Manga legend Tezuka Osamu hits rock bottom after the collapse of his production company and the cancellation of a major serialization. As memories of his wartime youth resurface, he is transported back to Osaka in 1945. Determined to become a manga artist despite growing up under a militarized regime, the young Tetsuro pursues his dream as war gradually closes in on his everyday life. As past and present intertwine, Tezuka struggles to decide whether to confront his wartime memories</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
   </programme>
-  <programme channel="811" start="20260812141300 +0000" stop="20260812143000 +0000">
+  <programme channel="811" start="20260812141300 +0000" stop="20260812141500 +0000">
     <title>Mini Program</title>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+  </programme>
+  <programme channel="811" start="20260812141500 +0000" stop="20260812143000 +0000">
+    <title>Magnificent Sight!--Mountain Lodges in Europe</title>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
   </programme>
   <programme channel="811" start="20260812143000 +0000" stop="20260812144000 +0000">
@@ -36357,12 +36417,49 @@
     <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
   </programme>
-  <programme channel="832" start="20260811170000 +0000" stop="20260811220000 +0000">
-    <title>Information Not Available</title>
+  <programme channel="832" start="20260811170000 +0000" stop="20260811171200 +0000">
+    <title>ShanghaiEye</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
   </programme>
-  <programme channel="832" start="20260811220000 +0000" stop="20260812040000 +0000">
-    <title>Information Not Available</title>
+  <programme channel="832" start="20260811171200 +0000" stop="20260811180000 +0000">
+    <title>Dragon TV Primetime News</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+  </programme>
+  <programme channel="832" start="20260811180000 +0000" stop="20260811190000 +0000">
+    <title>futuer china</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+  </programme>
+  <programme channel="832" start="20260811190000 +0000" stop="20260811210000 +0000">
+    <title>Overtime no more</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+  </programme>
+  <programme channel="832" start="20260811210000 +0000" stop="20260811220000 +0000">
+    <title>A Green Trip</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+  </programme>
+  <programme channel="832" start="20260811220000 +0000" stop="20260811223000 +0000">
+    <title>CHINA Now</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+  </programme>
+  <programme channel="832" start="20260811223000 +0000" stop="20260811230000 +0000">
+    <title>CARE ON THE WAY</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+  </programme>
+  <programme channel="832" start="20260811230000 +0000" stop="20260812000000 +0000">
+    <title>Dragon TV Morning News</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+  </programme>
+  <programme channel="832" start="20260812000000 +0000" stop="20260812023000 +0000">
+    <title>A Green Trip</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
   </programme>
   <programme channel="832" start="20260812040000 +0000" stop="20260812100000 +0000">
