@@ -818,7 +818,7 @@
   <programme channel="102" start="20260828181000 +0000" stop="20260828183500 +0000">
     <title>On The Red Dot</title>
     <episode-num system="xmltv_ns">.14.0</episode-num>
-    <desc>On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+    <desc>Leticia travels to Indonesia to surprise Auntie Mas, the helper who raised her, and discovers how much she sacrificed for others.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="102" start="20260828183500 +0000" stop="20260828190500 +0000">
@@ -1276,7 +1276,7 @@
   <programme channel="103" start="20260828123000 +0000" stop="20260828130000 +0000">
     <title>Frontline</title>
     <episode-num system="xmltv_ns">.21.0</episode-num>
-    <desc>Frontline is a weekly investigative current affairs programme that aims to address issues closest to the hearts of Singaporeans.</desc>
+    <desc>Why are Singaporeans having fewer children, and what does it mean for the future? We examine real-life pressures, wider impacts and policy trade-offs. Plus, as English becomes the main language in Chinese households, how can young people stay bilingual?</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="103" start="20260828130000 +0000" stop="20260828140000 +0000">
@@ -1424,7 +1424,7 @@
   <programme channel="103" start="20260829033000 +0000" stop="20260829040000 +0000">
     <title>Focus</title>
     <episode-num system="xmltv_ns">.21.0</episode-num>
-    <desc>Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+    <desc>Anthony Chen’s new film enters the Berlinale Competition. Can cross-border collaboration help Singapore cinema break into bigger markets? The UN is running out of money as wars continue. With neither money nor power, how much can it still do? Hamas agrees to a peace roadmap, but Israel rejects it. Is peace within reach—or is the Middle East facing a major power shift?</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="103" start="20260829040000 +0000" stop="20260829050000 +0000">
@@ -1708,7 +1708,7 @@
   </programme>
   <programme channel="104" start="20260829103000 +0000" stop="20260829110000 +0000">
     <title>Roots and Remedies</title>
-    <episode-num system="xmltv_ns">.0.0</episode-num>
+    <episode-num system="xmltv_ns">.1.0</episode-num>
     <desc>A docuseries exploring Sarawak’s traditional medicinal plants and healing practices through the wisdom of shamans and practitioners who continue to preserve this ancient knowledge.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
@@ -2350,7 +2350,7 @@
   <programme channel="106" start="20260829143000 +0000" stop="20260829150000 +0000">
     <title>On The Red Dot</title>
     <episode-num system="xmltv_ns">.14.0</episode-num>
-    <desc>On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+    <desc>Leticia travels to Indonesia to surprise Auntie Mas, the helper who raised her, and discovers how much she sacrificed for others.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="106" start="20260829150000 +0000" stop="20260829150300 +0000">
@@ -2732,13 +2732,13 @@
   <programme channel="107" start="20260829090000 +0000" stop="20260829100000 +0000">
     <title>A Good Supper</title>
     <episode-num system="xmltv_ns">.66.0</episode-num>
-    <desc>(Dual Language Mandarin and Korean) Pu Zhenshun is upset to hear that Zheng Qingxiu and Jin Yingxin will live together again. After receiving a photo of Jin Yingxin’s birth mother, Zheng Qingxiu realizes she is Jiang Zhongquan’s daughter, which explains why Cui Shujing kidnaps her.</desc>
+    <desc>(Dual Language Chinese and Korean) Pu Zhenshun is upset to hear that Zheng Qingxiu and Jin Yingxin will live together again. After receiving a photo of Jin Yingxin’s birth mother, Zheng Qingxiu realizes she is Jiang Zhongquan’s daughter, which explains why Cui Shujing kidnaps her.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="107" start="20260829100000 +0000" stop="20260829110000 +0000">
     <title>A Good Supper</title>
     <episode-num system="xmltv_ns">.67.0</episode-num>
-    <desc>(Dual Language Mandarin and Korean) Zheng Qingxiu shows a photo to Jiang Zhongquan, who realizes that Jin Yingxin is his daughter and rushes to reunite with her. She is warmly welcomed by the Jiang family, while Cui Shujing pretends to be a kind mother.</desc>
+    <desc>(Dual Language Chinese and Korean) Zheng Qingxiu shows a photo to Jiang Zhongquan, who realizes that Jin Yingxin is his daughter and rushes to reunite with her. She is warmly welcomed by the Jiang family, while Cui Shujing pretends to be a kind mother.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="107" start="20260829110000 +0000" stop="20260829130000 +0000">
@@ -5053,7 +5053,7 @@
   <programme channel="128" start="20260827190000 +0000" stop="20260827193000 +0000">
     <title>Dr. Aarambhi</title>
     <episode-num system="xmltv_ns">.169.0</episode-num>
-    <desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a longlost dream. Will she get a second chance?</desc>
+    <desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a long-lost dream. Will she get a second chance?</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_dr_aarambhi.jpg?w=960%26h=540" />
   </programme>
   <programme channel="128" start="20260827193000 +0000" stop="20260827200000 +0000">
@@ -5077,7 +5077,7 @@
   <programme channel="128" start="20260827210000 +0000" stop="20260827220000 +0000">
     <title>Bhojpuri Bawaal</title>
     <episode-num system="xmltv_ns">.24.0</episode-num>
-    <desc>Step into the personal lives of Bhojpuri superstars through exclusive home visits, candid conversations and untold stories. Discover the real personalities behind their largerthanlife image.</desc>
+    <desc>Step into the personal lives of Bhojpuri superstars through exclusive home visits, candid conversations and untold stories. Discover the real personalities behind their larger-than-life image.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_bhojpuri_bawaal.jpg?w=341%26h=192" />
   </programme>
   <programme channel="128" start="20260827220000 +0000" stop="20260827223000 +0000">
@@ -5107,13 +5107,13 @@
   <programme channel="128" start="20260828000000 +0000" stop="20260828010000 +0000">
     <title>Bhojpuri Bawaal</title>
     <episode-num system="xmltv_ns">.24.0</episode-num>
-    <desc>Step into the personal lives of Bhojpuri superstars through exclusive home visits, candid conversations and untold stories. Discover the real personalities behind their largerthanlife image.</desc>
+    <desc>Step into the personal lives of Bhojpuri superstars through exclusive home visits, candid conversations and untold stories. Discover the real personalities behind their larger-than-life image.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_bhojpuri_bawaal.jpg?w=341%26h=192" />
   </programme>
   <programme channel="128" start="20260828010000 +0000" stop="20260828013000 +0000">
     <title>Dr. Aarambhi</title>
     <episode-num system="xmltv_ns">.169.0</episode-num>
-    <desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a longlost dream. Will she get a second chance?</desc>
+    <desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a long-lost dream. Will she get a second chance?</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_dr_aarambhi.jpg?w=960%26h=540" />
   </programme>
   <programme channel="128" start="20260828013000 +0000" stop="20260828020000 +0000">
@@ -5143,7 +5143,7 @@
   <programme channel="128" start="20260828033000 +0000" stop="20260828040000 +0000">
     <title>Dr. Aarambhi</title>
     <episode-num system="xmltv_ns">.169.0</episode-num>
-    <desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a longlost dream. Will she get a second chance?</desc>
+    <desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a long-lost dream. Will she get a second chance?</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_dr_aarambhi.jpg?w=960%26h=540" />
   </programme>
   <programme channel="128" start="20260828040000 +0000" stop="20260828043000 +0000">
@@ -5173,7 +5173,7 @@
   <programme channel="128" start="20260828060000 +0000" stop="20260828063000 +0000">
     <title>Dr. Aarambhi</title>
     <episode-num system="xmltv_ns">.170.0</episode-num>
-    <desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a longlost dream. Will she get a second chance?</desc>
+    <desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a long-lost dream. Will she get a second chance?</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_dr_aarambhi.jpg?w=960%26h=540" />
   </programme>
   <programme channel="128" start="20260828063000 +0000" stop="20260828070000 +0000">
@@ -5203,13 +5203,13 @@
   <programme channel="128" start="20260828083000 +0000" stop="20260828093000 +0000">
     <title>Bhojpuri Bawaal</title>
     <episode-num system="xmltv_ns">.25.0</episode-num>
-    <desc>Step into the personal lives of Bhojpuri superstars through exclusive home visits, candid conversations and untold stories. Discover the real personalities behind their largerthanlife image.</desc>
+    <desc>Step into the personal lives of Bhojpuri superstars through exclusive home visits, candid conversations and untold stories. Discover the real personalities behind their larger-than-life image.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_bhojpuri_bawaal.jpg?w=341%26h=192" />
   </programme>
   <programme channel="128" start="20260828093000 +0000" stop="20260828100000 +0000">
     <title>Dr. Aarambhi</title>
     <episode-num system="xmltv_ns">.170.0</episode-num>
-    <desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a longlost dream. Will she get a second chance?</desc>
+    <desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a long-lost dream. Will she get a second chance?</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_dr_aarambhi.jpg?w=960%26h=540" />
   </programme>
   <programme channel="128" start="20260828100000 +0000" stop="20260828103000 +0000">
@@ -5239,7 +5239,7 @@
   <programme channel="128" start="20260828120000 +0000" stop="20260828123000 +0000">
     <title>Dr. Aarambhi</title>
     <episode-num system="xmltv_ns">.170.0</episode-num>
-    <desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a longlost dream. Will she get a second chance?</desc>
+    <desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a long-lost dream. Will she get a second chance?</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_dr_aarambhi.jpg?w=960%26h=540" />
   </programme>
   <programme channel="128" start="20260828123000 +0000" stop="20260828130000 +0000">
@@ -5269,7 +5269,7 @@
   <programme channel="128" start="20260828143000 +0000" stop="20260828153000 +0000">
     <title>Bhojpuri Bawaal</title>
     <episode-num system="xmltv_ns">.25.0</episode-num>
-    <desc>Step into the personal lives of Bhojpuri superstars through exclusive home visits, candid conversations and untold stories. Discover the real personalities behind their largerthanlife image.</desc>
+    <desc>Step into the personal lives of Bhojpuri superstars through exclusive home visits, candid conversations and untold stories. Discover the real personalities behind their larger-than-life image.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_bhojpuri_bawaal.jpg?w=341%26h=192" />
   </programme>
   <programme channel="128" start="20260828153000 +0000" stop="20260828160000 +0000">
@@ -5317,7 +5317,7 @@
   <programme channel="128" start="20260828190000 +0000" stop="20260828193000 +0000">
     <title>Dr. Aarambhi</title>
     <episode-num system="xmltv_ns">.170.0</episode-num>
-    <desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a longlost dream. Will she get a second chance?</desc>
+    <desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a long-lost dream. Will she get a second chance?</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_dr_aarambhi.jpg?w=960%26h=540" />
   </programme>
   <programme channel="128" start="20260828193000 +0000" stop="20260828200000 +0000">
@@ -5341,7 +5341,7 @@
   <programme channel="128" start="20260828210000 +0000" stop="20260828220000 +0000">
     <title>Bhojpuri Bawaal</title>
     <episode-num system="xmltv_ns">.25.0</episode-num>
-    <desc>Step into the personal lives of Bhojpuri superstars through exclusive home visits, candid conversations and untold stories. Discover the real personalities behind their largerthanlife image.</desc>
+    <desc>Step into the personal lives of Bhojpuri superstars through exclusive home visits, candid conversations and untold stories. Discover the real personalities behind their larger-than-life image.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_bhojpuri_bawaal.jpg?w=341%26h=192" />
   </programme>
   <programme channel="128" start="20260828220000 +0000" stop="20260828223000 +0000">
@@ -5371,11 +5371,11 @@
   <programme channel="128" start="20260829000000 +0000" stop="20260829010000 +0000">
     <title>Bhojpuri Bawaal</title>
     <episode-num system="xmltv_ns">.25.0</episode-num>
-    <desc>Step into the personal lives of Bhojpuri superstars through exclusive home visits, candid conversations and untold stories. Discover the real personalities behind their largerthanlife image.</desc>
+    <desc>Step into the personal lives of Bhojpuri superstars through exclusive home visits, candid conversations and untold stories. Discover the real personalities behind their larger-than-life image.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_bhojpuri_bawaal.jpg?w=341%26h=192" />
   </programme>
   <programme channel="128" start="20260829010000 +0000" stop="20260829020000 +0000">
-    <title>108 Base Hospital Uri</title>
+    <title>108 Base Hospital -Uri</title>
     <episode-num system="xmltv_ns">.1.0</episode-num>
     <desc>A series about a military hospital, exploring the personal and professional lives of doctors, patients and staff connected to it.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_108_base_hospital_uri.jpg?w=960%26h=540" />
@@ -5389,7 +5389,7 @@
   <programme channel="128" start="20260829023000 +0000" stop="20260829040000 +0000">
     <title>Khatron Ke Khiladi</title>
     <episode-num system="xmltv_ns">14.5.0</episode-num>
-    <desc>The season features new and returning stars facing intense, highrisk stunts and extreme tasks that test their pain endurance.</desc>
+    <desc>The season features new and returning stars facing intense, high-risk stunts and extreme tasks that test their pain endurance.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_khatron_ke_khiladi_s15.jpg?w=960%26h=540" />
   </programme>
   <programme channel="128" start="20260829040000 +0000" stop="20260829043000 +0000">
@@ -5401,7 +5401,7 @@
   <programme channel="128" start="20260829043000 +0000" stop="20260829050000 +0000">
     <title>Dr. Aarambhi</title>
     <episode-num system="xmltv_ns">.169.0</episode-num>
-    <desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a longlost dream. Will she get a second chance?</desc>
+    <desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a long-lost dream. Will she get a second chance?</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_dr_aarambhi.jpg?w=960%26h=540" />
   </programme>
   <programme channel="128" start="20260829050000 +0000" stop="20260829053000 +0000">
@@ -5417,7 +5417,7 @@
     <icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341%26h=192" />
   </programme>
   <programme channel="128" start="20260829060000 +0000" stop="20260829070000 +0000">
-    <title>108 Base Hospital Uri</title>
+    <title>108 Base Hospital -Uri</title>
     <episode-num system="xmltv_ns">.2.0</episode-num>
     <desc>A series about a military hospital, exploring the personal and professional lives of doctors, patients and staff connected to it.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_108_base_hospital_uri.jpg?w=960%26h=540" />
@@ -5425,13 +5425,13 @@
   <programme channel="128" start="20260829070000 +0000" stop="20260829083000 +0000">
     <title>Khatron Ke Khiladi</title>
     <episode-num system="xmltv_ns">14.6.0</episode-num>
-    <desc>The season features new and returning stars facing intense, highrisk stunts and extreme tasks that test their pain endurance.</desc>
+    <desc>The season features new and returning stars facing intense, high-risk stunts and extreme tasks that test their pain endurance.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_khatron_ke_khiladi_s15.jpg?w=960%26h=540" />
   </programme>
   <programme channel="128" start="20260829083000 +0000" stop="20260829093000 +0000">
     <title>Bhojpuri Bawaal</title>
     <episode-num system="xmltv_ns">.26.0</episode-num>
-    <desc>Step into the personal lives of Bhojpuri superstars through exclusive home visits, candid conversations and untold stories. Discover the real personalities behind their largerthanlife image.</desc>
+    <desc>Step into the personal lives of Bhojpuri superstars through exclusive home visits, candid conversations and untold stories. Discover the real personalities behind their larger-than-life image.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_bhojpuri_bawaal.jpg?w=341%26h=192" />
   </programme>
   <programme channel="128" start="20260829093000 +0000" stop="20260829100000 +0000">
@@ -5449,7 +5449,7 @@
   <programme channel="128" start="20260829103000 +0000" stop="20260829110000 +0000">
     <title>Dr. Aarambhi</title>
     <episode-num system="xmltv_ns">.169.0</episode-num>
-    <desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a longlost dream. Will she get a second chance?</desc>
+    <desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a long-lost dream. Will she get a second chance?</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_dr_aarambhi.jpg?w=960%26h=540" />
   </programme>
   <programme channel="128" start="20260829110000 +0000" stop="20260829113000 +0000">
@@ -5465,7 +5465,7 @@
     <icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341%26h=192" />
   </programme>
   <programme channel="128" start="20260829120000 +0000" stop="20260829130000 +0000">
-    <title>108 Base Hospital Uri</title>
+    <title>108 Base Hospital -Uri</title>
     <episode-num system="xmltv_ns">.2.0</episode-num>
     <desc>A series about a military hospital, exploring the personal and professional lives of doctors, patients and staff connected to it.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_108_base_hospital_uri.jpg?w=960%26h=540" />
@@ -5473,13 +5473,13 @@
   <programme channel="128" start="20260829130000 +0000" stop="20260829143000 +0000">
     <title>Khatron Ke Khiladi</title>
     <episode-num system="xmltv_ns">14.6.0</episode-num>
-    <desc>The season features new and returning stars facing intense, highrisk stunts and extreme tasks that test their pain endurance.</desc>
+    <desc>The season features new and returning stars facing intense, high-risk stunts and extreme tasks that test their pain endurance.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_khatron_ke_khiladi_s15.jpg?w=960%26h=540" />
   </programme>
   <programme channel="128" start="20260829143000 +0000" stop="20260829153000 +0000">
     <title>Bhojpuri Bawaal</title>
     <episode-num system="xmltv_ns">.26.0</episode-num>
-    <desc>Step into the personal lives of Bhojpuri superstars through exclusive home visits, candid conversations and untold stories. Discover the real personalities behind their largerthanlife image.</desc>
+    <desc>Step into the personal lives of Bhojpuri superstars through exclusive home visits, candid conversations and untold stories. Discover the real personalities behind their larger-than-life image.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_bhojpuri_bawaal.jpg?w=341%26h=192" />
   </programme>
   <programme channel="128" start="20260829153000 +0000" stop="20260829160000 +0000">
@@ -6164,8 +6164,8 @@
     <icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="133" start="20260829073000 +0000" stop="20260829080000 +0000">
-    <title>Movie-</title>
-    <desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+    <title>Movie-  NEEYA-2</title>
+    <desc>After losing the love of her life two decades ago, a woman, who has the power to transform into a snake, sets out on a journey to try and reunite with him.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341%26h=192" />
   </programme>
   <programme channel="133" start="20260829080000 +0000" stop="20260829083000 +0000">
@@ -6174,8 +6174,8 @@
     <icon src="https://poster.starhubgo.com/poster/ch25_news.jpg?w=341%26h=192" />
   </programme>
   <programme channel="133" start="20260829083000 +0000" stop="20260829103000 +0000">
-    <title>Movie contd -</title>
-    <desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+    <title>Movie contd -  NEEYA-2</title>
+    <desc>After losing the love of her life two decades ago, a woman, who has the power to transform into a snake, sets out on a journey to try and reunite with him.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341%26h=192" />
   </programme>
   <programme channel="133" start="20260829103000 +0000" stop="20260829110000 +0000">
@@ -7491,7 +7491,7 @@
     <icon src="https://poster.starhubgo.com/poster/ch656_Annamalai_Kudumbam.jpg?w=960%26h=540" />
   </programme>
   <programme channel="138" start="20260829060000 +0000" stop="20260829090000 +0000">
-    <title>Vadakupatty Ramasamy</title>
+    <title>Vadakupatty Ramasamy (290826)</title>
     <desc>Selfish, money-minded charlatan exploits villagers' superstitions for gain. When income stops, he desperately attempts various schemes to reopen the temple and restore his wealth again.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch656_VADAKANPAATTI_RAMASAMMY.jpg?w=341%26h=192" />
   </programme>
@@ -7520,7 +7520,7 @@
     <icon src="https://poster.starhubgo.com/poster/ch656_Paarijatham.jpg?w=960%26h=540" />
   </programme>
   <programme channel="138" start="20260829110000 +0000" stop="20260829123000 +0000">
-    <title>Lockup</title>
+    <title>Lockup (290826)</title>
     <desc>Vasanth trusts Moorthy to help him grow at work. But Moorthy traps him in a crime. When Vasanth uncovers the truth, a shocking twist reveals someone else pulling the strings. Release Year: 2020 Director: S.G. Charles</desc>
     <icon src="https://poster.starhubgo.com/poster/ch656_LOCKUP.jpg?w=960%26h=540" />
   </programme>
@@ -7859,7 +7859,12 @@
     <desc>Cousins' bond fractures as marriage challenges their lifelong friendship. Release Year: 2022 Director: Prithviraj Sukumaran</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20260827163000 +0000" stop="20260827193000 +0000">
+  <programme channel="140" start="20260827163000 +0000" stop="20260827163500 +0000">
+    <title>Avatharam</title>
+    <desc>Kuppusamy loves acting, joins a theatre troupe, falls in love with a blind lady. Release Year: 2014 Director: Joshiy</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="140" start="20260827163500 +0000" stop="20260827193000 +0000">
     <title>Avatharam</title>
     <desc>Kuppusamy loves acting, joins a theatre troupe, falls in love with a blind lady. Release Year: 2014 Director: Joshiy</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
@@ -7869,22 +7874,22 @@
     <desc>An illicit relationship between a Kathakali dancer and a young woman from an upper caste family, results in an illegitimate child. He faces hardships when she refuses to let him see their child. Release Year: 1999 Director: Shaji N. Karun Awards: 2000 Nominee Golden Crow Pheasant Shaji N. Karun, 2000 Winner FIPRESCI Prize Shaji N. Karun, 2000 Winner Golden Lotus Award - Best Feature Film, 2000 Winner Special Prize of the Jury Shaji N. Karun</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20260827213000 +0000" stop="20260827233000 +0000">
+  <programme channel="140" start="20260827213000 +0000" stop="20260827230000 +0000">
     <title>Leela</title>
     <desc>Kuttiyappan has notorious for his relationships with women. His life takes a turn when he sets out to fulfil one of his strange dreams. Release Year: 2016 Director: Ranjith</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20260827233000 +0000" stop="20260828013000 +0000">
+  <programme channel="140" start="20260827230000 +0000" stop="20260828013000 +0000">
     <title>Niram</title>
     <desc>Aby loves engaged Sona, faces dilemma in expressing feelings. Release Year: 1999</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20260828013000 +0000" stop="20260828043000 +0000">
+  <programme channel="140" start="20260828013000 +0000" stop="20260828042500 +0000">
     <title>Falimy</title>
     <desc>A respected mentor's hidden evil challenges village values, masking a false normalcy clash. Release Year: 2023 Director: Nithish Sahadev</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20260828043000 +0000" stop="20260828073000 +0000">
+  <programme channel="140" start="20260828042500 +0000" stop="20260828073000 +0000">
     <title>Udayananu tharam</title>
     <desc>A director betrayed by a friend who steals his script casts a dubious actor. Release Year: 2005 Director: RoSShan Andrrews Awards: Asianet Film Awards - Best Script Writer Sreenivasan</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
@@ -7904,17 +7909,17 @@
     <desc>Young friends split and reunite after brutal assault. Release Year: 2023 Director: Nahas Hidayath Awards: 2 Kerala Film Critics ASSociation</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20260828163000 +0000" stop="20260828193000 +0000">
+  <programme channel="140" start="20260828163000 +0000" stop="20260828192500 +0000">
     <title>Barroz 3D</title>
     <desc>For 400 years, Barroz guards da Gama's treasure. Magic binds him, waiting for a worthy descendant. Only a true heir can claim the treasure he protects. Release Year: 2024 Director: Mohanlal</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20260828193000 +0000" stop="20260828213000 +0000">
+  <programme channel="140" start="20260828192500 +0000" stop="20260828221000 +0000">
     <title>Summer in Bethlehem</title>
     <desc>Ravi lives in his friend's farmhouse, when his relatives pay a visit. Ravi is keen to find out the identity of the girl who's been writing to him. Release Year: 1998 Director: Sibi Malayil Awards: Filmfare Award for Best Music Director - Malayalam 1999 Vidyasagar</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20260828213000 +0000" stop="20260828233000 +0000">
+  <programme channel="140" start="20260828221000 +0000" stop="20260828233000 +0000">
     <title>Kilipoyi</title>
     <desc>Fed up with their boss and her tantrums, Chacko and Hari decide to go on a trip to Goa. Their lives take a turn when they get hold of a mysterious bag. Release Year: 2013 Director: Vinay Govind</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
@@ -8128,13 +8133,13 @@
     <icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
   <programme channel="141" start="20260829023000 +0000" stop="20260829043000 +0000">
-    <title>MOVIE - PEI MAMA (U/A)</title>
-    <desc>MOVIE - PEI MAMA (U/A) Starring Yogi Babu, Malavika Menon</desc>
+    <title>MOVIE - VELLI THIRAI (U)</title>
+    <desc>MOVIE - VELLI THIRAI (U) Starring Prithviraj, Gopika, Prakashraj</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
   <programme channel="141" start="20260829043000 +0000" stop="20260829073000 +0000">
-    <title>MOVIE - MANMADHAN AMBU (U)</title>
-    <desc>MOVIE - MANMADHAN AMBU (U) Starring Kamal Haasan, Madhavan, Trisha, Sangeetha</desc>
+    <title>MOVIE - PANCHAMIRTHAM (U)</title>
+    <desc>MOVIE - PANCHAMIRTHAM (U) Starring Aravind Akash, Saranya Mohan, Jayaram</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
   <programme channel="141" start="20260829073000 +0000" stop="20260829080000 +0000">
@@ -8143,8 +8148,8 @@
     <icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
   <programme channel="141" start="20260829080000 +0000" stop="20260829113000 +0000">
-    <title>MOVIE - IMSAI ARASAN 23AM PULIKESI (U)</title>
-    <desc>MOVIE - IMSAI ARASAN 23AM PULIKESI (U) Starring Vadivelu, Monika, Nassar, Manorama</desc>
+    <title>MOVIE - JAI BHIM (VU/A)</title>
+    <desc>MOVIE - JAI BHIM (VU/A) Starring Suriya, Manikandan, Lijo Mol Jose, Rajisha Vijayan</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
   <programme channel="141" start="20260829113000 +0000" stop="20260829120000 +0000">
@@ -8159,31 +8164,31 @@
   </programme>
   <programme channel="141" start="20260829123000 +0000" stop="20260829130000 +0000">
     <title>Katrathu Samayal</title>
-    <episode-num system="xmltv_ns">7.114.0</episode-num>
+    <episode-num system="xmltv_ns">7.120.0</episode-num>
     <desc>Katrathu Samayal is focused on village-style cooking, real time and different foods acorss places, which includes food preparation and food challenges.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
   <programme channel="141" start="20260829130000 +0000" stop="20260829133000 +0000">
     <title>Ramanujar</title>
-    <episode-num system="xmltv_ns">.68.0</episode-num>
+    <episode-num system="xmltv_ns">.74.0</episode-num>
     <desc>The life of theologian and philosopher Ramanujar and his contributions to the Vaishnavism tradition within Hinduism.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
   <programme channel="141" start="20260829133000 +0000" stop="20260829143000 +0000">
     <title>Priyamanaval</title>
-    <episode-num system="xmltv_ns">.128.0</episode-num>
+    <episode-num system="xmltv_ns">.134.0</episode-num>
     <desc>A devoted wife, misunderstood by her family, rises with strength to reclaim her dignity and rebuild her life.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
   <programme channel="141" start="20260829143000 +0000" stop="20260829150000 +0000">
     <title>Kannethirey Thondrinaal</title>
-    <episode-num system="xmltv_ns">.22.0</episode-num>
+    <episode-num system="xmltv_ns">.28.0</episode-num>
     <desc>A story of love, family bonds, and unexpected twists that unfold when Shiva enters Sakthi’s life.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
   <programme channel="141" start="20260829150000 +0000" stop="20260829160000 +0000">
     <title>Chella Kutties</title>
-    <episode-num system="xmltv_ns">.23.0</episode-num>
+    <episode-num system="xmltv_ns">.24.0</episode-num>
     <desc>The host Imman Annachi invites little children and interacts with them about their favourite things to do and other likes and dislikes in a funny manner.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
@@ -8752,21 +8757,150 @@
     <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch144_showtime.jpg?w=960%26h=540" />
   </programme>
-  <programme channel="144" start="20260828161500 +0000" stop="20260828220000 +0000">
-    <title>Information Not Available</title>
+  <programme channel="144" start="20260828161500 +0000" stop="20260828165500 +0000">
+    <title>Sigabo</title>
+    <desc>After eight years in prison, Gabo gets parole but must join a covert government programme for dangerous missions. He meets lawyer Sam, also an investigative agent, sparking a complex love-hate relationship.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="144" start="20260828220000 +0000" stop="20260829040000 +0000">
-    <title>Information Not Available</title>
+  <programme channel="144" start="20260828165500 +0000" stop="20260828173500 +0000">
+    <title>Someone, Someday</title>
+    <desc>A young dating app CEO unknowingly befriends someone seeking revenge, putting her business, family and dreams in jeopardy.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="144" start="20260829040000 +0000" stop="20260829100000 +0000">
-    <title>Information Not Available</title>
+  <programme channel="144" start="20260828173500 +0000" stop="20260828181500 +0000">
+    <title>Incognito</title>
+    <desc>A group of disgraced yet highly-skilled operatives hope to seek redemption as they take on dangerous covert missions and fight against the enemy they unwittingly uncovered.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch144_incognito.jpg?w=341%26h=192" />
+  </programme>
+  <programme channel="144" start="20260828181500 +0000" stop="20260828185000 +0000">
+    <title>Iron Heart</title>
+    <desc>An undercover agent goes on a dangerous mission to bring down a crime ring. Fuelled by a bitter and painful past, he along with his allies face the gruelling task that will challenge his resolve and strength.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch144_iron_heart.jpg?w=341%26h=192" />
+  </programme>
+  <programme channel="144" start="20260828185000 +0000" stop="20260828193000 +0000">
+    <title>Linlang</title>
+    <desc>This mystery-thriller series revolves around an alluring woman named Juliana and her illicit affair with Alex, a lawyer who also happens to be the brother of Juliana's husband, Victor, a washed-up boxer. What is the story behind Juliana's betrayal and infidelity?</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch144_linlang.jpg?w=960%26h=540" />
+  </programme>
+  <programme channel="144" start="20260828193000 +0000" stop="20260828200000 +0000">
+    <title>Are You G? With MJ Felipe S2</title>
+    <desc>Are you G with spontaneous adventures? Unfiltered talks? Raw experiences? Heart-to-heart exclusives? Then you're definitely G with MJ Felipe!</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="144" start="20260829100000 +0000" stop="20260829160000 +0000">
-    <title>Information Not Available</title>
+  <programme channel="144" start="20260828200000 +0000" stop="20260828213000 +0000">
+    <title>TV Patrol Weekday Global Edition</title>
+    <desc>Comprehensive and incisive, TV Patrol is the benchmark in Philippines news journalism, bringing you the most relevant news delivered by the country's best news anchors.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch144_tv_patrol_weekend.jpg?w=960%26h=540" />
+  </programme>
+  <programme channel="144" start="20260828213000 +0000" stop="20260828223000 +0000">
+    <title>Tabing Ilog</title>
+    <desc>Eight teenagers struggle to find themselves and their true purpose. All things build them up to form friendship and love which will transform them for the rest of their lives.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="144" start="20260828223000 +0000" stop="20260828233000 +0000">
+    <title>Maalaala Mo Kaya</title>
+    <desc>Maalaala Mo Kaya (MMK) is dubbed the longest-running drama anthology on Philippine television with Charo Santos-Concio narrating real-life stories of ordinary people in this award-winning masterpiece.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch144_mmk.jpg?w=960%26h=540" />
+  </programme>
+  <programme channel="144" start="20260828233000 +0000" stop="20260829000000 +0000">
+    <title>My Puhunan: Kaya Mo!</title>
+    <desc>Join award-winning ABS-CBN journalist Karen Davila, together with her co-host Migs Bustos, as they showcase inspiring success stories that aim to motivate viewers to reach their dreams!</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch144_my_puhunan_kaya_mo.jpg?w=960%26h=540" />
+  </programme>
+  <programme channel="144" start="20260829000000 +0000" stop="20260829003000 +0000">
+    <title>Wow</title>
+    <desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="144" start="20260829003000 +0000" stop="20260829010000 +0000">
+    <title>Astig Vegan S4</title>
+    <desc>Find out how to prepare some of the best vegan Filipino dishes on this show.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="144" start="20260829010000 +0000" stop="20260829020000 +0000">
+    <title>Tulong Ko, Pasa Mo</title>
+    <desc>Fill your weekends with joy and inspiration on this public service programme.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch144_tulong_ko_pasa_mo.jpg?w=341%26h=192" />
+  </programme>
+  <programme channel="144" start="20260829020000 +0000" stop="20260829023000 +0000">
+    <title>Ano Na Bev S6</title>
+    <desc>Bringing you thought-provoking conversations from a wide range of fascinating and interesting people, enjoy the best expressed views with award-winning journalist Bev Llorente.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="144" start="20260829023000 +0000" stop="20260829030000 +0000">
+    <title>Kapamilya Daily Mass</title>
+    <desc>A daily celebration of the Liturgy of the Lord.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch144_kapamilya_daily_mass.jpg?w=341%26h=192" />
+  </programme>
+  <programme channel="144" start="20260829030000 +0000" stop="20260829040000 +0000">
+    <title>Darna</title>
+    <desc>Narda, an emergency medical technician and a loving breadwinner to the Custodio family, is destined to become the next protector of the powerful stone that enables her to transform into a superhero who has special abilities to help those in danger.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch144_darna.jpg?w=960%26h=540" />
+  </programme>
+  <programme channel="144" start="20260829040000 +0000" stop="20260829063000 +0000">
+    <title>It's Showtime</title>
+    <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch144_showtime.jpg?w=960%26h=540" />
+  </programme>
+  <programme channel="144" start="20260829063000 +0000" stop="20260829070500 +0000">
+    <title>Wrizzards: Underground Uprising</title>
+    <desc>This docuseries revolves around a Filipino-American music group in the local underground scene, tracking their journey from basements to venues, with friendships and loyalty put to the test as they face unexpected loss and rising fame.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="144" start="20260829070500 +0000" stop="20260829073500 +0000">
+    <title>Pamilya Talk With Tita Jing S7</title>
+    <desc>Jing Castaneda dishes out advice regarding matters close to the heart.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="144" start="20260829073500 +0000" stop="20260829083500 +0000">
+    <title>Tulong Ko, Pasa Mo</title>
+    <desc>Fill your weekends with joy and inspiration on this public service programme.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch144_tulong_ko_pasa_mo.jpg?w=341%26h=192" />
+  </programme>
+  <programme channel="144" start="20260829083500 +0000" stop="20260829091000 +0000">
+    <title>Home Away From Home S6</title>
+    <desc>This lifestyle programme celebrates Filipino stories abroad as it chronicles Filipino communities all over the world and explores cultural exchanges of Filipinos in their home away from home.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="144" start="20260829091000 +0000" stop="20260829094500 +0000">
+    <title>Juan Conversations with Rose Eclarinal S4</title>
+    <desc>Global achievers and everyday heroes reveal the triumphs, struggles and inspiring journeys of overseas Filipinos across Europe.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch144_juan_conversations_with_rose_eclarinal.jpg?w=341%26h=192" />
+  </programme>
+  <programme channel="144" start="20260829094500 +0000" stop="20260829104500 +0000">
+    <title>TV Patrol Sabado Live</title>
+    <desc>Comprehensive and incisive, TV Patrol is the benchmark in Philippines news journalism, bringing you the most relevant news delivered by the country's best news anchors.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch144_tv_patrol_weekend.jpg?w=960%26h=540" />
+  </programme>
+  <programme channel="144" start="20260829104500 +0000" stop="20260829113000 +0000">
+    <title>Ibang Level 'To</title>
+    <desc>Hosted by Melai Cantiveros and MJ Felipe, this talkshow features extraordinary Pinoy stories, inspiring people, unique subcultures, novel ideas and viral trends with humour.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="144" start="20260829113000 +0000" stop="20260829123000 +0000">
+    <title>Kapamilya Deal Or No Deal</title>
+    <desc>Don't miss this gameshow where participants are given a chance to make a deal of a lifetime.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch144_kapamilya_deal_or_no_deal.jpg?w=960%26h=540" />
+  </programme>
+  <programme channel="144" start="20260829123000 +0000" stop="20260829134500 +0000">
+    <title>Everybody Sing</title>
+    <desc>Everybody Sing is a sing-a-long community game show where 100 people work and play music-related challenges for a chance to win cash prizes together!</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch144_everybody_sings.jpg?w=341%26h=192" />
+  </programme>
+  <programme channel="144" start="20260829134500 +0000" stop="20260829145500 +0000">
+    <title>The Crossings: Finding Our Way Home Through Stories</title>
+    <desc>Across 24 themed collections, experience powerful stories from Filipino filmmakers and Filipino stories exploring culture, family, love, resilience, self-discovery and belonging.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="144" start="20260829145500 +0000" stop="20260829153000 +0000">
+    <title>Lubog Pa Rin sa Baha</title>
+    <desc>A 2026 documentary by journalist Andrea Taguines that revisits the Philippine flood control controversy and follows what happened after the government began looking into billions of pesos worth of projects.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="144" start="20260829153000 +0000" stop="20260829163000 +0000">
+    <title>The B Side S2</title>
+    <desc>The B Side is back, and it's realer, deeper and more unfiltered than ever. This season, Bianca Gonzalez dives into the untold stories of your favourite artists.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch144_the_b_side.jpg?w=960%26h=540" />
   </programme>
   <programme channel="145" start="20260827150000 +0000" stop="20260827170000 +0000">
     <title>Ang Tange Kong Pag-Ibig</title>
@@ -9455,7 +9589,7 @@ The Chateau of Grand-Pre, a Provencal manor once abandoned, housed major figures
   </programme>
   <programme channel="153" start="20260827163000 +0000" stop="20260827170000 +0000">
     <title>Focus on Europe</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>A small village in Serbia is pushing back against stricter EU border controls — and seeing results. +++ Camping under bridges — how Paris is failing its unhoused.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260827170000 +0000" stop="20260827171500 +0000">
@@ -9605,7 +9739,7 @@ The Chateau of Grand-Pre, a Provencal manor once abandoned, housed major figures
   </programme>
   <programme channel="153" start="20260828023000 +0000" stop="20260828030000 +0000">
     <title>Focus on Europe</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>A small village in Serbia is pushing back against stricter EU border controls — and seeing results. +++ Camping under bridges — how Paris is failing its unhoused.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260828030000 +0000" stop="20260828030200 +0000">
@@ -9625,7 +9759,7 @@ The Chateau of Grand-Pre, a Provencal manor once abandoned, housed major figures
   </programme>
   <programme channel="153" start="20260828033000 +0000" stop="20260828040000 +0000">
     <title>Made in Germany</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Oil made Los Angeles rich. Today aging and abandoned wells are raising fears over pollution, health risks and a costly cleanup. Also: Mallorca's hydrogen test.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260828040000 +0000" stop="20260828040200 +0000">
@@ -9779,9 +9913,8 @@ The Chateau of Grand-Pre, a Provencal manor once abandoned, housed major figures
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260828131500 +0000" stop="20260828133000 +0000">
-    <title>Travel</title>
-    <desc>Hear "Ibiza" and you think of nightlife, world-class DJs and never-ending parties. Now, the Spanish island's tourism board hopes to start attracting families. We meet members of Ibiza's club scene and people who've known it since its iconic hippie days to find out what they make of the plan. 
-Could it work without Ibiza losing what made it famous?</desc>
+    <title>Arts Unveiled</title>
+    <desc>From a Soviet-era apartment block in Tallinn to the world’s greatest concert halls, Arvo Pärt created a musical language that transcends borders, faiths, and generations. This documentary explores the life and legacy of one of the most performed composers of our time.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260828133000 +0000" stop="20260828140000 +0000">
@@ -9821,7 +9954,7 @@ Could it work without Ibiza losing what made it famous?</desc>
   </programme>
   <programme channel="153" start="20260828163000 +0000" stop="20260828170000 +0000">
     <title>Eco India</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>As prices rise and cities expand, people in India are using small-scale farming to earn extra income, build a greener future and pass on insights to the next generation. Plus: a hightech greenhouse in the Netherlands.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260828170000 +0000" stop="20260828171500 +0000">
@@ -9830,14 +9963,13 @@ Could it work without Ibiza losing what made it famous?</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260828171500 +0000" stop="20260828173000 +0000">
-    <title>Travel</title>
-    <desc>Hear "Ibiza" and you think of nightlife, world-class DJs and never-ending parties. Now, the Spanish island's tourism board hopes to start attracting families. We meet members of Ibiza's club scene and people who've known it since its iconic hippie days to find out what they make of the plan. 
-Could it work without Ibiza losing what made it famous?</desc>
+    <title>Arts Unveiled</title>
+    <desc>From a Soviet-era apartment block in Tallinn to the world’s greatest concert halls, Arvo Pärt created a musical language that transcends borders, faiths, and generations. This documentary explores the life and legacy of one of the most performed composers of our time.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260828173000 +0000" stop="20260828180000 +0000">
     <title>Afrimaxx</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>This time host Zimingonaphakade Mabunzi tries out some ceramics painting at Create in Johannesburg, South Africa. Plus, ballet dancers in Nigeria, a female rapper in Senegal and the township’s daily bread levelling up.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260828180000 +0000" stop="20260828183000 +0000">
@@ -9861,14 +9993,13 @@ Could it work without Ibiza losing what made it famous?</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260828191500 +0000" stop="20260828193000 +0000">
-    <title>Travel</title>
-    <desc>Hear "Ibiza" and you think of nightlife, world-class DJs and never-ending parties. Now, the Spanish island's tourism board hopes to start attracting families. We meet members of Ibiza's club scene and people who've known it since its iconic hippie days to find out what they make of the plan. 
-Could it work without Ibiza losing what made it famous?</desc>
+    <title>Arts Unveiled</title>
+    <desc>From a Soviet-era apartment block in Tallinn to the world’s greatest concert halls, Arvo Pärt created a musical language that transcends borders, faiths, and generations. This documentary explores the life and legacy of one of the most performed composers of our time.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260828193000 +0000" stop="20260828200000 +0000">
     <title>Eco Africa</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Students turning waste into food and fuel, growing vegetables in harsh conditions and learning climate warnings in sign language. Plus: we meet the architect rethinking African building design.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260828200000 +0000" stop="20260828203000 +0000">
@@ -9908,7 +10039,7 @@ Could it work without Ibiza losing what made it famous?</desc>
   </programme>
   <programme channel="153" start="20260828223000 +0000" stop="20260828230000 +0000">
     <title>Eco India</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>As prices rise and cities expand, people in India are using small-scale farming to earn extra income, build a greener future and pass on insights to the next generation. Plus: a hightech greenhouse in the Netherlands.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260828230000 +0000" stop="20260828230200 +0000">
@@ -9922,9 +10053,8 @@ Could it work without Ibiza losing what made it famous?</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260828231500 +0000" stop="20260828233000 +0000">
-    <title>Travel</title>
-    <desc>Hear "Ibiza" and you think of nightlife, world-class DJs and never-ending parties. Now, the Spanish island's tourism board hopes to start attracting families. We meet members of Ibiza's club scene and people who've known it since its iconic hippie days to find out what they make of the plan. 
-Could it work without Ibiza losing what made it famous?</desc>
+    <title>Arts Unveiled</title>
+    <desc>From a Soviet-era apartment block in Tallinn to the world’s greatest concert halls, Arvo Pärt created a musical language that transcends borders, faiths, and generations. This documentary explores the life and legacy of one of the most performed composers of our time.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260828233000 +0000" stop="20260829000000 +0000">
@@ -9944,7 +10074,7 @@ Could it work without Ibiza losing what made it famous?</desc>
   </programme>
   <programme channel="153" start="20260829003000 +0000" stop="20260829010000 +0000">
     <title>REV</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Millions of animals die in collisions with cars each year. How can drivers and automakers prevent such crashes? Plus: Retrofitters in India turn old vehicles into eco-friendly rides, and Flixtrain vs. Deutsche Bahn.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260829010000 +0000" stop="20260829010200 +0000">
@@ -9964,7 +10094,7 @@ Could it work without Ibiza losing what made it famous?</desc>
   </programme>
   <programme channel="153" start="20260829013000 +0000" stop="20260829020000 +0000">
     <title>Tomorrow Today</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Despite evidence women are the better surgeons, they’re still underrepresented in clinical leadership roles. As patients, women also face a higher risk of misdiagnosis. The root cause? A healthcare system historically dominated by men.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260829020000 +0000" stop="20260829020200 +0000">
@@ -9974,7 +10104,7 @@ Could it work without Ibiza losing what made it famous?</desc>
   </programme>
   <programme channel="153" start="20260829020200 +0000" stop="20260829021500 +0000">
     <title>Shift</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>AI chatbots are being treated like friends and advisors. Sometimes even as therapists or romantic partners. Can algorithms fulfill our social needs and what are the limits of chatbots?</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260829021500 +0000" stop="20260829030000 +0000">
@@ -9993,9 +10123,8 @@ Could it work without Ibiza losing what made it famous?</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260829031500 +0000" stop="20260829033000 +0000">
-    <title>Travel</title>
-    <desc>Hear "Ibiza" and you think of nightlife, world-class DJs and never-ending parties. Now, the Spanish island's tourism board hopes to start attracting families. We meet members of Ibiza's club scene and people who've known it since its iconic hippie days to find out what they make of the plan. 
-Could it work without Ibiza losing what made it famous?</desc>
+    <title>Arts Unveiled</title>
+    <desc>From a Soviet-era apartment block in Tallinn to the world’s greatest concert halls, Arvo Pärt created a musical language that transcends borders, faiths, and generations. This documentary explores the life and legacy of one of the most performed composers of our time.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260829033000 +0000" stop="20260829040000 +0000">
@@ -10015,7 +10144,7 @@ Could it work without Ibiza losing what made it famous?</desc>
   </programme>
   <programme channel="153" start="20260829041500 +0000" stop="20260829043000 +0000">
     <title>Shift</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>AI chatbots are being treated like friends and advisors. Sometimes even as therapists or romantic partners. Can algorithms fulfill our social needs and what are the limits of chatbots?</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260829043000 +0000" stop="20260829050000 +0000">
@@ -10030,12 +10159,12 @@ Could it work without Ibiza losing what made it famous?</desc>
   </programme>
   <programme channel="153" start="20260829050200 +0000" stop="20260829053000 +0000">
     <title>Arts Unveiled</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Four talented filmmakers from around the world were selected to show their films at the Berlin International Film Festival's community event. This year's theme was "Creativity and Confusion."</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260829053000 +0000" stop="20260829060000 +0000">
     <title>The 77 Percent</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Africa holds an estimated $29.5 trillion in mineral wealth that helps power the global economy. But across Africa, the question remains: If Africa is so rich, why are so many Africans still poor?</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260829060000 +0000" stop="20260829060200 +0000">
@@ -10049,14 +10178,13 @@ Could it work without Ibiza losing what made it famous?</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260829061500 +0000" stop="20260829063000 +0000">
-    <title>Travel</title>
-    <desc>Hear "Ibiza" and you think of nightlife, world-class DJs and never-ending parties. Now, the Spanish island's tourism board hopes to start attracting families. We meet members of Ibiza's club scene and people who've known it since its iconic hippie days to find out what they make of the plan. 
-Could it work without Ibiza losing what made it famous?</desc>
+    <title>Arts Unveiled</title>
+    <desc>From a Soviet-era apartment block in Tallinn to the world’s greatest concert halls, Arvo Pärt created a musical language that transcends borders, faiths, and generations. This documentary explores the life and legacy of one of the most performed composers of our time.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260829063000 +0000" stop="20260829070000 +0000">
     <title>REV</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Millions of animals die in collisions with cars each year. How can drivers and automakers prevent such crashes? Plus: Retrofitters in India turn old vehicles into eco-friendly rides, and Flixtrain vs. Deutsche Bahn.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260829070000 +0000" stop="20260829070200 +0000">
@@ -10071,12 +10199,12 @@ Could it work without Ibiza losing what made it famous?</desc>
   </programme>
   <programme channel="153" start="20260829071500 +0000" stop="20260829073000 +0000">
     <title>Sports Life</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>After the Taliban takeover, Afghanistan’s women footballers were forced into exile. Najma Arefi and her teammates are fighting for the right to represent their country. And have been successful.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260829073000 +0000" stop="20260829080000 +0000">
     <title>Tomorrow Today</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Despite evidence women are the better surgeons, they’re still underrepresented in clinical leadership roles. As patients, women also face a higher risk of misdiagnosis. The root cause? A healthcare system historically dominated by men.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260829080000 +0000" stop="20260829080300 +0000">
@@ -10123,12 +10251,12 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
   </programme>
   <programme channel="153" start="20260829101500 +0000" stop="20260829103000 +0000">
     <title>Shift</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>AI chatbots are being treated like friends and advisors. Sometimes even as therapists or romantic partners. Can algorithms fulfill our social needs and what are the limits of chatbots?</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260829103000 +0000" stop="20260829110000 +0000">
     <title>Arts Unveiled</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Four talented filmmakers from around the world were selected to show their films at the Berlin International Film Festival's community event. This year's theme was "Creativity and Confusion."</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260829110000 +0000" stop="20260829110300 +0000">
@@ -10154,7 +10282,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme channel="153" start="20260829121500 +0000" stop="20260829123000 +0000">
     <title>Shift</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>AI chatbots are being treated like friends and advisors. Sometimes even as therapists or romantic partners. Can algorithms fulfill our social needs and what are the limits of chatbots?</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260829123000 +0000" stop="20260829130000 +0000">
@@ -10169,7 +10297,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme channel="153" start="20260829130200 +0000" stop="20260829131500 +0000">
     <title>Sports Life</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>After the Taliban takeover, Afghanistan’s women footballers were forced into exile. Najma Arefi and her teammates are fighting for the right to represent their country. And have been successful.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260829131500 +0000" stop="20260829140000 +0000">
@@ -10196,7 +10324,7 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
   </programme>
   <programme channel="153" start="20260829143000 +0000" stop="20260829150000 +0000">
     <title>The 77 Percent</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Africa holds an estimated $29.5 trillion in mineral wealth that helps power the global economy. But across Africa, the question remains: If Africa is so rich, why are so many Africans still poor?</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260829150000 +0000" stop="20260829151500 +0000">
@@ -11199,7 +11327,7 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=960%26h=540" />
   </programme>
   <programme channel="209" start="20260828064000 +0000" stop="20260828073000 +0000">
-    <title>2026 World Surf League Replay</title>
+    <title>2026 World Surf League Replay (280826)</title>
     <desc>Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour %26 Challenger Series.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch209_World_Surf_League.jpg?w=341%26h=192" />
   </programme>
@@ -11334,7 +11462,7 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960%26h=540" />
   </programme>
   <programme channel="210" start="20260828013000 +0000" stop="20260828021500 +0000">
-    <title>2026 WorldSBK The Greatest</title>
+    <title>2026 WorldSBK The Greatest (280826)</title>
     <desc>Two-part docuseries on Jonathan Rea's career, most successful rider in WorldSBK history. It explores key moments, rivalries, and relationships that shaped the six-time world champion and racing icon.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=341%26h=192" />
   </programme>
@@ -11364,7 +11492,7 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960%26h=540" />
   </programme>
   <programme channel="210" start="20260828095000 +0000" stop="20260828102000 +0000">
-    <title>2026 MotoGP Rewind</title>
+    <title>2026 MotoGP Rewind (280826)</title>
     <desc>Recap the action, behind-the-scenes and rider interviews at the MotoGP 2026.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960%26h=540" />
   </programme>
@@ -11806,7 +11934,7 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
   <programme channel="213" start="20260828213000 +0000" stop="20260828233000 +0000">
     <title>Formula 1 Main Race 2026: FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2026</title>
     <desc>beIN Sports brings you live and exclusive coverage of the 2026 Formula 1 World Championship.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=341%26h=192" />
+    <icon src="https://poster.starhubgo.com/poster/ch213_formula_1_generic.jpg?w=960%26h=540" />
   </programme>
   <programme channel="213" start="20260828233000 +0000" stop="20260828235500 +0000">
     <title>LaLiga Goals Galore 2024/25</title>
@@ -12553,13 +12681,13 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/poster/fan_zone_V2.jpg?w=341%26h=192" />
   </programme>
   <programme channel="221" start="20260828153000 +0000" stop="20260828160000 +0000">
-    <title>PREVIEW - FRI 28 AUG (280826)</title>
+    <title>PREVIEW - FRI 28 AUG</title>
     <desc>A tightly packed look-ahead to the forthcoming match round with a mix of player interviews and special features.</desc>
     <icon src="https://poster.starhubgo.com/poster/pl_preview_V2.jpg?w=960%26h=540" />
   </programme>
   <programme channel="221" start="20260828160000 +0000" stop="20260828170000 +0000">
     <title>WELCOME TO THE WEEKEND - FRI 28 AUG</title>
-    <desc>Light-hearted, inclusive and entertaining, Welcome to the Weekend is the show that kicks off the Premier League Weekend. We will focus on the football, but also on the lifestyle topics that footballers and fans love - food, fashion, music, movies and much, much more.</desc>
+    <desc>Light-hearted, inclusive and entertaining, Welcome to the Weekend is the show that kicks off the Premier League Weekend. We will focus on the football, but also on the lifestyle topics that footballers and fans love – food, fashion, music, movies and much, much more.</desc>
     <icon src="https://poster.starhubgo.com/poster/welcome_to_the_weekend_V2.jpg?w=341%26h=192" />
   </programme>
   <programme channel="221" start="20260828170000 +0000" stop="20260828173000 +0000">
@@ -12570,7 +12698,7 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
   <programme channel="221" start="20260828173000 +0000" stop="20260828180000 +0000">
     <title>THE BIG INTERVIEW</title>
     <episode-num system="xmltv_ns">.1.0</episode-num>
-    <desc>As a young boy cheering from the terraces of his hometown club, Alemannia Aachen, Kai Havertz fell in love with a striker by the name of Erik Meijer. In this Extended version of the first Masterclass of the new season, Havertz' footballing icon surprises him at training, before the two share tricks of the trade on the art of forward play, recreating some of the Arsenal striker's best goals.</desc>
+    <desc>As a young boy cheering from the terraces of his hometown club, Alemannia Aachen, Kai Havertz fell in love with a striker by the name of Erik Meijer. In this Extended version of the first Masterclass of the new season, Havertz’ footballing icon surprises him at training, before the two share tricks of the trade on the art of forward play, recreating some of the Arsenal striker’s best goals.</desc>
     <icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341%26h=192" />
   </programme>
   <programme channel="221" start="20260828180000 +0000" stop="20260828183000 +0000">
@@ -12585,8 +12713,8 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/poster/pl_live.jpg?w=960%26h=540" />
   </programme>
   <programme channel="221" start="20260828185000 +0000" stop="20260828210000 +0000">
-    <title>Crystal Palace v Manchester City (MW02)</title>
-    <desc>Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
+    <title>Crystal Palace v Manchester City (MW02) (290826)</title>
+    <desc>Crystal Palace have won just two of their last 22 Premier League games against Man City (D5 L15), and are winless in nine against them since a 2-0 away win in October 2021.</desc>
     <icon src="https://poster.starhubgo.com/poster/crystal_palace_stadium.jpg?w=960" />
   </programme>
   <programme channel="221" start="20260828210000 +0000" stop="20260828213000 +0000">
@@ -12595,18 +12723,18 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/poster/pl_live.jpg?w=960%26h=540" />
   </programme>
   <programme channel="221" start="20260828213000 +0000" stop="20260828223000 +0000">
-    <title>TEAM TALKS - FRI 28 AUG</title>
+    <title>TEAM TALKS - FRI 28 AUG (290826)</title>
     <desc>Punditry, pressers and predictions ahead of the PL Weekend. Our studio team tackle all the major talking points, and we hear from the headlines acts as the players and the managers have their say ahead of the action.</desc>
     <icon src="https://poster.starhubgo.com/poster/team_talks_V2.jpg?w=341%26h=192" />
   </programme>
   <programme channel="221" start="20260828223000 +0000" stop="20260828230000 +0000">
     <title>THE BIG INTERVIEW</title>
     <episode-num system="xmltv_ns">.1.0</episode-num>
-    <desc>As a young boy cheering from the terraces of his hometown club, Alemannia Aachen, Kai Havertz fell in love with a striker by the name of Erik Meijer. In this Extended version of the first Masterclass of the new season, Havertz' footballing icon surprises him at training, before the two share tricks of the trade on the art of forward play, recreating some of the Arsenal striker's best goals.</desc>
+    <desc>As a young boy cheering from the terraces of his hometown club, Alemannia Aachen, Kai Havertz fell in love with a striker by the name of Erik Meijer. In this Extended version of the first Masterclass of the new season, Havertz’ footballing icon surprises him at training, before the two share tricks of the trade on the art of forward play, recreating some of the Arsenal striker’s best goals.</desc>
     <icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341%26h=192" />
   </programme>
   <programme channel="221" start="20260828230000 +0000" stop="20260828233000 +0000">
-    <title>PREVIEW - FRI 28 AUG (UPDATE)</title>
+    <title>PREVIEW - FRI 28 AUG (UPDATE) (290826)</title>
     <desc>A tightly packed look-ahead to the forthcoming match round with a mix of player interviews and special features.</desc>
     <icon src="https://poster.starhubgo.com/poster/pl_preview_V2.jpg?w=960%26h=540" />
   </programme>
@@ -12650,13 +12778,13 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
   <programme channel="221" start="20260829040000 +0000" stop="20260829043000 +0000">
     <title>THE BIG INTERVIEW</title>
     <episode-num system="xmltv_ns">.1.0</episode-num>
-    <desc>As a young boy cheering from the terraces of his hometown club, Alemannia Aachen, Kai Havertz fell in love with a striker by the name of Erik Meijer. In this Extended version of the first Masterclass of the new season, Havertz' footballing icon surprises him at training, before the two share tricks of the trade on the art of forward play, recreating some of the Arsenal striker's best goals.</desc>
+    <desc>As a young boy cheering from the terraces of his hometown club, Alemannia Aachen, Kai Havertz fell in love with a striker by the name of Erik Meijer. In this Extended version of the first Masterclass of the new season, Havertz’ footballing icon surprises him at training, before the two share tricks of the trade on the art of forward play, recreating some of the Arsenal striker’s best goals.</desc>
     <icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341%26h=192" />
   </programme>
   <programme channel="221" start="20260829043000 +0000" stop="20260829050000 +0000">
     <title>PL STORIES</title>
     <episode-num system="xmltv_ns">.7.0</episode-num>
-    <desc>A Family United', tells the story of the Singh brothers; lifelong Manchester United fans who have followed the club through every twist of its Premier League journey.  From the glory years under Sir Alex Fergsuson to the highs and lows that followed, the brothers relive the moments, memories and matches that shaped both their lives and their bond as a family.</desc>
+    <desc>‘A Family United’, tells the story of the Singh brothers; lifelong Manchester United fans who have followed the club through every twist of its Premier League journey.  From the glory years under Sir Alex Fergsuson to the highs and lows that followed, the brothers relive the moments, memories and matches that shaped both their lives and their bond as a family.</desc>
     <icon src="https://poster.starhubgo.com/poster/pl_stories_2026_27_ep8.jpg?w=341%26h=192" />
   </programme>
   <programme channel="221" start="20260829050000 +0000" stop="20260829060000 +0000">
@@ -12683,13 +12811,13 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
   <programme channel="221" start="20260829073000 +0000" stop="20260829080000 +0000">
     <title>THE BIG INTERVIEW</title>
     <episode-num system="xmltv_ns">.1.0</episode-num>
-    <desc>As a young boy cheering from the terraces of his hometown club, Alemannia Aachen, Kai Havertz fell in love with a striker by the name of Erik Meijer. In this Extended version of the first Masterclass of the new season, Havertz' footballing icon surprises him at training, before the two share tricks of the trade on the art of forward play, recreating some of the Arsenal striker's best goals.</desc>
+    <desc>As a young boy cheering from the terraces of his hometown club, Alemannia Aachen, Kai Havertz fell in love with a striker by the name of Erik Meijer. In this Extended version of the first Masterclass of the new season, Havertz’ footballing icon surprises him at training, before the two share tricks of the trade on the art of forward play, recreating some of the Arsenal striker’s best goals.</desc>
     <icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341%26h=192" />
   </programme>
   <programme channel="221" start="20260829080000 +0000" stop="20260829083000 +0000">
     <title>PL REWIND</title>
     <episode-num system="xmltv_ns">.0.0</episode-num>
-    <desc>Adored by Liverpool fans around the world, Robbie Fowler is one of the Premier League's all-time greats. The local lad reflects on his remarkable journey, from his prolific breakthrough at Anfield, to an unprecedented cup treble and an emotional homecoming on Merseyside.</desc>
+    <desc>Adored by Liverpool fans around the world, Robbie Fowler is one of the Premier League’s all-time greats. The local lad reflects on his remarkable journey, from his prolific breakthrough at Anfield, to an unprecedented cup treble and an emotional homecoming on Merseyside.</desc>
     <icon src="https://poster.starhubgo.com/poster/pl_rewind_V2.jpg?w=960%26h=540" />
   </programme>
   <programme channel="221" start="20260829083000 +0000" stop="20260829093000 +0000">
@@ -12709,17 +12837,17 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
   </programme>
   <programme channel="221" start="20260829103000 +0000" stop="20260829112000 +0000">
     <title>PREMIER LEAGUE LIVE</title>
-    <desc>Andoni Iraola's first league game at Anfield as Liverpool boss is against Nottingham Forest in the early kick off. Attention then turns to Bournemouth v Everton followed by Tottenham Hotspur taking on Newcastle United.</desc>
+    <desc>Andoni Iraola’s first league game at Anfield as Liverpool boss is against Nottingham Forest in the early kick off. Attention then turns to Bournemouth v Everton followed by Tottenham Hotspur taking on Newcastle United.</desc>
     <icon src="https://poster.starhubgo.com/poster/pl_live.jpg?w=960%26h=540" />
   </programme>
   <programme channel="221" start="20260829112000 +0000" stop="20260829135000 +0000">
-    <title>Liverpool v Nottingham Forest (MW02)</title>
-    <desc>Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
+    <title>Liverpool v Nottingham Forest (MW02) (290826)</title>
+    <desc>Liverpool have lost their last two home league games against Nottingham Forest, more than they had in their previous 30 (W24 D5 L1). They’ve never lost three in a row against them at Anfield.</desc>
     <icon src="https://poster.starhubgo.com/poster/liverpool_stadium.jpg?w=960" />
   </programme>
   <programme channel="221" start="20260829135000 +0000" stop="20260829162000 +0000">
     <title>Bournemouth v Everton (MW02)</title>
-    <desc>Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
+    <desc>Everton have won just one of their nine Premier League away games against Bournemouth (D2 L6), though it was in this exact fixture last season (1-0 in December).</desc>
     <icon src="https://poster.starhubgo.com/poster/bournemouth_stadium.jpg?w=960" />
   </programme>
   <programme channel="222" start="20260827160000 +0000" stop="20260827220000 +0000">
@@ -12761,8 +12889,8 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
   <programme channel="222" start="20260829050000 +0000" stop="20260829070000 +0000">
     <title>Crystal Palace vs Manchester City</title>
     <episode-num system="xmltv_ns">.10.0</episode-num>
-    <desc>The 35th season of the Premier League sees Arsenal defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
-    <icon src="https://poster.starhubgo.com/poster/crystal_palace_stadium1.jpg?w=960%26h=540" />
+    <desc>Crystal Palace have won just two of their last 22 Premier League games against Man City (D5 L15), and are winless in nine against them since a 2-0 away win in October 2021.</desc>
+    <icon src="https://poster.starhubgo.com/poster/MW02_CRYSTAL_PALACE_vs_MANCHESTER_CITY_27.jpg?w=960%26h=540" />
   </programme>
   <programme channel="222" start="20260829070000 +0000" stop="20260829073000 +0000">
     <title>PL Rewind 2026/27</title>
@@ -12774,12 +12902,12 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <title>PL Stories 2026/27</title>
     <episode-num system="xmltv_ns">.12.0</episode-num>
     <desc>As Manchester City embark on a new chapter, we celebrate the extraordinary legacy of Pep Guardiola, the visionary who transformed not only a football club, but the Premier League itself. From his formative years as a player and coach to redefining excellence in English football, we trace the journey that made him one of the greatest managers the game has ever seen. Through unprecedented success, relentless innovation and a lasting influence on generations to come, this is the story of the man wh</desc>
-    <icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341%26h=192" />
+    <icon src="https://poster.starhubgo.com/poster/pl_stories_2026_27_ep13.jpg?w=960%26h=540" />
   </programme>
   <programme channel="222" start="20260829080000 +0000" stop="20260829083000 +0000">
     <title>The Big Interview 2026/27</title>
     <episode-num system="xmltv_ns">.1.0</episode-num>
-    <desc>Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.</desc>
+    <desc>As a young boy cheering from the terraces of his hometown club, Alemannia Aachen, Kai Havertz fell in love with a striker by the name of Erik Meijer. In this Extended version of the first Masterclass of the new season, Havertz’ footballing icon surprises him at training, before the two share tricks of the trade on the art of forward play, recreating some of the Arsenal striker’s best goals.</desc>
     <icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341%26h=192" />
   </programme>
   <programme channel="222" start="20260829083000 +0000" stop="20260829090000 +0000">
@@ -12803,20 +12931,19 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
   <programme channel="222" start="20260829112500 +0000" stop="20260829132000 +0000">
     <title>Crystal Palace vs Manchester City</title>
     <episode-num system="xmltv_ns">.10.0</episode-num>
-    <desc>The 35th season of the Premier League sees Arsenal defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
-    <icon src="https://poster.starhubgo.com/poster/crystal_palace_stadium1.jpg?w=960%26h=540" />
+    <desc>Crystal Palace have won just two of their last 22 Premier League games against Man City (D5 L15), and are winless in nine against them since a 2-0 away win in October 2021.</desc>
+    <icon src="https://poster.starhubgo.com/poster/MW02_CRYSTAL_PALACE_vs_MANCHESTER_CITY_27.jpg?w=960%26h=540" />
   </programme>
   <programme channel="222" start="20260829132000 +0000" stop="20260829135000 +0000">
     <title>PL Stories 2026/27</title>
     <episode-num system="xmltv_ns">.12.0</episode-num>
     <desc>As Manchester City embark on a new chapter, we celebrate the extraordinary legacy of Pep Guardiola, the visionary who transformed not only a football club, but the Premier League itself. From his formative years as a player and coach to redefining excellence in English football, we trace the journey that made him one of the greatest managers the game has ever seen. Through unprecedented success, relentless innovation and a lasting influence on generations to come, this is the story of the man wh</desc>
-    <icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341%26h=192" />
+    <icon src="https://poster.starhubgo.com/poster/pl_stories_2026_27_ep13.jpg?w=960%26h=540" />
   </programme>
   <programme channel="222" start="20260829135000 +0000" stop="20260829160000 +0000">
-    <title>Coventry City vs Hull City</title>
-    <episode-num system="xmltv_ns">.13.0</episode-num>
-    <desc>The 35th season of the Premier League sees Arsenal defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
-    <icon src="https://poster.starhubgo.com/poster/coventry_city_stadium1.jpg?w=341%26h=192" />
+    <title>Coventry City vs Hull City (MW02)</title>
+    <desc>This will be the first ever top-flight meeting between Coventry and Hull City, the 1,454th different fixture to be played in England’s top division, and 942nd in the Premier League.</desc>
+    <icon src="https://poster.starhubgo.com/poster/coventry_city_stadium.jpg?w=960" />
   </programme>
   <programme channel="223" start="20260827160000 +0000" stop="20260827220000 +0000">
     <title>End of Transmission</title>
@@ -12851,8 +12978,8 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="223" start="20260829135000 +0000" stop="20260829160000 +0000">
-    <title>Bournemouth vs Everton (MW02)</title>
-    <desc>The 35th season of the Premier League sees Arsenal defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+    <title>Bournemouth vs Everton (MW02) (290826)</title>
+    <desc>Everton have won just one of their nine Premier League away games against Bournemouth (D2 L6), though it was in this exact fixture last season (1-0 in December).</desc>
     <icon src="https://poster.starhubgo.com/poster/bournemouth_stadium.jpg?w=960" />
   </programme>
   <programme channel="224" start="20260827160000 +0000" stop="20260827220000 +0000">
@@ -12990,8 +13117,8 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
   <programme channel="232" start="20260829050000 +0000" stop="20260829070000 +0000">
     <title>Crystal Palace vs Manchester City</title>
     <episode-num system="xmltv_ns">.10.0</episode-num>
-    <desc>The 35th season of the Premier League sees Arsenal defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
-    <icon src="https://poster.starhubgo.com/poster/crystal_palace_stadium1.jpg?w=960%26h=540" />
+    <desc>Crystal Palace have won just two of their last 22 Premier League games against Man City (D5 L15), and are winless in nine against them since a 2-0 away win in October 2021.</desc>
+    <icon src="https://poster.starhubgo.com/poster/MW02_CRYSTAL_PALACE_vs_MANCHESTER_CITY_27.jpg?w=960%26h=540" />
   </programme>
   <programme channel="232" start="20260829070000 +0000" stop="20260829073000 +0000">
     <title>PL Rewind 2026/27</title>
@@ -13003,12 +13130,12 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <title>PL Stories 2026/27</title>
     <episode-num system="xmltv_ns">.12.0</episode-num>
     <desc>As Manchester City embark on a new chapter, we celebrate the extraordinary legacy of Pep Guardiola, the visionary who transformed not only a football club, but the Premier League itself. From his formative years as a player and coach to redefining excellence in English football, we trace the journey that made him one of the greatest managers the game has ever seen. Through unprecedented success, relentless innovation and a lasting influence on generations to come, this is the story of the man wh</desc>
-    <icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341%26h=192" />
+    <icon src="https://poster.starhubgo.com/poster/pl_stories_2026_27_ep13.jpg?w=960%26h=540" />
   </programme>
   <programme channel="232" start="20260829080000 +0000" stop="20260829083000 +0000">
     <title>The Big Interview 2026/27</title>
     <episode-num system="xmltv_ns">.1.0</episode-num>
-    <desc>Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.</desc>
+    <desc>As a young boy cheering from the terraces of his hometown club, Alemannia Aachen, Kai Havertz fell in love with a striker by the name of Erik Meijer. In this Extended version of the first Masterclass of the new season, Havertz’ footballing icon surprises him at training, before the two share tricks of the trade on the art of forward play, recreating some of the Arsenal striker’s best goals.</desc>
     <icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341%26h=192" />
   </programme>
   <programme channel="232" start="20260829083000 +0000" stop="20260829090000 +0000">
@@ -13032,20 +13159,19 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
   <programme channel="232" start="20260829112500 +0000" stop="20260829132000 +0000">
     <title>Crystal Palace vs Manchester City</title>
     <episode-num system="xmltv_ns">.10.0</episode-num>
-    <desc>The 35th season of the Premier League sees Arsenal defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
-    <icon src="https://poster.starhubgo.com/poster/crystal_palace_stadium1.jpg?w=960%26h=540" />
+    <desc>Crystal Palace have won just two of their last 22 Premier League games against Man City (D5 L15), and are winless in nine against them since a 2-0 away win in October 2021.</desc>
+    <icon src="https://poster.starhubgo.com/poster/MW02_CRYSTAL_PALACE_vs_MANCHESTER_CITY_27.jpg?w=960%26h=540" />
   </programme>
   <programme channel="232" start="20260829132000 +0000" stop="20260829135000 +0000">
     <title>PL Stories 2026/27</title>
     <episode-num system="xmltv_ns">.12.0</episode-num>
     <desc>As Manchester City embark on a new chapter, we celebrate the extraordinary legacy of Pep Guardiola, the visionary who transformed not only a football club, but the Premier League itself. From his formative years as a player and coach to redefining excellence in English football, we trace the journey that made him one of the greatest managers the game has ever seen. Through unprecedented success, relentless innovation and a lasting influence on generations to come, this is the story of the man wh</desc>
-    <icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341%26h=192" />
+    <icon src="https://poster.starhubgo.com/poster/pl_stories_2026_27_ep13.jpg?w=960%26h=540" />
   </programme>
   <programme channel="232" start="20260829135000 +0000" stop="20260829160000 +0000">
-    <title>Coventry City vs Hull City</title>
-    <episode-num system="xmltv_ns">.13.0</episode-num>
-    <desc>The 35th season of the Premier League sees Arsenal defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
-    <icon src="https://poster.starhubgo.com/poster/coventry_city_stadium1.jpg?w=341%26h=192" />
+    <title>Coventry City vs Hull City (MW02)</title>
+    <desc>This will be the first ever top-flight meeting between Coventry and Hull City, the 1,454th different fixture to be played in England’s top division, and 942nd in the Premier League.</desc>
+    <icon src="https://poster.starhubgo.com/poster/coventry_city_stadium.jpg?w=960" />
   </programme>
   <programme channel="241" start="20260827160000 +0000" stop="20260827170000 +0000">
     <title>FIGHT SPORTS MMA Garreth McLellan vs. Dricus Du Plessis</title>
@@ -25673,14 +25799,9 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <desc>Watch the best of the BBC's journalism from around the world.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="701" start="20260827180000 +0000" stop="20260827183000 +0000">
-    <title>The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
-  </programme>
-  <programme channel="701" start="20260827183000 +0000" stop="20260827190000 +0000">
-    <title>The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
+  <programme channel="701" start="20260827180000 +0000" stop="20260827190000 +0000">
+    <title>BBC News Special</title>
+    <desc>BBC News looks at the devastating floods affecting Nepal and Tibet, killing hundreds of people with many more missing. We talk to our reporters on the ground, looking at what caused the disaster.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
   </programme>
   <programme channel="701" start="20260827190000 +0000" stop="20260827193000 +0000">
@@ -26024,9 +26145,9 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
   </programme>
   <programme channel="701" start="20260829023000 +0000" stop="20260829030000 +0000">
-    <title>Talking Business</title>
-    <desc>Water has been a flashpoint in the Middle East and worldwide demand is outstripping supply, so how do we make sure there's enough to go round?</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch701_talking_business.jpg?w=960%26h=540" />
+    <title>Panorama</title>
+    <desc>As Silicon Valley plans massive changes in the workplace, reporter Richard Bilton investigates the rise of the robots and what it could mean for all of us.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
   </programme>
   <programme channel="701" start="20260829030000 +0000" stop="20260829033000 +0000">
     <title>BBC News</title>
@@ -26149,9 +26270,9 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
   </programme>
   <programme channel="701" start="20260829153000 +0000" stop="20260829160000 +0000">
-    <title>Talking Movies</title>
-    <desc>A review of Hollywood's summer movie season and the success of the blockbusters The Odyssey and Spider-Man: Brand New Day. Plus, the triumph of low-budget horror films Obsession and Backrooms.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch701_talking_movies.jpg?w=960%26h=540" />
+    <title>Panorama</title>
+    <desc>As Silicon Valley plans massive changes in the workplace, reporter Richard Bilton investigates the rise of the robots and what it could mean for all of us.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
   </programme>
   <programme channel="702" start="20260827160000 +0000" stop="20260827170000 +0000">
     <title>Outnumbered</title>
@@ -28289,28 +28410,28 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="708" start="20260828230000 +0000" stop="20260828233000 +0000">
-    <title>Bloomberg New Economy: Thriving in an Age of Extremes</title>
-    <desc>Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
+    <title>Bloomberg Next Africa</title>
+    <desc>A monthly deep dive into Africa's biggest stories through a Bloomberg lens, discussing key steps taken to help deliver on Africa's quest of bridging the gap with global powers.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="708" start="20260828233000 +0000" stop="20260829000000 +0000">
     <title>The Mishal Husain Show</title>
-    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <desc>Mishal speaks with Colm Toibin, Irish novelist and former chancellor of the University of Liverpool.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="708" start="20260829000000 +0000" stop="20260829003000 +0000">
     <title>Leaders with Francine Lacqua: The Podcast</title>
-    <desc>Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
+    <desc>Linda Hill explains why today's most successful executives prioritise collaboration over charisma, embrace constructive conflict and create organisations that can adapt to constant change.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="708" start="20260829003000 +0000" stop="20260829010000 +0000">
-    <title>The Circuit</title>
-    <desc>A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
+    <title>Leaders with Francine Lacqua: The Podcast</title>
+    <desc>Amanda Staveley reveals how she built landmark Gulf investment deals, reflects on Manchester City FC and Barclays, and explains why she's searching for her next football club.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="708" start="20260829010000 +0000" stop="20260829013000 +0000">
     <title>The David Rubenstein Show</title>
-    <desc>Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <desc>Ynon Kreiz, Chairman and CEO of Mattel, joins David Rubenstein to discuss his transformation of the brand from a toy manufacturer into an IP-driven entertainment powerhouse.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="708" start="20260829013000 +0000" stop="20260829020000 +0000">
@@ -28324,38 +28445,38 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="708" start="20260829030000 +0000" stop="20260829033000 +0000">
-    <title>The Circuit</title>
-    <desc>A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
+    <title>Bloomberg Primer</title>
+    <desc>Chinese companies dominate the EV battery supply chain and are expanding rapidly outside their home market. Meanwhile, competitors are looking to new chemistries to leapfrog the leading tech.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="708" start="20260829033000 +0000" stop="20260829040000 +0000">
-    <title>Posthuman</title>
-    <desc>Technology that once seemed like science fiction is rapidly becoming reality, transforming our existence. Emily Chang unravels the future of being human in an age of unprecedented innovation.</desc>
+    <title>Bloomberg Primer</title>
+    <desc>Humanoid robots that use AI are going mainstream, but they’re far from proven. With billions of dollars invested, can they deliver real-world value or will they fall short of the hype?</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="708" start="20260829040000 +0000" stop="20260829050000 +0000">
-    <title>The Deal with Alex Rodriguez and Jason Kelly</title>
-    <desc>Intimate conversations with business titans and sports champions who reveal their investment philosophies, missed opportunities and more.</desc>
+    <title>The Amazon Divide</title>
+    <desc>Brazil's deforestation rate is falling, but Bolivia's is accelerating. Bloomberg Originals investigates whether protecting forests in one country simply pushes development across the border.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="708" start="20260829050000 +0000" stop="20260829053000 +0000">
-    <title>Posthuman</title>
-    <desc>Technology that once seemed like science fiction is rapidly becoming reality, transforming our existence. Emily Chang unravels the future of being human in an age of unprecedented innovation.</desc>
+    <title>The Circuit</title>
+    <desc>Karlie Kloss on Reviving Magazines. Emily Chang goes inside the world of supermodel-turned-entrepreneur Karlie Kloss to explore how she's trying to revive magazine publishing.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="708" start="20260829053000 +0000" stop="20260829060000 +0000">
-    <title>The Circuit</title>
-    <desc>A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
+    <title>The Deal with Alex Rodriguez and Jason Kelly</title>
+    <desc>FIFA's Jill Ellis on World Cup Demand. FIFA Chief Football Officer Jill Ellis discusses World Cup ticket prices, revenue expectations and the growth of the game.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="708" start="20260829060000 +0000" stop="20260829063000 +0000">
     <title>The Mishal Husain Show</title>
-    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <desc>Mishal speaks with Colm Toibin, Irish novelist and former chancellor of the University of Liverpool.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="708" start="20260829063000 +0000" stop="20260829070000 +0000">
     <title>The Mishal Husain Show</title>
-    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <desc>Mishal Husain brings her signature blend of curiosity and tenacity to weekly conversations with world leaders. In this episode, Hamid Karzai, former president of Afghanistan.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="708" start="20260829070000 +0000" stop="20260829080000 +0000">
@@ -28364,23 +28485,23 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="708" start="20260829080000 +0000" stop="20260829083000 +0000">
-    <title>Bloomberg Originals</title>
-    <desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
+    <title>The Circuit</title>
+    <desc>Emily meets artificial intelligence pioneer Fei-Fei Li to discuss her innovations in the field, her $1 billion startup World Labs and why she thinks the future of AI lies beyond chatbots.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="708" start="20260829083000 +0000" stop="20260829090000 +0000">
-    <title>Posthuman</title>
-    <desc>Technology that once seemed like science fiction is rapidly becoming reality, transforming our existence. Emily Chang unravels the future of being human in an age of unprecedented innovation.</desc>
+    <title>Latitude</title>
+    <desc>The world's axis is spinning to Asia. Haslinda Amin meets the people shaping the region's rise. In this episode, Kiran Mazumdar-Shaw, Biocon Limited Executive Chairperson.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="708" start="20260829090000 +0000" stop="20260829093000 +0000">
-    <title>Bloomberg New Economy: Thriving in an Age of Extremes</title>
-    <desc>Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
+    <title>Bloomberg Wealth with David Rubenstein</title>
+    <desc>Greg Fleming, Rockefeller Capital Management President and CEO. David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="708" start="20260829093000 +0000" stop="20260829100000 +0000">
     <title>The Mishal Husain Show</title>
-    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <desc>Mishal speaks with Colm Toibin, Irish novelist and former chancellor of the University of Liverpool.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="708" start="20260829100000 +0000" stop="20260829110000 +0000">
@@ -28400,12 +28521,12 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
   </programme>
   <programme channel="708" start="20260829150000 +0000" stop="20260829153000 +0000">
     <title>The Mishal Husain Show</title>
-    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <desc>Mishal speaks with Colm Toibin, Irish novelist and former chancellor of the University of Liverpool.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="708" start="20260829153000 +0000" stop="20260829160000 +0000">
     <title>The David Rubenstein Show</title>
-    <desc>Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <desc>Ynon Kreiz, Chairman and CEO of Mattel, joins David Rubenstein to discuss his transformation of the brand from a toy manufacturer into an IP-driven entertainment powerhouse.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="709" start="20260827160000 +0000" stop="20260827180000 +0000">
@@ -29041,7 +29162,7 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
   </programme>
   <programme channel="711" start="20260829053000 +0000" stop="20260829060000 +0000">
     <title>Africa Inc.</title>
-    <desc>We explore the business behind the growth of African music through The Malachite Group (TMG), the company behind Afro Nation Portugal, one of the world's largest festivals dedicated to Afrobeats and African music.</desc>
+    <desc>We explore the business behind the growth of African music through The Malachite Group (TMG), the company behind Afro Nation Portugal.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch711_cnni_placeholder.jpg?w=341%26h=192" />
   </programme>
   <programme channel="711" start="20260829060000 +0000" stop="20260829063000 +0000">
@@ -29061,7 +29182,7 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
   </programme>
   <programme channel="711" start="20260829073000 +0000" stop="20260829080000 +0000">
     <title>Quest's World of Wonder</title>
-    <desc>Larger-than-life characters take us on a journey with Richard Quest to experience cities in a way tourists can’t.</desc>
+    <desc>The 250th birthday of the U.S. is the perfect reason for a summer holiday and a great American road trip!</desc>
     <icon src="https://poster.starhubgo.com/poster/ch711_quess_world_of_wonder.jpg?w=960%26h=540" />
   </programme>
   <programme channel="711" start="20260829080000 +0000" stop="20260829083000 +0000">
@@ -29071,7 +29192,7 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
   </programme>
   <programme channel="711" start="20260829083000 +0000" stop="20260829090000 +0000">
     <title>CNN Creators</title>
-    <desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+    <desc>The Creators look back on their most viral stories from 2026 so far.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch711_cnn_creators.jpg?w=341%26h=192" />
   </programme>
   <programme channel="711" start="20260829090000 +0000" stop="20260829100000 +0000">
@@ -29086,7 +29207,7 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
   </programme>
   <programme channel="711" start="20260829103000 +0000" stop="20260829110000 +0000">
     <title>Quest's World of Wonder</title>
-    <desc>Larger-than-life characters take us on a journey with Richard Quest to experience cities in a way tourists can’t.</desc>
+    <desc>The 250th birthday of the U.S. is the perfect reason for a summer holiday and a great American road trip!</desc>
     <icon src="https://poster.starhubgo.com/poster/ch711_quess_world_of_wonder.jpg?w=960%26h=540" />
   </programme>
   <programme channel="711" start="20260829110000 +0000" stop="20260829120000 +0000">
@@ -29106,12 +29227,12 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
   </programme>
   <programme channel="711" start="20260829140000 +0000" stop="20260829143000 +0000">
     <title>CNN Creators</title>
-    <desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+    <desc>The Creators look back on their most viral stories from 2026 so far.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch711_cnn_creators.jpg?w=341%26h=192" />
   </programme>
   <programme channel="711" start="20260829143000 +0000" stop="20260829150000 +0000">
     <title>Inside Africa</title>
-    <desc>Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.</desc>
+    <desc>How the centuries-old equestrian culture in Lesotho, known as the "Kingdom in the Sky", continues to shape transport, livelihoods, and tourism.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch711_inside_africa.jpg?w=960%26h=540" />
   </programme>
   <programme channel="711" start="20260829150000 +0000" stop="20260829160000 +0000">
@@ -32102,8 +32223,8 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="808" start="20260829130000 +0000" stop="20260829140000 +0000">
-    <title>2100 Hot Topics</title>
-    <desc>Don't miss the latest highlights and interviews from Taiwan and around the world.</desc>
+    <title>Taiwan's Youth Housing Loan: Three Years On</title>
+    <desc>Three years after its launch, Taiwan's Youth Housing Loan has lowered barriers to homeownership—but has it also fueled rising housing prices and market speculation? Taiwan's Youth Housing Loan: Three Years On examines the policy's impact.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="808" start="20260829140000 +0000" stop="20260829150000 +0000">
@@ -32241,7 +32362,7 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="811" start="20260828010500 +0000" stop="20260828015000 +0000">
-    <title>Saturday Drama "In Lilac Bloom, The Path to a Veterinarian 2" Ep. 1（New） (R)</title>
+    <title>Saturday Drama "In Lilac Bloom, The Path to a Veterinarian 2" Ep. 1（New)(R)</title>
     <desc>After passing the national exam, Kishimoto Satori (Yamada Anna), Kajita Ayaka (Toma Ami), and Kubo Zansetsu (Hagiwara Riku) begin careers caring for animals. When foot-and-mouth disease breaks out at a ranch, Satori works with Inukai Kentaro (Kamikawa Takaya) to contain the infection and faces the harsh realities of protecting animal lives.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
@@ -32274,7 +32395,7 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="811" start="20260828033000 +0000" stop="20260828034500 +0000">
-    <title>Drama Serial "Hiyokko" Encore Ep. 20</title>
+    <title>Drama Serial "Hiyokko" Encore Ep. 19</title>
     <desc>The 96th Drama Serial is about Mineko, a girl born in Ibaraki Prefecture, who comes up to Tokyo for the mass employment during the high economic growth period.  The story begins in 1964, the year of the Tokyo Olympics, and portrays her eventful life and growth as a person.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
@@ -32388,7 +32509,7 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="811" start="20260828111700 +0000" stop="20260828114300 +0000">
-    <title>TBA</title>
+    <title>Kyoto's Finest Goods Travelogue</title>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="811" start="20260828114300 +0000" stop="20260828114500 +0000">
@@ -32490,7 +32611,7 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="811" start="20260828184500 +0000" stop="20260828193000 +0000">
-    <title>Saturday Drama "In Lilac Bloom, The Path to a Veterinarian 2" Ep. 1（New） (R)</title>
+    <title>Saturday Drama "In Lilac Bloom, The Path to a Veterinarian 2" Ep. 1（New)(R)</title>
     <desc>After passing the national exam, Kishimoto Satori (Yamada Anna), Kajita Ayaka (Toma Ami), and Kubo Zansetsu (Hagiwara Riku) begin careers caring for animals. When foot-and-mouth disease breaks out at a ranch, Satori works with Inukai Kentaro (Kamikawa Takaya) to contain the infection and faces the harsh realities of protecting animal lives.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
@@ -32547,7 +32668,8 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="811" start="20260828230000 +0000" stop="20260828231500 +0000">
-    <title>Drama Serial "The Scent of the Wind"</title>
+    <title>Drama Serial "The Scent of the Wind" Week 22</title>
+    <desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="811" start="20260828231500 +0000" stop="20260829000000 +0000">
@@ -32574,26 +32696,27 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <desc>The latest up-to-date news and nationwide weather information.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="811" start="20260829010500 +0000" stop="20260829013300 +0000">
-    <title>TBA</title>
+  <programme channel="811" start="20260829010500 +0000" stop="20260829013500 +0000">
+    <title>SCIENCE ZERO (R)</title>
+    <desc>A scientific information program which explains the latest research, disasters and accidents from scientific aspects with a virtual set in the studio.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="811" start="20260829013300 +0000" stop="20260829020600 +0000">
+  <programme channel="811" start="20260829013500 +0000" stop="20260829020800 +0000">
     <title>The Visualization Entertainment: Go! Kaneo-kun (R)</title>
     <desc>The show is MC-ed by comedian Ariyoshi Hiroiki, who hosts an NHK program on a regular basis for the first time.  The mascot character "Kaneo-kun" (voice of Nobu, of comedy duo Chidori), who loves money, visits various places, including popular visiting locations, and looks into different phenomena to learn how money plays a role.  The undertaking help unravel unexpected trends in society.  The program, which can be enjoyed by every member of the family, offers much food for thought.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="811" start="20260829020600 +0000" stop="20260829023000 +0000">
+  <programme channel="811" start="20260829020800 +0000" stop="20260829023100 +0000">
     <title>Delicious Japan!</title>
     <desc>Japan boasts a wide variety of fresh produce and quality food. Find out how and where it's all made. Plus: master chefs reveal their special recipes!</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="811" start="20260829023000 +0000" stop="20260829024500 +0000">
+  <programme channel="811" start="20260829023100 +0000" stop="20260829024600 +0000">
     <title>GEO JAPAN</title>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="811" start="20260829024500 +0000" stop="20260829025000 +0000">
-    <title>This World is Filled with Wants 5min.</title>
+  <programme channel="811" start="20260829024600 +0000" stop="20260829025000 +0000">
+    <title>Mini Program</title>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="811" start="20260829025000 +0000" stop="20260829025600 +0000">
@@ -32622,7 +32745,8 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="811" start="20260829034500 +0000" stop="20260829040000 +0000">
-    <title>Drama Serial "The Scent of the Wind" (R)</title>
+    <title>Drama Serial "The Scent of the Wind" Week 22 (R)</title>
+    <desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="811" start="20260829040000 +0000" stop="20260829040500 +0000">
@@ -32728,7 +32852,8 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="811" start="20260829130000 +0000" stop="20260829134500 +0000">
-    <title>Saturday Drama "In Lilac Bloom, The Path to a Veterinarian 2"</title>
+    <title>Saturday Drama "In Lilac Bloom, The Path to a Veterinarian 2" Ep. 2</title>
+    <desc>After passing the national exam, Kishimoto Satori (Yamada Anna), Kajita Ayaka (Toma Ami), and Kubo Zansetsu (Hagiwara Riku) begin careers caring for animals. When foot-and-mouth disease breaks out at a ranch, Satori works with Inukai Kentaro (Kamikawa Takaya) to contain the infection and faces the harsh realities of protecting animal lives.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="811" start="20260829134500 +0000" stop="20260829134900 +0000">
@@ -32860,9 +32985,9 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
   </programme>
   <programme channel="812" start="20260828003000 +0000" stop="20260828010000 +0000">
-    <title>Hikikomori Growing Together</title>
+    <title>Japan in Focus</title>
     <desc>A region in Japan is spotlighted for its unique method to help "hikikomori," individuals withdrawn from society, by having them work in farming, creating a network of support.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch374_hikikomori_growing_together.jpg?w=341%26h=192" />
+    <icon src="https://poster.starhubgo.com/poster/ch374_japan_in_focus.jpg?w=341%26h=192" />
   </programme>
   <programme channel="812" start="20260828010000 +0000" stop="20260828013000 +0000">
     <title>NHK Newsline</title>
@@ -32871,7 +32996,7 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
   </programme>
   <programme channel="812" start="20260828013000 +0000" stop="20260828020000 +0000">
     <title>Asia Insight</title>
-    <desc>An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.</desc>
+    <desc>The Binaliw Landfill in Cebu had taken in up to 1,000 tons of garbage daily, until a waste landslide claimed 39 lives. Now, both the government and citizens seek safe and sustainable waste processing.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch374_AsiaInsight.jpg?w=341%26h=192" />
   </programme>
   <programme channel="812" start="20260828020000 +0000" stop="20260828023000 +0000">
@@ -32891,7 +33016,7 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
   </programme>
   <programme channel="812" start="20260828033000 +0000" stop="20260828040000 +0000">
     <title>Japan Railway Journal</title>
-    <desc>Go behind the scenes of Japan's amazing railways with interesting facts, new technologies, expert tips, where to go, how to get there and more!</desc>
+    <desc>Cycle trains (trains that allow cyclists to board with their bicycles fully assembled) are growing in popularity. See a dedicated cycle train in Chiba, as well as a local railway in Niigata.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch374_JapanRailwayJournal.jpg?w=341%26h=192" />
   </programme>
   <programme channel="812" start="20260828040000 +0000" stop="20260828043000 +0000">
@@ -32910,9 +33035,9 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
   </programme>
   <programme channel="812" start="20260828053000 +0000" stop="20260828060000 +0000">
-    <title>Hikikomori Growing Together</title>
+    <title>Japan in Focus</title>
     <desc>A region in Japan is spotlighted for its unique method to help "hikikomori," individuals withdrawn from society, by having them work in farming, creating a network of support.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch374_hikikomori_growing_together.jpg?w=341%26h=192" />
+    <icon src="https://poster.starhubgo.com/poster/ch374_japan_in_focus.jpg?w=341%26h=192" />
   </programme>
   <programme channel="812" start="20260828060000 +0000" stop="20260828063000 +0000">
     <title>Newsline Asia 24</title>
@@ -32921,7 +33046,7 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
   </programme>
   <programme channel="812" start="20260828063000 +0000" stop="20260828070000 +0000">
     <title>Asia Insight</title>
-    <desc>An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.</desc>
+    <desc>The Binaliw Landfill in Cebu had taken in up to 1,000 tons of garbage daily, until a waste landslide claimed 39 lives. Now, both the government and citizens seek safe and sustainable waste processing.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch374_AsiaInsight.jpg?w=341%26h=192" />
   </programme>
   <programme channel="812" start="20260828070000 +0000" stop="20260828073000 +0000">
@@ -32951,18 +33076,23 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
   </programme>
   <programme channel="812" start="20260828093000 +0000" stop="20260828100000 +0000">
     <title>Japan Railway Journal</title>
-    <desc>Go behind the scenes of Japan's amazing railways with interesting facts, new technologies, expert tips, where to go, how to get there and more!</desc>
+    <desc>Cycle trains (trains that allow cyclists to board with their bicycles fully assembled) are growing in popularity. See a dedicated cycle train in Chiba, as well as a local railway in Niigata.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch374_JapanRailwayJournal.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="812" start="20260828100000 +0000" stop="20260828103000 +0000">
+  <programme channel="812" start="20260828100000 +0000" stop="20260828105000 +0000">
     <title>NHK News 7</title>
     <desc>An evening news bulletin that provides Japan's views on many domestic and international news events.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch374_NHKNEWS7.jpg?w=960%26h=540" />
   </programme>
-  <programme channel="812" start="20260828103000 +0000" stop="20260828110000 +0000">
-    <title>Hikikomori Growing Together</title>
-    <desc>A region in Japan is spotlighted for its unique method to help "hikikomori," individuals withdrawn from society, by having them work in farming, creating a network of support.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch374_hikikomori_growing_together.jpg?w=341%26h=192" />
+  <programme channel="812" start="20260828105000 +0000" stop="20260828105500 +0000">
+    <title>Ramen Japan 5min.</title>
+    <desc>A line-up for ramen in the morning? Head to an area attracting visitors from around the country in search of it!</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch374_RamenJapan.jpg?w=960%26h=540" />
+  </programme>
+  <programme channel="812" start="20260828105500 +0000" stop="20260828110000 +0000">
+    <title>Time-Lapse Japan</title>
+    <desc>A 140-year-old store sells delicate, hand-crafted Japanese confectionery. Traditional techniques present floral beauty in sweets, and the seasonal colours of Izumo are shown in time-lapse images.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch374_TimeLapseJapan.jpg?w=341%26h=192" />
   </programme>
   <programme channel="812" start="20260828110000 +0000" stop="20260828112800 +0000">
     <title>Newsroom Tokyo</title>
@@ -32991,7 +33121,7 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
   </programme>
   <programme channel="812" start="20260828123000 +0000" stop="20260828130000 +0000">
     <title>Asia Insight</title>
-    <desc>An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.</desc>
+    <desc>The Binaliw Landfill in Cebu had taken in up to 1,000 tons of garbage daily, until a waste landslide claimed 39 lives. Now, both the government and citizens seek safe and sustainable waste processing.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch374_AsiaInsight.jpg?w=341%26h=192" />
   </programme>
   <programme channel="812" start="20260828130000 +0000" stop="20260828133000 +0000">
@@ -33020,9 +33150,9 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
   </programme>
   <programme channel="812" start="20260828153000 +0000" stop="20260828160000 +0000">
-    <title>Hikikomori Growing Together</title>
+    <title>Japan in Focus</title>
     <desc>A region in Japan is spotlighted for its unique method to help "hikikomori," individuals withdrawn from society, by having them work in farming, creating a network of support.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch374_hikikomori_growing_together.jpg?w=341%26h=192" />
+    <icon src="https://poster.starhubgo.com/poster/ch374_japan_in_focus.jpg?w=341%26h=192" />
   </programme>
   <programme channel="812" start="20260828160000 +0000" stop="20260828163000 +0000">
     <title>NHK Newsline</title>
@@ -33041,7 +33171,7 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
   </programme>
   <programme channel="812" start="20260828173000 +0000" stop="20260828180000 +0000">
     <title>Asia Insight</title>
-    <desc>An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.</desc>
+    <desc>The Binaliw Landfill in Cebu had taken in up to 1,000 tons of garbage daily, until a waste landslide claimed 39 lives. Now, both the government and citizens seek safe and sustainable waste processing.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch374_AsiaInsight.jpg?w=341%26h=192" />
   </programme>
   <programme channel="812" start="20260828180000 +0000" stop="20260828182800 +0000">
@@ -33090,9 +33220,9 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
   </programme>
   <programme channel="812" start="20260828213000 +0000" stop="20260828220000 +0000">
-    <title>Hikikomori Growing Together</title>
+    <title>Japan in Focus</title>
     <desc>A region in Japan is spotlighted for its unique method to help "hikikomori," individuals withdrawn from society, by having them work in farming, creating a network of support.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch374_hikikomori_growing_together.jpg?w=341%26h=192" />
+    <icon src="https://poster.starhubgo.com/poster/ch374_japan_in_focus.jpg?w=341%26h=192" />
   </programme>
   <programme channel="812" start="20260828220000 +0000" stop="20260828223000 +0000">
     <title>NHK Newsline</title>
@@ -33101,7 +33231,7 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
   </programme>
   <programme channel="812" start="20260828223000 +0000" stop="20260828230000 +0000">
     <title>Asia Insight</title>
-    <desc>An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.</desc>
+    <desc>The Binaliw Landfill in Cebu had taken in up to 1,000 tons of garbage daily, until a waste landslide claimed 39 lives. Now, both the government and citizens seek safe and sustainable waste processing.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch374_AsiaInsight.jpg?w=341%26h=192" />
   </programme>
   <programme channel="812" start="20260828230000 +0000" stop="20260828231000 +0000">
@@ -35285,7 +35415,7 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/poster/ch827_cti_news.jpg?w=341%26h=192" />
   </programme>
   <programme channel="827" start="20260829120000 +0000" stop="20260829130000 +0000">
-    <title>Behind the Frame (290826)</title>
+    <title>Behind the Frame</title>
     <desc>With refined cinematography, this series captures touching untold stories and showcases timeless architectural wonders across eras.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch827_BehindTHEFrame.jpg?w=960%26h=540" />
   </programme>
@@ -35908,7 +36038,7 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <title>Mrs. RevengeWhat's On Today</title>
     <episode-num system="xmltv_ns">.19.0</episode-num>
     <desc>After being murdered by her husband and best friend, Jiang Xingru is reborn and being sent back five years. Using her knowledge of the future, she rebuilds her life, leads a team of women to stand up against toxic men and reclaim their destiny.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch838_mrs_revenge.jpg?w=960%26h=540" />
+    <icon src="https://poster.starhubgo.com/poster/ch838_mrs_revenge_still_ep20.jpg?w=341%26h=192" />
   </programme>
   <programme channel="838" start="20260828183000 +0000" stop="20260828190000 +0000">
     <title>Like Mother, Like Daughter</title>
@@ -35991,34 +36121,19 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/poster/ch838_scoop_2026.jpg?w=960%26h=540" />
   </programme>
   <programme channel="838" start="20260829043000 +0000" stop="20260829050000 +0000">
-    <title>Gourmet Express</title>
-    <desc>Hong Kong is home to gourmet food from all over the world. Our food anchors and hosts keep up with the latest foodie information and offers, gaining an in-depth understanding of the stories behind the taste.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch838_gourmet_express.jpg?w=341%26h=192" />
-  </programme>
-  <programme channel="838" start="20260829050000 +0000" stop="20260829053000 +0000">
-    <title>Scam Alert!</title>
-    <desc>Scams are becoming increasingly sophisticated, and citizens must be vigilant to avoid falling victim! Hosts Au Wing-Kuen, Edwin Siu, Lee Man-Fong and Leung Man-Hau gather various real-life cases to gain a deeper understanding of how victims are scammed.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch838_scam_alert.jpg?w=960%26h=540" />
-  </programme>
-  <programme channel="838" start="20260829053000 +0000" stop="20260829060000 +0000">
     <title>ChatSAT</title>
     <desc>Teenagers are keen on trends. Stepping into the era of technology, they are particularly interested in emerging electronic products and popular media. Our hosts collect the newest information from all over the world, sharing their discoveries with viewers each week.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch838_chatsat.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="838" start="20260829060000 +0000" stop="20260829080000 +0000">
-    <title>Midlife, Sing %26 Shine! 4</title>
+  <programme channel="838" start="20260829050000 +0000" stop="20260829080000 +0000">
+    <title>Midlife, Sing %26 Shine! 4 - Deng Feng Zi Zhan</title>
     <desc>The fourth season of this popular cross-regional music talent contest designed for adults aged 35 and above expands global recruitment, welcoming contestants from Hong Kong, Macao, mainland China, North America, Singapore, Malaysia and Australia.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch838_midlife_sing_and_shine_4.jpg?w=341%26h=192" />
+    <icon src="https://poster.starhubgo.com/poster/ch838_midlife_sing_shine4_deng_feng_zhi_zhan.jpg?w=960%26h=540" />
   </programme>
-  <programme channel="838" start="20260829080000 +0000" stop="20260829100000 +0000">
+  <programme channel="838" start="20260829080000 +0000" stop="20260829103000 +0000">
     <title>Once A Thief</title>
     <desc>Three orphans, raised under the deliberate tutelage of a crime boss, become art thieves. When they are betrayed, their romantic feelings for each other complicate the situation further.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch838_once_a_thief.jpg?w=341%26h=192" />
-  </programme>
-  <programme channel="838" start="20260829100000 +0000" stop="20260829103000 +0000">
-    <title>Dolce Vita 2022</title>
-    <desc>Life in Hong Kong is vibrant and diverse. This lifestyle show combines diverse themes, exploring different areas in each episode and inviting elites from various industries to share their secrets to success.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch838_dolce_vita_2022.jpg?w=341%26h=192" />
   </programme>
   <programme channel="838" start="20260829103000 +0000" stop="20260829110000 +0000">
     <title>News At 18:30</title>
@@ -38175,8 +38290,8 @@ Long lasting Lao marriages revealing timeless lessons on partnership. Dating, co
     <icon src="https://poster.starhubgo.com/Linear_channnes/falseNE?w=341%26h=192" />
   </programme>
   <programme channel="995" start="20260829130000 +0000" stop="20260829140000 +0000">
-    <title>2100 Hot Topics</title>
-    <desc>Don't miss the latest highlights and interviews from Taiwan and around the world.</desc>
+    <title>Taiwan's Youth Housing Loan: Three Years On</title>
+    <desc>Three years after its launch, Taiwan's Youth Housing Loan has lowered barriers to homeownership—but has it also fueled rising housing prices and market speculation? Taiwan's Youth Housing Loan: Three Years On examines the policy's impact.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channnes/falseNE?w=341%26h=192" />
   </programme>
   <programme channel="995" start="20260829140000 +0000" stop="20260829150000 +0000">
