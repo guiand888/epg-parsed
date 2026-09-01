@@ -2326,6 +2326,7 @@
   </programme>
   <programme channel="106" start="20260902110000 +0000" stop="20260902120000 +0000">
     <title>From Openness to Relevance: Singapore’s Economic Future</title>
+    <desc>In a world reshaped by trade tensions, AI and an ageing workforce, Singapore needs to stay competitive, relevant and resilient. Singapore Deputy Prime Minister Gan Kim Yong discusses both external and domestic challenges and lays out broad strategies for Singapore’s economic future.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="106" start="20260902120000 +0000" stop="20260902130000 +0000">
@@ -2343,7 +2344,7 @@
   <programme channel="106" start="20260902133000 +0000" stop="20260902140000 +0000">
     <title>CNA Correspondent</title>
     <episode-num system="xmltv_ns">.17.0</episode-num>
-    <desc>They're your eyes and ears around the globe. CNA's network of correspondents shines a light on stories from their corners of the world, from groundbreaking events to up-and-coming trends.</desc>
+    <desc>Three Asian leaders - Prabowo Subianto, To Lam and Shehbaz Sharif - are forging closer ties and raising their profiles abroad. Can their personal diplomacy translate into real gains back home?</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="106" start="20260902140000 +0000" stop="20260902150000 +0000">
@@ -6887,7 +6888,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
     <title>Biggboss The Common Man</title>
     <episode-num system="xmltv_ns">.16.0</episode-num>
     <desc>The pre-show selects non-celebrity contestants who will enter main show. It introduces their backgrounds, personalities and dreams while revealing the challengers ready to compete.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=960%26h=540" />
+    <icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil.jpg?w=960%26h=540" />
   </programme>
   <programme channel="135" start="20260901193000 +0000" stop="20260901200000 +0000">
     <title>Kanmani Anbudan</title>
@@ -6911,7 +6912,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
     <title>Biggboss The Common Man</title>
     <episode-num system="xmltv_ns">.16.0</episode-num>
     <desc>The pre-show selects non-celebrity contestants who will enter main show. It introduces their backgrounds, personalities and dreams while revealing the challengers ready to compete.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=960%26h=540" />
+    <icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil.jpg?w=960%26h=540" />
   </programme>
   <programme channel="135" start="20260901220000 +0000" stop="20260901223000 +0000">
     <title>Kadhal Kadhal Kadhal</title>
@@ -6965,7 +6966,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
     <title>Biggboss The Common Man</title>
     <episode-num system="xmltv_ns">.16.0</episode-num>
     <desc>The pre-show selects non-celebrity contestants who will enter main show. It introduces their backgrounds, personalities and dreams while revealing the challengers ready to compete.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=960%26h=540" />
+    <icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil.jpg?w=960%26h=540" />
   </programme>
   <programme channel="135" start="20260902033000 +0000" stop="20260902050000 +0000">
     <title>Super Singer Junior</title>
@@ -7025,7 +7026,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
     <title>Biggboss The Common Man</title>
     <episode-num system="xmltv_ns">.16.0</episode-num>
     <desc>The pre-show selects non-celebrity contestants who will enter main show. It introduces their backgrounds, personalities and dreams while revealing the challengers ready to compete.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=960%26h=540" />
+    <icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil.jpg?w=960%26h=540" />
   </programme>
   <programme channel="135" start="20260902100000 +0000" stop="20260902103000 +0000">
     <title>Kadhal Kadhal Kadhal</title>
@@ -7079,7 +7080,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
     <title>Biggboss The Common Man</title>
     <episode-num system="xmltv_ns">.17.0</episode-num>
     <desc>The pre-show selects non-celebrity contestants who will enter main show. It introduces their backgrounds, personalities and dreams while revealing the challengers ready to compete.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=960%26h=540" />
+    <icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil.jpg?w=960%26h=540" />
   </programme>
   <programme channel="135" start="20260902153000 +0000" stop="20260902160000 +0000">
     <title>Azhagae Azhagu</title>
@@ -8067,27 +8068,27 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
     <desc>Stephen Nedumpally rises as the powerful Khureshi-Ab'raam, battling political conspiracies, betrayal and dangerous enemies across global crime networks. Release Year: 2025 Director: Prithviraj Sukumaran</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20260901133000 +0000" stop="20260901170000 +0000">
+  <programme channel="140" start="20260901133000 +0000" stop="20260901163000 +0000">
     <title>Bahubali 2: The Conclusion</title>
     <desc>Since his father was killed by Bhallaladeva, Baahubali plans to defeat him.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20260901170000 +0000" stop="20260901193000 +0000">
+  <programme channel="140" start="20260901163000 +0000" stop="20260901192000 +0000">
     <title>Trance</title>
     <desc>Motivational speaker Viju becomes the front for a religious scam, spiraling into darkness and delusion as his fame rises, fueled by rigorous training. Release Year: 2020 Director: Anwar Rasheed</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20260901193000 +0000" stop="20260901213000 +0000">
+  <programme channel="140" start="20260901192000 +0000" stop="20260901214500 +0000">
     <title>Bharya athra pora</title>
     <desc>Priya is angered to discover her alcoholic husband, Sathyanadhan, is romantically involved with Neena. The situation worsens as she seeks a divorce and her family takes misguided actions. Release Year: 2013 Director: Akku Akbar</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20260901213000 +0000" stop="20260901233000 +0000">
+  <programme channel="140" start="20260901214500 +0000" stop="20260901231000 +0000">
     <title>Kilipoyi</title>
     <desc>Fed up with their boss and her tantrums, Chacko and Hari decide to go on a trip to Goa. Their lives take a turn when they get hold of a mysterious bag. Release Year: 2013 Director: Vinay Govind</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20260901233000 +0000" stop="20260902013000 +0000">
+  <programme channel="140" start="20260901231000 +0000" stop="20260902013000 +0000">
     <title>Onnum Mindathe</title>
     <desc>Sachithanandan, an agricultural officer, lives with his wife. Their life turns upside down when a friend decides to stay with them for a few days. Release Year: 2014 Director: Sugeeth</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
@@ -11412,7 +11413,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
     <icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=960%26h=540" />
   </programme>
   <programme channel="209" start="20260902150000 +0000" stop="20260902153000 +0000">
-    <title>2026 US Open Tennis Highlights Day 3</title>
+    <title>2026 US Open Tennis Highlights Day 3 (020926)</title>
     <desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the final Grand Slam of the year.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=960%26h=540" />
   </programme>
@@ -11981,18 +11982,13 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
     <desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch214_premier_padel.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="214" start="20260901130000 +0000" stop="20260901140000 +0000">
-    <title>MUTV: Specials</title>
-    <desc>Get your fix of award winning films, documentaries %26 original programming related to the Red Devils as part of MUTV, only on beIN Sports</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch214_mutv.jpg?w=341%26h=192" />
-  </programme>
-  <programme channel="214" start="20260901140000 +0000" stop="20260901150000 +0000">
-    <title>MUTV: Specials</title>
-    <desc>Get your fix of award winning films, documentaries %26 original programming related to the Red Devils as part of MUTV, only on beIN Sports</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch214_mutv.jpg?w=341%26h=192" />
+  <programme channel="214" start="20260901130000 +0000" stop="20260901150000 +0000">
+    <title>Premier Padel 2026: Madrid P1 Day 1 Match 5</title>
+    <desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch214_premier_padel.jpg?w=341%26h=192" />
   </programme>
   <programme channel="214" start="20260901150000 +0000" stop="20260901163000 +0000">
-    <title>Premier Padel 2026: Madrid P1 Day 1 Match 5</title>
+    <title>Premier Padel 2026: Madrid P1 Day 1 Match 6</title>
     <desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch214_premier_padel.jpg?w=341%26h=192" />
   </programme>
@@ -32451,8 +32447,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="811" start="20260901072000 +0000" stop="20260901074500 +0000">
-    <title>Gentle Journeys (R)</title>
-    <desc>A journey to the different places around Japan.</desc>
+    <title>Kyoto's Finest Goods Travelogue</title>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="811" start="20260901074500 +0000" stop="20260901080000 +0000">
@@ -32842,7 +32837,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="811" start="20260902105700 +0000" stop="20260902114300 +0000">
-    <title>Hidden Doors! Exploring the Unknown World "Oriental Paperbush from Nepal"</title>
+    <title>Hidden Doors! Exploring the Unknown World Encore</title>
     <desc>Aiba Masaki hosts a brand‑new overseas travel show like no other. He visits hidden places rarely introduced in Japanese media, guided by local residents, and also travels abroad to thank the people who make the everyday items we rely on. From stunning scenery and unique cuisine to surprising lifestyles and unexpected ties to Japan, the show uncovers the world’s hidden secrets.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
@@ -35959,20 +35954,149 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
     <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="832" start="20260901160000 +0000" stop="20260901220000 +0000">
-    <title>Information Not Available</title>
+  <programme channel="832" start="20260901160000 +0000" stop="20260901165800 +0000">
+    <title>THE CITY OF MUSICALS</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="832" start="20260901220000 +0000" stop="20260902040000 +0000">
-    <title>Information Not Available</title>
+  <programme channel="832" start="20260901165800 +0000" stop="20260901172300 +0000">
+    <title>I LOVE SHANGHAI</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="832" start="20260902040000 +0000" stop="20260902100000 +0000">
-    <title>Information Not Available</title>
+  <programme channel="832" start="20260901172300 +0000" stop="20260901173500 +0000">
+    <title>ShanghaiEye</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="832" start="20260902100000 +0000" stop="20260902160000 +0000">
-    <title>Information Not Available</title>
+  <programme channel="832" start="20260901173500 +0000" stop="20260901183400 +0000">
+    <title>Dragon TV Primetime News</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260901183400 +0000" stop="20260901201400 +0000">
+    <title>Future China</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260901201400 +0000" stop="20260901210400 +0000">
+    <title>Overtime No More</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260901210400 +0000" stop="20260901221000 +0000">
+    <title>A Green Trip</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260901221000 +0000" stop="20260901223500 +0000">
+    <title>New Entertainment</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260901223500 +0000" stop="20260901230000 +0000">
+    <title>CARE ON THE WAY</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260901230000 +0000" stop="20260902010000 +0000">
+    <title>Dragon TV Morning News</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260902010000 +0000" stop="20260902015600 +0000">
+    <title>A Green Trip</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260902015600 +0000" stop="20260902030900 +0000">
+    <title>Ai Romance</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260902030900 +0000" stop="20260902033400 +0000">
+    <title>New Entertainment</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260902033400 +0000" stop="20260902040000 +0000">
+    <title>CARE ON THE WAY</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260902040000 +0000" stop="20260902043000 +0000">
+    <title>MIDDAY NEWS</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260902043000 +0000" stop="20260902044200 +0000">
+    <title>ShanghaiEye</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260902044200 +0000" stop="20260902062600 +0000">
+    <title>Future China</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260902062600 +0000" stop="20260902074500 +0000">
+    <title>Dream Home</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260902074500 +0000" stop="20260902090900 +0000">
+    <title>Ai Romance</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260902090900 +0000" stop="20260902093500 +0000">
+    <title>New Entertainment</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260902093500 +0000" stop="20260902100000 +0000">
+    <title>CARE ON THE WAY</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260902100000 +0000" stop="20260902105800 +0000">
+    <title>Dragon TV Primetime News</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260902105800 +0000" stop="20260902111000 +0000">
+    <title>ShanghaiEye</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260902111000 +0000" stop="20260902123000 +0000">
+    <title>Dream Home</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260902123000 +0000" stop="20260902132300 +0000">
+    <title>A Green Trip</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260902132300 +0000" stop="20260902141600 +0000">
+    <title>Future China</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260902141600 +0000" stop="20260902144100 +0000">
+    <title>New Entertainment</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260902144100 +0000" stop="20260902150600 +0000">
+    <title>CARE ON THE WAY</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260902150600 +0000" stop="20260902160000 +0000">
+    <title>Ai Romance</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="838" start="20260831160000 +0000" stop="20260831163000 +0000">
