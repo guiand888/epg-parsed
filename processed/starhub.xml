@@ -156,14 +156,6 @@
     <display-name>Hub Sports 5 HD</display-name>
     <icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=272" />
   </channel>
-  <channel id="206">
-    <display-name>Hub Sports 6 HD</display-name>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=272" />
-  </channel>
-  <channel id="207">
-    <display-name>Hub Sports 7 HD</display-name>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=272" />
-  </channel>
   <channel id="209">
     <display-name>SPOTV</display-name>
     <icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=272" />
@@ -1753,7 +1745,7 @@
   <programme channel="104" start="20260903070000 +0000" stop="20260903073000 +0000">
     <title>Detik Semasa</title>
     <episode-num system="xmltv_ns">.16.0</episode-num>
-    <desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
+    <desc>Marine Parade was built on land that was once sea. Now, Long Island is set to reshape the East Coast shoreline once again. How does Marine Parade’s experience offer a glimpse of the changes to come? Detik KitorangSG: We know Mardan Mamat as a prominent figure in the Singaporean golf scene. Yet, behind his success lies a story that many may not be aware of - one involving humble beginnings, career sacrifices, and a life-changing moment.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="104" start="20260903073000 +0000" stop="20260903080000 +0000">
@@ -2260,7 +2252,7 @@
   <programme channel="106" start="20260902210000 +0000" stop="20260902213000 +0000">
     <title>Money Mind</title>
     <episode-num system="xmltv_ns">.18.0</episode-num>
-    <desc>Money Mind is a weekly magazine programme centering on personal finance. Every week, the programme offers tips on how to grow, save and spend your money wisely.</desc>
+    <desc>Red flags that could stop you losing money on renovations. Can a low-cost AI side hustle earn enough to make the hours worth it? Plus – he runs three businesses, but only one pays him.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="106" start="20260902213000 +0000" stop="20260902220000 +0000">
@@ -2284,7 +2276,7 @@
   <programme channel="106" start="20260903020000 +0000" stop="20260903023000 +0000">
     <title>Money Mind</title>
     <episode-num system="xmltv_ns">.18.0</episode-num>
-    <desc>Money Mind is a weekly magazine programme centering on personal finance. Every week, the programme offers tips on how to grow, save and spend your money wisely.</desc>
+    <desc>Red flags that could stop you losing money on renovations. Can a low-cost AI side hustle earn enough to make the hours worth it? Plus – he runs three businesses, but only one pays him.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="106" start="20260903023000 +0000" stop="20260903030000 +0000">
@@ -10969,12 +10961,12 @@ Parisian hotel. Her colleagues are a close-knit team of strong characters. She a
     <icon src="https://poster.starhubgo.com/poster/ch202_total_combat_2024.jpg?w=960%26h=540" />
   </programme>
   <programme channel="202" start="20260902170000 +0000" stop="20260902190000 +0000">
-    <title>World Snooker Championship 2026</title>
+    <title>World Snooker Championship 2026 Day 15 Morning Session: SF 2</title>
     <desc>The World Snooker Championship is the most prestigious and longest-running professional snooker tournament, established in 1927. Played annually over 17 days at the Crucible Theatre in Sheffield, England, since 1977, it is the pinnacle of the sport, concluding the season's Triple Crown Series.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch202_world_matchplay_darts_2026.jpg?w=341%26h=192" />
   </programme>
   <programme channel="202" start="20260902190000 +0000" stop="20260902210000 +0000">
-    <title>World Snooker Championship 2026</title>
+    <title>World Snooker Championship 2026 Day 15 Evening Session: SF 2 (Final)</title>
     <desc>The World Snooker Championship is the most prestigious and longest-running professional snooker tournament, established in 1927. Played annually over 17 days at the Crucible Theatre in Sheffield, England, since 1977, it is the pinnacle of the sport, concluding the season's Triple Crown Series.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch202_world_matchplay_darts_2026.jpg?w=341%26h=192" />
   </programme>
@@ -11202,86 +11194,6 @@ Parisian hotel. Her colleagues are a close-knit team of strong characters. She a
     <title>End of Transmission</title>
     <desc>End of Transmission</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=960%26h=540" />
-  </programme>
-  <programme channel="206" start="20260901160000 +0000" stop="20260901220000 +0000">
-    <title>End of Transmission</title>
-    <desc>End of Transmission</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
-  </programme>
-  <programme channel="206" start="20260901220000 +0000" stop="20260902040000 +0000">
-    <title>End of Transmission</title>
-    <desc>End of Transmission</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
-  </programme>
-  <programme channel="206" start="20260902040000 +0000" stop="20260902100000 +0000">
-    <title>End of Transmission</title>
-    <desc>End of Transmission</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
-  </programme>
-  <programme channel="206" start="20260902100000 +0000" stop="20260902160000 +0000">
-    <title>End of Transmission</title>
-    <desc>End of Transmission</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
-  </programme>
-  <programme channel="206" start="20260902160000 +0000" stop="20260902220000 +0000">
-    <title>End of Transmission</title>
-    <desc>End of Transmission</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
-  </programme>
-  <programme channel="206" start="20260902220000 +0000" stop="20260903040000 +0000">
-    <title>End of Transmission</title>
-    <desc>End of Transmission</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
-  </programme>
-  <programme channel="206" start="20260903040000 +0000" stop="20260903100000 +0000">
-    <title>End of Transmission</title>
-    <desc>End of Transmission</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
-  </programme>
-  <programme channel="206" start="20260903100000 +0000" stop="20260903160000 +0000">
-    <title>End of Transmission</title>
-    <desc>End of Transmission</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
-  </programme>
-  <programme channel="207" start="20260901160000 +0000" stop="20260901220000 +0000">
-    <title>End of Transmission</title>
-    <desc>End of Transmission</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
-  </programme>
-  <programme channel="207" start="20260901220000 +0000" stop="20260902040000 +0000">
-    <title>End of Transmission</title>
-    <desc>End of Transmission</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
-  </programme>
-  <programme channel="207" start="20260902040000 +0000" stop="20260902100000 +0000">
-    <title>End of Transmission</title>
-    <desc>End of Transmission</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
-  </programme>
-  <programme channel="207" start="20260902100000 +0000" stop="20260902160000 +0000">
-    <title>End of Transmission</title>
-    <desc>End of Transmission</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
-  </programme>
-  <programme channel="207" start="20260902160000 +0000" stop="20260902220000 +0000">
-    <title>End of Transmission</title>
-    <desc>End of Transmission</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
-  </programme>
-  <programme channel="207" start="20260902220000 +0000" stop="20260903040000 +0000">
-    <title>End of Transmission</title>
-    <desc>End of Transmission</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
-  </programme>
-  <programme channel="207" start="20260903040000 +0000" stop="20260903100000 +0000">
-    <title>End of Transmission</title>
-    <desc>End of Transmission</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
-  </programme>
-  <programme channel="207" start="20260903100000 +0000" stop="20260903160000 +0000">
-    <title>End of Transmission</title>
-    <desc>End of Transmission</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
   <programme channel="209" start="20260901153000 +0000" stop="20260901203000 +0000">
     <title>2026 US Open Tennis Championships Day 3</title>
@@ -21722,24 +21634,25 @@ Parisian hotel. Her colleagues are a close-knit team of strong characters. She a
   <programme channel="447" start="20260902020000 +0000" stop="20260902023000 +0000">
     <title>ABC News At Noon</title>
     <episode-num system="xmltv_ns">.174.0</episode-num>
-    <desc>The leading news at lunchtime. Ros Childs brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
+    <desc>The leading news at lunchtime. Kathryn Robinson brings you today's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
   </programme>
   <programme channel="447" start="20260902023000 +0000" stop="20260902030000 +0000">
     <title>Landline</title>
     <episode-num system="xmltv_ns">.27.0</episode-num>
-    <desc>A tasty sampler of stories from the land - covering food, agriculture, crops, climate, business and innovation - as we meet the fascinating people who make our rural and regional communities unique. Presented by Pip Courtney.</desc>
+    <desc>The woman helping producers recover value from farm waste; and why this year is shaping up as one to remember for the sheep industry.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
   </programme>
   <programme channel="447" start="20260902030000 +0000" stop="20260902034500 +0000">
     <title>Four Corners</title>
-    <desc>ABC Australia delivers a mix of programmes including news and current affairs, sports, comedies, drama, documentaries, education and award-winning children's programmes.</desc>
+    <episode-num system="xmltv_ns">.19.0</episode-num>
+    <desc>As the AFL pushes for growth, we uncover new evidence of brain disease in younger players. Families of players diagnosed with CTE speak about the risks of repeated head trauma. Has the AFL been transparent about the risks?</desc>
     <icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
   </programme>
   <programme channel="447" start="20260902034500 +0000" stop="20260902040000 +0000">
     <title>Media Watch</title>
     <episode-num system="xmltv_ns">.29.0</episode-num>
-    <desc>Australia's leading forum for media analysis and comment. Walkley award-winning investigative reporter and former foreign correspondent Linton Besser brings you a fearless critique of the week's journalism.</desc>
+    <desc>Images of the Himalayan floods circulated the globe, except in China, where media tightly controlled what people saw. The case that gripped the internet, fuelled in part by an algorithm that rewards conspiratorial thinking.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
   </programme>
   <programme channel="447" start="20260902040000 +0000" stop="20260902043000 +0000">
@@ -21774,7 +21687,7 @@ Parisian hotel. Her colleagues are a close-knit team of strong characters. She a
   <programme channel="447" start="20260902083000 +0000" stop="20260902090000 +0000">
     <title>That Pacific Sports Show</title>
     <episode-num system="xmltv_ns">.29.0</episode-num>
-    <desc>Join Tiana Penitani Gray and Sam Wykes for your weekly hit of Pacific joy, as they share inspiring stories and incredible sporting prowess of athletes with Pacific Island heritage, from Australia and around the world.</desc>
+    <desc>NRLW Wests Tigers Sala Togatuki and North Sydney Bears player Ammaron Gudgeon join Tiana Penitani Gray and Sam Wykes in the studio. Plus we head to Honiara to see what it takes to build an archery club from the ground up.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
   </programme>
   <programme channel="447" start="20260902090000 +0000" stop="20260902093000 +0000">
@@ -21803,31 +21716,32 @@ Parisian hotel. Her colleagues are a close-knit team of strong characters. She a
   </programme>
   <programme channel="447" start="20260902115500 +0000" stop="20260902124500 +0000">
     <title>Four Corners</title>
-    <desc>ABC Australia delivers a mix of programmes including news and current affairs, sports, comedies, drama, documentaries, education and award-winning children's programmes.</desc>
+    <episode-num system="xmltv_ns">.19.0</episode-num>
+    <desc>As the AFL pushes for growth, we uncover new evidence of brain disease in younger players. Families of players diagnosed with CTE speak about the risks of repeated head trauma. Has the AFL been transparent about the risks?</desc>
     <icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
   </programme>
   <programme channel="447" start="20260902124500 +0000" stop="20260902130000 +0000">
     <title>Media Watch</title>
     <episode-num system="xmltv_ns">.29.0</episode-num>
-    <desc>Australia's leading forum for media analysis and comment. Walkley award-winning investigative reporter and former foreign correspondent Linton Besser brings you a fearless critique of the week's journalism.</desc>
+    <desc>Images of the Himalayan floods circulated the globe, except in China, where media tightly controlled what people saw. The case that gripped the internet, fuelled in part by an algorithm that rewards conspiratorial thinking.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
   </programme>
   <programme channel="447" start="20260902130000 +0000" stop="20260902140000 +0000">
     <title>Landline</title>
     <episode-num system="xmltv_ns">.28.0</episode-num>
-    <desc>Hosted by award-winning journalist Pip Courtney, Landline is Australia's only national agricultural television program covering stories from Australia's rural and regional heartland.</desc>
+    <desc>How bird flu is affecting the free-range industry; Remote Munga-Thirri National Park's lone ranger hands in his badge after three decades; Clearing European carp from a Murray River wetland; and meet Heywire winner Lane.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
   </programme>
   <programme channel="447" start="20260902140000 +0000" stop="20260902141500 +0000">
     <title>ABC Late News</title>
     <episode-num system="xmltv_ns">.174.0</episode-num>
-    <desc>End your day with the latest on the day's top stories. ABC News has reporters across Australia and around the globe to uncover what's happening and why it matters.</desc>
+    <desc>End your day with the latest on the day's top stories. ABC News has reporters across Australia and around the globe to uncover what's happening and why it matters. Presented by Craig Smart in Perth.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
   </programme>
   <programme channel="447" start="20260902141500 +0000" stop="20260902143000 +0000">
     <title>The Business</title>
     <episode-num system="xmltv_ns">.122.0</episode-num>
-    <desc>Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, employees and business owners big and small. Presented by Kirsten Aiken.</desc>
+    <desc>The national accounts are released revealing the health of Australia's economy during the June quarter. In first three months of 2026, the economy grew at 0.3% while the living standards went backwards and productivity fell.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
   </programme>
   <programme channel="447" start="20260902143000 +0000" stop="20260902150000 +0000">
@@ -21856,13 +21770,14 @@ Parisian hotel. Her colleagues are a close-knit team of strong characters. She a
   </programme>
   <programme channel="447" start="20260902172500 +0000" stop="20260902181500 +0000">
     <title>Four Corners</title>
-    <desc>ABC Australia delivers a mix of programmes including news and current affairs, sports, comedies, drama, documentaries, education and award-winning children's programmes.</desc>
+    <episode-num system="xmltv_ns">.19.0</episode-num>
+    <desc>As the AFL pushes for growth, we uncover new evidence of brain disease in younger players. Families of players diagnosed with CTE speak about the risks of repeated head trauma. Has the AFL been transparent about the risks?</desc>
     <icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
   </programme>
   <programme channel="447" start="20260902181500 +0000" stop="20260902183000 +0000">
     <title>Media Watch</title>
     <episode-num system="xmltv_ns">.29.0</episode-num>
-    <desc>Australia's leading forum for media analysis and comment. Walkley award-winning investigative reporter and former foreign correspondent Linton Besser brings you a fearless critique of the week's journalism.</desc>
+    <desc>Images of the Himalayan floods circulated the globe, except in China, where media tightly controlled what people saw. The case that gripped the internet, fuelled in part by an algorithm that rewards conspiratorial thinking.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
   </programme>
   <programme channel="447" start="20260902183000 +0000" stop="20260902190000 +0000">
