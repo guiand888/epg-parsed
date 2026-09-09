@@ -1615,7 +1615,7 @@
   <programme channel="103" start="20260910143000 +0000" stop="20260910150000 +0000">
     <title>Focus</title>
     <episode-num system="xmltv_ns">.23.0</episode-num>
-    <desc>Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+    <desc>Political salaries and MPs’ pay have remained unchanged since 2011. A new review has been completed. How is the framework set? Trump’s push to engage Kim Jong Un has raised doubts over U.S. security commitments. Could it trigger a nuclear arms race? In her new memoir, infectious disease expert Leo Yee Sin reveals her untold experiences.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="103" start="20260910150000 +0000" stop="20260910160000 +0000">
@@ -1791,13 +1791,13 @@
   <programme channel="104" start="20260910070000 +0000" stop="20260910073000 +0000">
     <title>Detik Semasa</title>
     <episode-num system="xmltv_ns">.17.0</episode-num>
-    <desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
+    <desc>Learn the Malay language and culture to foster closer ties with neighbors and unlock new opportunities. How does the importance of understanding the Malay language and culture intertwined deeply in recent years? Detik KitorangSG: Zaliha Hamid, affectionately known as Mak Leha, reflects on her family, loss, friendship and her remarkable journey as an entertainer – revealing a side of the veteran comedian that many may not have seen before.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="104" start="20260910073000 +0000" stop="20260910080000 +0000">
-    <title>Wira Kita</title>
-    <episode-num system="xmltv_ns">1.0.0</episode-num>
-    <desc>Wira Kita will feature members of the community who have made great contributions to the community those who have risen above great challenges to achieve success those who are selfless in carrying out their duties despite challenges and risks or those who are passionate about raising awareness or championing causes.</desc>
+    <title>Jalan Lain</title>
+    <episode-num system="xmltv_ns">.1.0</episode-num>
+    <desc>Suzairhe meets Zai Miztiq - author, model and life coach as she recaps her early entrepreneurial spirit before a horrible accident left her with almost no chance of walking again and her perseverance to not just get back to her feet but rise to the top again.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="104" start="20260910080000 +0000" stop="20260910090000 +0000">
@@ -2121,6 +2121,7 @@
   <programme channel="105" start="20260910153000 +0000" stop="20260910160000 +0000">
     <title>Ethiroli</title>
     <episode-num system="xmltv_ns">22.21.0</episode-num>
+    <desc>A panel of parents, educators, a social worker, and a youth discusses how smartphones, social media and AI are shaping childhood today. From school phone rules and online safety to new regulations for social media platforms, the panel explores how children can benefit from technology without becoming overly dependent on it.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="106" start="20260908160000 +0000" stop="20260908160300 +0000">
@@ -2285,7 +2286,7 @@
     <icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="106" start="20260909190000 +0000" stop="20260909200000 +0000">
-    <title>Death Loans: Thailand’s Cyanide Murders</title>
+    <title>Death Loans: Thailand's Cyanide Murders</title>
     <episode-num system="xmltv_ns">.0.0</episode-num>
     <desc>A young Thai mother dies suddenly by a river. Her family’s search for answers uncovers a crucial clue, CCTV footage that reveals she wasn’t alone - and signs that her death may not be an isolated case.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
@@ -9865,14 +9866,9 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
     <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="153" start="20260908190200 +0000" stop="20260908191500 +0000">
+  <programme channel="153" start="20260908190200 +0000" stop="20260908193000 +0000">
     <title>DW News Focus</title>
     <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
-  </programme>
-  <programme channel="153" start="20260908191500 +0000" stop="20260908193000 +0000">
-    <title>Asia 2050</title>
-    <desc>Each year, Asia contributes to emissions by constructing towers from concrete, timber, and steel, exacerbating the planet’s decline and the increasing unpredictability of our climate. However, on the tropical island of Bali, a collective of designers, craftsmen, and social entrepreneurs is working with indigenous communities in what is known as a restorative economy.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260908193000 +0000" stop="20260908200000 +0000">
@@ -11213,7 +11209,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
   <programme channel="203" start="20260910110000 +0000" stop="20260910120000 +0000">
     <title>Road to the Presidents Cup</title>
     <desc>The 2026 Presidents Cup will be the 16th edition of the Presidents Cup golf competition, being held at Medinah Country Club in Medinah, Illinois.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch203_Presidents_Cup.jpg?w=960%26h=540" />
+    <icon src="https://poster.starhubgo.com/poster/ch203_Road_to_the_Presidents_Cup.jpg?w=341%26h=192" />
   </programme>
   <programme channel="203" start="20260910120000 +0000" stop="20260910123000 +0000">
     <title>DP World Tour 2026 Highlights</title>
@@ -11379,7 +11375,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
   <programme channel="209" start="20260909223000 +0000" stop="20260909230000 +0000">
     <title>2026 US Open Tennis Highlights Day 10</title>
     <desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the final Grand Slam of the year.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=960%26h=540" />
+    <icon src="https://poster.starhubgo.com/poster/ch209_US_Open_2026_Day_10.jpg?w=341%26h=192" />
   </programme>
   <programme channel="209" start="20260909230000 +0000" stop="20260910043000 +0000">
     <title>2026 US Open Tennis Championships Day 11</title>
@@ -11409,7 +11405,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
   <programme channel="209" start="20260910143000 +0000" stop="20260910150000 +0000">
     <title>2026 US Open Tennis Highlights Day 11</title>
     <desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the final Grand Slam of the year.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=960%26h=540" />
+    <icon src="https://poster.starhubgo.com/poster/ch209_US_Open_2026_Day_11.jpg?w=341%26h=192" />
   </programme>
   <programme channel="209" start="20260910150000 +0000" stop="20260910160000 +0000">
     <title>2026 LET: The Solheim Cup</title>
@@ -11930,11 +11926,11 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
   </programme>
   <programme channel="214" start="20260908235000 +0000" stop="20260909014000 +0000">
     <title>UEFA Champions League 2026/27: Lille vs Real Betis - MD1</title>
-    <icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=960%26h=540" />
+    <icon src="https://poster.starhubgo.com/poster/ch213_uefa_champions_league_generic.jpg?w=960%26h=540" />
   </programme>
   <programme channel="214" start="20260909014000 +0000" stop="20260909033000 +0000">
     <title>UEFA Champions League 2026/27: Real Madrid vs Inter - MD1</title>
-    <icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=960%26h=540" />
+    <icon src="https://poster.starhubgo.com/poster/ch213_uefa_champions_league_generic.jpg?w=960%26h=540" />
   </programme>
   <programme channel="214" start="20260909033000 +0000" stop="20260909043000 +0000">
     <title>UEFA Champions League Highlights 2026/27</title>
@@ -11957,7 +11953,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
   </programme>
   <programme channel="214" start="20260909073000 +0000" stop="20260909092000 +0000">
     <title>UEFA Champions League 2026/27: Porto vs Man City - MD1</title>
-    <icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=960%26h=540" />
+    <icon src="https://poster.starhubgo.com/poster/ch214_UECL_live_match.jpg?w=960%26h=540" />
   </programme>
   <programme channel="214" start="20260909092000 +0000" stop="20260909093000 +0000">
     <title>UCL Classic Matches Anderlecht vs PSG (2013/14)</title>
@@ -11974,15 +11970,20 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
     <desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch214_premier_padel.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="214" start="20260909113000 +0000" stop="20260909130000 +0000">
+  <programme channel="214" start="20260909113000 +0000" stop="20260909123000 +0000">
     <title>Premier Padel 2026: Paris Major Day 3 Match 2</title>
     <desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch214_premier_padel.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="214" start="20260909130000 +0000" stop="20260909143000 +0000">
+  <programme channel="214" start="20260909123000 +0000" stop="20260909140000 +0000">
     <title>Premier Padel 2026: Paris Major Day 3 Match 3</title>
     <desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch214_premier_padel.jpg?w=341%26h=192" />
+  </programme>
+  <programme channel="214" start="20260909140000 +0000" stop="20260909143000 +0000">
+    <title>MUTV: Specials</title>
+    <desc>Get your fix of award winning films, documentaries %26 original programming related to the Red Devils as part of MUTV, only on beIN Sports</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch214_mutv.jpg?w=341%26h=192" />
   </programme>
   <programme channel="214" start="20260909143000 +0000" stop="20260909150000 +0000">
     <title>MUTV: Treble Twenty Man Utd vs Sheff Wed</title>
@@ -12009,7 +12010,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
   </programme>
   <programme channel="214" start="20260909185500 +0000" stop="20260909210000 +0000">
     <title>UEFA Champions League 2026/27: Napoli vs Arsenal - MD1</title>
-    <icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=960%26h=540" />
+    <icon src="https://poster.starhubgo.com/poster/ch213_uefa_champions_league_generic.jpg?w=960%26h=540" />
   </programme>
   <programme channel="214" start="20260909210000 +0000" stop="20260909220000 +0000">
     <title>UCL Classic Matches Celtic vs Juventus (2001/02)</title>
@@ -12023,7 +12024,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
   </programme>
   <programme channel="214" start="20260909230000 +0000" stop="20260910005000 +0000">
     <title>UEFA Champions League 2026/27: Sporting vs Galatasaray - MD1</title>
-    <icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=960%26h=540" />
+    <icon src="https://poster.starhubgo.com/poster/ch213_uefa_champions_league_generic.jpg?w=960%26h=540" />
   </programme>
   <programme channel="214" start="20260910005000 +0000" stop="20260910024000 +0000">
     <title>UEFA Champions League 2026/27: Liverpool vs Atletico Madrid - MD1</title>
