@@ -1138,7 +1138,7 @@
   <programme channel="102" start="20260911133000 +0000" stop="20260911140000 +0000">
     <title>On The Red Dot</title>
     <episode-num system="xmltv_ns">.16.0</episode-num>
-    <desc>On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+    <desc>Radio DJ Gerald Koh and conservation educator John Chua surprise the teachers who shaped their lives.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="102" start="20260911140000 +0000" stop="20260911155000 +0000">
@@ -1577,7 +1577,7 @@
   <programme channel="103" start="20260911120000 +0000" stop="20260911123000 +0000">
     <title>Every Body Knows</title>
     <episode-num system="xmltv_ns">2.14.0</episode-num>
-    <desc>Every Body Knows focuses on everyday health, bringing together Western medicine, TCM, and nutrition. From medical visuals to food and exercise demos, plus fun re-enactments, it breaks down complex topics into simple, easy-to-understand insights. Join Mark Lee, Lee Teng, Kym Ng, and Gini Chang as they explore health topics in a fun and engaging way!</desc>
+    <desc>Does immunity age with the body? A TCM physician explains immune ageing, why immune balance matters, and how sleep, diet, exercise, gut health and suitable herbal care can help support the body’s defence and recovery.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="103" start="20260911123000 +0000" stop="20260911130000 +0000">
@@ -9821,18 +9821,8 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
     <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="153" start="20260909183000 +0000" stop="20260909190000 +0000">
-    <title>DocFilm</title>
-    <desc>Lars used to be a police officer. Together with his wife Sandy and their young son, he moved from Germany to a remote Scottish island in the Atlantic.</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
-  </programme>
   <programme channel="153" start="20260909190000 +0000" stop="20260909190200 +0000">
     <title>DW News</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
-  </programme>
-  <programme channel="153" start="20260909190200 +0000" stop="20260909191500 +0000">
-    <title>DW News Focus</title>
     <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
@@ -9883,11 +9873,6 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
   </programme>
   <programme channel="153" start="20260909230000 +0000" stop="20260909230200 +0000">
     <title>DW News</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
-  </programme>
-  <programme channel="153" start="20260909230200 +0000" stop="20260909231500 +0000">
-    <title>DW News Focus</title>
     <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
@@ -9942,8 +9927,8 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260910023000 +0000" stop="20260910030000 +0000">
-    <title>Made in Germany</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <title>DW News Focus</title>
+    <desc>More than 170,000 pages of long-hidden records show New York City officials knew the air quality around Ground Zero was toxic, but publicly maintained it was safe to breathe.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260910030000 +0000" stop="20260910030200 +0000">
@@ -9957,7 +9942,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260910031500 +0000" stop="20260910033000 +0000">
-    <title>History</title>
+    <title>DocFilm</title>
     <desc>Some of the world’s deadliest drugs once began as "safe” medicine. From ancient opium to heroin, OxyContin and fentanyl,  this video traces how miracle cures became global crises.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
@@ -10007,7 +9992,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260910061500 +0000" stop="20260910063000 +0000">
-    <title>History</title>
+    <title>DocFilm</title>
     <desc>Some of the world’s deadliest drugs once began as "safe” medicine. From ancient opium to heroin, OxyContin and fentanyl,  this video traces how miracle cures became global crises.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
@@ -10033,7 +10018,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
   </programme>
   <programme channel="153" start="20260910080200 +0000" stop="20260910083000 +0000">
     <title>Made in Germany</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Tech giants, Trump family's business dynasty, defense firms and military communities are becoming ever more important. Made in Germany reveals how power is shifting.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260910083000 +0000" stop="20260910090000 +0000">
@@ -10053,7 +10038,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
   </programme>
   <programme channel="153" start="20260910091500 +0000" stop="20260910100000 +0000">
     <title>DocFilm</title>
-    <desc>Inside the AfD looks behind the respectable facade of the Alternative for Germany political party. Insiders reveal the tough tactics used by the right-wing populists to combat criticism.</desc>
+    <desc>"Inside the AfD" looks behind the respectable facade of the Alternative for Germany political party. Insiders reveal the tough tactics used by the right-wing populists to combat criticism.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260910100000 +0000" stop="20260910100200 +0000">
@@ -10133,7 +10118,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
   </programme>
   <programme channel="153" start="20260910141500 +0000" stop="20260910150000 +0000">
     <title>DocFilm</title>
-    <desc>Inside the AfD looks behind the respectable facade of the Alternative for Germany political party. Insiders reveal the tough tactics used by the right-wing populists to combat criticism.</desc>
+    <desc>"Inside the AfD" looks behind the respectable facade of the Alternative for Germany political party. Insiders reveal the tough tactics used by the right-wing populists to combat criticism.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260910150000 +0000" stop="20260910153000 +0000">
@@ -10198,7 +10183,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
   </programme>
   <programme channel="153" start="20260910193000 +0000" stop="20260910200000 +0000">
     <title>To the Point</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>The AfD's landslide victory marks a turning point. What are the consequences for Germany when a far-right party wins so decisively in Saxony-Anhalt? Our guests: Nadine Lindner (DLF); Malte Lehming (Tagesspiegel); Michaela Küfner (DW)</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260910200000 +0000" stop="20260910203000 +0000">
@@ -10223,7 +10208,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
   </programme>
   <programme channel="153" start="20260910211500 +0000" stop="20260910220000 +0000">
     <title>DocFilm</title>
-    <desc>Inside the AfD looks behind the respectable facade of the Alternative for Germany political party. Insiders reveal the tough tactics used by the right-wing populists to combat criticism.</desc>
+    <desc>"Inside the AfD" looks behind the respectable facade of the Alternative for Germany political party. Insiders reveal the tough tactics used by the right-wing populists to combat criticism.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260910220000 +0000" stop="20260910220200 +0000">
@@ -10238,7 +10223,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
   </programme>
   <programme channel="153" start="20260910223000 +0000" stop="20260910230000 +0000">
     <title>To the Point</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>The AfD's landslide victory marks a turning point. What are the consequences for Germany when a far-right party wins so decisively in Saxony-Anhalt? Our guests: Nadine Lindner (DLF); Malte Lehming (Tagesspiegel); Michaela Küfner (DW)</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260910230000 +0000" stop="20260910230200 +0000">
@@ -10257,8 +10242,8 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260910233000 +0000" stop="20260911000000 +0000">
-    <title>Best of DW Podcasts</title>
-    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <title>Berlin Briefing</title>
+    <desc>The AfD won a record 44% in Saxony-Anhalt. But does the result signal a regional protest vote, or a broader shift in German politics?</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260911000000 +0000" stop="20260911000200 +0000">
@@ -11328,14 +11313,14 @@ Could it work without Ibiza losing what made it famous?</desc>
     <desc>The Roshn Saudi League features Saudi Arabia's top clubs competing for the league title in an exciting season of elite football action.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch209_SaudiLeague.jpg?w=960%26h=540" />
   </programme>
-  <programme channel="209" start="20260910180000 +0000" stop="20260910220000 +0000">
+  <programme channel="209" start="20260910180000 +0000" stop="20260910220500 +0000">
     <title>2026 FIM ARRC: Rd 5 Sepang, Malaysia</title>
     <desc>Asia's top riders battle across premier circuits in the FIM Asia Road Racing Championship, delivering high-speed action, fierce rivalries, and thrilling two-wheel competition.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch209_2026_fim_arrc.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="209" start="20260910220000 +0000" stop="20260910230000 +0000">
+  <programme channel="209" start="20260910220500 +0000" stop="20260910230000 +0000">
     <title>Wimbledon Official Film 2026</title>
-    <desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the final Grand Slam of the year.</desc>
+    <desc>The Championship Wimbledon, like nowhere else, views history through a modern-day lens, and this year's championships epitomised how the wonderful game continues to evolve.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch209_Wimbledon_highlight.jpg?w=341%26h=192" />
   </programme>
   <programme channel="209" start="20260910230000 +0000" stop="20260911040000 +0000">
@@ -11739,7 +11724,7 @@ Could it work without Ibiza losing what made it famous?</desc>
     <icon src="https://poster.starhubgo.com/poster/ch213_ucl_generic.jpg?w=960%26h=540" />
   </programme>
   <programme channel="213" start="20260910185500 +0000" stop="20260910210000 +0000">
-    <title>UEFA Champions League 2026/27: Man United vs Sabah FK - MD1 (110926)</title>
+    <title>UEFA Champions League 2026/27: Man United vs Sabah FK - MD1</title>
     <desc>Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
     <icon src="https://poster.starhubgo.com/poster/ch213_uefa_champions_league_live_match.jpg?w=960%26h=540" />
   </programme>
@@ -13326,22 +13311,22 @@ Could it work without Ibiza losing what made it famous?</desc>
     <icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341%26h=192" />
   </programme>
   <programme channel="247" start="20260910120000 +0000" stop="20260910122000 +0000">
-    <title>AFL Highlights</title>
+    <title>AFL Highlights Fremantle v Hawthorn</title>
     <desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341%26h=192" />
   </programme>
   <programme channel="247" start="20260910122000 +0000" stop="20260910124000 +0000">
-    <title>AFL Highlights</title>
+    <title>AFL Highlights Geelong v Carlton</title>
     <desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341%26h=192" />
   </programme>
   <programme channel="247" start="20260910124000 +0000" stop="20260910130000 +0000">
-    <title>AFL Highlights</title>
+    <title>AFL Highlights Sydney v Brisbane</title>
     <desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341%26h=192" />
   </programme>
   <programme channel="247" start="20260910130000 +0000" stop="20260910132000 +0000">
-    <title>AFL Highlights</title>
+    <title>AFL Highlights Adelaide v Bulldogs</title>
     <desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341%26h=192" />
   </programme>
@@ -13381,22 +13366,22 @@ Could it work without Ibiza losing what made it famous?</desc>
     <icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341%26h=192" />
   </programme>
   <programme channel="247" start="20260911001000 +0000" stop="20260911003000 +0000">
-    <title>AFL Highlights</title>
+    <title>AFL Highlights Fremantle v Hawthorn</title>
     <desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341%26h=192" />
   </programme>
   <programme channel="247" start="20260911003000 +0000" stop="20260911005000 +0000">
-    <title>AFL Highlights</title>
+    <title>AFL Highlights Geelong v Carlton</title>
     <desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341%26h=192" />
   </programme>
   <programme channel="247" start="20260911005000 +0000" stop="20260911011000 +0000">
-    <title>AFL Highlights</title>
+    <title>AFL Highlights Sydney v Brisbane</title>
     <desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341%26h=192" />
   </programme>
   <programme channel="247" start="20260911011000 +0000" stop="20260911013000 +0000">
-    <title>AFL Highlights</title>
+    <title>AFL Highlights Adelaide v Bulldogs</title>
     <desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341%26h=192" />
   </programme>
@@ -13426,7 +13411,7 @@ Could it work without Ibiza losing what made it famous?</desc>
     <icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341%26h=192" />
   </programme>
   <programme channel="247" start="20260911094500 +0000" stop="20260911120000 +0000">
-    <title>LIVE NRL LIVE NRL Finals - Week 1</title>
+    <title>LIVE NRL LIVE Rabbitohs v Knights</title>
     <desc>Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341%26h=192" />
   </programme>
@@ -13441,27 +13426,27 @@ Could it work without Ibiza losing what made it famous?</desc>
     <icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341%26h=192" />
   </programme>
   <programme channel="247" start="20260911142000 +0000" stop="20260911144000 +0000">
-    <title>AFL Highlights</title>
+    <title>AFL Highlights Fremantle v Hawthorn</title>
     <desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341%26h=192" />
   </programme>
   <programme channel="247" start="20260911144000 +0000" stop="20260911150000 +0000">
-    <title>AFL Highlights</title>
+    <title>AFL Highlights Geelong v Carlton</title>
     <desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341%26h=192" />
   </programme>
   <programme channel="247" start="20260911150000 +0000" stop="20260911152000 +0000">
-    <title>AFL Highlights</title>
+    <title>AFL Highlights Sydney v Brisbane</title>
     <desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341%26h=192" />
   </programme>
   <programme channel="247" start="20260911152000 +0000" stop="20260911154000 +0000">
-    <title>AFL Highlights</title>
+    <title>AFL Highlights Adelaide v Bulldogs</title>
     <desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341%26h=192" />
   </programme>
   <programme channel="247" start="20260911154000 +0000" stop="20260911173000 +0000">
-    <title>NRL Finals - Week 1</title>
+    <title>NRL Rabbitohs v Knights</title>
     <desc>Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341%26h=192" />
   </programme>
@@ -35661,20 +35646,139 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
     <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="832" start="20260910170000 +0000" stop="20260910220000 +0000">
-    <title>Information Not Available</title>
+  <programme channel="832" start="20260910170000 +0000" stop="20260910171200 +0000">
+    <title>ShanghaiEye</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="832" start="20260910220000 +0000" stop="20260911040000 +0000">
-    <title>Information Not Available</title>
+  <programme channel="832" start="20260910171200 +0000" stop="20260910180000 +0000">
+    <title>Dragon TV Primetime News</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="832" start="20260911040000 +0000" stop="20260911100000 +0000">
-    <title>Information Not Available</title>
+  <programme channel="832" start="20260910180000 +0000" stop="20260910200000 +0000">
+    <title>Dream Home</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="832" start="20260911100000 +0000" stop="20260911160000 +0000">
-    <title>Information Not Available</title>
+  <programme channel="832" start="20260910200000 +0000" stop="20260910210000 +0000">
+    <title>Ai Romance</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260910210000 +0000" stop="20260910220000 +0000">
+    <title>A Green Trip</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260910220000 +0000" stop="20260910223000 +0000">
+    <title>New Entertainment</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260910223000 +0000" stop="20260910230000 +0000">
+    <title>CARE ON THE WAY</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260910230000 +0000" stop="20260911010000 +0000">
+    <title>Dragon TV Morning News</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260911010000 +0000" stop="20260911020000 +0000">
+    <title>A Green Trip</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260911020000 +0000" stop="20260911033000 +0000">
+    <title>go fighting</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260911033000 +0000" stop="20260911040000 +0000">
+    <title>CARE ON THE WAY</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260911040000 +0000" stop="20260911043000 +0000">
+    <title>MIDDAY NEWS</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260911043000 +0000" stop="20260911044200 +0000">
+    <title>ShanghaiEye</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260911044200 +0000" stop="20260911064000 +0000">
+    <title>Future China</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260911064000 +0000" stop="20260911070000 +0000">
+    <title>China - Back to the Roots</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260911070000 +0000" stop="20260911084500 +0000">
+    <title>go fighting</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260911084500 +0000" stop="20260911090000 +0000">
+    <title>Next Station</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260911090000 +0000" stop="20260911093500 +0000">
+    <title>New Entertainment</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260911093500 +0000" stop="20260911100000 +0000">
+    <title>CARE ON THE WAY</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260911100000 +0000" stop="20260911110000 +0000">
+    <title>Dragon TV Primetime News</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260911110000 +0000" stop="20260911111200 +0000">
+    <title>ShanghaiEye</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260911111200 +0000" stop="20260911120000 +0000">
+    <title>China - Back to the Roots</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260911120000 +0000" stop="20260911130000 +0000">
+    <title>A Green Trip</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260911130000 +0000" stop="20260911143000 +0000">
+    <title>Future China</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260911143000 +0000" stop="20260911150000 +0000">
+    <title>New Entertainment</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260911150000 +0000" stop="20260911153000 +0000">
+    <title>CARE ON THE WAY</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="832" start="20260911153000 +0000" stop="20260911170000 +0000">
+    <title>go fighting</title>
+    <desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="838" start="20260909160000 +0000" stop="20260909163000 +0000">
