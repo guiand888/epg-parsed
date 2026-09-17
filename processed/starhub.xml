@@ -1801,7 +1801,7 @@
   <programme channel="104" start="20260918123000 +0000" stop="20260918130000 +0000">
     <title>Ada Apa Dengan Cikgu O?</title>
     <episode-num system="xmltv_ns">.2.0</episode-num>
-    <desc>Aiman bercita-cita menyertai kumpulan tarian K-pop tetapi gagal melaksanakan gerak tarian itu dengan baik. Melihat potensi Aiman, Cikgu O membawanya mengembara untuk mencungkil bakat sebenarnya yang terpendam. Dalam perjalanan itu, Aiman belajar menghargai budaya Melayu dan menyedari bahawa setiap orang mempunyai keistimewaan tersendiri.</desc>
+    <desc>Aiman dreams of joining K-pop dance group but struggles to keep up. Seeing his hidden potential, Cikgu O takes him on a journey to discover talents he never knew he had. Along the way, Aiman develops a deeper appreciation for Malay culture and learns that true success comes from embracing his own strengths. Will he find where he truly belongs?</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="104" start="20260918130000 +0000" stop="20260918133000 +0000">
@@ -2278,7 +2278,7 @@
   <programme channel="106" start="20260917210000 +0000" stop="20260917220000 +0000">
     <title>Insight</title>
     <episode-num system="xmltv_ns">.15.0</episode-num>
-    <desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+    <desc>China wants more marriages and babies. But as its population shrinks, tensions over marriage, motherhood and feminism are exposing a growing divide between young men and women.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="106" start="20260917220000 +0000" stop="20260917230000 +0000">
@@ -2296,7 +2296,7 @@
   <programme channel="106" start="20260918020000 +0000" stop="20260918030000 +0000">
     <title>Insight</title>
     <episode-num system="xmltv_ns">.15.0</episode-num>
-    <desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+    <desc>China wants more marriages and babies. But as its population shrinks, tensions over marriage, motherhood and feminism are exposing a growing divide between young men and women.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="106" start="20260918030000 +0000" stop="20260918050000 +0000">
@@ -2338,7 +2338,7 @@
   <programme channel="106" start="20260918090200 +0000" stop="20260918100000 +0000">
     <title>Insight</title>
     <episode-num system="xmltv_ns">.15.0</episode-num>
-    <desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+    <desc>China wants more marriages and babies. But as its population shrinks, tensions over marriage, motherhood and feminism are exposing a growing divide between young men and women.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="106" start="20260918100000 +0000" stop="20260918110000 +0000">
@@ -7666,7 +7666,7 @@
     <icon src="https://poster.starhubgo.com/poster/ch656_Annamalai_Kudumbam.jpg?w=960%26h=540" />
   </programme>
   <programme channel="138" start="20260918060000 +0000" stop="20260918090000 +0000">
-    <title>Thirumanam</title>
+    <title>Thirumanam (180926)</title>
     <desc>Very much concerned about his family's financial status, Arivudainambi is unhappy with the way his sister's wedding to a wealthy man is being done. Release Year: 2019 Director: Cheran</desc>
     <icon src="https://poster.starhubgo.com/poster/ch656_THIRUMANAM.jpg?w=341%26h=192" />
   </programme>
@@ -11673,7 +11673,7 @@ La Mothe-Chandeniers, both wild and architecturally impressive, is now the world
     <icon src="https://poster.starhubgo.com/poster/ch213_laliga_generic.jpg?w=960%26h=540" />
   </programme>
   <programme channel="213" start="20260917025000 +0000" stop="20260917044000 +0000">
-    <title>LaLiga 2026/27: Levante vs Athletic Bilbao</title>
+    <title>LaLiga 2026/27: Atletico Madrid vs Osasuna</title>
     <desc>Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch213_laliga_generic.jpg?w=960%26h=540" />
   </programme>
@@ -11945,7 +11945,7 @@ La Mothe-Chandeniers, both wild and architecturally impressive, is now the world
     <icon src="https://poster.starhubgo.com/poster/ch214_UEL_LIVE_match.jpg?w=341%26h=192" />
   </programme>
   <programme channel="214" start="20260917185500 +0000" stop="20260917210000 +0000">
-    <title>Real Sociedad vs Bournemouth - MD1 UEFA Europa League 2026/27</title>
+    <title>Real Sociedad vs Bournemouth - MD1 UEFA Europa League 2026/27 (180926)</title>
     <icon src="https://poster.starhubgo.com/poster/ch214_UEL_LIVE_match.jpg?w=341%26h=192" />
   </programme>
   <programme channel="214" start="20260917210000 +0000" stop="20260917213000 +0000">
@@ -25522,7 +25522,7 @@ La Mothe-Chandeniers, both wild and architecturally impressive, is now the world
   </programme>
   <programme channel="701" start="20260917003000 +0000" stop="20260917010000 +0000">
     <title>AI Decoded</title>
-    <desc>Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+    <desc>Critics have labelled them 'pervert glasses', lawsuits have raised privacy concerns and some venues have banned them. Yet for many visually impaired users, smart glasses are proving transformative.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
   </programme>
   <programme channel="701" start="20260917010000 +0000" stop="20260917013000 +0000">
@@ -35740,7 +35740,7 @@ La Mothe-Chandeniers, both wild and architecturally impressive, is now the world
     <icon src="https://poster.starhubgo.com/poster/ch838_jmusic.jpg?w=341%26h=192" />
   </programme>
   <programme channel="838" start="20260917052000 +0000" stop="20260917060500 +0000">
-    <title>Big City Shop 2026</title>
+    <title>Big City Shop 2026 (170926)</title>
     <desc>Each episode of Big Boys Club invites singers, artistes as well as people from different walks of life as guests onto the show, participating in relaxed interviews and discussing current trends.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch838_big_city_shop.jpg?w=341%26h=192" />
   </programme>
@@ -35811,7 +35811,7 @@ La Mothe-Chandeniers, both wild and architecturally impressive, is now the world
     <icon src="https://poster.starhubgo.com/poster/ch838_the_truth_within.jpg?w=341%26h=192" />
   </programme>
   <programme channel="838" start="20260917143000 +0000" stop="20260917150000 +0000">
-    <title>Cho Lam %26 His Trip Buddies Guangxi Pian (170926)</title>
+    <title>Cho Lam %26 His Trip Buddies Guangxi Pian</title>
     <desc>After his "One-Stroke-Wear" journey to Dongguan and Shantou, Wong Cho-lam continues his series' authentic style with another travel program.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch838_cho_lam_his_trip_buddies_guangxipian.jpg?w=341%26h=192" />
   </programme>
