@@ -9303,7 +9303,8 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
   </programme>
   <programme channel="153" start="20260924193000 +0000" stop="20260924200000 +0000">
     <title>To the Point</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>In response to the increasingly aggressive trade policies of the United States and China, the EU and Canada are seeking closer cooperation. What advantages could this partnership bring?
+Our guests: Thu Nguyen (Jacques Delors Centre); Nicolai von Ondarza (SWP); Josef Braml (USA-Experte)</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260924200000 +0000" stop="20260924203000 +0000">
@@ -9343,7 +9344,8 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
   </programme>
   <programme channel="153" start="20260924223000 +0000" stop="20260924230000 +0000">
     <title>To the Point</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>In response to the increasingly aggressive trade policies of the United States and China, the EU and Canada are seeking closer cooperation. What advantages could this partnership bring?
+Our guests: Thu Nguyen (Jacques Delors Centre); Nicolai von Ondarza (SWP); Josef Braml (USA-Experte)</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20260924230000 +0000" stop="20260924230200 +0000">
@@ -31779,7 +31781,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="811" start="20260924182500 +0000" stop="20260924183000 +0000">
-    <title>Hello! NHK WORLD-JAPAN (R)</title>
+    <title>Hello! NHK WORLD-JAPAN</title>
     <desc>Showcasing various programs and activities of NHK WORLD-JAPAN which provides the latest information on Japan and Asia to the global audience.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
@@ -33368,33 +33370,21 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
     <desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="817" start="20260924193000 +0000" stop="20260924195000 +0000">
-    <title>K-Culture Minutes: K-Stage</title>
-    <episode-num system="xmltv_ns">.37.0</episode-num>
-    <desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341%26h=192" />
-  </programme>
-  <programme channel="817" start="20260924195000 +0000" stop="20260924200000 +0000">
+  <programme channel="817" start="20260924193000 +0000" stop="20260924194000 +0000">
     <title>The Living Sea Of Jeju</title>
     <episode-num system="xmltv_ns">.3.0</episode-num>
     <desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="817" start="20260924200000 +0000" stop="20260924203000 +0000">
-    <title>Moo No Plan</title>
-    <episode-num system="xmltv_ns">.7.0</episode-num>
+  <programme channel="817" start="20260924194000 +0000" stop="20260924204000 +0000">
+    <title>News Special [L]</title>
+    <episode-num system="xmltv_ns">.0.0</episode-num>
     <desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="817" start="20260924203000 +0000" stop="20260924205000 +0000">
-    <title>The Grand Heritage Asmr</title>
-    <episode-num system="xmltv_ns">.8.0</episode-num>
-    <desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341%26h=192" />
-  </programme>
-  <programme channel="817" start="20260924205000 +0000" stop="20260924210000 +0000">
-    <title>The Grand Heritage Four Seasons</title>
-    <episode-num system="xmltv_ns">.3.0</episode-num>
+  <programme channel="817" start="20260924204000 +0000" stop="20260924210000 +0000">
+    <title>K-Culture Minutes: K-Stage</title>
+    <episode-num system="xmltv_ns">.37.0</episode-num>
     <desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
