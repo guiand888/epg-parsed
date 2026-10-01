@@ -4957,7 +4957,7 @@
   </programme>
   <programme channel="128" start="20260930190000 +0000" stop="20260930193000 +0000">
     <title>Dr. Aarambhi</title>
-    <episode-num system="xmltv_ns">.198.0</episode-num>
+    <episode-num system="xmltv_ns">.195.0</episode-num>
     <desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a long-lost dream. Will she get a second chance?</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_dr_aarambhi.jpg?w=960%26h=540" />
   </programme>
@@ -4969,7 +4969,7 @@
   </programme>
   <programme channel="128" start="20260930200000 +0000" stop="20260930203000 +0000">
     <title>Seher Hone Ko Hai</title>
-    <episode-num system="xmltv_ns">.230.0</episode-num>
+    <episode-num system="xmltv_ns">.226.0</episode-num>
     <desc>Seher, a young girl in Lucknow, is determined to become a doctor. Her mother, Kausar, supports her dream, while her father's plans for marriage spark conflict.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_seher_hone_ko_hai.jpg?w=341%26h=192" />
   </programme>
@@ -4981,7 +4981,7 @@
   </programme>
   <programme channel="128" start="20260930210000 +0000" stop="20260930213000 +0000">
     <title>Mahadev %26 Sons</title>
-    <episode-num system="xmltv_ns">.202.0</episode-num>
+    <episode-num system="xmltv_ns">.198.0</episode-num>
     <desc>Mahadev is a man of principles, leading a strict household as the family head! But bound to fly high, his children rebel, and a generational clash ensues!</desc>
     <icon src="https://poster.starhubgo.com/poster/ch128_mahadev_%26_sons.jpg?w=960%26h=540" />
   </programme>
@@ -7489,7 +7489,7 @@
     <icon src="https://poster.starhubgo.com/poster/ch656_Annamalai_Kudumbam.jpg?w=960%26h=540" />
   </programme>
   <programme channel="138" start="20261002060000 +0000" stop="20261002090000 +0000">
-    <title>Operation Java (021026)</title>
+    <title>Operation Java</title>
     <desc>The story revolves around a group of officers and a series of mysteries, events and cases reported before them in the Cyber Cell. It is also about how they plan and execute their operations.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch656_JAVA.jpg?w=960%26h=540" />
   </programme>
@@ -10737,7 +10737,7 @@
     <icon src="https://poster.starhubgo.com/poster/ch201_MassParticipation.jpg?w=341%26h=192" />
   </programme>
   <programme channel="201" start="20261001223000 +0000" stop="20261002013000 +0000">
-    <title>ATP Tour 2026 China Open (500) Day 2 R1 Session 2</title>
+    <title>ATP Tour 2026 China Open (500) Day 2 R1 Session 2 (021026)</title>
     <desc>The China Open is a premier professional tennis tournament held annually in Beijing at the Beijing Olympic Green Tennis Center. Established in 1993, it is the only ATP 500 men's tournament held in China.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch201_ATP_500_China_Open_2026.jpg?w=960%26h=540" />
   </programme>
@@ -10757,12 +10757,12 @@
     <icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960%26h=540" />
   </programme>
   <programme channel="201" start="20261002050000 +0000" stop="20261002070000 +0000">
-    <title>ATP Tour 2026 China Open (500) Day 3 R2 Session 1</title>
+    <title>ATP Tour 2026 China Open (500) Day 3 R2 Session 1 (021026)</title>
     <desc>The China Open is a premier professional tennis tournament held annually in Beijing at the Beijing Olympic Green Tennis Center. Established in 1993, it is the only ATP 500 men's tournament held in China.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch201_ATP_500_China_Open_2026.jpg?w=960%26h=540" />
   </programme>
   <programme channel="201" start="20261002070000 +0000" stop="20261002090000 +0000">
-    <title>ATP Tour 2026 China Open (500) Day 3 R2 Session 2</title>
+    <title>ATP Tour 2026 China Open (500) Day 3 R2 Session 2 (021026)</title>
     <desc>The China Open is a premier professional tennis tournament held annually in Beijing at the Beijing Olympic Green Tennis Center. Established in 1993, it is the only ATP 500 men's tournament held in China.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch201_ATP_500_China_Open_2026.jpg?w=960%26h=540" />
   </programme>
@@ -10863,7 +10863,7 @@
   </programme>
   <programme channel="202" start="20261001160000 +0000" stop="20261001190000 +0000">
     <title>Davis Cup by Generali Qualifiers 2026 2nd Rd M1: Czechia vs USA</title>
-    <desc>7 triumphant nations from seven qualifiers, played across 4 continents will join last year’s world champions Italy at the Davis Cup Final 8 in Bologna in November, where they will compete for the chance to lift the coveted trophy for their countries.</desc>
+    <desc>7 triumphant nations from seven qualifiers, played across 4 continents will join last year's world champions Italy at the Davis Cup Final 8 in Bologna in November, where they will compete for the chance to lift the coveted trophy for their countries.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch202_davis_cup.jpg?w=960%26h=540" />
   </programme>
   <programme channel="202" start="20261001190000 +0000" stop="20261001200000 +0000">
@@ -10921,17 +10921,12 @@
     <desc>End of Transmission</desc>
     <icon src="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="203" start="20260930220000 +0000" stop="20261001000000 +0000">
+  <programme channel="203" start="20260930220000 +0000" stop="20261001040000 +0000">
     <title>End of Transmission</title>
     <desc>End of Transmission</desc>
     <icon src="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="203" start="20261001000000 +0000" stop="20261001030000 +0000">
-    <title>LPGA Tour 2026</title>
-    <desc>The Lotte Championship is a women's professional golf tournament on the LPGA Tour. It debuted in April 2012. 120 top players from around the world will compete at the Hoakalei Country Club for a share of the $3 million purse.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch203_lpga_tour.jpg?w=960%26h=540" />
-  </programme>
-  <programme channel="203" start="20261001030000 +0000" stop="20261001060000 +0000">
+  <programme channel="203" start="20261001040000 +0000" stop="20261001060000 +0000">
     <title>End of Transmission</title>
     <desc>End of Transmission</desc>
     <icon src="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=341%26h=192" />
@@ -11779,7 +11774,7 @@
     <icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=341%26h=192" />
   </programme>
   <programme channel="213" start="20261002042500 +0000" stop="20261002053000 +0000">
-    <title>Formula 1 Practice 2026: FORMULA 1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026 Practice 1</title>
+    <title>Formula 1 Practice 2026: FORMULA 1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026 Practice 1 (021026)</title>
     <desc>beIN Sports brings you live and exclusive coverage of the 2026 Formula 1 World Championship.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=341%26h=192" />
   </programme>
@@ -11814,7 +11809,7 @@
     <icon src="https://poster.starhubgo.com/poster/ch213_formula_2_generic.jpg?w=960%26h=540" />
   </programme>
   <programme channel="213" start="20261002075500 +0000" stop="20261002090000 +0000">
-    <title>Formula 1 Practice 2026: FORMULA 1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026 Practice 2</title>
+    <title>Formula 1 Practice 2026: FORMULA 1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026 Practice 2 (021026)</title>
     <desc>beIN Sports brings you live and exclusive coverage of the 2026 Formula 1 World Championship.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=341%26h=192" />
   </programme>
@@ -18186,7 +18181,7 @@
   <programme channel="401" start="20261001015500 +0000" stop="20261001025000 +0000">
     <title>History's Greatest Mysteries</title>
     <episode-num system="xmltv_ns">.4.0</episode-num>
-    <desc>In the stories going back hundreds of years, this elusive creature has terrorised sailors and baffled scientists. Is this predator the stuff of legend... or could the Kraken be real?</desc>
+    <desc>In the stories going back hundreds of years, this elusive creature has terrorised sailors and baffled scientists. Is this predator the stuff of legend… or could the Kraken be real?</desc>
     <icon src="https://poster.starhubgo.com/poster/ch401_historys_greatest_mysteries.s7.jpg?w=960%26h=540" />
   </programme>
   <programme channel="401" start="20261001025000 +0000" stop="20261001034500 +0000">
@@ -18216,7 +18211,7 @@
   <programme channel="401" start="20261001063000 +0000" stop="20261001072500 +0000">
     <title>History's Greatest Mysteries</title>
     <episode-num system="xmltv_ns">.4.0</episode-num>
-    <desc>In the stories going back hundreds of years, this elusive creature has terrorised sailors and baffled scientists. Is this predator the stuff of legend... or could the Kraken be real?</desc>
+    <desc>In the stories going back hundreds of years, this elusive creature has terrorised sailors and baffled scientists. Is this predator the stuff of legend… or could the Kraken be real?</desc>
     <icon src="https://poster.starhubgo.com/poster/ch401_historys_greatest_mysteries.s7.jpg?w=960%26h=540" />
   </programme>
   <programme channel="401" start="20261001072500 +0000" stop="20261001082000 +0000">
@@ -18469,7 +18464,7 @@
     <title>The First 48</title>
     <episode-num system="xmltv_ns">.528.0</episode-num>
     <desc>A deadly home invasion sparks a manhunt for a stranger terrorising a Tulsa housing complex.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch651_TheFirst48S24.jpg?w=341%26h=192" />
+    <icon src="https://poster.starhubgo.com/poster/ch651_TheFirst48S26.jpg?w=960%26h=540" />
   </programme>
   <programme channel="403" start="20260930210000 +0000" stop="20260930220000 +0000">
     <title>The First 48</title>
@@ -18511,7 +18506,7 @@
     <title>The First 48</title>
     <episode-num system="xmltv_ns">.528.0</episode-num>
     <desc>A deadly home invasion sparks a manhunt for a stranger terrorising a Tulsa housing complex.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch651_TheFirst48S24.jpg?w=341%26h=192" />
+    <icon src="https://poster.starhubgo.com/poster/ch651_TheFirst48S26.jpg?w=960%26h=540" />
   </programme>
   <programme channel="403" start="20261001023000 +0000" stop="20261001032500 +0000">
     <title>The First 48</title>
@@ -18611,9 +18606,9 @@
   </programme>
   <programme channel="403" start="20261001153500 +0000" stop="20261001162500 +0000">
     <title>Homicide Squad New Orleans</title>
-    <episode-num system="xmltv_ns">.4.0</episode-num>
-    <desc>Detective Maurice Stewart investigates the murder of a 15-year-old boy who was gunned down after walking his younger sister home.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch651_homicide_squad_NewOrleans.jpg?w=960%26h=540" />
+    <episode-num system="xmltv_ns">.0.0</episode-num>
+    <desc>Nick Davis investigates a local artist found murdered in his home. With very little evidence, Detective Davis methodically pursues every lead until a lucky break points him toward a surprise suspect.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch651_homicide_squad_NewOrleansS2.jpg?w=341%26h=192" />
   </programme>
   <programme channel="403" start="20261001162500 +0000" stop="20261001172000 +0000">
     <title>Taking The Stand</title>
@@ -18665,9 +18660,9 @@
   </programme>
   <programme channel="403" start="20261001234500 +0000" stop="20261002004000 +0000">
     <title>Homicide Squad New Orleans</title>
-    <episode-num system="xmltv_ns">.4.0</episode-num>
-    <desc>Detective Maurice Stewart investigates the murder of a 15-year-old boy who was gunned down after walking his younger sister home.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch651_homicide_squad_NewOrleans.jpg?w=960%26h=540" />
+    <episode-num system="xmltv_ns">.0.0</episode-num>
+    <desc>Nick Davis investigates a local artist found murdered in his home. With very little evidence, Detective Davis methodically pursues every lead until a lucky break points him toward a surprise suspect.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch651_homicide_squad_NewOrleansS2.jpg?w=341%26h=192" />
   </programme>
   <programme channel="403" start="20261002004000 +0000" stop="20261002013500 +0000">
     <title>Alaska State Troopers</title>
@@ -18719,9 +18714,9 @@
   </programme>
   <programme channel="403" start="20261002080000 +0000" stop="20261002085500 +0000">
     <title>Homicide Squad New Orleans</title>
-    <episode-num system="xmltv_ns">.4.0</episode-num>
-    <desc>Detective Maurice Stewart investigates the murder of a 15-year-old boy who was gunned down after walking his younger sister home.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch651_homicide_squad_NewOrleans.jpg?w=960%26h=540" />
+    <episode-num system="xmltv_ns">.0.0</episode-num>
+    <desc>Nick Davis investigates a local artist found murdered in his home. With very little evidence, Detective Davis methodically pursues every lead until a lucky break points him toward a surprise suspect.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch651_homicide_squad_NewOrleansS2.jpg?w=341%26h=192" />
   </programme>
   <programme channel="403" start="20261002085500 +0000" stop="20261002094500 +0000">
     <title>Alaska State Troopers</title>
@@ -18729,13 +18724,7 @@
     <desc>In the Mat-su, Halloween brings mayhem as Troopers respond to a roadside meltdown and recover a trove of credit cards in different names.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch651_alaska_state_troopers_s9.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="403" start="20261002094500 +0000" stop="20261002103500 +0000">
-    <title>The First 48</title>
-    <episode-num system="xmltv_ns">.532.0</episode-num>
-    <desc>After a 69-year-old woman is found dead in her bathtub, a suspect leads Tulsa detectives on a high-speed chase that ends tragically.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch651_TheFirst48S26.jpg?w=960%26h=540" />
-  </programme>
-  <programme channel="403" start="20261002103500 +0000" stop="20261002112500 +0000">
+  <programme channel="403" start="20261002094500 +0000" stop="20261002112500 +0000">
     <title>The First 48</title>
     <episode-num system="xmltv_ns">.546.0</episode-num>
     <desc>A construction worker is killed by a stray bullet during an attempted robbery inside a trailer park, but when investigators follow the trail of the suspects, things are not what they seem.</desc>
@@ -28758,12 +28747,12 @@ from over.</desc>
   <programme channel="711" start="20261001020000 +0000" stop="20261001030000 +0000">
     <title>CNN NewsNight: Post Debate Analysis</title>
     <desc>For the latest news, expert analyses and special reports from across the globe, stay tuned for more top quality News programme right here!</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsnight_with_abby_phillip.jpg?w=341%26h=192" />
+    <icon src="https://poster.starhubgo.com/poster/ch711_cnni_placeholder.jpg?w=341%26h=192" />
   </programme>
   <programme channel="711" start="20261001030000 +0000" stop="20261001040000 +0000">
     <title>CNN NewsNight: Post Debate Analysis</title>
     <desc>For the latest news, expert analyses and special reports from across the globe, stay tuned for more top quality News programme right here!</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsnight_with_abby_phillip.jpg?w=341%26h=192" />
+    <icon src="https://poster.starhubgo.com/poster/ch711_cnni_placeholder.jpg?w=341%26h=192" />
   </programme>
   <programme channel="711" start="20261001040000 +0000" stop="20261001050000 +0000">
     <title>CNN Newsroom</title>
@@ -33508,7 +33497,7 @@ from over.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch815_welcome_to_sugeun_school.jpg?w=960%26h=540" />
   </programme>
   <programme channel="815" start="20261001045500 +0000" stop="20261001051000 +0000">
-    <title>The Seasons W</title>
+    <title>The Seasons W (011026)</title>
     <desc>A talk show brings you music and stories that will "get rid of all your worries and all your concerns."</desc>
     <icon src="https://poster.starhubgo.com/poster/ch815_the_seasons_w.jpg?w=960%26h=540" />
   </programme>
