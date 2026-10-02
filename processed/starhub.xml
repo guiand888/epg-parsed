@@ -782,7 +782,7 @@
   <programme channel="102" start="20261002183000 +0000" stop="20261002190000 +0000">
     <title>On The Red Dot</title>
     <episode-num system="xmltv_ns">.18.0</episode-num>
-    <desc>On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+    <desc>A vegan chef tests the limits of scaling her HDB supper club, while a tea entrepreneur returns from burnout determined to make her home business more sustainable.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="102" start="20261002190000 +0000" stop="20261002193000 +0000">
@@ -2178,7 +2178,7 @@
   <programme channel="106" start="20261003130200 +0000" stop="20261003140000 +0000">
     <title>War At The Gardens</title>
     <episode-num system="xmltv_ns">.0.0</episode-num>
-    <desc>During Singapore’s Occupation, British and Japanese scientists unite to save its botanical treasures. The Secret Flower of Syonan-to uncovers a forgotten story of friendship and humanity amid war.</desc>
+    <desc>In WWII-occupied Singapore, British botanist EJH Corner works with the Japanese enemy to protect its scientific treasures. But this unlikely alliance marks him and his colleagues as collaborators.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="106" start="20261003140000 +0000" stop="20261003143000 +0000">
@@ -2190,7 +2190,7 @@
   <programme channel="106" start="20261003143000 +0000" stop="20261003150000 +0000">
     <title>On The Red Dot</title>
     <episode-num system="xmltv_ns">.18.0</episode-num>
-    <desc>On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+    <desc>A vegan chef tests the limits of scaling her HDB supper club, while a tea entrepreneur returns from burnout determined to make her home business more sustainable.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="106" start="20261003150000 +0000" stop="20261003150300 +0000">
@@ -4746,19 +4746,19 @@
     <desc>The lively and diverse residents of Gokuldham Housing Society live together as one big family. They navigate everyday challenges, celebrate festivals and find joy in each other's company.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="127" start="20261003033000 +0000" stop="20261003040000 +0000">
+  <programme channel="127" start="20261003033000 +0000" stop="20261003035900 +0000">
     <title>Taarak Mehta Ka Ooltah Chashmah</title>
     <episode-num system="xmltv_ns">.2907.0</episode-num>
     <desc>The lively and diverse residents of Gokuldham Housing Society live together as one big family. They navigate everyday challenges, celebrate festivals and find joy in each other's company.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="127" start="20261003040000 +0000" stop="20261003050000 +0000">
+  <programme channel="127" start="20261003035900 +0000" stop="20261003050100 +0000">
     <title>Family Full House With Rohit Sharma</title>
     <episode-num system="xmltv_ns">.2.0</episode-num>
     <desc>Rohit Sharma hosts the ultimate family game show! Watch celebrities, cricketers, and everyday Indian families clash in hilarious interactive games.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="127" start="20261003050000 +0000" stop="20261003063000 +0000">
+  <programme channel="127" start="20261003050100 +0000" stop="20261003063000 +0000">
     <title>Kaun Banega Crorepati - 2026</title>
     <episode-num system="xmltv_ns">.37.0</episode-num>
     <desc>Kaun Banega Crorepati' is back with Season 18, host Amitabh Bachchan challenges contestants from across India to use critical thinking and win the life-changing 70 million jackpot.</desc>
@@ -5771,10 +5771,10 @@
     <desc>An ancient Indian epic following Prince Rama of Ayodhya, a righteous avatar of Vishnu, who is exiled to the forest for 14 years with his wife Sita and brother Lakshmana.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="133" start="20261002010000 +0000" stop="20261002020000 +0000">
-    <title>Ethirneehcal</title>
-    <desc>Urged by her father, Janani is always a high achiever. But her marriage into a patriarchal family dashes her dream of a career. Thus begins Janani's arduous journey towards empowering her family's oppressed women to unleash their</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch25_ethirneechal.jpg?w=960%26h=540" />
+  <programme channel="133" start="20261002003000 +0000" stop="20261002020000 +0000">
+    <title>Movie- KALAKALAPPU-2</title>
+    <desc>Raghu learns about his father's ancestral property, which is taken care by Srinivas. When Ganesh cheats both of them, they visit Karaikudi to get hold of Ganesh and recover their money.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341%26h=192" />
   </programme>
   <programme channel="133" start="20261002020000 +0000" stop="20261002023000 +0000">
     <title>News</title>
@@ -5782,9 +5782,9 @@
     <icon src="https://poster.starhubgo.com/poster/ch25_news.jpg?w=341%26h=192" />
   </programme>
   <programme channel="133" start="20261002023000 +0000" stop="20261002033000 +0000">
-    <title>Kayal</title>
-    <desc>Abandoned by her father and coping with an alcoholic brother, Kayal works as a nurse to be her family's sole provider. She finds happiness in her sacrifice to meet the needs of her brother and sisters. Watch Kayal stand tall in her selfless journey.</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341%26h=192" />
+    <title>Movie- KALAKALAPPU-2</title>
+    <desc>Raghu learns about his father's ancestral property, which is taken care by Srinivas. When Ganesh cheats both of them, they visit Karaikudi to get hold of Ganesh and recover their money.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341%26h=192" />
   </programme>
   <programme channel="133" start="20261002033000 +0000" stop="20261002040000 +0000">
     <title>Kitchen Galatta</title>
@@ -5827,8 +5827,8 @@
     <icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="133" start="20261002073000 +0000" stop="20261002080000 +0000">
-    <title>Movie-  SAMSARAM ATHU MINSARAM</title>
-    <desc>Ammaiyappan Mudaliar fulfils every need of his four children. However, when the eldest son fights with him and leaves the house, Uma, the daughter-in-law, tries to solve their issues.</desc>
+    <title>Movie- A1</title>
+    <desc>Divya aspires to marry a thug from a different caste and soon finds what she is looking for in Saravanan. However, problems emerge when she finds out that her dream man is not what he claims to be.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341%26h=192" />
   </programme>
   <programme channel="133" start="20261002080000 +0000" stop="20261002083000 +0000">
@@ -5837,8 +5837,8 @@
     <icon src="https://poster.starhubgo.com/poster/ch25_news.jpg?w=341%26h=192" />
   </programme>
   <programme channel="133" start="20261002083000 +0000" stop="20261002103000 +0000">
-    <title>Movie contd -  SAMSARAM ATHU MINSARAM</title>
-    <desc>Ammaiyappan Mudaliar fulfils every need of his four children. However, when the eldest son fights with him and leaves the house, Uma, the daughter-in-law, tries to solve their issues.</desc>
+    <title>Movie contd - A1</title>
+    <desc>Divya aspires to marry a thug from a different caste and soon finds what she is looking for in Saravanan. However, problems emerge when she finds out that her dream man is not what he claims to be.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341%26h=192" />
   </programme>
   <programme channel="133" start="20261002103000 +0000" stop="20261002110000 +0000">
@@ -5967,8 +5967,8 @@
     <icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="133" start="20261003073000 +0000" stop="20261003080000 +0000">
-    <title>Movie-</title>
-    <desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+    <title>Movie-  SARAVANA</title>
+    <desc>Saravana falls madly in love with his best friend Krishna's sister, Sadhana. During the fight with rival thugs, he manages to save Sadhana, who watches her family perish before her eyes.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341%26h=192" />
   </programme>
   <programme channel="133" start="20261003080000 +0000" stop="20261003083000 +0000">
@@ -5977,8 +5977,8 @@
     <icon src="https://poster.starhubgo.com/poster/ch25_news.jpg?w=341%26h=192" />
   </programme>
   <programme channel="133" start="20261003083000 +0000" stop="20261003103000 +0000">
-    <title>Movie contd -</title>
-    <desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+    <title>Movie contd -  SARAVANA</title>
+    <desc>Saravana falls madly in love with his best friend Krishna's sister, Sadhana. During the fight with rival thugs, he manages to save Sadhana, who watches her family perish before her eyes.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341%26h=192" />
   </programme>
   <programme channel="133" start="20261003103000 +0000" stop="20261003110000 +0000">
@@ -7659,17 +7659,17 @@
     <desc>Baba Kalyani, a police officer, investigates a terrorist plot in Kochi while facing off against old enemies seeking revenge. Release Year: 2006 Director: Shaji Kailas Awards: Asianet Film Award for Best Male Playback Singer</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20261001193000 +0000" stop="20261001213000 +0000">
+  <programme channel="140" start="20261001193000 +0000" stop="20261001211500 +0000">
     <title>Cheriya Kallnum Valiya Polisum</title>
     <desc>Sadasivan discovers a house where Kumaran died by suicide to protect his wife, Soumini. A mysterious blind man's constant presence raises deeper questions about the tragedy. Release Year: 2010 Director: Haridas Kesavan</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20261001213000 +0000" stop="20261001233000 +0000">
+  <programme channel="140" start="20261001211500 +0000" stop="20261001231500 +0000">
     <title>Hareendran oru Nishkalankan</title>
     <desc>After his mom passes away, the protagonist heads back home from the US to honor her last wish. He quickly discovers that black magic and sorcery are all too real. Release Year: 2007 Director: Vinayan</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20261001233000 +0000" stop="20261002013000 +0000">
+  <programme channel="140" start="20261001231500 +0000" stop="20261002013000 +0000">
     <title>Swarnam</title>
     <desc>Divakaran is married to Radha but they don't have a child. Divakaran is not very fond of the little girl. Release Year: 2008 Director: Venugopan</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
@@ -7741,7 +7741,7 @@
   </programme>
   <programme channel="140" start="20261003133000 +0000" stop="20261003163000 +0000">
     <title>Hridayapoorvam</title>
-    <desc>Hridayapoorvam</desc>
+    <desc>Heartwarming story explores love, family relationships and the emotional bonds that bring people together through difficult circumstances.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="141" start="20261001153000 +0000" stop="20261001190000 +0000">
@@ -7923,13 +7923,13 @@
     <icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
   <programme channel="141" start="20261003023000 +0000" stop="20261003043000 +0000">
-    <title>MOVIE - CHAMPION (U/A)</title>
-    <desc>MOVIE - CHAMPION (U/A) Starring Narein, Viswa, Mirunalini</desc>
+    <title>MOVIE - JIIVI (U)</title>
+    <desc>MOVIE - JIIVI (U) Starring Vetri, Karunakaran, Rohini</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
   <programme channel="141" start="20261003043000 +0000" stop="20261003073000 +0000">
-    <title>MOVIE - DIARY (U/A)</title>
-    <desc>MOVIE - DIARY (U/A) Starring Arulnidhi Thamizharasu, Pavithra Marimuthu</desc>
+    <title>MOVIE - VAMSAM (U)</title>
+    <desc>MOVIE - VAMSAM (U) Starring Arulnidhi Thamizharasu, Sunaina</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
   <programme channel="141" start="20261003073000 +0000" stop="20261003080000 +0000">
@@ -7937,14 +7937,9 @@
     <desc>Live News from Kalaignar TV studio</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
-  <programme channel="141" start="20261003080000 +0000" stop="20261003113000 +0000">
-    <title>MOVIE - IMSAI ARASAN 23AM PULIKESI (U)</title>
-    <desc>MOVIE - IMSAI ARASAN 23AM PULIKESI (U) Starring Vadivelu, Monika, Manorama, Nassar</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960%26h=540" />
-  </programme>
-  <programme channel="141" start="20261003113000 +0000" stop="20261003120000 +0000">
-    <title>Inthavaara kalakalappu</title>
-    <desc>Back to back Comedy</desc>
+  <programme channel="141" start="20261003080000 +0000" stop="20261003120000 +0000">
+    <title>MOVIE - VENTHU THANINTHATHU KAADU (U/A)</title>
+    <desc>MOVIE - VENTHU THANINTHATHU KAADU (U/A) Starring Silambarasan TR, Siddhi Idnani, Radhika</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
   <programme channel="141" start="20261003120000 +0000" stop="20261003123000 +0000">
@@ -7954,31 +7949,30 @@
   </programme>
   <programme channel="141" start="20261003123000 +0000" stop="20261003130000 +0000">
     <title>Katrathu Samayal</title>
-    <episode-num system="xmltv_ns">7.143.0</episode-num>
+    <episode-num system="xmltv_ns">7.149.0</episode-num>
     <desc>Katrathu Samayal is focused on village-style cooking, real time and different foods acorss places, which includes food preparation and food challenges.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
   <programme channel="141" start="20261003130000 +0000" stop="20261003133000 +0000">
     <title>Ramanujar</title>
-    <episode-num system="xmltv_ns">.97.0</episode-num>
+    <episode-num system="xmltv_ns">.103.0</episode-num>
     <desc>The life of theologian and philosopher Ramanujar and his contributions to the Vaishnavism tradition within Hinduism.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
   <programme channel="141" start="20261003133000 +0000" stop="20261003143000 +0000">
     <title>Priyamanaval</title>
-    <episode-num system="xmltv_ns">.157.0</episode-num>
+    <episode-num system="xmltv_ns">.163.0</episode-num>
     <desc>A devoted wife, misunderstood by her family, rises with strength to reclaim her dignity and rebuild her life.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
   <programme channel="141" start="20261003143000 +0000" stop="20261003150000 +0000">
     <title>Kannethirey Thondrinaal</title>
-    <episode-num system="xmltv_ns">.51.0</episode-num>
+    <episode-num system="xmltv_ns">.57.0</episode-num>
     <desc>A story of love, family bonds, and unexpected twists that unfold when Shiva enters Sakthi’s life.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
   <programme channel="141" start="20261003150000 +0000" stop="20261003160000 +0000">
     <title>Chella Kutties</title>
-    <episode-num system="xmltv_ns">.28.0</episode-num>
     <desc>The host Imman Annachi invites little children and interacts with them about their favourite things to do and other likes and dislikes in a funny manner.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
@@ -9388,7 +9382,7 @@
   </programme>
   <programme channel="153" start="20261001163000 +0000" stop="20261001170000 +0000">
     <title>Focus on Europe</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Rich mineral deposits lie within a nature reserve in Finland. Plans to mine them are drawing opposition. +++ Inclusion at a German bistro near parliament: People living with and without disabilities work side by side.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261001170000 +0000" stop="20261001171500 +0000">
@@ -9397,8 +9391,8 @@
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261001171500 +0000" stop="20261001173000 +0000">
-    <title>Best of DW-online Content</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <title>Arts Unveiled</title>
+    <desc>The Jewish Museum Berlin is marking its 25th anniversary. Housed in Daniel Libeskind's iconic zigzag-shaped building, the museum has become a landmark of contemporary architecture and one of Germany's most important cultural institutions. The very existence of a Jewish museum in Berlin is extraordinary.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261001173000 +0000" stop="20261001180000 +0000">
@@ -9413,7 +9407,7 @@
   </programme>
   <programme channel="153" start="20261001183000 +0000" stop="20261001190000 +0000">
     <title>Global Us</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Feeding Jakarta's 42 million residents takes food from across Indonesia and beyond. We follow the journey. In Naples, heritage helps transform a neighborhood. And in the US, surrogates and parents share their stories.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261001190000 +0000" stop="20261001190200 +0000">
@@ -9427,13 +9421,13 @@
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261001191500 +0000" stop="20261001193000 +0000">
-    <title>Best of DW-online Content</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <title>Arts Unveiled</title>
+    <desc>The Jewish Museum Berlin is marking its 25th anniversary. Housed in Daniel Libeskind's iconic zigzag-shaped building, the museum has become a landmark of contemporary architecture and one of Germany's most important cultural institutions. The very existence of a Jewish museum in Berlin is extraordinary.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261001193000 +0000" stop="20261001200000 +0000">
     <title>To the Point</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Russia is ramping up its military buildup and recruiting more soldiers for the war in Ukraine. At the same time, sabotage operations and cyberattacks targeting the West are increasing. Another winter with no hope of peace? Our guests: Alexey Yusupov (Russia analyst, FES); Alexandra von Nahmen (DW); Moritz Gathmann (Stern)</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261001200000 +0000" stop="20261001203000 +0000">
@@ -9473,7 +9467,7 @@
   </programme>
   <programme channel="153" start="20261001223000 +0000" stop="20261001230000 +0000">
     <title>To the Point</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Russia is ramping up its military buildup and recruiting more soldiers for the war in Ukraine. At the same time, sabotage operations and cyberattacks targeting the West are increasing. Another winter with no hope of peace? Our guests: Alexey Yusupov (Russia analyst, FES); Alexandra von Nahmen (DW); Moritz Gathmann (Stern)</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261001230000 +0000" stop="20261001230200 +0000">
@@ -9481,19 +9475,19 @@
     <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="153" start="20261001230200 +0000" stop="20261001231500 +0000">
+  <programme channel="153" start="20261001230200 +0000" stop="20261001231900 +0000">
     <title>DW News Focus</title>
     <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="153" start="20261001231500 +0000" stop="20261001233000 +0000">
-    <title>Best of DW-online Content</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+  <programme channel="153" start="20261001231900 +0000" stop="20261001233000 +0000">
+    <title>Arts Unveiled</title>
+    <desc>The Jewish Museum Berlin is marking its 25th anniversary. Housed in Daniel Libeskind's iconic zigzag-shaped building, the museum has become a landmark of contemporary architecture and one of Germany's most important cultural institutions. The very existence of a Jewish museum in Berlin is extraordinary.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261001233000 +0000" stop="20261002000000 +0000">
-    <title>Best of DW Podcasts</title>
-    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <title>DW News</title>
+    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002000000 +0000" stop="20261002000200 +0000">
@@ -9508,7 +9502,7 @@
   </programme>
   <programme channel="153" start="20261002003000 +0000" stop="20261002010000 +0000">
     <title>To the Point</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Russia is ramping up its military buildup and recruiting more soldiers for the war in Ukraine. At the same time, sabotage operations and cyberattacks targeting the West are increasing. Another winter with no hope of peace? Our guests: Alexey Yusupov (Russia analyst, FES); Alexandra von Nahmen (DW); Moritz Gathmann (Stern)</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002010000 +0000" stop="20261002010200 +0000">
@@ -9538,7 +9532,7 @@
   </programme>
   <programme channel="153" start="20261002023000 +0000" stop="20261002030000 +0000">
     <title>Focus on Europe</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Rich mineral deposits lie within a nature reserve in Finland. Plans to mine them are drawing opposition. +++ Inclusion at a German bistro near parliament: People living with and without disabilities work side by side.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002030000 +0000" stop="20261002030200 +0000">
@@ -9546,19 +9540,19 @@
     <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="153" start="20261002030200 +0000" stop="20261002031500 +0000">
+  <programme channel="153" start="20261002030200 +0000" stop="20261002031900 +0000">
     <title>DW News Focus</title>
     <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="153" start="20261002031500 +0000" stop="20261002033000 +0000">
-    <title>Best of DW-online Content</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+  <programme channel="153" start="20261002031900 +0000" stop="20261002033000 +0000">
+    <title>Arts Unveiled</title>
+    <desc>The Jewish Museum Berlin is marking its 25th anniversary. Housed in Daniel Libeskind's iconic zigzag-shaped building, the museum has become a landmark of contemporary architecture and one of Germany's most important cultural institutions. The very existence of a Jewish museum in Berlin is extraordinary.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002033000 +0000" stop="20261002040000 +0000">
     <title>Made in Germany</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>From AI companions and personalized pricing to smart retail and sustainable food production, six stories explore how innovation is reshaping the way people shop, spend and connect.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002040000 +0000" stop="20261002040200 +0000">
@@ -9596,19 +9590,19 @@
     <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="153" start="20261002060200 +0000" stop="20261002061500 +0000">
+  <programme channel="153" start="20261002060200 +0000" stop="20261002061900 +0000">
     <title>DW News Focus</title>
     <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="153" start="20261002061500 +0000" stop="20261002063000 +0000">
-    <title>Best of DW-online Content</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+  <programme channel="153" start="20261002061900 +0000" stop="20261002063000 +0000">
+    <title>Arts Unveiled</title>
+    <desc>The Jewish Museum Berlin is marking its 25th anniversary. Housed in Daniel Libeskind's iconic zigzag-shaped building, the museum has become a landmark of contemporary architecture and one of Germany's most important cultural institutions. The very existence of a Jewish museum in Berlin is extraordinary.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002063000 +0000" stop="20261002070000 +0000">
-    <title>Best of DW Podcasts</title>
-    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <title>Focus on Europe</title>
+    <desc>Rich mineral deposits lie within a nature reserve in Finland. Plans to mine them are drawing opposition. +++ Inclusion at a German bistro near parliament: People living with and without disabilities work side by side.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002070000 +0000" stop="20261002070200 +0000">
@@ -9633,7 +9627,7 @@
   </programme>
   <programme channel="153" start="20261002080200 +0000" stop="20261002083000 +0000">
     <title>To the Point</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Russia is ramping up its military buildup and recruiting more soldiers for the war in Ukraine. At the same time, sabotage operations and cyberattacks targeting the West are increasing. Another winter with no hope of peace? Our guests: Alexey Yusupov (Russia analyst, FES); Alexandra von Nahmen (DW); Moritz Gathmann (Stern)</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002083000 +0000" stop="20261002090000 +0000">
@@ -9678,12 +9672,12 @@
   </programme>
   <programme channel="153" start="20261002110200 +0000" stop="20261002113000 +0000">
     <title>To the Point</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Russia is ramping up its military buildup and recruiting more soldiers for the war in Ukraine. At the same time, sabotage operations and cyberattacks targeting the West are increasing. Another winter with no hope of peace? Our guests: Alexey Yusupov (Russia analyst, FES); Alexandra von Nahmen (DW); Moritz Gathmann (Stern)</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002113000 +0000" stop="20261002120000 +0000">
-    <title>Best of DW Podcasts</title>
-    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <title>Global Us</title>
+    <desc>Feeding Jakarta's 42 million residents takes food from across Indonesia and beyond. We follow the journey. In Naples, heritage helps transform a neighborhood. And in the US, surrogates and parents share their stories.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002120000 +0000" stop="20261002120200 +0000">
@@ -9712,13 +9706,13 @@
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002131500 +0000" stop="20261002133000 +0000">
-    <title>Best of DW-online Content</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <title>History</title>
+    <desc>While the Berlin Wall became the symbol of the Cold War, another border was just as deadly: the Baltic Sea. For nearly 30 years, thousands of East Germans risked everything to flee the GDR across the water. Almost 6,000 people attempted the dangerous journey to West Germany or Denmark. At least 140 died trying — more than at the Berlin Wall.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002133000 +0000" stop="20261002140000 +0000">
     <title>In Good Shape</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Blood vessels deliver oxygen and nutrients to every cell in the body. How does the circulatory system work, what causes varicose veins, and what role does cholesterol play in vascular health?</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002140000 +0000" stop="20261002140200 +0000">
@@ -9743,7 +9737,7 @@
   </programme>
   <programme channel="153" start="20261002153000 +0000" stop="20261002160000 +0000">
     <title>To the Point</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Russia is ramping up its military buildup and recruiting more soldiers for the war in Ukraine. At the same time, sabotage operations and cyberattacks targeting the West are increasing. Another winter with no hope of peace? Our guests: Alexey Yusupov (Russia analyst, FES); Alexandra von Nahmen (DW); Moritz Gathmann (Stern)</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002160000 +0000" stop="20261002163000 +0000">
@@ -9753,7 +9747,7 @@
   </programme>
   <programme channel="153" start="20261002163000 +0000" stop="20261002170000 +0000">
     <title>Eco India</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>From India's green innovators to extreme heat in Bengaluru and fires in Borneo: Meet the people finding ways to respond to environmental challenges.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002170000 +0000" stop="20261002171500 +0000">
@@ -9762,13 +9756,13 @@
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002171500 +0000" stop="20261002173000 +0000">
-    <title>Best of DW-online Content</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <title>History</title>
+    <desc>While the Berlin Wall became the symbol of the Cold War, another border was just as deadly: the Baltic Sea. For nearly 30 years, thousands of East Germans risked everything to flee the GDR across the water. Almost 6,000 people attempted the dangerous journey to West Germany or Denmark. At least 140 died trying — more than at the Berlin Wall.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002173000 +0000" stop="20261002180000 +0000">
     <title>Afrimaxx</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>At Decorex Johannesburg, we explore how identity is being shaped across Africa. From spiritual traditions and natural hair to community building and unlikely sporting dreams, creativity is redefining belonging.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002180000 +0000" stop="20261002183000 +0000">
@@ -9777,8 +9771,8 @@
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002183000 +0000" stop="20261002190000 +0000">
-    <title>Best of DW Podcasts</title>
-    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <title>DW News</title>
+    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002190000 +0000" stop="20261002190200 +0000">
@@ -9792,13 +9786,13 @@
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002191500 +0000" stop="20261002193000 +0000">
-    <title>Best of DW-online Content</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <title>History</title>
+    <desc>While the Berlin Wall became the symbol of the Cold War, another border was just as deadly: the Baltic Sea. For nearly 30 years, thousands of East Germans risked everything to flee the GDR across the water. Almost 6,000 people attempted the dangerous journey to West Germany or Denmark. At least 140 died trying — more than at the Berlin Wall.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002193000 +0000" stop="20261002200000 +0000">
     <title>Eco Africa</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>German bread may be recognized by UNESCO, but a lot gets tossed. A Zimbabwean reporter takes a look at how Berlin is trying to stop that. And cleaning up water in Ghana and plastic waste in Nigeria and Burundi.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002200000 +0000" stop="20261002203000 +0000">
@@ -9838,7 +9832,7 @@
   </programme>
   <programme channel="153" start="20261002223000 +0000" stop="20261002230000 +0000">
     <title>Eco India</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>From India's green innovators to extreme heat in Bengaluru and fires in Borneo: Meet the people finding ways to respond to environmental challenges.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002230000 +0000" stop="20261002230200 +0000">
@@ -9852,13 +9846,13 @@
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002231500 +0000" stop="20261002233000 +0000">
-    <title>Best of DW-online Content</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <title>History</title>
+    <desc>While the Berlin Wall became the symbol of the Cold War, another border was just as deadly: the Baltic Sea. For nearly 30 years, thousands of East Germans risked everything to flee the GDR across the water. Almost 6,000 people attempted the dangerous journey to West Germany or Denmark. At least 140 died trying — more than at the Berlin Wall.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261002233000 +0000" stop="20261003000000 +0000">
-    <title>DW News</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <title>Best of DW Podcasts</title>
+    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003000000 +0000" stop="20261003000200 +0000">
@@ -9873,7 +9867,7 @@
   </programme>
   <programme channel="153" start="20261003003000 +0000" stop="20261003010000 +0000">
     <title>REV</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>A look at Uganda, where Chinese tech is transforming transport with electric buses, motorbikes and three-wheelers. Plus: An autonomous tractor aids farmers in India, and Austria bests the rest of Europe at night trains.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003010000 +0000" stop="20261003010200 +0000">
@@ -9887,13 +9881,13 @@
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003011500 +0000" stop="20261003013000 +0000">
-    <title>Best of DW-online Content</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <title>Planet A</title>
+    <desc>Many parts of the Global North are facing unprecedented heat waves. And their buildings were not designed for this heat. Can countries retrofit existing homes for a warming world - without turning every apartment into an air-conditioned box?</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003013000 +0000" stop="20261003020000 +0000">
     <title>Tomorrow Today</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Researchers in Leipzig show how green roofs and rainwater management can reduce urban heat. Also: climate change, biodiversity loss and the growing threat posed by invasive species.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003020000 +0000" stop="20261003020200 +0000">
@@ -9922,13 +9916,13 @@
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003031500 +0000" stop="20261003033000 +0000">
-    <title>Best of DW-online Content</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <title>History</title>
+    <desc>While the Berlin Wall became the symbol of the Cold War, another border was just as deadly: the Baltic Sea. For nearly 30 years, thousands of East Germans risked everything to flee the GDR across the water. Almost 6,000 people attempted the dangerous journey to West Germany or Denmark. At least 140 died trying — more than at the Berlin Wall.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003033000 +0000" stop="20261003040000 +0000">
     <title>To the Point</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Russia is ramping up its military buildup and recruiting more soldiers for the war in Ukraine. At the same time, sabotage operations and cyberattacks targeting the West are increasing. Another winter with no hope of peace? Our guests: Alexey Yusupov (Russia analyst, FES); Alexandra von Nahmen (DW); Moritz Gathmann (Stern)</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003040000 +0000" stop="20261003040200 +0000">
@@ -9958,12 +9952,12 @@
   </programme>
   <programme channel="153" start="20261003050200 +0000" stop="20261003053000 +0000">
     <title>Arts Unveiled</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Caught between cultural richness and political crisis: An extraordinary music project is bringing together young talents from Georgia and Germany. At the same time, Georgian artists are standing up for artistic freedom.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003053000 +0000" stop="20261003060000 +0000">
     <title>The 77 Percent</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>West Africa now accounts for 30% of all cybercrimes in Africa, costing victims billions globally. We explore the world of internet fraudsters known in Nigeria as "Yahoo boys" and in Ghana as "Sakawa Boys."</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003060000 +0000" stop="20261003060200 +0000">
@@ -9977,13 +9971,13 @@
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003061500 +0000" stop="20261003063000 +0000">
-    <title>Best of DW-online Content</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <title>History</title>
+    <desc>While the Berlin Wall became the symbol of the Cold War, another border was just as deadly: the Baltic Sea. For nearly 30 years, thousands of East Germans risked everything to flee the GDR across the water. Almost 6,000 people attempted the dangerous journey to West Germany or Denmark. At least 140 died trying — more than at the Berlin Wall.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003063000 +0000" stop="20261003070000 +0000">
-    <title>REV</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <title>Best of DW Podcasts</title>
+    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003070000 +0000" stop="20261003070200 +0000">
@@ -9998,12 +9992,12 @@
   </programme>
   <programme channel="153" start="20261003071500 +0000" stop="20261003073000 +0000">
     <title>Sports Life</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Genital mutilation. Sexual abuse. Trauma. Maïmouna Coulibaly endured it all. Today, she empowers women to heal through dance. Her message: "Dancing saved my life.”</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003073000 +0000" stop="20261003080000 +0000">
     <title>Tomorrow Today</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Researchers in Leipzig show how green roofs and rainwater management can reduce urban heat. Also: climate change, biodiversity loss and the growing threat posed by invasive species.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003080000 +0000" stop="20261003080300 +0000">
@@ -10033,7 +10027,7 @@
   </programme>
   <programme channel="153" start="20261003093000 +0000" stop="20261003100000 +0000">
     <title>In Good Shape</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Blood vessels deliver oxygen and nutrients to every cell in the body. How does the circulatory system work, what causes varicose veins, and what role does cholesterol play in vascular health?</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003100000 +0000" stop="20261003100200 +0000">
@@ -10042,8 +10036,8 @@
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003100200 +0000" stop="20261003101500 +0000">
-    <title>Best of DW-online Content</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <title>The Scene</title>
+    <desc>From Nusantara’s green dream to Vietnam’s mega structures and Thailand’s tiny house movement — Southeast Asia is redesigning the future. But are these projects creating communities for people, or monuments that leave them behind? This is the battle for the cities of tomorrow.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003101500 +0000" stop="20261003103000 +0000">
@@ -10053,7 +10047,7 @@
   </programme>
   <programme channel="153" start="20261003103000 +0000" stop="20261003110000 +0000">
     <title>Arts Unveiled</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Caught between cultural richness and political crisis: An extraordinary music project is bringing together young talents from Georgia and Germany. At the same time, Georgian artists are standing up for artistic freedom.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003110000 +0000" stop="20261003110300 +0000">
@@ -10083,8 +10077,8 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003123000 +0000" stop="20261003130000 +0000">
-    <title>Euromaxx</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <title>Best of DW Podcasts</title>
+    <desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003130000 +0000" stop="20261003130200 +0000">
@@ -10094,7 +10088,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme channel="153" start="20261003130200 +0000" stop="20261003131500 +0000">
     <title>Sports Life</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>Genital mutilation. Sexual abuse. Trauma. Maïmouna Coulibaly endured it all. Today, she empowers women to heal through dance. Her message: "Dancing saved my life.”</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003131500 +0000" stop="20261003140000 +0000">
@@ -10108,8 +10102,8 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003140200 +0000" stop="20261003141500 +0000">
-    <title>Best of DW-online Content</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <title>The Scene</title>
+    <desc>From Nusantara’s green dream to Vietnam’s mega structures and Thailand’s tiny house movement — Southeast Asia is redesigning the future. But are these projects creating communities for people, or monuments that leave them behind? This is the battle for the cities of tomorrow.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003141500 +0000" stop="20261003143000 +0000">
@@ -10119,7 +10113,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme channel="153" start="20261003143000 +0000" stop="20261003150000 +0000">
     <title>The 77 Percent</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <desc>West Africa now accounts for 30% of all cybercrimes in Africa, costing victims billions globally. We explore the world of internet fraudsters known in Nigeria as "Yahoo boys" and in Ghana as "Sakawa Boys."</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003150000 +0000" stop="20261003151500 +0000">
@@ -10128,8 +10122,8 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003151500 +0000" stop="20261003153000 +0000">
-    <title>Best of DW-online Content</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+    <title>Arts Unveiled</title>
+    <desc>The Jewish Museum Berlin is marking its 25th anniversary. Housed in Daniel Libeskind's iconic zigzag-shaped building, the museum has become a landmark of contemporary architecture and one of Germany's most important cultural institutions. The very existence of a Jewish museum in Berlin is extraordinary.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261003153000 +0000" stop="20261003160000 +0000">
@@ -10559,7 +10553,7 @@ Inimai Idho Idho is a 1983 Indian Tamil-language film directed by R. Ramalingam,
     <icon src="https://poster.starhubgo.com/poster/ch201_MassParticipation.jpg?w=341%26h=192" />
   </programme>
   <programme channel="201" start="20261002223000 +0000" stop="20261003000000 +0000">
-    <title>ATP Tour 2026 China Open (500) Day 3 R2 Session 1 (031026)</title>
+    <title>ATP Tour 2026 China Open (500) Day 3 R2 Session 1</title>
     <desc>The China Open is a premier professional tennis tournament held annually in Beijing at the Beijing Olympic Green Tennis Center. Established in 1993, it is the only ATP 500 men's tournament held in China.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch201_ATP_500_China_Open_2026.jpg?w=960%26h=540" />
   </programme>
@@ -10574,12 +10568,12 @@ Inimai Idho Idho is a 1983 Indian Tamil-language film directed by R. Ramalingam,
     <icon src="https://poster.starhubgo.com/poster/ch201_ATP_500_China_Open_2026.jpg?w=960%26h=540" />
   </programme>
   <programme channel="201" start="20261003030000 +0000" stop="20261003050000 +0000">
-    <title>ATP Tour 2026 China Open (500) Day 4 R2 Session 1 (031026)</title>
+    <title>ATP Tour 2026 China Open (500) Day 4 R2 Session 1</title>
     <desc>The China Open is a premier professional tennis tournament held annually in Beijing at the Beijing Olympic Green Tennis Center. Established in 1993, it is the only ATP 500 men's tournament held in China.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch201_ATP_500_China_Open_2026.jpg?w=960%26h=540" />
   </programme>
   <programme channel="201" start="20261003050000 +0000" stop="20261003070000 +0000">
-    <title>ATP Tour 2026 China Open (500) Day 4 R2 Session 2 (031026)</title>
+    <title>ATP Tour 2026 China Open (500) Day 4 R2 Session 2</title>
     <desc>The China Open is a premier professional tennis tournament held annually in Beijing at the Beijing Olympic Green Tennis Center. Established in 1993, it is the only ATP 500 men's tournament held in China.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch201_ATP_500_China_Open_2026.jpg?w=960%26h=540" />
   </programme>
@@ -11066,12 +11060,17 @@ Inimai Idho Idho is a 1983 Indian Tamil-language film directed by R. Ramalingam,
     <desc>40 of the world's best female and male professional triathletes battle over 8 breakneck 100km races in iconic locations around the globe in a bid to be crowned the T100 World Champions.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch209_2026_T100_Triathlon_World_Tour.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="209" start="20261002001500 +0000" stop="20261002031500 +0000">
-    <title>MLB 2026 Postseason: AL Wild Card Game 3 New York Yankees vs Boston Red Sox</title>
-    <desc>The road to the World Series begins! Watch baseball's top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch209_MLB.jpg?w=960%26h=540" />
+  <programme channel="209" start="20261002010000 +0000" stop="20261002020000 +0000">
+    <title>2026 WSL Inside Pro Surfing</title>
+    <desc>Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour %26 Challenger Series.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch209_WSL.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="209" start="20261002031500 +0000" stop="20261002073000 +0000">
+  <programme channel="209" start="20261002020000 +0000" stop="20261002030000 +0000">
+    <title>2026 LET: KPMG Women's Irish Open</title>
+    <desc>The stars of the Ladies European Tour gather in Ireland to compete for the KPMG Women's Irish Open title, delivering elite golf and championship drama.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch209_Ladies_European_Tour.jpg?w=341%26h=192" />
+  </programme>
+  <programme channel="209" start="20261002030000 +0000" stop="20261002073000 +0000">
     <title>Giro d'Italia 2026</title>
     <desc>Elite cyclists take on one of the sport's most prestigious Grand Tours, battling across challenging stages, mountain climbs, and thrilling finishes for the famous pink jersey.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch209_Giro_dItalia_2026.jpg?w=960%26h=540" />
@@ -11249,7 +11248,7 @@ Inimai Idho Idho is a 1983 Indian Tamil-language film directed by R. Ramalingam,
   <programme channel="210" start="20261003070000 +0000" stop="20261003080000 +0000">
     <title>2026 Idemitsu Moto4 Asia Cup, Rd 3 Japan</title>
     <desc>Powerful bagger motorcycles take to the track as elite riders battle for glory in this thrilling race, combining raw power, speed, and spectacular two-wheel action.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341%26h=192" />
+    <icon src="https://poster.starhubgo.com/poster/ch210_2026_idemitsu_moto4_asia_cup.jpg?w=960%26h=540" />
   </programme>
   <programme channel="210" start="20261003080000 +0000" stop="20261003104500 +0000">
     <title>MLB 2026 Postseason: NL Wild Card Game 2 Atlanta Braves vs Philadelphia Phillies</title>
@@ -18715,13 +18714,7 @@ Inimai Idho Idho is a 1983 Indian Tamil-language film directed by R. Ramalingam,
     <desc>In the Mat-su, Halloween brings mayhem as Troopers respond to a roadside meltdown and recover a trove of credit cards in different names.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch651_alaska_state_troopers_s9.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="403" start="20261002200500 +0000" stop="20261002210000 +0000">
-    <title>The First 48</title>
-    <episode-num system="xmltv_ns">.532.0</episode-num>
-    <desc>After a 69-year-old woman is found dead in her bathtub, a suspect leads Tulsa detectives on a high-speed chase that ends tragically.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch651_TheFirst48S26.jpg?w=960%26h=540" />
-  </programme>
-  <programme channel="403" start="20261002210000 +0000" stop="20261002220000 +0000">
+  <programme channel="403" start="20261002200500 +0000" stop="20261002220000 +0000">
     <title>The First 48</title>
     <episode-num system="xmltv_ns">.546.0</episode-num>
     <desc>A construction worker is killed by a stray bullet during an attempted robbery inside a trailer park, but when investigators follow the trail of the suspects, things are not what they seem.</desc>
@@ -18765,14 +18758,14 @@ Inimai Idho Idho is a 1983 Indian Tamil-language film directed by R. Ramalingam,
   </programme>
   <programme channel="403" start="20261003013500 +0000" stop="20261003023000 +0000">
     <title>The First 48</title>
-    <episode-num system="xmltv_ns">.532.0</episode-num>
-    <desc>After a 69-year-old woman is found dead in her bathtub, a suspect leads Tulsa detectives on a high-speed chase that ends tragically.</desc>
+    <episode-num system="xmltv_ns">.530.0</episode-num>
+    <desc>In Mobile, two men are killed after their car is sprayed with bullets on the highway, leading detectives across the country in search of answers.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch651_TheFirst48S26.jpg?w=960%26h=540" />
   </programme>
   <programme channel="403" start="20261003023000 +0000" stop="20261003032500 +0000">
     <title>The First 48</title>
-    <episode-num system="xmltv_ns">.546.0</episode-num>
-    <desc>A construction worker is killed by a stray bullet during an attempted robbery inside a trailer park, but when investigators follow the trail of the suspects, things are not what they seem.</desc>
+    <episode-num system="xmltv_ns">.530.0</episode-num>
+    <desc>In Mobile, two men are killed after their car is sprayed with bullets on the highway, leading detectives across the country in search of answers.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch651_TheFirst48S26.jpg?w=960%26h=540" />
   </programme>
   <programme channel="403" start="20261003032500 +0000" stop="20261003042000 +0000">
@@ -26084,7 +26077,7 @@ years in solitary confinement.</desc>
   </programme>
   <programme channel="701" start="20261003033000 +0000" stop="20261003040000 +0000">
     <title>The Media Show</title>
-    <desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+    <desc>Journalists who reported on Manchester City's 'sham' contracts and a look at how celebrities are cast for major TV shows.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
   </programme>
   <programme channel="701" start="20261003040000 +0000" stop="20261003043000 +0000">
@@ -26104,7 +26097,7 @@ years in solitary confinement.</desc>
   </programme>
   <programme channel="701" start="20261003053000 +0000" stop="20261003060000 +0000">
     <title>AI Decoded</title>
-    <desc>Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+    <desc>Meta has launched Muse, a new AI assistant designed to watch, learn and act on your behalf. But is it a helpful digital companion, or the latest step in Big Tech's push into our personal lives?</desc>
     <icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
   </programme>
   <programme channel="701" start="20261003060000 +0000" stop="20261003063000 +0000">
@@ -26149,7 +26142,7 @@ years in solitary confinement.</desc>
   </programme>
   <programme channel="701" start="20261003103000 +0000" stop="20261003110000 +0000">
     <title>Talking Business</title>
-    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc>Ramzan Karmali asks why there are so few women in the artificial intelligence industry and the impact that might have on the wider world of work.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch701_talking_business.jpg?w=960%26h=540" />
   </programme>
   <programme channel="701" start="20261003110000 +0000" stop="20261003113000 +0000">
@@ -26159,7 +26152,7 @@ years in solitary confinement.</desc>
   </programme>
   <programme channel="701" start="20261003113000 +0000" stop="20261003120000 +0000">
     <title>Unspun World with John Simpson</title>
-    <desc>Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor John Simpson.</desc>
+    <desc>John Simpson looks at the impact of intensifying Russian attacks on Ukraine, analyses the state of the relationship between China and the US and examines the possibility of civil war in Ethiopia.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch701_unspun_world_with_john_simpson.jpg?w=341%26h=192" />
   </programme>
   <programme channel="701" start="20261003120000 +0000" stop="20261003123000 +0000">
@@ -26179,7 +26172,7 @@ years in solitary confinement.</desc>
   </programme>
   <programme channel="701" start="20261003133000 +0000" stop="20261003140000 +0000">
     <title>AI Decoded</title>
-    <desc>Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+    <desc>Meta has launched Muse, a new AI assistant designed to watch, learn and act on your behalf. But is it a helpful digital companion, or the latest step in Big Tech's push into our personal lives?</desc>
     <icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
   </programme>
   <programme channel="701" start="20261003140000 +0000" stop="20261003143000 +0000">
@@ -26189,7 +26182,7 @@ years in solitary confinement.</desc>
   </programme>
   <programme channel="701" start="20261003143000 +0000" stop="20261003150000 +0000">
     <title>The Media Show</title>
-    <desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+    <desc>Journalists who reported on Manchester City's 'sham' contracts and a look at how celebrities are cast for major TV shows.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
   </programme>
   <programme channel="701" start="20261003150000 +0000" stop="20261003153000 +0000">
@@ -32392,12 +32385,13 @@ years in solitary confinement.</desc>
     <desc>The latest up-to-date news and nationwide weather information.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="811" start="20261002010500 +0000" stop="20261002015500 +0000">
-    <title>TBA</title>
+  <programme channel="811" start="20261002010500 +0000" stop="20261002023500 +0000">
+    <title>Life with Cat and Dog (R)</title>
+    <desc>Special programs ranging from entertainment shows to documentaries will be shown.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="811" start="20261002015500 +0000" stop="20261002024500 +0000">
-    <title>TBA</title>
+  <programme channel="811" start="20261002023500 +0000" stop="20261002024500 +0000">
+    <title>Darwin's Amazing Animals 10min.</title>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="811" start="20261002024500 +0000" stop="20261002025000 +0000">
@@ -32430,7 +32424,7 @@ years in solitary confinement.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="811" start="20261002033000 +0000" stop="20261002034500 +0000">
-    <title>Drama Serial Encore "Hiyokko" Ep. 42</title>
+    <title>Drama Serial Encore "Hiyokko" Ep. 41</title>
     <desc>The 96th Drama Serial is about Mineko, a girl born in Ibaraki Prefecture, who comes up to Tokyo for the mass employment during the high economic growth period.  The story begins in 1964, the year of the Tokyo Olympics, and portrays her eventful life and growth as a person.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
@@ -32543,9 +32537,17 @@ years in solitary confinement.</desc>
     <desc>A program probing into the truth behind the news related to the Tokyo Metropolitan area.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="811" start="20261002105700 +0000" stop="20261002114300 +0000">
+  <programme channel="811" start="20261002105700 +0000" stop="20261002112900 +0000">
     <title>Trivia Quizzes--You'll Get Scolded by Chiko-chan!</title>
     <desc>Let's learn trivia of things we do unconsciously in our daily lives with "Chiko-chan," a five-year-old virtual girl who asks adults simple questions one after another!</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="811" start="20261002112900 +0000" stop="20261002113900 +0000">
+    <title>The Great Nature 10min.</title>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="811" start="20261002113900 +0000" stop="20261002114300 +0000">
+    <title>Mini Program</title>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="811" start="20261002114300 +0000" stop="20261002114500 +0000">
@@ -32645,8 +32647,17 @@ years in solitary confinement.</desc>
     <title>Drama Serial "Blossom" Ep. 5 (R)</title>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="811" start="20261002184500 +0000" stop="20261002193500 +0000">
-    <title>TBA</title>
+  <programme channel="811" start="20261002184500 +0000" stop="20261002191500 +0000">
+    <title>Neighbor's Nurturing Session (R)</title>
+    <desc>The program is for parents raising children from elementary to junior high school ages. Parenting problems are difficult to talk to Mom/Dad friends, but they can be serious problems for those involved. Sharing sympathetic voices and ideas gathered from parenting families across the country, we work together to find solutions.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="811" start="20261002191500 +0000" stop="20261002193000 +0000">
+    <title>RAMEN JAPAN 15min.</title>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="811" start="20261002193000 +0000" stop="20261002193500 +0000">
+    <title>World's Magnificent Sight Journey</title>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="811" start="20261002193500 +0000" stop="20261002195800 +0000">
@@ -32701,9 +32712,17 @@ years in solitary confinement.</desc>
     <title>Drama Serial "Blossom"</title>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="811" start="20261002231500 +0000" stop="20261003000000 +0000">
+  <programme channel="811" start="20261002231500 +0000" stop="20261002234700 +0000">
     <title>Trivia Quizzes--You'll Get Scolded by Chiko-chan! (R)</title>
     <desc>Let's learn trivia of things we do unconsciously in our daily lives with "Chiko-chan," a five-year-old virtual girl who asks adults simple questions one after another!</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="811" start="20261002234700 +0000" stop="20261002235700 +0000">
+    <title>The Great Nature 10min.</title>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="811" start="20261002235700 +0000" stop="20261003000000 +0000">
+    <title>Mini Program</title>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="811" start="20261003000000 +0000" stop="20261003002800 +0000">
@@ -32881,7 +32900,8 @@ years in solitary confinement.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="811" start="20261003140000 +0000" stop="20261003143000 +0000">
-    <title>Venue101 EXTRA</title>
+    <title>Venue101 EXTRA WEEK2</title>
+    <desc>This live entertainment show delivers the latest music performances and information, and also connects with the audience making full use of social media.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="811" start="20261003143000 +0000" stop="20261003160000 +0000">
@@ -33604,7 +33624,7 @@ years in solitary confinement.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch815_kbsworld_news_today.jpg?w=341%26h=192" />
   </programme>
   <programme channel="815" start="20261002080000 +0000" stop="20261002095500 +0000">
-    <title>Immortal Songs 2 (021026)</title>
+    <title>Immortal Songs 2</title>
     <desc>Legendary artists and rising performers come together, connecting generations through music. Korea's top vocalists reinterpret iconic songs in their own styles, delivering powerful and emotional performances. Don't miss this unforgettable musical competition.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch815_immortal_songs.jpg?w=341%26h=192" />
   </programme>
@@ -33669,7 +33689,7 @@ years in solitary confinement.</desc>
   <programme channel="815" start="20261002181000 +0000" stop="20261002182500 +0000">
     <title>Idol Booth</title>
     <episode-num system="xmltv_ns">.7.0</episode-num>
-    <desc>&lt;Idol Booth&gt; is where fans can meet their favorite idols just as both idols and fans have always envisioned them-pretty, cute, full of member chemistry, and as vivid as photocards coming to life-right before their eyes. and most energetic moments.</desc>
+    <desc>&lt;Idol Booth&gt; is where fans can meet their favorite idols just as both idols and fans have always envisioned them—pretty, cute, full of member chemistry, and as vivid as photocards coming to life—right before their eyes.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch815_idol_booth.jpg?w=341%26h=192" />
   </programme>
   <programme channel="815" start="20261002182500 +0000" stop="20261002183000 +0000">
