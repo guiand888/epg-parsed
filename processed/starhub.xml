@@ -1436,6 +1436,12 @@
     <desc>Slice, dice, and chop like a pro with our kitchen knives!</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
+  <programme channel="103" start="20261029021600 +0000" stop="20261029023000 +0000">
+    <title>The Wonder Shop</title>
+    <episode-num system="xmltv_ns">.252.0</episode-num>
+    <desc>This cookware is made with strong stainless steel and a long-lasting non-stick coating from Whitford (USA). Its 7-layer design ensures even heat distribution and helps keep heat longer, providing great cooking results every time. Perfect for those looking for high-quality, easy-to-use kitchen tools.</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
   <programme channel="103" start="20261029023000 +0000" stop="20261029033000 +0000">
     <title>100% Wife</title>
     <episode-num system="xmltv_ns">.187.0</episode-num>
@@ -1504,8 +1510,8 @@
   </programme>
   <programme channel="103" start="20261029071600 +0000" stop="20261029073000 +0000">
     <title>The Wonder Shop</title>
-    <episode-num system="xmltv_ns">.330.0</episode-num>
-    <desc>Powered by world-first patented Capsule-in-Capsule technology, DuoGuard Joint separates and protects oil- and powder-based nutrients for optimal delivery. Its dual-action formula provides fast joint relief, followed by sustained release for up to 8 hours to support cartilage repair, joint lubrication and bone health. With 9 active ingredients, it delivers comprehensive support for both joints and bones.</desc>
+    <episode-num system="xmltv_ns">.312.0</episode-num>
+    <desc>Nature’s Farm Mirtogenol Plus+ is a clinically tested eye health formula developed by ophthalmologists and scientists from the UK and Italy. Powered by two powerful antioxidants—Pycnogenol and Mirtoselect—with Citrus Bioflavonoids, it supports healthy eye pressure, improves microcirculation, and helps protect against daily screen-related eye stress. It helps reduce eye fatigue, dryness, and blurred vision for clearer, more comfortable vision.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="103" start="20261029073000 +0000" stop="20261029080000 +0000">
@@ -2264,7 +2270,7 @@
   <programme channel="106" start="20261028210000 +0000" stop="20261028213000 +0000">
     <title>Money Mind</title>
     <episode-num system="xmltv_ns">.26.0</episode-num>
-    <desc>Money Mind is a weekly magazine programme centering on personal finance. Every week, the programme offers tips on how to grow, save and spend your money wisely.</desc>
+    <desc>Singapore bank shares have fallen – a good time to buy? She lost thousands buying a cheap home – so why try again? Plus – when a short festive payday needs to stretch to feed a family of 10.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="106" start="20261028213000 +0000" stop="20261028220000 +0000">
@@ -2288,7 +2294,7 @@
   <programme channel="106" start="20261029020000 +0000" stop="20261029023000 +0000">
     <title>Money Mind</title>
     <episode-num system="xmltv_ns">.26.0</episode-num>
-    <desc>Money Mind is a weekly magazine programme centering on personal finance. Every week, the programme offers tips on how to grow, save and spend your money wisely.</desc>
+    <desc>Singapore bank shares have fallen – a good time to buy? She lost thousands buying a cheap home – so why try again? Plus – when a short festive payday needs to stretch to feed a family of 10.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="106" start="20261029023000 +0000" stop="20261029030000 +0000">
@@ -2371,7 +2377,7 @@
   <programme channel="106" start="20261029150000 +0000" stop="20261029153000 +0000">
     <title>Money Mind</title>
     <episode-num system="xmltv_ns">.26.0</episode-num>
-    <desc>Money Mind is a weekly magazine programme centering on personal finance. Every week, the programme offers tips on how to grow, save and spend your money wisely.</desc>
+    <desc>Singapore bank shares have fallen – a good time to buy? She lost thousands buying a cheap home – so why try again? Plus – when a short festive payday needs to stretch to feed a family of 10.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="106" start="20261029153000 +0000" stop="20261029160000 +0000">
@@ -7430,7 +7436,7 @@
   <programme channel="138" start="20261028060000 +0000" stop="20261028083000 +0000">
     <title>Kavalthurai Ungal Nanban</title>
     <desc>Prabhu, a delivery worker, tries to file a police report. Unfortunately, he irritates the officers. The situation escalates, leading to unforeseen complications for Prabhu.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341%26h=192" />
+    <icon src="https://poster.starhubgo.com/poster/ch656_KAVALTHURAI.jpg?w=960%26h=540" />
   </programme>
   <programme channel="138" start="20261028083000 +0000" stop="20261028090000 +0000">
     <title>Zee Flix</title>
@@ -7674,7 +7680,7 @@
     <icon src="https://poster.starhubgo.com/poster/ch656_Annamalai_Kudumbam.jpg?w=960%26h=540" />
   </programme>
   <programme channel="138" start="20261029060000 +0000" stop="20261029090000 +0000">
-    <title>Aghavan</title>
+    <title>Aghavan (291026)</title>
     <desc>A group of criminals schemes to rob a massive temple, driven by selfish greed, risking danger and confrontation as they plot to steal its vast wealth.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch656_AGHAVAN.jpg?w=960%26h=540" />
   </programme>
@@ -8077,22 +8083,22 @@
     <desc>The life of an ordinary driver Keshu turns upside down when he wins a lottery worth 12 crores but his morality gets tested. Release Year: 2021 Director: Nadirshah</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20261027163000 +0000" stop="20261027193000 +0000">
+  <programme channel="140" start="20261027163000 +0000" stop="20261027191500 +0000">
     <title>Sallapam</title>
     <desc>Their Love journey ends as Sasikumar spurns Radha, revealing hidden affections. Release Year: 1996 Director: Sundar Das Awards: In 1996, Johnson composer won the Kerala State Film Award for Best Music Director for the film 'Sallapam.'</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20261027193000 +0000" stop="20261027213000 +0000">
+  <programme channel="140" start="20261027191500 +0000" stop="20261027214000 +0000">
     <title>Pachakkuthira</title>
     <desc>Film artist Anandakkuttan cares for his autistic brother, forming a solid bond. Release Year: 2006</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20261027213000 +0000" stop="20261027233000 +0000">
+  <programme channel="140" start="20261027214000 +0000" stop="20261027233500 +0000">
     <title>Aagathan</title>
     <desc>Major General Hareendra and Gautham Menon who is a software engineer. At the end, Gautham reveals a shocking secret to Hareendra. What's the secret? Release Year: 2010</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20261027233000 +0000" stop="20261028013000 +0000">
+  <programme channel="140" start="20261027233500 +0000" stop="20261028013000 +0000">
     <title>Sundarakkilladi</title>
     <desc>Without knowing the risk of his work, a man goes to a village to dig a well as they are facing water scarcity. However, his life takes a turn when he falls in love with a girl. Release Year: 1998 Director: Murali Krishnan</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
@@ -9786,18 +9792,13 @@
     <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="153" start="20261027183000 +0000" stop="20261027200000 +0000">
+  <programme channel="153" start="20261027183000 +0000" stop="20261027195500 +0000">
     <title>DocFilm</title>
     <desc>How was the attack on the Israeli state prepared? How was it even possible? To mark the first anniversary of the Hamas attack, the documentary film analyzes the failures of intelligence services, politics and the army.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="153" start="20261027200000 +0000" stop="20261027203000 +0000">
+  <programme channel="153" start="20261027195500 +0000" stop="20261027210000 +0000">
     <title>DW News</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
-  </programme>
-  <programme channel="153" start="20261027203000 +0000" stop="20261027210000 +0000">
-    <title>The Day</title>
     <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
@@ -9901,19 +9902,9 @@
     <desc>A Malian photographer is capturing environmental problems on camera, sparking debate - and change. Plus: The giant battery that could end power cuts in Malawi and elsewhere.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="153" start="20261028040000 +0000" stop="20261028040200 +0000">
+  <programme channel="153" start="20261028040000 +0000" stop="20261028050000 +0000">
     <title>DW News</title>
     <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
-  </programme>
-  <programme channel="153" start="20261028040200 +0000" stop="20261028041500 +0000">
-    <title>DW News Focus</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
-  </programme>
-  <programme channel="153" start="20261028041500 +0000" stop="20261028050000 +0000">
-    <title>DocFilm</title>
-    <desc>For decades, people have predicted the collapse of North Korea. Yet the Kim dynasty seems more entrenched than ever. Propaganda, military posturing and a nuclear program are shoring up Kim Jong Un's power, both domestically and internationally.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261028050000 +0000" stop="20261028050200 +0000">
@@ -9946,24 +9937,14 @@
     <desc>In Kraków’s Kazimierz district, you can dive into Jewish history - the city was a major center of Jewish life in Europe for centuries. Today the area is hip, with Jewish bookstores and kosher cafés and bars.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="153" start="20261028063000 +0000" stop="20261028070000 +0000">
-    <title>In Good Shape</title>
-    <desc>Sex in pregnancy: Is it safe and how best to do it? Plus: dating in museums and supermarkets - and why sexually transmitted infections too often go undetected.</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
-  </programme>
-  <programme channel="153" start="20261028070000 +0000" stop="20261028070200 +0000">
-    <title>DW News</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
-  </programme>
-  <programme channel="153" start="20261028070200 +0000" stop="20261028083000 +0000">
+  <programme channel="153" start="20261028063000 +0000" stop="20261028080000 +0000">
     <title>DocFilm</title>
     <desc>How was the attack on the Israeli state prepared? How was it even possible? To mark the first anniversary of the Hamas attack, the documentary film analyzes the failures of intelligence services, politics and the army.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="153" start="20261028083000 +0000" stop="20261028090000 +0000">
-    <title>Eco India</title>
-    <desc>From India's rooftop solar boom to electricity from chicken waste and the removal of old dams to restore rivers, green solutions are gaining ground.</desc>
+  <programme channel="153" start="20261028080000 +0000" stop="20261028090000 +0000">
+    <title>DW News</title>
+    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261028090000 +0000" stop="20261028090300 +0000">
@@ -10011,19 +9992,9 @@
     <desc>One family struggles with rising costs, another with immigration detention, while critics question political influence of tech billionaires. Three stories about the state of America.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="153" start="20261028120000 +0000" stop="20261028120200 +0000">
+  <programme channel="153" start="20261028120000 +0000" stop="20261028130000 +0000">
     <title>DW News</title>
     <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
-  </programme>
-  <programme channel="153" start="20261028120200 +0000" stop="20261028121500 +0000">
-    <title>DW News Focus</title>
-    <desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
-  </programme>
-  <programme channel="153" start="20261028121500 +0000" stop="20261028130000 +0000">
-    <title>DocFilm</title>
-    <desc>The Russian Civil War was one of the 20th century's bloodiest chapters. The fight for Russia between Lenin's Red Army and the White Army was ruthless. Its legacy can be felt in Europe to this day.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="153" start="20261028130000 +0000" stop="20261028130200 +0000">
@@ -10812,7 +10783,7 @@
     <icon src="https://poster.starhubgo.com/poster/ch201_ATP500_Swiss_Indoors_Basel.jpg?w=341%26h=192" />
   </programme>
   <programme channel="201" start="20261028130000 +0000" stop="20261028170000 +0000">
-    <title>ATP Tour 2026 Swiss Indoors Basel (500) Day 3 R1 Session 1</title>
+    <title>ATP Tour 2026 Swiss Indoors Basel (500) Day 3 R1 Session 1 (281026)</title>
     <desc>The Swiss Indoors Basel is the world’s third-biggest indoor tennis tournament. It is played on indoor hardcourts at the St. Jakobshalle in Basel, Switzerland.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch201_ATP500_Swiss_Indoors_Basel.jpg?w=341%26h=192" />
   </programme>
@@ -10943,7 +10914,7 @@
   </programme>
   <programme channel="202" start="20261028190000 +0000" stop="20261028210000 +0000">
     <title>Asian University Basketball Lge 2026 SF 1: Tsinghua University vs Shanghai Jiao Tong University</title>
-    <desc>The AUBL is a pioneering pan-regional intercollegiate competition featuring Asia’s most prestigious university basketball programs, anchored by top teams from Greater China, Japan, and Korea.</desc>
+    <desc>The AUBL is a pioneering pan-regional intercollegiate competition featuring Asia's most prestigious university basketball programs, anchored by top teams from Greater China, Japan, and Korea.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch202_aubl_2026.jpg?w=341%26h=192" />
   </programme>
   <programme channel="202" start="20261028210000 +0000" stop="20261028230000 +0000">
@@ -10963,12 +10934,12 @@
   </programme>
   <programme channel="202" start="20261029000000 +0000" stop="20261029020000 +0000">
     <title>East Asia Super League 2026/27 Hou Chon vs Nagasaki Velca</title>
-    <desc>East Asia’s elite basketball clubs battle for regional supremacy. Catch live, high-octane action as top teams from Japan, Korea, the Philippines, and Taiwan clash for the ultimate championship.</desc>
+    <desc>East Asia's elite basketball clubs battle for regional supremacy. Catch live, high-octane action as top teams from Japan, Korea, the Philippines, and Taiwan clash for the ultimate championship.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch202_easl.jpg?w=960%26h=540" />
   </programme>
   <programme channel="202" start="20261029020000 +0000" stop="20261029040000 +0000">
     <title>East Asia Super League 2026/27 Taoyuan Pauian Pilots vs Ryukyu Golden Kings</title>
-    <desc>East Asia’s elite basketball clubs battle for regional supremacy. Catch live, high-octane action as top teams from Japan, Korea, the Philippines, and Taiwan clash for the ultimate championship.</desc>
+    <desc>East Asia's elite basketball clubs battle for regional supremacy. Catch live, high-octane action as top teams from Japan, Korea, the Philippines, and Taiwan clash for the ultimate championship.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch202_easl.jpg?w=960%26h=540" />
   </programme>
   <programme channel="202" start="20261029040000 +0000" stop="20261029070000 +0000">
@@ -11190,7 +11161,7 @@
     <icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
   <programme channel="205" start="20261029123000 +0000" stop="20261029163000 +0000">
-    <title>ATP Tour 2026 Erste Bank Open (500) Day 4 R2 Session 1</title>
+    <title>ATP Tour 2026 Erste Bank Open (500) Day 4 R2 Session 1 (291026)</title>
     <desc>The Erste Bank Open is a top-tier ATP 500 indoor hard-court tournament held annually in Vienna, Austria. Hosted at the Wiener Stadthalle, it attracts some of the world’s best players.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch205_ATP_500_Erste_Bank_Open.jpg?w=960%26h=540" />
   </programme>
@@ -11370,22 +11341,22 @@
     <icon src="https://poster.starhubgo.com/poster/ch209_Pickle_Yard_Conference_League.jpg?w=960%26h=540" />
   </programme>
   <programme channel="209" start="20261028180000 +0000" stop="20261028193000 +0000">
-    <title>CelcomDigi STL 2026 GP Perak</title>
+    <title>CelcomDigi STL 2026 GP Perak Match 13 QF1 ATM Guardians vs Bomba Fighters</title>
     <desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Perak, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="209" start="20261028193000 +0000" stop="20261028210000 +0000">
-    <title>CelcomDigi STL 2026 GP Perak</title>
+  <programme channel="209" start="20261028193000 +0000" stop="20261028211500 +0000">
+    <title>CelcomDigi STL 2026 GP Perak Match 14 QF2 Negeri Sembilan Antlres vs Johor Tigris</title>
     <desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Perak, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="209" start="20261028210000 +0000" stop="20261028223000 +0000">
-    <title>CelcomDigi STL 2026 GP Perak</title>
+  <programme channel="209" start="20261028211500 +0000" stop="20261028224500 +0000">
+    <title>CelcomDigi STL 2026 GP Perak Match 15 QF3 PDRM Defenders vs Kelantan Warriors</title>
     <desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Perak, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="209" start="20261028223000 +0000" stop="20261029000000 +0000">
-    <title>CelcomDigi STL 2026 GP Perak</title>
+  <programme channel="209" start="20261028224500 +0000" stop="20261029000000 +0000">
+    <title>CelcomDigi STL 2026 GP Perak Match 16 QF4 Kuala Lumpur Thunder vs Perak Bison</title>
     <desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Perak, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
   </programme>
@@ -11415,7 +11386,7 @@
     <icon src="https://poster.starhubgo.com/poster/ch209_Ladies_European_Tour.jpg?w=341%26h=192" />
   </programme>
   <programme channel="209" start="20261029090000 +0000" stop="20261029103000 +0000">
-    <title>2026 PYCL, Philippines S2 Rd 1 Cebuana Lhuillier Gems vs Dream Skin Radiants</title>
+    <title>2026 PYCL, Philippines S2 Rd 1 Dream Skin Radiants vs Black Mamba Aces</title>
     <desc>The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch209_Pickle_Yard_Conference_League.jpg?w=960%26h=540" />
   </programme>
@@ -11425,7 +11396,7 @@
     <icon src="https://poster.starhubgo.com/poster/ch209_EWC_2026.jpg?w=341%26h=192" />
   </programme>
   <programme channel="209" start="20261029110000 +0000" stop="20261029123000 +0000">
-    <title>2026 PYCL, Philippines S2 Rd 1 Dentacare Pearly Whites vs Black Mamba Aces</title>
+    <title>2026 PYCL, Philippines S2 Rd 1 Cebuana Lhuillier Gems vs Gfoxx Paragon</title>
     <desc>The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch209_Pickle_Yard_Conference_League.jpg?w=960%26h=540" />
   </programme>
@@ -11440,12 +11411,12 @@
     <icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=341%26h=192" />
   </programme>
   <programme channel="209" start="20261029140000 +0000" stop="20261029150000 +0000">
-    <title>CelcomDigi STL 2026 GP Penang</title>
+    <title>CelcomDigi STL 2026 GP Penang Match 8 Group B Penang Black Panthers vs Johor Tigris</title>
     <desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Penang, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
   </programme>
   <programme channel="209" start="20261029150000 +0000" stop="20261029163000 +0000">
-    <title>CelcomDigi STL 2026 GP Perak</title>
+    <title>CelcomDigi STL 2026 GP Perak Match 17 SF1 ATM Guardians vs Kuala Lumpur Thunder</title>
     <desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Perak, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
   </programme>
@@ -13349,7 +13320,7 @@
   </programme>
   <programme channel="247" start="20261028150000 +0000" stop="20261028165000 +0000">
     <title>Top 14 Toulon v Pau</title>
-    <desc>The Stade Mayol hosts this TOP 14 encounter between Toulon and Section Paloise.</desc>
+    <desc>The Stade Mayol hosts this TOP 14 encounter between  Toulon and Section Paloise.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341%26h=192" />
   </programme>
   <programme channel="247" start="20261028165000 +0000" stop="20261028184000 +0000">
@@ -32959,6 +32930,7 @@ determined to help her</desc>
   </programme>
   <programme channel="811" start="20261029130000 +0000" stop="20261029134500 +0000">
     <title>Songs of Our Generation</title>
+    <desc>The music program, hosted by Oizumi Yo, presents the greatest hits of J-pop from the 1960s to the present with high-quality sound and footage.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="811" start="20261029134500 +0000" stop="20261029140000 +0000">
@@ -36886,15 +36858,16 @@ determined to help her</desc>
   <programme channel="855" start="20261028020000 +0000" stop="20261028025500 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1000.0</episode-num>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/855_1920x1080_HTV.png?w=341%26h=192" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
-  <programme channel="855" start="20261028025500 +0000" stop="20261028035500 +0000">
+  <programme channel="855" start="20261028025500 +0000" stop="20261028035000 +0000">
     <title>Case X Decoded</title>
     <episode-num system="xmltv_ns">.11.0</episode-num>
     <desc>Sheriff To Hoi Bun(Michael Miu) and policewoman Yim Cheuk Wing (Eliza Sam) develop a rift between them due to an unresolved case. Later, while investigating it, they clear up their misunderstandings, and through repeated collaboration, they build a strong</desc>
     <icon src="https://poster.starhubgo.com/poster/CaseXDecoded_L_R1.jpg?w=960" />
   </programme>
-  <programme channel="855" start="20261028035500 +0000" stop="20261028044500 +0000">
+  <programme channel="855" start="20261028035000 +0000" stop="20261028044500 +0000">
     <title>The First Jasmine</title>
     <episode-num system="xmltv_ns">.26.0</episode-num>
     <desc>Accompanied by Qingshuang and Huanying, Ye Li fakes an injury to meet Gu Zheng, tasking him to watch Su Zhidie and hide the imperial decree while waiting for Mo Xiuyao. [With EN/CH Subs]</desc>
@@ -36912,18 +36885,19 @@ determined to help her</desc>
     <desc>[With English and Chinese subtitles] The once-enslaved Chu Qiao survives a deadly plunge into a frozen lake during captivity and emerges reborn. In a war-torn realm of betrayal, she reunites with ally Zhuge Yue to overthrow her tyrannical ex-lover, weavin</desc>
     <icon src="https://poster.starhubgo.com/poster/Rebirth.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="855" start="20261028060000 +0000" stop="20261028065000 +0000">
+  <programme channel="855" start="20261028060000 +0000" stop="20261028065500 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1000.0</episode-num>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/855_1920x1080_HTV.png?w=341%26h=192" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
-  <programme channel="855" start="20261028065000 +0000" stop="20261028081500 +0000">
+  <programme channel="855" start="20261028065500 +0000" stop="20261028080500 +0000">
     <title>My Sweet Mobster</title>
     <episode-num system="xmltv_ns">.15.0</episode-num>
-    <desc>Ex-gangster Seo Ji Hwan (Um Tae Goo) runs a company hiring ex-gang members to help reform their lives. Go Eun-Ha (Han Sun Hwa), a children's YouTube creator, accidentally injures him while working a part-time cleaning job. To her surprise, he recognizes h</desc>
+    <desc>Thirsty Deer thrives, and Ji-hwan proposes to Eun-ha, sealing their heartwarming happy ending. [With EN/CH Subs]</desc>
     <icon src="https://poster.starhubgo.com/poster/MySweetMobster_L.jpg?w=960" />
   </programme>
-  <programme channel="855" start="20261028081500 +0000" stop="20261028090000 +0000">
+  <programme channel="855" start="20261028080500 +0000" stop="20261028090000 +0000">
     <title>Blossoms of Power</title>
     <episode-num system="xmltv_ns">.23.0</episode-num>
     <desc>To suppress his poison, Xiao Huayong endures a excruciatingly painful acupuncture therapy. [With EN/CH Subs]</desc>
@@ -36938,7 +36912,8 @@ determined to help her</desc>
   <programme channel="855" start="20261028094500 +0000" stop="20261028103500 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1001.0</episode-num>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/855_1920x1080_HTV.png?w=341%26h=192" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
   <programme channel="855" start="20261028103500 +0000" stop="20261028110000 +0000">
     <title>Lo And Behold</title>
@@ -36979,15 +36954,16 @@ determined to help her</desc>
   <programme channel="855" start="20261028152000 +0000" stop="20261028161500 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1001.0</episode-num>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/855_1920x1080_HTV.png?w=341%26h=192" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
-  <programme channel="855" start="20261028161500 +0000" stop="20261028170000 +0000">
+  <programme channel="855" start="20261028161500 +0000" stop="20261028165800 +0000">
     <title>Serendipity</title>
     <episode-num system="xmltv_ns">.10.0</episode-num>
     <desc>[With English and Chinese subtitles] Jian Mingshu (Lu Yuxiao) loses her memory after falling off a cliff, which saves her from a massacre. Rescued by her love interest Lu Chang (Wang Ziqi), they journey to the capital for imperial exams. Facing challenges</desc>
     <icon src="https://poster.starhubgo.com/poster/Serendipity.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="855" start="20261028170000 +0000" stop="20261028174500 +0000">
+  <programme channel="855" start="20261028165800 +0000" stop="20261028174500 +0000">
     <title>Serendipity</title>
     <episode-num system="xmltv_ns">.11.0</episode-num>
     <desc>[With English and Chinese subtitles] Jian Mingshu (Lu Yuxiao) loses her memory after falling off a cliff, which saves her from a massacre. Rescued by her love interest Lu Chang (Wang Ziqi), they journey to the capital for imperial exams. Facing challenges</desc>
@@ -37026,15 +37002,16 @@ determined to help her</desc>
   <programme channel="855" start="20261028220500 +0000" stop="20261028230000 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1001.0</episode-num>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/855_1920x1080_HTV.png?w=341%26h=192" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
-  <programme channel="855" start="20261028230000 +0000" stop="20261028234500 +0000">
+  <programme channel="855" start="20261028230000 +0000" stop="20261028234300 +0000">
     <title>Serendipity</title>
     <episode-num system="xmltv_ns">.10.0</episode-num>
     <desc>[With English and Chinese subtitles] Jian Mingshu (Lu Yuxiao) loses her memory after falling off a cliff, which saves her from a massacre. Rescued by her love interest Lu Chang (Wang Ziqi), they journey to the capital for imperial exams. Facing challenges</desc>
     <icon src="https://poster.starhubgo.com/poster/Serendipity.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="855" start="20261028234500 +0000" stop="20261029003000 +0000">
+  <programme channel="855" start="20261028234300 +0000" stop="20261029003000 +0000">
     <title>Serendipity</title>
     <episode-num system="xmltv_ns">.11.0</episode-num>
     <desc>[With English and Chinese subtitles] Jian Mingshu (Lu Yuxiao) loses her memory after falling off a cliff, which saves her from a massacre. Rescued by her love interest Lu Chang (Wang Ziqi), they journey to the capital for imperial exams. Facing challenges</desc>
@@ -37055,15 +37032,16 @@ determined to help her</desc>
   <programme channel="855" start="20261029020000 +0000" stop="20261029025500 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1001.0</episode-num>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/855_1920x1080_HTV.png?w=341%26h=192" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
-  <programme channel="855" start="20261029025500 +0000" stop="20261029035500 +0000">
+  <programme channel="855" start="20261029025500 +0000" stop="20261029035000 +0000">
     <title>The Map Of Truth</title>
     <episode-num system="xmltv_ns">.0.0</episode-num>
     <desc>[With English and Chinese subtitles] Zhuang Yichen creates an online “mystery map” channel exposing the supernatural elements of Hong Kong. Skeptical influencer Bi Ping challenges his claims, sparking rivalries and revelations that force both to confront</desc>
     <icon src="https://poster.starhubgo.com/poster/TheMapOfTruth.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="855" start="20261029035500 +0000" stop="20261029044500 +0000">
+  <programme channel="855" start="20261029035000 +0000" stop="20261029044500 +0000">
     <title>The First Jasmine</title>
     <episode-num system="xmltv_ns">.27.0</episode-num>
     <desc>Recovering from illness, Ye Li talks with Huanying and "Qingshuang," feeling guilty about hiding her past. [With EN/CH Subs]</desc>
@@ -37081,18 +37059,19 @@ determined to help her</desc>
     <desc>[With English and Chinese subtitles] The once-enslaved Chu Qiao survives a deadly plunge into a frozen lake during captivity and emerges reborn. In a war-torn realm of betrayal, she reunites with ally Zhuge Yue to overthrow her tyrannical ex-lover, weavin</desc>
     <icon src="https://poster.starhubgo.com/poster/Rebirth.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="855" start="20261029060000 +0000" stop="20261029065000 +0000">
+  <programme channel="855" start="20261029060000 +0000" stop="20261029065500 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1001.0</episode-num>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/855_1920x1080_HTV.png?w=341%26h=192" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
-  <programme channel="855" start="20261029065000 +0000" stop="20261029081500 +0000">
+  <programme channel="855" start="20261029065500 +0000" stop="20261029081000 +0000">
     <title>Your Honor</title>
     <episode-num system="xmltv_ns">.0.0</episode-num>
-    <desc>Gang-heon answers a call from his son Sang-hyun in prison, thanking him for the new motorbike. Ho-young struggles to hold back tears as he drives away from the columbarium.</desc>
+    <desc>Gang-heon answers a call from his son Sang-hyun in prison, thanking him for the new motorbike. Ho-young struggles to hold back tears as he drives away from the columbarium. [With EN/CH Subs]</desc>
     <icon src="https://poster.starhubgo.com/poster/YourHonor.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="855" start="20261029081500 +0000" stop="20261029090000 +0000">
+  <programme channel="855" start="20261029081000 +0000" stop="20261029090000 +0000">
     <title>Blossoms of Power</title>
     <episode-num system="xmltv_ns">.24.0</episode-num>
     <desc>After a drunken encounter, Cui Jinbai insists on taking responsibility, but Bu Shulin shrugs it off, cheerfully seeing him off when he moves out. [With EN/CH Subs]</desc>
@@ -37107,7 +37086,8 @@ determined to help her</desc>
   <programme channel="855" start="20261029094500 +0000" stop="20261029103500 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1002.0</episode-num>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/855_1920x1080_HTV.png?w=341%26h=192" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
   <programme channel="855" start="20261029103500 +0000" stop="20261029110000 +0000">
     <title>Lo And Behold</title>
@@ -37148,7 +37128,8 @@ determined to help her</desc>
   <programme channel="855" start="20261029152000 +0000" stop="20261029161500 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1002.0</episode-num>
-    <icon src="https://poster.starhubgo.com/Linear_channels2/855_1920x1080_HTV.png?w=341%26h=192" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
   <programme channel="859" start="20261027160000 +0000" stop="20261027170000 +0000">
     <title>Handmaidens United</title>
@@ -38771,15 +38752,16 @@ determined to help her</desc>
   <programme channel="996" start="20261028020000 +0000" stop="20261028025500 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1000.0</episode-num>
-    <icon src="https://poster.starhubgo.com/Linear_channnes/falseNE?w=341%26h=192" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
-  <programme channel="996" start="20261028025500 +0000" stop="20261028035500 +0000">
+  <programme channel="996" start="20261028025500 +0000" stop="20261028035000 +0000">
     <title>Case X Decoded</title>
     <episode-num system="xmltv_ns">.11.0</episode-num>
     <desc>Sheriff To Hoi Bun(Michael Miu) and policewoman Yim Cheuk Wing (Eliza Sam) develop a rift between them due to an unresolved case. Later, while investigating it, they clear up their misunderstandings, and through repeated collaboration, they build a strong</desc>
     <icon src="https://poster.starhubgo.com/poster/CaseXDecoded_L_R1.jpg?w=960" />
   </programme>
-  <programme channel="996" start="20261028035500 +0000" stop="20261028044500 +0000">
+  <programme channel="996" start="20261028035000 +0000" stop="20261028044500 +0000">
     <title>The First Jasmine</title>
     <episode-num system="xmltv_ns">.26.0</episode-num>
     <desc>Accompanied by Qingshuang and Huanying, Ye Li fakes an injury to meet Gu Zheng, tasking him to watch Su Zhidie and hide the imperial decree while waiting for Mo Xiuyao. [With EN/CH Subs]</desc>
@@ -38797,18 +38779,19 @@ determined to help her</desc>
     <desc>[With English and Chinese subtitles] The once-enslaved Chu Qiao survives a deadly plunge into a frozen lake during captivity and emerges reborn. In a war-torn realm of betrayal, she reunites with ally Zhuge Yue to overthrow her tyrannical ex-lover, weavin</desc>
     <icon src="https://poster.starhubgo.com/poster/Rebirth.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="996" start="20261028060000 +0000" stop="20261028065000 +0000">
+  <programme channel="996" start="20261028060000 +0000" stop="20261028065500 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1000.0</episode-num>
-    <icon src="https://poster.starhubgo.com/Linear_channnes/falseNE?w=341%26h=192" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
-  <programme channel="996" start="20261028065000 +0000" stop="20261028081500 +0000">
+  <programme channel="996" start="20261028065500 +0000" stop="20261028080500 +0000">
     <title>My Sweet Mobster</title>
     <episode-num system="xmltv_ns">.15.0</episode-num>
-    <desc>Ex-gangster Seo Ji Hwan (Um Tae Goo) runs a company hiring ex-gang members to help reform their lives. Go Eun-Ha (Han Sun Hwa), a children's YouTube creator, accidentally injures him while working a part-time cleaning job. To her surprise, he recognizes h</desc>
+    <desc>Thirsty Deer thrives, and Ji-hwan proposes to Eun-ha, sealing their heartwarming happy ending. [With EN/CH Subs]</desc>
     <icon src="https://poster.starhubgo.com/poster/MySweetMobster_L.jpg?w=960" />
   </programme>
-  <programme channel="996" start="20261028081500 +0000" stop="20261028090000 +0000">
+  <programme channel="996" start="20261028080500 +0000" stop="20261028090000 +0000">
     <title>Blossoms of Power</title>
     <episode-num system="xmltv_ns">.23.0</episode-num>
     <desc>To suppress his poison, Xiao Huayong endures a excruciatingly painful acupuncture therapy. [With EN/CH Subs]</desc>
@@ -38823,7 +38806,8 @@ determined to help her</desc>
   <programme channel="996" start="20261028094500 +0000" stop="20261028103500 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1001.0</episode-num>
-    <icon src="https://poster.starhubgo.com/Linear_channnes/falseNE?w=341%26h=192" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
   <programme channel="996" start="20261028103500 +0000" stop="20261028110000 +0000">
     <title>Lo And Behold</title>
@@ -38864,15 +38848,16 @@ determined to help her</desc>
   <programme channel="996" start="20261028152000 +0000" stop="20261028161500 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1001.0</episode-num>
-    <icon src="https://poster.starhubgo.com/Linear_channnes/falseNE?w=341%26h=192" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
-  <programme channel="996" start="20261028161500 +0000" stop="20261028170000 +0000">
+  <programme channel="996" start="20261028161500 +0000" stop="20261028165800 +0000">
     <title>Serendipity</title>
     <episode-num system="xmltv_ns">.10.0</episode-num>
     <desc>[With English and Chinese subtitles] Jian Mingshu (Lu Yuxiao) loses her memory after falling off a cliff, which saves her from a massacre. Rescued by her love interest Lu Chang (Wang Ziqi), they journey to the capital for imperial exams. Facing challenges</desc>
     <icon src="https://poster.starhubgo.com/poster/Serendipity.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="996" start="20261028170000 +0000" stop="20261028174500 +0000">
+  <programme channel="996" start="20261028165800 +0000" stop="20261028174500 +0000">
     <title>Serendipity</title>
     <episode-num system="xmltv_ns">.11.0</episode-num>
     <desc>[With English and Chinese subtitles] Jian Mingshu (Lu Yuxiao) loses her memory after falling off a cliff, which saves her from a massacre. Rescued by her love interest Lu Chang (Wang Ziqi), they journey to the capital for imperial exams. Facing challenges</desc>
@@ -38911,15 +38896,16 @@ determined to help her</desc>
   <programme channel="996" start="20261028220500 +0000" stop="20261028230000 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1001.0</episode-num>
-    <icon src="https://poster.starhubgo.com/Linear_channnes/falseNE?w=341%26h=192" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
-  <programme channel="996" start="20261028230000 +0000" stop="20261028234500 +0000">
+  <programme channel="996" start="20261028230000 +0000" stop="20261028234300 +0000">
     <title>Serendipity</title>
     <episode-num system="xmltv_ns">.10.0</episode-num>
     <desc>[With English and Chinese subtitles] Jian Mingshu (Lu Yuxiao) loses her memory after falling off a cliff, which saves her from a massacre. Rescued by her love interest Lu Chang (Wang Ziqi), they journey to the capital for imperial exams. Facing challenges</desc>
     <icon src="https://poster.starhubgo.com/poster/Serendipity.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="996" start="20261028234500 +0000" stop="20261029003000 +0000">
+  <programme channel="996" start="20261028234300 +0000" stop="20261029003000 +0000">
     <title>Serendipity</title>
     <episode-num system="xmltv_ns">.11.0</episode-num>
     <desc>[With English and Chinese subtitles] Jian Mingshu (Lu Yuxiao) loses her memory after falling off a cliff, which saves her from a massacre. Rescued by her love interest Lu Chang (Wang Ziqi), they journey to the capital for imperial exams. Facing challenges</desc>
@@ -38940,15 +38926,16 @@ determined to help her</desc>
   <programme channel="996" start="20261029020000 +0000" stop="20261029025500 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1001.0</episode-num>
-    <icon src="https://poster.starhubgo.com/Linear_channnes/falseNE?w=341%26h=192" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
-  <programme channel="996" start="20261029025500 +0000" stop="20261029035500 +0000">
+  <programme channel="996" start="20261029025500 +0000" stop="20261029035000 +0000">
     <title>The Map Of Truth</title>
     <episode-num system="xmltv_ns">.0.0</episode-num>
     <desc>[With English and Chinese subtitles] Zhuang Yichen creates an online “mystery map” channel exposing the supernatural elements of Hong Kong. Skeptical influencer Bi Ping challenges his claims, sparking rivalries and revelations that force both to confront</desc>
     <icon src="https://poster.starhubgo.com/poster/TheMapOfTruth.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="996" start="20261029035500 +0000" stop="20261029044500 +0000">
+  <programme channel="996" start="20261029035000 +0000" stop="20261029044500 +0000">
     <title>The First Jasmine</title>
     <episode-num system="xmltv_ns">.27.0</episode-num>
     <desc>Recovering from illness, Ye Li talks with Huanying and "Qingshuang," feeling guilty about hiding her past. [With EN/CH Subs]</desc>
@@ -38966,18 +38953,19 @@ determined to help her</desc>
     <desc>[With English and Chinese subtitles] The once-enslaved Chu Qiao survives a deadly plunge into a frozen lake during captivity and emerges reborn. In a war-torn realm of betrayal, she reunites with ally Zhuge Yue to overthrow her tyrannical ex-lover, weavin</desc>
     <icon src="https://poster.starhubgo.com/poster/Rebirth.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="996" start="20261029060000 +0000" stop="20261029065000 +0000">
+  <programme channel="996" start="20261029060000 +0000" stop="20261029065500 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1001.0</episode-num>
-    <icon src="https://poster.starhubgo.com/Linear_channnes/falseNE?w=341%26h=192" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
-  <programme channel="996" start="20261029065000 +0000" stop="20261029081500 +0000">
+  <programme channel="996" start="20261029065500 +0000" stop="20261029081000 +0000">
     <title>Your Honor</title>
     <episode-num system="xmltv_ns">.0.0</episode-num>
-    <desc>Gang-heon answers a call from his son Sang-hyun in prison, thanking him for the new motorbike. Ho-young struggles to hold back tears as he drives away from the columbarium.</desc>
+    <desc>Gang-heon answers a call from his son Sang-hyun in prison, thanking him for the new motorbike. Ho-young struggles to hold back tears as he drives away from the columbarium. [With EN/CH Subs]</desc>
     <icon src="https://poster.starhubgo.com/poster/YourHonor.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="996" start="20261029081500 +0000" stop="20261029090000 +0000">
+  <programme channel="996" start="20261029081000 +0000" stop="20261029090000 +0000">
     <title>Blossoms of Power</title>
     <episode-num system="xmltv_ns">.24.0</episode-num>
     <desc>After a drunken encounter, Cui Jinbai insists on taking responsibility, but Bu Shulin shrugs it off, cheerfully seeing him off when he moves out. [With EN/CH Subs]</desc>
@@ -38992,7 +38980,8 @@ determined to help her</desc>
   <programme channel="996" start="20261029094500 +0000" stop="20261029103500 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1002.0</episode-num>
-    <icon src="https://poster.starhubgo.com/Linear_channnes/falseNE?w=341%26h=192" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
   <programme channel="996" start="20261029103500 +0000" stop="20261029110000 +0000">
     <title>Lo And Behold</title>
@@ -39033,7 +39022,8 @@ determined to help her</desc>
   <programme channel="996" start="20261029152000 +0000" stop="20261029161500 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1002.0</episode-num>
-    <icon src="https://poster.starhubgo.com/Linear_channnes/falseNE?w=341%26h=192" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
   <programme channel="997" start="20261027152000 +0000" stop="20261027161500 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
@@ -39116,15 +39106,16 @@ determined to help her</desc>
   <programme channel="997" start="20261028020000 +0000" stop="20261028025500 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1000.0</episode-num>
-    <icon src="" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
-  <programme channel="997" start="20261028025500 +0000" stop="20261028035500 +0000">
+  <programme channel="997" start="20261028025500 +0000" stop="20261028035000 +0000">
     <title>Case X Decoded</title>
     <episode-num system="xmltv_ns">.11.0</episode-num>
     <desc>Sheriff To Hoi Bun(Michael Miu) and policewoman Yim Cheuk Wing (Eliza Sam) develop a rift between them due to an unresolved case. Later, while investigating it, they clear up their misunderstandings, and through repeated collaboration, they build a strong</desc>
     <icon src="https://poster.starhubgo.com/poster/CaseXDecoded_L_R1.jpg?w=960" />
   </programme>
-  <programme channel="997" start="20261028035500 +0000" stop="20261028044500 +0000">
+  <programme channel="997" start="20261028035000 +0000" stop="20261028044500 +0000">
     <title>The First Jasmine</title>
     <episode-num system="xmltv_ns">.26.0</episode-num>
     <desc>Accompanied by Qingshuang and Huanying, Ye Li fakes an injury to meet Gu Zheng, tasking him to watch Su Zhidie and hide the imperial decree while waiting for Mo Xiuyao. [With EN/CH Subs]</desc>
@@ -39142,18 +39133,19 @@ determined to help her</desc>
     <desc>[With English and Chinese subtitles] The once-enslaved Chu Qiao survives a deadly plunge into a frozen lake during captivity and emerges reborn. In a war-torn realm of betrayal, she reunites with ally Zhuge Yue to overthrow her tyrannical ex-lover, weavin</desc>
     <icon src="https://poster.starhubgo.com/poster/Rebirth.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="997" start="20261028060000 +0000" stop="20261028065000 +0000">
+  <programme channel="997" start="20261028060000 +0000" stop="20261028065500 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1000.0</episode-num>
-    <icon src="" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
-  <programme channel="997" start="20261028065000 +0000" stop="20261028081500 +0000">
+  <programme channel="997" start="20261028065500 +0000" stop="20261028080500 +0000">
     <title>My Sweet Mobster</title>
     <episode-num system="xmltv_ns">.15.0</episode-num>
-    <desc>Ex-gangster Seo Ji Hwan (Um Tae Goo) runs a company hiring ex-gang members to help reform their lives. Go Eun-Ha (Han Sun Hwa), a children's YouTube creator, accidentally injures him while working a part-time cleaning job. To her surprise, he recognizes h</desc>
+    <desc>Thirsty Deer thrives, and Ji-hwan proposes to Eun-ha, sealing their heartwarming happy ending. [With EN/CH Subs]</desc>
     <icon src="https://poster.starhubgo.com/poster/MySweetMobster_L.jpg?w=960" />
   </programme>
-  <programme channel="997" start="20261028081500 +0000" stop="20261028090000 +0000">
+  <programme channel="997" start="20261028080500 +0000" stop="20261028090000 +0000">
     <title>Blossoms of Power</title>
     <episode-num system="xmltv_ns">.23.0</episode-num>
     <desc>To suppress his poison, Xiao Huayong endures a excruciatingly painful acupuncture therapy. [With EN/CH Subs]</desc>
@@ -39168,7 +39160,8 @@ determined to help her</desc>
   <programme channel="997" start="20261028094500 +0000" stop="20261028103500 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1001.0</episode-num>
-    <icon src="" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
   <programme channel="997" start="20261028103500 +0000" stop="20261028110000 +0000">
     <title>Lo And Behold</title>
@@ -39209,15 +39202,16 @@ determined to help her</desc>
   <programme channel="997" start="20261028152000 +0000" stop="20261028161500 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1001.0</episode-num>
-    <icon src="" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
-  <programme channel="997" start="20261028161500 +0000" stop="20261028170000 +0000">
+  <programme channel="997" start="20261028161500 +0000" stop="20261028165800 +0000">
     <title>Serendipity</title>
     <episode-num system="xmltv_ns">.10.0</episode-num>
     <desc>[With English and Chinese subtitles] Jian Mingshu (Lu Yuxiao) loses her memory after falling off a cliff, which saves her from a massacre. Rescued by her love interest Lu Chang (Wang Ziqi), they journey to the capital for imperial exams. Facing challenges</desc>
     <icon src="https://poster.starhubgo.com/poster/Serendipity.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="997" start="20261028170000 +0000" stop="20261028174500 +0000">
+  <programme channel="997" start="20261028165800 +0000" stop="20261028174500 +0000">
     <title>Serendipity</title>
     <episode-num system="xmltv_ns">.11.0</episode-num>
     <desc>[With English and Chinese subtitles] Jian Mingshu (Lu Yuxiao) loses her memory after falling off a cliff, which saves her from a massacre. Rescued by her love interest Lu Chang (Wang Ziqi), they journey to the capital for imperial exams. Facing challenges</desc>
@@ -39256,15 +39250,16 @@ determined to help her</desc>
   <programme channel="997" start="20261028220500 +0000" stop="20261028230000 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1001.0</episode-num>
-    <icon src="" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
-  <programme channel="997" start="20261028230000 +0000" stop="20261028234500 +0000">
+  <programme channel="997" start="20261028230000 +0000" stop="20261028234300 +0000">
     <title>Serendipity</title>
     <episode-num system="xmltv_ns">.10.0</episode-num>
     <desc>[With English and Chinese subtitles] Jian Mingshu (Lu Yuxiao) loses her memory after falling off a cliff, which saves her from a massacre. Rescued by her love interest Lu Chang (Wang Ziqi), they journey to the capital for imperial exams. Facing challenges</desc>
     <icon src="https://poster.starhubgo.com/poster/Serendipity.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="997" start="20261028234500 +0000" stop="20261029003000 +0000">
+  <programme channel="997" start="20261028234300 +0000" stop="20261029003000 +0000">
     <title>Serendipity</title>
     <episode-num system="xmltv_ns">.11.0</episode-num>
     <desc>[With English and Chinese subtitles] Jian Mingshu (Lu Yuxiao) loses her memory after falling off a cliff, which saves her from a massacre. Rescued by her love interest Lu Chang (Wang Ziqi), they journey to the capital for imperial exams. Facing challenges</desc>
@@ -39285,15 +39280,16 @@ determined to help her</desc>
   <programme channel="997" start="20261029020000 +0000" stop="20261029025500 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1001.0</episode-num>
-    <icon src="" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
-  <programme channel="997" start="20261029025500 +0000" stop="20261029035500 +0000">
+  <programme channel="997" start="20261029025500 +0000" stop="20261029035000 +0000">
     <title>The Map Of Truth</title>
     <episode-num system="xmltv_ns">.0.0</episode-num>
     <desc>[With English and Chinese subtitles] Zhuang Yichen creates an online “mystery map” channel exposing the supernatural elements of Hong Kong. Skeptical influencer Bi Ping challenges his claims, sparking rivalries and revelations that force both to confront</desc>
     <icon src="https://poster.starhubgo.com/poster/TheMapOfTruth.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="997" start="20261029035500 +0000" stop="20261029044500 +0000">
+  <programme channel="997" start="20261029035000 +0000" stop="20261029044500 +0000">
     <title>The First Jasmine</title>
     <episode-num system="xmltv_ns">.27.0</episode-num>
     <desc>Recovering from illness, Ye Li talks with Huanying and "Qingshuang," feeling guilty about hiding her past. [With EN/CH Subs]</desc>
@@ -39311,18 +39307,19 @@ determined to help her</desc>
     <desc>[With English and Chinese subtitles] The once-enslaved Chu Qiao survives a deadly plunge into a frozen lake during captivity and emerges reborn. In a war-torn realm of betrayal, she reunites with ally Zhuge Yue to overthrow her tyrannical ex-lover, weavin</desc>
     <icon src="https://poster.starhubgo.com/poster/Rebirth.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="997" start="20261029060000 +0000" stop="20261029065000 +0000">
+  <programme channel="997" start="20261029060000 +0000" stop="20261029065500 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1001.0</episode-num>
-    <icon src="" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
-  <programme channel="997" start="20261029065000 +0000" stop="20261029081500 +0000">
+  <programme channel="997" start="20261029065500 +0000" stop="20261029081000 +0000">
     <title>Your Honor</title>
     <episode-num system="xmltv_ns">.0.0</episode-num>
-    <desc>Gang-heon answers a call from his son Sang-hyun in prison, thanking him for the new motorbike. Ho-young struggles to hold back tears as he drives away from the columbarium.</desc>
+    <desc>Gang-heon answers a call from his son Sang-hyun in prison, thanking him for the new motorbike. Ho-young struggles to hold back tears as he drives away from the columbarium. [With EN/CH Subs]</desc>
     <icon src="https://poster.starhubgo.com/poster/YourHonor.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="997" start="20261029081500 +0000" stop="20261029090000 +0000">
+  <programme channel="997" start="20261029081000 +0000" stop="20261029090000 +0000">
     <title>Blossoms of Power</title>
     <episode-num system="xmltv_ns">.24.0</episode-num>
     <desc>After a drunken encounter, Cui Jinbai insists on taking responsibility, but Bu Shulin shrugs it off, cheerfully seeing him off when he moves out. [With EN/CH Subs]</desc>
@@ -39337,7 +39334,8 @@ determined to help her</desc>
   <programme channel="997" start="20261029094500 +0000" stop="20261029103500 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1002.0</episode-num>
-    <icon src="" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
   <programme channel="997" start="20261029103500 +0000" stop="20261029110000 +0000">
     <title>Lo And Behold</title>
@@ -39378,6 +39376,7 @@ determined to help her</desc>
   <programme channel="997" start="20261029152000 +0000" stop="20261029161500 +0000">
     <title>Golden City (Ep 991-1030) VVD Mandarin</title>
     <episode-num system="xmltv_ns">.1002.0</episode-num>
-    <icon src="" />
+    <desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational valu</desc>
+    <icon src="https://poster.starhubgo.com/poster/GoldenCity_L.jpg?w=960" />
   </programme>
 </tv>
