@@ -1084,7 +1084,7 @@
   <programme channel="102" start="20261030133000 +0000" stop="20261030140000 +0000">
     <title>On The Red Dot</title>
     <episode-num system="xmltv_ns">.22.0</episode-num>
-    <desc>On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+    <desc>Circus changed Jonathan Goh’s life. Once a troubled youth, he’s now a full-time circus artist on a mission to grow Singapore’s circus scene. Can he make his dream a reality?</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="102" start="20261030140000 +0000" stop="20261030160000 +0000">
@@ -6859,7 +6859,7 @@
     <title>Bigg Boss Tamil</title>
     <episode-num system="xmltv_ns">9.52.0</episode-num>
     <desc>Contestants live together under constant camera surveillance, competing in tough tasks and facing public votes to survive eliminations in Bigg Boss Tamil S10.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil.jpg?w=960%26h=540" />
+    <icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil_s10.jpg?w=341%26h=192" />
   </programme>
   <programme channel="135" start="20261029183000 +0000" stop="20261029190000 +0000">
     <title>Bigg Boss Tamil S10 Plus</title>
@@ -6895,7 +6895,7 @@
     <title>Bigg Boss Tamil</title>
     <episode-num system="xmltv_ns">9.52.0</episode-num>
     <desc>Contestants live together under constant camera surveillance, competing in tough tasks and facing public votes to survive eliminations in Bigg Boss Tamil S10.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil.jpg?w=960%26h=540" />
+    <icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil_s10.jpg?w=341%26h=192" />
   </programme>
   <programme channel="135" start="20261029220000 +0000" stop="20261029223000 +0000">
     <title>Thaai Maman- Thaiku Nigaranavan</title>
@@ -6943,7 +6943,7 @@
     <title>Bigg Boss Tamil</title>
     <episode-num system="xmltv_ns">9.52.0</episode-num>
     <desc>Contestants live together under constant camera surveillance, competing in tough tasks and facing public votes to survive eliminations in Bigg Boss Tamil S10.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil.jpg?w=960%26h=540" />
+    <icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil_s10.jpg?w=341%26h=192" />
   </programme>
   <programme channel="135" start="20261030023000 +0000" stop="20261030030000 +0000">
     <title>Bigg Boss Tamil S10 Plus</title>
@@ -7027,7 +7027,7 @@
     <title>Bigg Boss Tamil</title>
     <episode-num system="xmltv_ns">9.52.0</episode-num>
     <desc>Contestants live together under constant camera surveillance, competing in tough tasks and facing public votes to survive eliminations in Bigg Boss Tamil S10.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil.jpg?w=960%26h=540" />
+    <icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil_s10.jpg?w=341%26h=192" />
   </programme>
   <programme channel="135" start="20261030100000 +0000" stop="20261030103000 +0000">
     <title>Thaai Maman- Thaiku Nigaranavan</title>
@@ -7075,7 +7075,7 @@
     <title>Bigg Boss Tamil</title>
     <episode-num system="xmltv_ns">9.53.0</episode-num>
     <desc>Contestants live together under constant camera surveillance, competing in tough tasks and facing public votes to survive eliminations in Bigg Boss Tamil S10.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil.jpg?w=960%26h=540" />
+    <icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil_s10.jpg?w=341%26h=192" />
   </programme>
   <programme channel="135" start="20261030143000 +0000" stop="20261030150000 +0000">
     <title>Bigg Boss Tamil S10 Plus</title>
@@ -7104,7 +7104,7 @@
   <programme channel="137" start="20261028183000 +0000" stop="20261028190000 +0000">
     <title>Free Ticket</title>
     <episode-num system="xmltv_ns">.0.0</episode-num>
-    <desc>The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending tam movies, celebrating the best of tam cinema.</desc>
+    <desc>The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/137_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
   <programme channel="137" start="20261028190000 +0000" stop="20261028220000 +0000">
@@ -7113,22 +7113,22 @@
     <desc>Kesavan and Murugan are friends who aim to make it big in politics by trying to impress people with their weird tricks. They pay no heed to others' advice and are rejected by their love interests.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/137_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
-  <programme channel="137" start="20261028220000 +0000" stop="20261029010000 +0000">
+  <programme channel="137" start="20261028220000 +0000" stop="20261029003000 +0000">
     <title>Periya Manushan</title>
     <episode-num system="xmltv_ns">.0.0</episode-num>
     <desc>A wealthy elderly man caught in a love triangle with his two wives changes his behavior after a life-changing event, leading to family complications.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/137_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
-  <programme channel="137" start="20261029010000 +0000" stop="20261029040000 +0000">
+  <programme channel="137" start="20261029003000 +0000" stop="20261029040000 +0000">
     <title>Pyaar Prema Kaadhal</title>
     <episode-num system="xmltv_ns">.0.0</episode-num>
     <desc>Sree Kumar, a young man, falls in love with Sindhuja, a vivacious woman. However, complications soon arise and they part their separate ways only to reunite again.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/137_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
   <programme channel="137" start="20261029040000 +0000" stop="20261029073000 +0000">
-    <title>Kaaval</title>
+    <title>Madha Yaanai Koottam</title>
     <episode-num system="xmltv_ns">.0.0</episode-num>
-    <desc>Thamban and Antony were best friends and business partners. A family tragedy and its falling-out separates them for good.</desc>
+    <desc>Prithivi kill his uncle's son unfortunately. So his uncle and other family members take revenge on him.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/137_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
   <programme channel="137" start="20261029073000 +0000" stop="20261029100000 +0000">
@@ -7158,7 +7158,7 @@
   <programme channel="137" start="20261029183000 +0000" stop="20261029190000 +0000">
     <title>Free Ticket</title>
     <episode-num system="xmltv_ns">.0.0</episode-num>
-    <desc>The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending tam movies, celebrating the best of tam cinema.</desc>
+    <desc>The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/137_1920x1080_HTV.png?w=960%26h=540" />
   </programme>
   <programme channel="137" start="20261029190000 +0000" stop="20261029220000 +0000">
@@ -7261,11 +7261,6 @@
     <icon src="https://poster.starhubgo.com/poster/ch656_Free_Ticket.jpg?w=960%26h=540" />
   </programme>
   <programme channel="138" start="20261028220000 +0000" stop="20261028223000 +0000">
-    <title>Free Ticket</title>
-    <desc>The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch656_Free_Ticket.jpg?w=960%26h=540" />
-  </programme>
-  <programme channel="138" start="20261028223000 +0000" stop="20261028230000 +0000">
     <title>Free Ticket</title>
     <desc>The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch656_Free_Ticket.jpg?w=960%26h=540" />
@@ -7465,12 +7460,7 @@
     <desc>The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch656_Free_Ticket.jpg?w=960%26h=540" />
   </programme>
-  <programme channel="138" start="20261029180000 +0000" stop="20261029190000 +0000">
-    <title>Free Ticket</title>
-    <desc>The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch656_Free_Ticket.jpg?w=960%26h=540" />
-  </programme>
-  <programme channel="138" start="20261029190000 +0000" stop="20261029193000 +0000">
+  <programme channel="138" start="20261029180000 +0000" stop="20261029193000 +0000">
     <title>Free Ticket</title>
     <desc>The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch656_Free_Ticket.jpg?w=960%26h=540" />
@@ -7597,7 +7587,7 @@
   <programme channel="138" start="20261030060000 +0000" stop="20261030090000 +0000">
     <title>Nerkonda Paarvai</title>
     <desc>A retired lawyer takes on a challenging case to defend three young women wrongfully accused of a crime, battling powerful enemies and the biases of patriarchy along the way. Release Year: 2019 Director: H. Vinoth</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341%26h=192" />
+    <icon src="https://poster.starhubgo.com/poster/ch656_NERKONDA_PAARVAI.jpg?w=960%26h=540" />
   </programme>
   <programme channel="138" start="20261030090000 +0000" stop="20261030093000 +0000">
     <title>Samanthi</title>
@@ -7996,37 +7986,37 @@
     <desc>A strange request from Kerala sets a pharmacist on a journey of self-discovery. Release Year: 2023 Director: Akhil Sathyan</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20261028193000 +0000" stop="20261028213000 +0000">
+  <programme channel="140" start="20261028193000 +0000" stop="20261028214000 +0000">
     <title>Highway Police</title>
     <desc>Mammad and Jayachandran join forces to fight a powerful mafia. They seek revenge for the deaths of their families. Together, they aim to dismantle the smuggling ring and bring justice. Release Year: 2006 Director: Prasad Valacheril</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20261028213000 +0000" stop="20261028233000 +0000">
+  <programme channel="140" start="20261028214000 +0000" stop="20261028224000 +0000">
     <title>Sulaikha Manzil</title>
     <desc>Haala weds Ameen, her brother's choice. She strives to bond before the wedding. Release Year: 2023 Director: Ashraf Hamza</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20261028233000 +0000" stop="20261029013000 +0000">
+  <programme channel="140" start="20261028224000 +0000" stop="20261029013000 +0000">
     <title>Palunku</title>
     <desc>Monichan, a farmer, moves his family to the city for better education. Influenced by anti-social elements, he becomes involved in illegal activities, risking his family's safety. Release Year: 2006 Director: BleSSy</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20261029013000 +0000" stop="20261029043000 +0000">
+  <programme channel="140" start="20261029013000 +0000" stop="20261029042500 +0000">
     <title>Mambazhakkalam</title>
     <desc>Chandran, compelled to work abroad to settle father's debts. Release Year: 2004 Director: Joshiy</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20261029043000 +0000" stop="20261029073000 +0000">
+  <programme channel="140" start="20261029042500 +0000" stop="20261029073500 +0000">
     <title>Kerala Varma Pazhassiraja</title>
     <desc>Kerala Varma, finds refuge in Wayanad forests, and engages in guerrilla warfare. Release Year: 2009 Director: Hariharan</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20261029073000 +0000" stop="20261029103000 +0000">
+  <programme channel="140" start="20261029073500 +0000" stop="20261029104500 +0000">
     <title>King Of Kotha</title>
     <desc>Ravi''''s son Tony is torn between his inherited legacy and his desire for a different life. Unlike his father, Tony isn''''t drawn to the dark world of crime. Release Year: 2023 Director: Abhilash Joshiy Awards: 2024 Nominee Iconic Award- Best Actor in a Negative Role- Nyla Usha</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20261029103000 +0000" stop="20261029133000 +0000">
+  <programme channel="140" start="20261029104500 +0000" stop="20261029133000 +0000">
     <title>Bhimaa</title>
     <desc>A detective investigates mysterious incidents at a historical temple in a small town, unraveling secrets and seeking the truth behind the unsettling occurrences.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
@@ -8036,17 +8026,17 @@
     <desc>Jayanthi travels to Kochi to find her missing husband who is accused in smuggling case. Release Year: 2015 Director: Ranjith</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20261029163000 +0000" stop="20261029193000 +0000">
+  <programme channel="140" start="20261029163000 +0000" stop="20261029191000 +0000">
     <title>Ranam</title>
     <desc>Aadhi, lured back into crime by his old gang leader, finds redemption and love when he meets Seema, leading him to reconsider his criminal life. Release Year: 2018 Director: Nirmal Sahadev</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20261029193000 +0000" stop="20261029213000 +0000">
+  <programme channel="140" start="20261029191000 +0000" stop="20261029212000 +0000">
     <title>Kakki</title>
     <desc>Unnikrishnan and Ramakrishnan are brothers in the police department. Unnikrishnan's clashes with the powerful prompt his brother to defend him. Release Year: 2007 Director: Bibin Prabhakar</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="140" start="20261029213000 +0000" stop="20261029233000 +0000">
+  <programme channel="140" start="20261029212000 +0000" stop="20261029233000 +0000">
     <title>The Metro</title>
     <desc>An anthology of three stories: murder investigation, girl pursued by goons, and friends delivering a package. Release Year: 2011 Director: Bipin Prabhakar</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
@@ -10720,12 +10710,12 @@ The comedy that, twenty-five years later, inspired Billy Wilder's American maste
     <desc>A couple raises their five kids with their insufficient income, they love their kids and it is well reciprocated. They guide their children through the path of their lives but things change when they get older.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="201" start="20261028130000 +0000" stop="20261028170000 +0000">
-    <title>ATP Tour 2026 Swiss Indoors Basel (500) Day 3 R1 Session 1</title>
+  <programme channel="201" start="20261028130000 +0000" stop="20261028180000 +0000">
+    <title>ATP Tour 2026 Swiss Indoors Basel (500) Day 3 R1 Session 1 (281026)</title>
     <desc>The Swiss Indoors Basel is the world’s third-biggest indoor tennis tournament. It is played on indoor hardcourts at the St. Jakobshalle in Basel, Switzerland.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch201_ATP500_Swiss_Indoors_Basel.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="201" start="20261028170000 +0000" stop="20261028210000 +0000">
+  <programme channel="201" start="20261028180000 +0000" stop="20261028210000 +0000">
     <title>ATP Tour 2026</title>
     <desc>The Swiss Indoors Basel is the world’s third-biggest indoor tennis tournament. It is played on indoor hardcourts at the St. Jakobshalle in Basel, Switzerland.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch201_ATP500_Swiss_Indoors_Basel.jpg?w=341%26h=192" />
@@ -10770,13 +10760,13 @@ The comedy that, twenty-five years later, inspired Billy Wilder's American maste
     <desc>The Toray Pan Pacific Open is a WTA 500 tournament played on outdoor hard courts in Tokyo, Japan. The event started in 1973 and is one of the premier events in the Asian Swing. 28 singles players compete to earn 500 points in the standings and a Pan Pacific Open title.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch201_WTA_Tour_500_Generic.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="201" start="20261029100000 +0000" stop="20261029130000 +0000">
-    <title>ATP Tour 2026</title>
-    <desc>The Swiss Indoors Basel is the world’s third-biggest indoor tennis tournament. It is played on indoor hardcourts at the St. Jakobshalle in Basel, Switzerland.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch201_ATP500_Swiss_Indoors_Basel.jpg?w=341%26h=192" />
+  <programme channel="201" start="20261029100000 +0000" stop="20261029110000 +0000">
+    <title>ATP Tour Review Show 2026</title>
+    <desc>A look back at the 52nd edition of the historic men's tournament from Ariake Coliseum inside Ariake Tennis Forest Park in Tokyo, Japan.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch201_ATPTourReviewShow2025.jpg?w=960" />
   </programme>
-  <programme channel="201" start="20261029130000 +0000" stop="20261029170000 +0000">
-    <title>ATP Tour 2026 Swiss Indoors Basel (500) Day 4 R2 Session 1</title>
+  <programme channel="201" start="20261029110000 +0000" stop="20261029170000 +0000">
+    <title>ATP Tour 2026 Swiss Indoors Basel (500) Day 4 R2 Session 1 (291026)</title>
     <desc>The Swiss Indoors Basel is the world’s third-biggest indoor tennis tournament. It is played on indoor hardcourts at the St. Jakobshalle in Basel, Switzerland.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch201_ATP500_Swiss_Indoors_Basel.jpg?w=341%26h=192" />
   </programme>
@@ -11354,6 +11344,11 @@ The comedy that, twenty-five years later, inspired Billy Wilder's American maste
     <desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Penang, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
   </programme>
+  <programme channel="209" start="20261029230000 +0000" stop="20261030003000 +0000">
+    <title>CelcomDigi STL 2026 GP Penang Match 7 Group D Kedah Eagles vs Selangor Pistons</title>
+    <desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Penang, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
+  </programme>
   <programme channel="209" start="20261030003000 +0000" stop="20261030010000 +0000">
     <title>2026/27 ALM Mini Match MW 2 Brisbane Roar FC vs Perth Glory</title>
     <desc>Australia and New Zealand's top clubs battle for A-League Men glory, with star players, fierce rivalries and a season of competitive football culminating in the Finals Series.</desc>
@@ -11375,7 +11370,7 @@ The comedy that, twenty-five years later, inspired Billy Wilder's American maste
     <icon src="https://poster.starhubgo.com/poster/ch209_ALMMiniMatch.jpg?w=341%26h=192" />
   </programme>
   <programme channel="209" start="20261030050000 +0000" stop="20261030060000 +0000">
-    <title>CelcomDigi STL 2026 GP Penang Highlights Day 1</title>
+    <title>CelcomDigi STL 2026 GP Penang</title>
     <desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Penang, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
   </programme>
@@ -11389,27 +11384,22 @@ The comedy that, twenty-five years later, inspired Billy Wilder's American maste
     <desc>Top flight men's soccer returns in the A-League Men's new season. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch209_ALeagueMen.jpg?w=960%26h=540" />
   </programme>
-  <programme channel="209" start="20261030110000 +0000" stop="20261030123000 +0000">
-    <title>2026 PYCL, Philippines S2 Rd 1 Konjac Zero Phoenix Force vs Cartivo Movers</title>
-    <desc>The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch209_Pickle_Yard_Conference_League.jpg?w=960%26h=540" />
+  <programme channel="209" start="20261030110000 +0000" stop="20261030120000 +0000">
+    <title>CelcomDigi STL 2026 GP Penang</title>
+    <desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Penang, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="209" start="20261030123000 +0000" stop="20261030130000 +0000">
-    <title>2026/27 ALM Mini Match MW 2 Melbourne Victory vs Melbourne City FC</title>
-    <desc>Australia and New Zealand's top clubs battle for A-League Men glory, with star players, fierce rivalries and a season of competitive football culminating in the Finals Series.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch209_ALMMiniMatch.jpg?w=341%26h=192" />
+  <programme channel="209" start="20261030120000 +0000" stop="20261030133000 +0000">
+    <title>CelcomDigi STL 2026 GP Penang Match 11 Group D Perak Bisons vs Kedah Eagles</title>
+    <desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Penang, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="209" start="20261030130000 +0000" stop="20261030140000 +0000">
-    <title>2026 FIA Extreme H World Cup, Qiddiya City</title>
-    <desc>The world's top off-road racing teams compete in the FIA Extreme H World Cup, pushing hydrogen-powered vehicles to the limit across challenging terrain in Qiddiya City, Saudi Arabia.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=341%26h=192" />
-  </programme>
-  <programme channel="209" start="20261030140000 +0000" stop="20261030150000 +0000">
+  <programme channel="209" start="20261030133000 +0000" stop="20261030150000 +0000">
     <title>CelcomDigi STL 2026 GP Penang Match 12 Group B Melaka Titans vs Penang Black Panthers</title>
     <desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Penang, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="209" start="20261030150000 +0000" stop="20261030163000 +0000">
+  <programme channel="209" start="20261030150000 +0000" stop="20261030163500 +0000">
     <title>CelcomDigi STL 2026 GP Perak Match 19 3rd Place ATM Guardians vs Johor Tigris</title>
     <desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Perak, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
@@ -12476,7 +12466,7 @@ The comedy that, twenty-five years later, inspired Billy Wilder's American maste
     <title>THE BIG INTERVIEW</title>
     <episode-num system="xmltv_ns">.9.0</episode-num>
     <desc>Romeo Lavia's performances at the heart of Chelsea's midfield this season suggest he is on the way to fulfilling the immense promise that persuaded Pep Guardiola to sign him for Manchester City, having spotted him at an under-15 youth tournament in Belgium. Lavia then impressed at Southampton but injuries and the burden of expectation have stalled his progress at Chelsea. The Belgian opens up on the challenges he has overcome so far and his hunger to make up for lost time under Xabi Alonso.</desc>
-    <icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341%26h=192" />
+    <icon src="https://poster.starhubgo.com/poster/the_big_interview_2026_27_ep10.jpg?w=960%26h=540" />
   </programme>
   <programme channel="221" start="20261028230000 +0000" stop="20261028233000 +0000">
     <title>PL STORIES</title>
@@ -12581,7 +12571,7 @@ The comedy that, twenty-five years later, inspired Billy Wilder's American maste
     <title>THE BIG INTERVIEW</title>
     <episode-num system="xmltv_ns">.10.0</episode-num>
     <desc>At just 16 years old and 361 old, Rio Ngumoha became Liverpool's youngest ever goalscorer, scoring a 100th minute winner on debut against Newcastle. The records kept on falling in the 2025/26 season as the young winger went from wonderkid to first team regular. The East Londoner reflects on his meteoric rise and the importance of family support along the way.</desc>
-    <icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341%26h=192" />
+    <icon src="https://poster.starhubgo.com/poster/the_big_interview_2026_27_ep11.jpg?w=960%26h=540" />
   </programme>
   <programme channel="221" start="20261029140000 +0000" stop="20261029143000 +0000">
     <title>CLASSIC MATCH</title>
@@ -12621,7 +12611,7 @@ The comedy that, twenty-five years later, inspired Billy Wilder's American maste
     <title>THE BIG INTERVIEW</title>
     <episode-num system="xmltv_ns">.10.0</episode-num>
     <desc>At just 16 years old and 361 old, Rio Ngumoha became Liverpool's youngest ever goalscorer, scoring a 100th minute winner on debut against Newcastle. The records kept on falling in the 2025/26 season as the young winger went from wonderkid to first team regular. The East Londoner reflects on his meteoric rise and the importance of family support along the way.</desc>
-    <icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341%26h=192" />
+    <icon src="https://poster.starhubgo.com/poster/the_big_interview_2026_27_ep11.jpg?w=960%26h=540" />
   </programme>
   <programme channel="221" start="20261029193000 +0000" stop="20261029200000 +0000">
     <title>PL STORIES</title>
@@ -12662,7 +12652,7 @@ The comedy that, twenty-five years later, inspired Billy Wilder's American maste
     <title>THE BIG INTERVIEW</title>
     <episode-num system="xmltv_ns">.10.0</episode-num>
     <desc>At just 16 years old and 361 old, Rio Ngumoha became Liverpool's youngest ever goalscorer, scoring a 100th minute winner on debut against Newcastle. The records kept on falling in the 2025/26 season as the young winger went from wonderkid to first team regular. The East Londoner reflects on his meteoric rise and the importance of family support along the way.</desc>
-    <icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341%26h=192" />
+    <icon src="https://poster.starhubgo.com/poster/the_big_interview_2026_27_ep11.jpg?w=960%26h=540" />
   </programme>
   <programme channel="221" start="20261030013000 +0000" stop="20261030020000 +0000">
     <title>PL STORIES</title>
@@ -12698,7 +12688,7 @@ The comedy that, twenty-five years later, inspired Billy Wilder's American maste
     <title>THE BIG INTERVIEW</title>
     <episode-num system="xmltv_ns">.10.0</episode-num>
     <desc>At just 16 years old and 361 old, Rio Ngumoha became Liverpool's youngest ever goalscorer, scoring a 100th minute winner on debut against Newcastle. The records kept on falling in the 2025/26 season as the young winger went from wonderkid to first team regular. The East Londoner reflects on his meteoric rise and the importance of family support along the way.</desc>
-    <icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341%26h=192" />
+    <icon src="https://poster.starhubgo.com/poster/the_big_interview_2026_27_ep11.jpg?w=960%26h=540" />
   </programme>
   <programme channel="221" start="20261030060000 +0000" stop="20261030063000 +0000">
     <title>NETBUSTERS - MW08</title>
@@ -12733,7 +12723,7 @@ The comedy that, twenty-five years later, inspired Billy Wilder's American maste
     <title>THE BIG INTERVIEW</title>
     <episode-num system="xmltv_ns">.10.0</episode-num>
     <desc>At just 16 years old and 361 old, Rio Ngumoha became Liverpool's youngest ever goalscorer, scoring a 100th minute winner on debut against Newcastle. The records kept on falling in the 2025/26 season as the young winger went from wonderkid to first team regular. The East Londoner reflects on his meteoric rise and the importance of family support along the way.</desc>
-    <icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341%26h=192" />
+    <icon src="https://poster.starhubgo.com/poster/the_big_interview_2026_27_ep11.jpg?w=960%26h=540" />
   </programme>
   <programme channel="221" start="20261030100000 +0000" stop="20261030103000 +0000">
     <title>NETBUSTERS - MW08</title>
@@ -12772,7 +12762,7 @@ The comedy that, twenty-five years later, inspired Billy Wilder's American maste
     <title>THE BIG INTERVIEW</title>
     <episode-num system="xmltv_ns">.10.0</episode-num>
     <desc>At just 16 years old and 361 old, Rio Ngumoha became Liverpool's youngest ever goalscorer, scoring a 100th minute winner on debut against Newcastle. The records kept on falling in the 2025/26 season as the young winger went from wonderkid to first team regular. The East Londoner reflects on his meteoric rise and the importance of family support along the way.</desc>
-    <icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341%26h=192" />
+    <icon src="https://poster.starhubgo.com/poster/the_big_interview_2026_27_ep11.jpg?w=960%26h=540" />
   </programme>
   <programme channel="221" start="20261030150000 +0000" stop="20261030153000 +0000">
     <title>FANTASY SHOW - FRI 30 OCT</title>
@@ -25908,7 +25898,7 @@ determined to help her</desc>
   </programme>
   <programme channel="701" start="20261029013000 +0000" stop="20261029020000 +0000">
     <title>The Road to the Midterms</title>
-    <desc>Sumi Somaskanda and Caitríona Perry travel across the US to find out what's influencing voters ahead of midterm elections with major consequences for President Trump America and the world.</desc>
+    <desc>Sumi Somaskanda and Caitríona Perry travel across the US to find out what's influencing voters ahead of midterm elections with major consequences for President Trump, America and the world.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
   </programme>
   <programme channel="701" start="20261029020000 +0000" stop="20261029023000 +0000">
@@ -26163,7 +26153,7 @@ determined to help her</desc>
   </programme>
   <programme channel="701" start="20261030003000 +0000" stop="20261030010000 +0000">
     <title>The Road to the Midterms</title>
-    <desc>Sumi Somaskanda and Caitríona Perry travel across the US to find out what's influencing voters ahead of midterm elections with major consequences for President Trump America and the world.</desc>
+    <desc>Sumi Somaskanda and Caitríona Perry travel across the US to find out what's influencing voters ahead of midterm elections with major consequences for President Trump, America and the world.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
   </programme>
   <programme channel="701" start="20261030010000 +0000" stop="20261030013000 +0000">
@@ -26173,7 +26163,7 @@ determined to help her</desc>
   </programme>
   <programme channel="701" start="20261030013000 +0000" stop="20261030020000 +0000">
     <title>The Interface</title>
-    <desc>The Interface dives into the stories, trends, apps, gadgets, algorithms and internet obsessions shaping how we live, work, think and connect.</desc>
+    <desc>This Halloween, Thomas Germain and Jessica Maddox go ghost hunting in AI and social media: why chatbots tell the same eerie stories, and why we believe TikTok can read our minds.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
   </programme>
   <programme channel="701" start="20261030020000 +0000" stop="20261030023000 +0000">
@@ -26397,7 +26387,7 @@ determined to help her</desc>
     <icon src="https://poster.starhubgo.com/poster/ch241_Gutfeld.jpg?w=960%26h=540" />
   </programme>
   <programme channel="702" start="20261029030000 +0000" stop="20261029040000 +0000">
-    <title>Fox News @Night</title>
+    <title>FOX News @Night</title>
     <desc>Shannon Bream gives news analysis on the most compelling stories</desc>
     <icon src="https://poster.starhubgo.com/poster/ch241_FOXNewsNight.jpg?w=341%26h=192" />
   </programme>
@@ -26422,27 +26412,27 @@ determined to help her</desc>
     <icon src="https://poster.starhubgo.com/poster/ch241_Gutfeld.jpg?w=960%26h=540" />
   </programme>
   <programme channel="702" start="20261029080000 +0000" stop="20261029090000 +0000">
-    <title>Fox %26 Friends First</title>
-    <desc>FOX %26 Friends First delivers headlines viewers may have missed overnight, along with a preview of the day ahead by covering the latest news in politics, business and entertainment.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch241_FOXFriends.jpg?w=341%26h=192" />
+    <title>The Ingraham Angle</title>
+    <desc>Laura Ingraham discusses the issues our counrty is in turmoil about</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch241_TheIngrahamAngle.jpg?w=341%26h=192" />
   </programme>
   <programme channel="702" start="20261029090000 +0000" stop="20261029100000 +0000">
-    <title>Fox %26 Friends First</title>
+    <title>FOX %26 Friends First</title>
     <desc>FOX %26 Friends First delivers headlines viewers may have missed overnight, along with a preview of the day ahead by covering the latest news in politics, business and entertainment.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch241_FOXFriends.jpg?w=341%26h=192" />
   </programme>
   <programme channel="702" start="20261029100000 +0000" stop="20261029110000 +0000">
-    <title>Fox %26 Friends</title>
+    <title>FOX %26 Friends</title>
     <desc>Ainsley Earhardt, Steve Doocy and Brian Kilmeade highlight the latest in news, weather, sports and entertainment</desc>
     <icon src="https://poster.starhubgo.com/poster/ch241_FOXFriends.jpg?w=341%26h=192" />
   </programme>
   <programme channel="702" start="20261029110000 +0000" stop="20261029120000 +0000">
-    <title>Fox %26 Friends</title>
+    <title>FOX %26 Friends</title>
     <desc>Ainsley Earhardt, Steve Doocy and Brian Kilmeade highlight the latest in news, weather, sports and entertainment</desc>
     <icon src="https://poster.starhubgo.com/poster/ch241_FOXFriends.jpg?w=341%26h=192" />
   </programme>
   <programme channel="702" start="20261029120000 +0000" stop="20261029130000 +0000">
-    <title>Fox %26 Friends</title>
+    <title>FOX %26 Friends</title>
     <desc>Ainsley Earhardt, Steve Doocy and Brian Kilmeade highlight the latest in news, weather, sports and entertainment</desc>
     <icon src="https://poster.starhubgo.com/poster/ch241_FOXFriends.jpg?w=341%26h=192" />
   </programme>
@@ -26517,7 +26507,7 @@ determined to help her</desc>
     <icon src="https://poster.starhubgo.com/poster/ch241_Gutfeld.jpg?w=960%26h=540" />
   </programme>
   <programme channel="702" start="20261030030000 +0000" stop="20261030040000 +0000">
-    <title>Fox News @Night</title>
+    <title>FOX News @Night</title>
     <desc>Shannon Bream gives news analysis on the most compelling stories</desc>
     <icon src="https://poster.starhubgo.com/poster/ch241_FOXNewsNight.jpg?w=341%26h=192" />
   </programme>
@@ -26542,27 +26532,27 @@ determined to help her</desc>
     <icon src="https://poster.starhubgo.com/poster/ch241_Gutfeld.jpg?w=960%26h=540" />
   </programme>
   <programme channel="702" start="20261030080000 +0000" stop="20261030090000 +0000">
-    <title>Fox %26 Friends First</title>
-    <desc>FOX %26 Friends First delivers headlines viewers may have missed overnight, along with a preview of the day ahead by covering the latest news in politics, business and entertainment.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch241_FOXFriends.jpg?w=341%26h=192" />
+    <title>The Ingraham Angle</title>
+    <desc>Laura Ingraham discusses the issues our counrty is in turmoil about</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch241_TheIngrahamAngle.jpg?w=341%26h=192" />
   </programme>
   <programme channel="702" start="20261030090000 +0000" stop="20261030100000 +0000">
-    <title>Fox %26 Friends First</title>
+    <title>FOX %26 Friends First</title>
     <desc>FOX %26 Friends First delivers headlines viewers may have missed overnight, along with a preview of the day ahead by covering the latest news in politics, business and entertainment.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch241_FOXFriends.jpg?w=341%26h=192" />
   </programme>
   <programme channel="702" start="20261030100000 +0000" stop="20261030110000 +0000">
-    <title>Fox %26 Friends</title>
+    <title>FOX %26 Friends</title>
     <desc>Ainsley Earhardt, Steve Doocy and Brian Kilmeade highlight the latest in news, weather, sports and entertainment</desc>
     <icon src="https://poster.starhubgo.com/poster/ch241_FOXFriends.jpg?w=341%26h=192" />
   </programme>
   <programme channel="702" start="20261030110000 +0000" stop="20261030120000 +0000">
-    <title>Fox %26 Friends</title>
+    <title>FOX %26 Friends</title>
     <desc>Ainsley Earhardt, Steve Doocy and Brian Kilmeade highlight the latest in news, weather, sports and entertainment</desc>
     <icon src="https://poster.starhubgo.com/poster/ch241_FOXFriends.jpg?w=341%26h=192" />
   </programme>
   <programme channel="702" start="20261030120000 +0000" stop="20261030130000 +0000">
-    <title>Fox %26 Friends</title>
+    <title>FOX %26 Friends</title>
     <desc>Ainsley Earhardt, Steve Doocy and Brian Kilmeade highlight the latest in news, weather, sports and entertainment</desc>
     <icon src="https://poster.starhubgo.com/poster/ch241_FOXFriends.jpg?w=341%26h=192" />
   </programme>
@@ -35775,7 +35765,7 @@ determined to help her</desc>
     <icon src="https://poster.starhubgo.com/poster/ch828_actors_on_the_tour.jpg?w=341%26h=192" />
   </programme>
   <programme channel="828" start="20261030150000 +0000" stop="20261030160000 +0000">
-    <title>Discover New Taiwan Step By Step (301026)</title>
+    <title>Discover New Taiwan Step By Step</title>
     <desc>The creative production team goes around Taiwan in search of inspiring stories in the country. Get to know more unique individuals and discover the true spirit of Taiwan.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch828_discover_new_taiwan_stepbystep.jpg?w=341%26h=192" />
   </programme>
