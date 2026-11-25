@@ -991,10 +991,16 @@
     <desc>Marco Polo is about to return home to Venice when he discovers that his friend Shi La is not an orphan! To find her long-lost mother, Marco, Shi La, and Luigi set out on an adventurous journey across new countries!</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
-  <programme channel="102" start="20261126060000 +0000" stop="20261126063000 +0000">
+  <programme channel="102" start="20261126060000 +0000" stop="20261126061500 +0000">
     <title>Cloudy With a Chance of Meatballs</title>
     <episode-num system="xmltv_ns">0.7.0</episode-num>
     <desc>In this prequel to the 2009 film, inventor boy Flint Lockwood and reporter girl Sam Sparks as best friends during high school!</desc>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341%26h=192" />
+  </programme>
+  <programme channel="102" start="20261126061500 +0000" stop="20261126063000 +0000">
+    <title>The Adventures Of Luggy</title>
+    <episode-num system="xmltv_ns">.2.0</episode-num>
+    <desc>Despite DJ Blaze's efforts to halt the Compactor from crushing Luggy to bits, their peace was only temporary. With the help of his newfound friend BONNIE, DJ Blaze scrambles to save Luggy. They find a way back home to Zachary, but mysterious smoke rises out of the blue just as they are about to leave NERD. At the park, Zippy struggles to care for Pee Wee despite Mdm Woofalot's nudges. A helpless Zachary tries his best to comfort a distressed Pee Wee.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="102" start="20261126063000 +0000" stop="20261126064500 +0000">
@@ -1310,7 +1316,7 @@
   <programme channel="103" start="20261125150000 +0000" stop="20261125160000 +0000">
     <title>Blossom</title>
     <episode-num system="xmltv_ns">.1.0</episode-num>
-    <desc>Abandoned as a child, Zhuang Han Yan grows up in the southern countryside before returning to her family in the capital. She catches the eye of Fu Yun Xi, a deputy minister with a mysterious illness, who sees her as an ideal wife. As they navigate their relationship, they fall in love, and Han Yan reconnects with her mother while finding warmth and belonging with the Fu family.</desc>
+    <desc>Dou Zhao's father intends to take her mother's friend Wang Yingxue as a concubine. Devastated by his betrayal and her worsening illness, Dou Zhao's mother takes her own life. Young Dou Zhao engineers a confrontation that secures compensation and control of her inheritance. She moves to a country estate with her grandmother, while young Song Mo seeks refuge with his uncle's army.</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="103" start="20261125160000 +0000" stop="20261125170000 +0000">
@@ -1530,7 +1536,7 @@
   <programme channel="103" start="20261126143000 +0000" stop="20261126150000 +0000">
     <title>Focus</title>
     <episode-num system="xmltv_ns">.34.0</episode-num>
-    <desc>Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+    <desc>Can the Shen Wave and Blue-White alliance reshape Taiwan’s local elections and set the stage for the 2028 presidential race? The US, China and Russia agree that nuclear war must never be fought. But can their peace declaration ease tensions and reduce nuclear risks? Does the Shenzhen summit a modern-day Yalta, where major powers shape the world order?</desc>
     <icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341%26h=192" />
   </programme>
   <programme channel="103" start="20261126150000 +0000" stop="20261126160000 +0000">
@@ -7597,7 +7603,7 @@
     <icon src="https://poster.starhubgo.com/poster/ch656_Annamalai_Kudumbam.jpg?w=960%26h=540" />
   </programme>
   <programme channel="138" start="20261126060000 +0000" stop="20261126090000 +0000">
-    <title>Kamali From Nadukaveri</title>
+    <title>Kamali From Nadukaveri (261126)</title>
     <desc>This film tells the story of Kamali, a girl from Nadukkaveri. It shows how education empowers women and helps Kamali become a symbol of her village.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch656_KAMALI_FROM_NADUKAVERI.jpg?w=341%26h=192" />
   </programme>
@@ -10829,10 +10835,20 @@
     <desc>The Delray Beach Open is a professional tennis tournament held at the Delray Beach Tennis Center in Florida on outdoor hard courts. It was founded in 1993 in Coral Springs before moving to Delray Beach in 1999. It has become a premier event, attracting over 60,000 spectators annually.</desc>
     <icon src="https://poster.starhubgo.com/poster/ch201_ATPTour2026DelrayBeachOpen250.jpg?w=341%26h=192" />
   </programme>
-  <programme channel="201" start="20261125233000 +0000" stop="20261126043000 +0000">
-    <title>HSBC BWF World Tour 2026</title>
-    <desc>The Hong Kong Open is an annual badminton tournament held in Hong Kong, China. Established in 1982, it is held at Hong Kong Coliseum and has a prize pool of USD $500,000.</desc>
-    <icon src="https://poster.starhubgo.com/poster/ch201_BWF_2026_Hong_Kong_Open.jpg?w=341%26h=192" />
+  <programme channel="201" start="20261125233000 +0000" stop="20261126010000 +0000">
+    <title>Nitto ATP Finals 2026</title>
+    <desc>The ATP Finals is the season-ending championship of the ATP Tour. It is the most significant tennis event in the men's annual calendar after the four majors. The event features the world's best eight qualified singles players and doubles teams.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch201_Nitto_ATP_Finals_2026.jpg?w=341%26h=192" />
+  </programme>
+  <programme channel="201" start="20261126010000 +0000" stop="20261126023000 +0000">
+    <title>Nitto ATP Finals 2026</title>
+    <desc>The ATP Finals is the season-ending championship of the ATP Tour. It is the most significant tennis event in the men's annual calendar after the four majors. The event features the world's best eight qualified singles players and doubles teams.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch201_Nitto_ATP_Finals_2026.jpg?w=341%26h=192" />
+  </programme>
+  <programme channel="201" start="20261126023000 +0000" stop="20261126043000 +0000">
+    <title>Nitto ATP Finals 2026</title>
+    <desc>The ATP Finals is the season-ending championship of the ATP Tour. It is the most significant tennis event in the men's annual calendar after the four majors. The event features the world's best eight qualified singles players and doubles teams.</desc>
+    <icon src="https://poster.starhubgo.com/poster/ch201_Nitto_ATP_Finals_2026.jpg?w=341%26h=192" />
   </programme>
   <programme channel="201" start="20261126043000 +0000" stop="20261126090000 +0000">
     <title>Davis Cup by Generali Finals 2026 QF 2: Italy vs Korea Republic</title>
@@ -11700,7 +11716,7 @@
     <icon src="https://poster.starhubgo.com/poster/ch211_this_is_paris_2027.jpg?w=341%26h=192" />
   </programme>
   <programme channel="211" start="20261125195500 +0000" stop="20261125220000 +0000">
-    <title>Sporting vs Man United - MD5 UEFA Champions League 2026/27</title>
+    <title>Sporting vs Man United - MD5 UEFA Champions League 2026/27 (261126)</title>
     <desc>The UEFA Champions League is Europe's premier annual club football tournament, where the continent's elite teams compete to be crowned the ultimate champions of European football.</desc>
     <icon src="https://poster.starhubgo.com/poster/MD5_Sporting_CP_v_Manchester_Utd.jpg?w=341%26h=192" />
   </programme>
@@ -12090,7 +12106,7 @@
     <icon src="https://poster.starhubgo.com/poster/MD5_Slavia_Prague_v_Villarreal.jpg?w=341%26h=192" />
   </programme>
   <programme channel="214" start="20261125195500 +0000" stop="20261125220000 +0000">
-    <title>Club Brugge vs Liverpool - MD5 UEFA Champions League 2026/27</title>
+    <title>Club Brugge vs Liverpool - MD5 UEFA Champions League 2026/27 (261126)</title>
     <desc>The UEFA Champions League is Europe's premier annual club football tournament, where the continent's elite teams compete to be crowned the ultimate champions of European football.</desc>
     <icon src="https://poster.starhubgo.com/poster/MD5_Club_Brugge_v_Liverpool.jpg?w=960%26h=540" />
   </programme>
